@@ -79,9 +79,9 @@
         "_id": "686c1e6a611a5751870c56f4"
       }
     ],
-    "email": "marketa@sdamp.cz",
-    "nurse": "Markéta",
-    "phone": "69"
+    "email": null,
+    "nurse": null,
+    "phone": null
   },
   {
     "town": "hlinsko",
@@ -93,17 +93,19 @@
         "a_o": "1300",
         "a_c": "1700",
         "note": "",
-        "_id": "68710e79025b84dddc118982"
+        "_id": "68710fced8c44dc3791ee255"
       },
       "tue": {
+        "m_o": "1521",
+        "a_c": "1821",
         "note": "",
-        "_id": "68710e79025b84dddc118983"
+        "_id": "68710fced8c44dc3791ee256"
       },
       "wed": {
         "m_o": "0405",
         "a_c": "1705",
         "note": "",
-        "_id": "68710e79025b84dddc118984"
+        "_id": "68710fced8c44dc3791ee257"
       },
       "thu": {
         "m_o": "1000",
@@ -111,21 +113,21 @@
         "a_o": "1300",
         "a_c": "1700",
         "note": "",
-        "_id": "68710e79025b84dddc118985"
+        "_id": "68710fced8c44dc3791ee258"
       },
       "fri": {
         "m_o": "0800",
         "a_c": "1200",
         "note": "obed",
-        "_id": "68710e79025b84dddc118986"
+        "_id": "68710fced8c44dc3791ee259"
       },
       "sat": {
         "note": "",
-        "_id": "68710e79025b84dddc118987"
+        "_id": "68710fced8c44dc3791ee25a"
       },
       "sun": {
         "note": "",
-        "_id": "68710e79025b84dddc118988"
+        "_id": "68710fced8c44dc3791ee25b"
       }
     },
     "irregular_changes": [
@@ -168,7 +170,10 @@
         "note": "fghj",
         "_id": "6864477f8ef374695178a525"
       }
-    ]
+    ],
+    "email": null,
+    "phone": null,
+    "nurse": null
   },
   {
     "town": "chotebor",
@@ -179,37 +184,40 @@
         "m_c": "1200",
         "a_o": "1300",
         "a_c": "1530",
-        "_id": "68710e79025b84dddc118992"
+        "_id": "68710fced8c44dc3791ee265"
       },
       "tue": {
         "m_o": "0800",
         "m_c": "1200",
         "a_o": "1300",
         "a_c": "1600",
-        "_id": "68710e79025b84dddc118993"
+        "_id": "68710fced8c44dc3791ee266"
       },
       "wed": {
         "m_o": "0900",
         "m_c": "1200",
         "a_o": "1230",
         "a_c": "1500",
-        "_id": "68710e79025b84dddc118994"
+        "_id": "68710fced8c44dc3791ee267"
       },
       "thu": {
         "m_o": "0800",
         "m_c": "",
         "a_o": "",
         "a_c": "1200",
-        "_id": "68710e79025b84dddc118995"
+        "_id": "68710fced8c44dc3791ee268"
       },
       "fri": {
         "m_o": "0800",
         "m_c": "",
         "a_o": "",
         "a_c": "1100",
-        "_id": "68710e79025b84dddc118996"
+        "_id": "68710fced8c44dc3791ee269"
       }
     },
-    "irregular_changes": []
+    "irregular_changes": [],
+    "email": null,
+    "phone": null,
+    "nurse": null
   }
 ]
