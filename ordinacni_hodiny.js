@@ -37,11 +37,7 @@ async function loadData() {
     for (const [day, values] of Object.entries(matchedRecord.regular_hours || {})) {
       const hours = `${values?.m_o || ""}–${values?.m_c || ""} / ${values?.a_o || ""}–${values?.a_c || ""}`;
       const note = values?.note ? ` (${values.note})` : "";
-      const rowColor = index % 2 === 0 ? bgColor : "white";
-      index++;
-      regularHoursHtml += `<div style="padding: 8px; background-color: ${rowColor}; border-bottom: 1px solid #ddd;">
-      <strong>${day}:</strong> ${hours}${note}</div>`;
-      
+      regularHoursHtml += `<li><strong>${day}:</strong> ${hours}${note}</li>`;
     }
 
     const today = new Date();
