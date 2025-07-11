@@ -1,3 +1,12 @@
+const colors = {
+  chotebor_p: "#009e7cb8",
+  chotebor_m: "#d75d9eba",
+  hlinsko: "#01bbffba",
+  kolin: "#ff6900",
+  malec: "#ffcd57",
+};
+
+
 async function loadData() {
   const params = new URLSearchParams(window.location.search);
   const townParam = params.get("town");
@@ -26,7 +35,8 @@ async function loadData() {
     for (const [day, values] of Object.entries(matchedRecord.regular_hours || {})) {
       const hours = `${values?.m_o || ""}–${values?.m_c || ""} / ${values?.a_o || ""}–${values?.a_c || ""}`;
       const note = values?.note ? ` (${values.note})` : "";
-      regularHoursHtml += `<li><strong>${day}:</strong> ${hours}${note}</li>`;
+      regularHoursHtml += `<div style="padding: 8px; background-color: ${rowColor}; border-bottom: 1px solid #ddd;">
+      <strong>${day}:</strong> ${hours}${note}</div>`;
     }
 
     const today = new Date();
@@ -43,9 +53,6 @@ async function loadData() {
 
     container.innerHTML = `
       <h2>${matchedRecord.town} – ${matchedRecord.office}</h2>
-      <p><strong>Nurse:</strong> ${matchedRecord.nurse || "-"}</p>
-      <p><strong>Phone:</strong> ${matchedRecord.phone || "-"}</p>
-      <p><strong>Email:</strong> ${matchedRecord.email || "-"}</p>
       <h3>Regular Hours</h3>
       <ul>${regularHoursHtml}</ul>
       ${irregularToday.length > 0 ? `<h3>Today's Changes</h3><ul>${irregularToday.join("")}</ul>` : ""}
