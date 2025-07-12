@@ -9,7 +9,7 @@
         "a_o": "1300",
         "a_c": "1630",
         "note": "",
-        "_id": "6872ad453e4aadf2409de0ab"
+        "_id": "6872ad8480bd4fd5130db452"
       },
       "tue": {
         "m_o": "0800",
@@ -17,7 +17,7 @@
         "a_o": "1330",
         "a_c": "1700",
         "note": "",
-        "_id": "6872ad453e4aadf2409de0ac"
+        "_id": "6872ad8480bd4fd5130db453"
       },
       "wed": {
         "m_o": "0700",
@@ -25,7 +25,7 @@
         "a_o": "1230",
         "a_c": "1600",
         "note": "",
-        "_id": "6872ad453e4aadf2409de0ad"
+        "_id": "6872ad8480bd4fd5130db454"
       },
       "thu": {
         "m_o": "0800",
@@ -33,7 +33,7 @@
         "a_o": "1300",
         "a_c": "1500",
         "note": "",
-        "_id": "6872ad453e4aadf2409de0ae"
+        "_id": "6872ad8480bd4fd5130db455"
       },
       "fri": {
         "m_o": "0800",
@@ -41,18 +41,25 @@
         "a_o": "1200",
         "a_c": "1400",
         "note": "",
-        "_id": "6872ad453e4aadf2409de0af"
+        "_id": "6872ad8480bd4fd5130db456"
       },
       "sat": {
         "note": "",
-        "_id": "6872ad453e4aadf2409de0b0"
+        "_id": "6872ad8480bd4fd5130db457"
       },
       "sun": {
         "note": "",
-        "_id": "6872ad453e4aadf2409de0b1"
+        "_id": "6872ad8480bd4fd5130db458"
       }
     },
-    "irregular_changes": [],
+    "irregular_changes": [
+      {
+        "date": "03072025",
+        "closed": true,
+        "note": "lol",
+        "_id": "6866cea3d4b9162c52d1d72c"
+      }
+    ],
     "email": null,
     "nurse": null,
     "phone": null
@@ -104,7 +111,41 @@
         "_id": "6872acc43e4aadf2409de08c"
       }
     },
-    "irregular_changes": [],
+    "irregular_changes": [
+      {
+        "date": "02072025",
+        "closed": false,
+        "day": {
+          "m_o": "1749",
+          "a_c": "2249",
+          "_id": "6863f58556199c62b7d72743"
+        },
+        "note": "lol",
+        "_id": "6863f58556199c62b7d72742"
+      },
+      {
+        "date": "04072025",
+        "closed": false,
+        "day": {
+          "m_o": "0004",
+          "a_c": "2304",
+          "_id": "68643f468ef374695178a360"
+        },
+        "note": "uz delame",
+        "_id": "68643f468ef374695178a35f"
+      },
+      {
+        "date": "05072025",
+        "closed": false,
+        "day": {
+          "m_o": "1714",
+          "a_c": "2320",
+          "_id": "6863fb6956199c62b7d72934"
+        },
+        "note": "den",
+        "_id": "6863fb6956199c62b7d72933"
+      }
+    ],
     "email": null,
     "phone": null,
     "nurse": null
