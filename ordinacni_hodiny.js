@@ -6,6 +6,15 @@ const colors = {
   malec: "#ffcd57",
 };
 
+const day_dict = {
+  "mon" : "Pondělí",
+  "tue" : "Úterý",
+  "wed" : "Středa",
+  "thu" : "Čtvrtek",
+  "fri" : "Pátek",
+  "sat" : "Sobota",
+  "sun" : "Neděle",
+}
 
 async function loadData() {
   const params = new URLSearchParams(window.location.search);
@@ -14,7 +23,6 @@ async function loadData() {
   const container = document.getElementById("content");
 
   if (!townParam || !officeParam) {
-    container.innerHTML = "<p>❌ Missing URL parameters (e.g., ?town=chotebor_m&office=sportovko)</p>";
     container.innerHTML = "<p>❌ Missing URL parameters (e.g., ?town=chotebor_m&office=sportovko)</p>";
     return;
   }
@@ -34,40 +42,75 @@ async function loadData() {
 
     const bgColor = colors[townParam.toLowerCase()] || "white";
     let index = 0;
-    let regularHoursHtml = "";
+    let currHtml = "<div>";
+    currHtml += `<h3>Stálý rozvrh:</h3>`;
+
     for (const [day, values] of Object.entries(matchedRecord.regular_hours || {})) {
-      const hours = `${values?.m_o || ""}–${values?.m_c || ""} / ${values?.a_o || ""}–${values?.a_c || ""}`;
+      if (day === "sun") continue;
+      if (day === "sat" && (values.closed || !values.m_o)) continue;
+
+      const dayName = day_dict[day] || day;
       const note = values?.note ? ` (${values.note})` : "";
-      regularHoursHtml += `<li><strong>${day}:</strong> ${hours}${note}</li>`;
       const rowColor = index % 2 === 0 ? bgColor : "white";
       index++;
-      regularHoursHtml += `<div style="padding: 8px; background-color: ${rowColor}; border-bottom: 1px solid #ddd;">
-      <strong>${day}:</strong> ${hours}${note}</div>`;
-      
+      currHtml += `<div style="display:flex; justify-content: space-between; padding: 8px; background-color: ${rowColor}; border-bottom: 1px solid #ddd;">`;
+      currHtml += `<span>${dayName}:</span>`;
+      currHtml += `<span>${formatHours(values)}`;
+      if (note) currHtml += ` (${note})</span>`;
+      currHtml += `</div>`;
     }
+    currHtml += `</div>`;
+    currHtml += `<h3>Nepravidelné změny:</h3><ul>`;
+    currHtml += `<div>`;
 
-    const today = new Date();
-    const todayStr = today.toLocaleDateString("cs-CZ").split(".").reverse().join("");
-    const irregularToday = matchedRecord.irregular_changes
-      ?.filter(change => change.date === todayStr)
-      .map(change => {
-        if (change.closed) {
-          return `<li><strong>Closed today</strong> – ${change.note || ""}</li>`;
-        }
-        const hours = `${change.day?.m_o || ""}–${change.day?.m_c || ""} / ${change.day?.a_o || ""}–${change.day?.a_c || ""}`;
-        return `<li><strong>Special hours today:</strong> ${hours} (${change.note || ""})</li>`;
-      }) || [];
+    for (const change of matchedRecord.irregular_changes || []) {
+      console.log(change);
+      currHtml += `<div style="display:flex; justify-content: space-between; padding: 8px; border-bottom: 1px solid #ddd;">`;
+      currHtml += `<span>${formatDate(change.date)}:</span>`;
+      if (change.closed) {
+        currHtml += `<span>Zavřeno`;
+      } else {
+        currHtml += `<span>${formatHours(change.day)}`;
+      }
+      if (change.note) currHtml += ` (${change.note})</span>`;
+      currHtml += `</div>`;
+    }
+    currHtml += `</div>`;
 
-    container.innerHTML = `
-      <h2>${matchedRecord.town} – ${matchedRecord.office}</h2>
-      <h3>Regular Hours</h3>
-      <ul>${regularHoursHtml}</ul>
-      ${irregularToday.length > 0 ? `<h3>Today's Changes</h3><ul>${irregularToday.join("")}</ul>` : ""}
-    `;
+    container.innerHTML = currHtml;
   } catch (error) {
     container.innerHTML = "<p>❌ Error loading data.</p>";
     console.error(error);
   }
+}
+
+function formatHours(day) {
+  if (!day.m_o) return "Zavřeno";
+  let ret = [];
+  if (day.m_o && day.m_o.length === 4) {
+    ret.push(day.m_o.slice(0,2) + ":" + day.m_o.slice(2,4));
+  }
+  if (day.m_c && day.m_c.length === 4) {
+    ret.push(" - ");
+    ret.push(day.m_c.slice(0,2) + ":" + day.m_c.slice(2,4));
+  }
+  if (day.a_o && day.a_o.length === 4) {
+    ret.push(";\n");
+    ret.push(day.a_o.slice(0,2) + ":" + day.a_o.slice(2,4));
+  }
+  if (day.a_c && day.a_c.length === 4) {
+    ret.push(" - ");
+    ret.push(day.a_c.slice(0,2) + ":" + day.a_c.slice(2,4));
+  }
+  return ret.length ? ret.join('') : "";
+}
+
+function formatDate(dateStr) {
+  if (dateStr.length !== 8) return dateStr;
+  const year = dateStr.slice(4, 8);
+  const month = dateStr.slice(2, 4);
+  const day = dateStr.slice(0, 2);
+  return `${day}.${month}.${year}`;
 }
 
 window.onload = loadData;
