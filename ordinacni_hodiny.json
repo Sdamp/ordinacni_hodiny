@@ -9,7 +9,7 @@
         "a_o": "1300",
         "a_c": "1630",
         "note": "",
-        "_id": "6872579a16b1542bb8d1b81d"
+        "_id": "6872acc13e4aadf2409de071"
       },
       "tue": {
         "m_o": "0800",
@@ -17,7 +17,7 @@
         "a_o": "1330",
         "a_c": "1700",
         "note": "",
-        "_id": "6872579a16b1542bb8d1b81e"
+        "_id": "6872acc13e4aadf2409de072"
       },
       "wed": {
         "m_o": "0700",
@@ -25,7 +25,7 @@
         "a_o": "1230",
         "a_c": "1600",
         "note": "",
-        "_id": "6872579a16b1542bb8d1b81f"
+        "_id": "6872acc13e4aadf2409de073"
       },
       "thu": {
         "m_o": "0800",
@@ -33,7 +33,7 @@
         "a_o": "1300",
         "a_c": "1500",
         "note": "",
-        "_id": "6872579a16b1542bb8d1b820"
+        "_id": "6872acc13e4aadf2409de074"
       },
       "fri": {
         "m_o": "0800",
@@ -41,42 +41,18 @@
         "a_o": "1200",
         "a_c": "1400",
         "note": "",
-        "_id": "6872579a16b1542bb8d1b821"
+        "_id": "6872acc13e4aadf2409de075"
       },
       "sat": {
         "note": "",
-        "_id": "6872579a16b1542bb8d1b822"
+        "_id": "6872acc13e4aadf2409de076"
       },
       "sun": {
         "note": "",
-        "_id": "6872579a16b1542bb8d1b823"
+        "_id": "6872acc13e4aadf2409de077"
       }
     },
-    "irregular_changes": [
-      {
-        "date": "03072025",
-        "closed": true,
-        "note": "lol",
-        "_id": "6866cea3d4b9162c52d1d72c"
-      },
-      {
-        "date": "18072025",
-        "closed": true,
-        "note": "bvnbcvn",
-        "_id": "686c1e12611a5751870c56e8"
-      },
-      {
-        "date": "19072025",
-        "closed": false,
-        "day": {
-          "m_o": "2121",
-          "a_c": "2321",
-          "_id": "686c1e6a611a5751870c56f5"
-        },
-        "note": "bvn",
-        "_id": "686c1e6a611a5751870c56f4"
-      }
-    ],
+    "irregular_changes": [],
     "email": null,
     "nurse": null,
     "phone": null
@@ -128,47 +104,7 @@
         "_id": "687257a116b1542bb8d1b840"
       }
     },
-    "irregular_changes": [
-      {
-        "date": "02072025",
-        "closed": false,
-        "day": {
-          "m_o": "1749",
-          "a_c": "2249",
-          "_id": "6863f58556199c62b7d72743"
-        },
-        "note": "lol",
-        "_id": "6863f58556199c62b7d72742"
-      },
-      {
-        "date": "04072025",
-        "closed": false,
-        "day": {
-          "m_o": "0004",
-          "a_c": "2304",
-          "_id": "68643f468ef374695178a360"
-        },
-        "note": "uz delame",
-        "_id": "68643f468ef374695178a35f"
-      },
-      {
-        "date": "05072025",
-        "closed": false,
-        "day": {
-          "m_o": "1714",
-          "a_c": "2320",
-          "_id": "6863fb6956199c62b7d72934"
-        },
-        "note": "den",
-        "_id": "6863fb6956199c62b7d72933"
-      },
-      {
-        "date": "13072025",
-        "closed": true,
-        "note": "fghj",
-        "_id": "6864477f8ef374695178a525"
-      }
-    ],
+    "irregular_changes": [],
     "email": null,
     "phone": null,
     "nurse": null
