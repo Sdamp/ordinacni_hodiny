@@ -34,8 +34,6 @@ async function loadData() {
 
     const bgColor = colors[townParam.toLowerCase()] || "white";
     let index = 0;
-    const bgColor = colors[townParam.toLowerCase()] || "white";
-    let index = 0;
     let regularHoursHtml = "";
     for (const [day, values] of Object.entries(matchedRecord.regular_hours || {})) {
       const hours = `${values?.m_o || ""}–${values?.m_c || ""} / ${values?.a_o || ""}–${values?.a_c || ""}`;
