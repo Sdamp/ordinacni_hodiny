@@ -63,7 +63,7 @@ async function loadData() {
       if (day === "sat" && (values.closed || !values.m_o)) continue;
 
       const dayName = day_dict[day] || day;
-      const note = values?.note ? ` (${values.note})` : "";
+      const note = values?.note ? ` <span style="font-weight: 500;">(${values.note})</span>` : "";
       const rowColor = index % 2 === 0 ? bgColor : "#ffffff";
       index++;
 
@@ -75,9 +75,20 @@ async function loadData() {
           border-radius: 6px;
           margin-bottom: 6px;
           box-shadow: inset 0 0 0 1px #ddd;
+          align-items: center;
         ">
           <span style="flex-shrink: 0; width: 100px; font-weight: 600;">${dayName}:</span>
-          <span style="flex-grow: 1; margin-left: 12px; text-align: right; word-break: break-word;">${formatHours(values)}${note}</span>
+          <span style="
+            flex-grow: 1; 
+            margin-left: 12px; 
+            text-align: right; 
+            word-wrap: break-word; 
+            white-space: normal; 
+            max-width: calc(100% - 110px);
+            display: inline-block;
+          ">
+            ${formatHours(values)}${note}
+          </span>
         </div>`;
     }
 
@@ -86,6 +97,7 @@ async function loadData() {
       currHtml += `<h3 style="margin-top: 24px; font-size: 20px; border-bottom: 2px solid #ccc; padding-bottom: 4px;">Nepravidelné změny</h3>`;
       for (const change of futureChanges) {
         const isClosed = change.closed;
+        const note = change.note ? ` <span style="font-weight: 500;">(${change.note})</span>` : "";
 
         currHtml += `
           <div style="
@@ -95,10 +107,19 @@ async function loadData() {
             border-left: 4px solid ${isClosed ? "#ff4d4f" : "#4caf50"};
             border-radius: 6px;
             margin-bottom: 6px;
+            align-items: center;
           ">
             <span style="flex-shrink: 0; width: 100px; font-weight: 600;">${formatDate(change.date)}:</span>
-            <span style="flex-grow: 1; margin-left: 12px; text-align: right; word-break: break-word;">
-              ${isClosed ? "Zavřeno" : formatHours(change.day)}${change.note ? ` (${change.note})` : ""}
+            <span style="
+              flex-grow: 1; 
+              margin-left: 12px; 
+              text-align: right; 
+              word-wrap: break-word; 
+              white-space: normal; 
+              max-width: calc(100% - 110px);
+              display: inline-block;
+            ">
+              ${isClosed ? "Zavřeno" : formatHours(change.day)}${change.note ? ` ${note}` : ""}
             </span>
           </div>`;
       }
