@@ -15,6 +15,7 @@ async function loadData() {
 
   if (!townParam || !officeParam) {
     container.innerHTML = "<p>❌ Missing URL parameters (e.g., ?town=chotebor_m&office=sportovko)</p>";
+    container.innerHTML = "<p>❌ Missing URL parameters (e.g., ?town=chotebor_m&office=sportovko)</p>";
     return;
   }
 
@@ -33,11 +34,18 @@ async function loadData() {
 
     const bgColor = colors[townParam.toLowerCase()] || "white";
     let index = 0;
+    const bgColor = colors[townParam.toLowerCase()] || "white";
+    let index = 0;
     let regularHoursHtml = "";
     for (const [day, values] of Object.entries(matchedRecord.regular_hours || {})) {
       const hours = `${values?.m_o || ""}–${values?.m_c || ""} / ${values?.a_o || ""}–${values?.a_c || ""}`;
       const note = values?.note ? ` (${values.note})` : "";
       regularHoursHtml += `<li><strong>${day}:</strong> ${hours}${note}</li>`;
+      const rowColor = index % 2 === 0 ? bgColor : "white";
+      index++;
+      regularHoursHtml += `<div style="padding: 8px; background-color: ${rowColor}; border-bottom: 1px solid #ddd;">
+      <strong>${day}:</strong> ${hours}${note}</div>`;
+      
     }
 
     const today = new Date();
