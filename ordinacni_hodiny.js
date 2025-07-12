@@ -56,8 +56,6 @@ async function loadData() {
       ">
     `;
 
-    currHtml += `<h3 style="margin-top: 0; font-size: 20px; border-bottom: 2px solid #ccc; padding-bottom: 4px;">Stálý rozvrh</h3>`;
-
     for (const [day, values] of Object.entries(matchedRecord.regular_hours || {})) {
       if (day === "sun") continue;
       if (day === "sat" && (values.closed || !values.m_o)) continue;
@@ -94,7 +92,7 @@ async function loadData() {
 
     const futureChanges = (matchedRecord.irregular_changes || []).filter(change => isFutureDate(change.date));
     if (futureChanges.length > 0) {
-      currHtml += `<h3 style="margin-top: 24px; font-size: 20px; border-bottom: 2px solid #ccc; padding-bottom: 4px;">Nepravidelné změny</h3>`;
+      currHtml += `<h3 style="margin-top: 24px; font-size: 20px; border-bottom: 2px solid #ccc; padding-bottom: 4px;">Nepravidelné změny⚠️</h3>`;
       for (const change of futureChanges) {
         const isClosed = change.closed;
         const note = change.note ? ` <span style="font-weight: 500;">(${change.note})</span>` : "";
