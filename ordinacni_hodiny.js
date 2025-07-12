@@ -79,36 +79,34 @@ async function loadData() {
           margin-bottom: 6px;
           box-shadow: inset 0 0 0 1px #ddd;
         ">
-          <span style="font-weight: 500;">${dayName}:</span>
+          <span>${dayName}:</span>
           <span>${formatHours(values)}${note}</span>
         </div>`;
     }
 
-    currHtml += `<h3 style="margin-top: 24px; font-size: 20px; border-bottom: 2px solid #ccc; padding-bottom: 4px;">Nepravidelné změny</h3>`;
+    const futureChanges = (matchedRecord.irregular_changes || []).filter(change => isFutureDate(change.date));
+    if (futureChanges.length > 0) {
+      currHtml += `<h3 style="margin-top: 24px; font-size: 20px; border-bottom: 2px solid #ccc; padding-bottom: 4px;">Nepravidelné změny</h3>`;
+      for (const change of futureChanges) {
+        const isClosed = change.closed;
 
-    for (const change of matchedRecord.irregular_changes || []) {
-      if (!isFutureDate(change.date)) continue;
-      const isClosed = change.closed;
-
-      currHtml += `
-        <div style="
-          display: flex;
-          justify-content: space-between;
-          align-items: center;
-          padding: 10px 14px;
-          background-color: ${isClosed ? "#ffecec" : "#e6f7e6"};
-          border-left: 4px solid ${isClosed ? "#ff4d4f" : "#4caf50"};
-          border-radius: 6px;
-          margin-bottom: 6px;
-          font-weight: 500;
-        ">
-          <span>${formatDate(change.date)}:</span>
-          <span>${isClosed ? "Zavřeno" : formatHours(change.day)}${change.note ? ` (${change.note})` : ""}</span>
-        </div>`;
+        currHtml += `
+          <div style="
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            padding: 10px 14px;
+            background-color: ${isClosed ? "#ffecec" : "#e6f7e6"};
+            border-left: 4px solid ${isClosed ? "#ff4d4f" : "#4caf50"};
+            border-radius: 6px;
+            margin-bottom: 6px;
+          ">
+            <span>${formatDate(change.date)}:</span>
+            <span>${isClosed ? "Zavřeno" : formatHours(change.day)}${change.note ? ` (${change.note})` : ""}</span>
+          </div>`;
+      }
     }
-
-    currHtml += `</div>`; // wrapper konec
-
+    currHtml += `</div>`;
     container.innerHTML = currHtml;
   } catch (error) {
     container.innerHTML = `<p style="color: red;">❌ Chyba při načítání dat.</p>`;
