@@ -119,7 +119,7 @@
         "a_o": "1300",
         "a_c": "1530",
         "note": "",
-        "_id": "6872a1f9ac2c082361708d96"
+        "_id": "6872acc83e4aadf2409de097"
       },
       "tue": {
         "m_o": "0800",
@@ -127,39 +127,35 @@
         "a_o": "1300",
         "a_c": "1600",
         "note": "",
-        "_id": "6872a1f9ac2c082361708d97"
+        "_id": "6872acc83e4aadf2409de098"
       },
       "wed": {
         "m_o": "0900",
         "m_c": "1200",
         "a_o": "1230",
         "a_c": "1500",
-        "note": "do 9 akutní případy, od 10 objednaní; 2x měsíčně bez lékaře",
-        "_id": "6872a1f9ac2c082361708d98"
+        "note": "",
+        "_id": "6872acc83e4aadf2409de099"
       },
       "thu": {
         "m_o": "0800",
         "a_c": "1200",
         "note": "",
-        "_id": "6872a1f9ac2c082361708d99"
+        "_id": "6872acc83e4aadf2409de09a"
       },
       "fri": {
         "m_o": "0800",
         "a_c": "1100",
         "note": "",
-        "_id": "6872a1f9ac2c082361708d9a"
+        "_id": "6872acc83e4aadf2409de09b"
       },
       "sat": {
-        "m_o": "2041",
-        "m_c": "2141",
-        "a_o": "2145",
-        "a_c": "2341",
-        "note": "makame i v sobotu",
-        "_id": "6872a1f9ac2c082361708d9b"
+        "note": "",
+        "_id": "6872acc83e4aadf2409de09c"
       },
       "sun": {
         "note": "",
-        "_id": "6872a1f9ac2c082361708d9c"
+        "_id": "6872acc83e4aadf2409de09d"
       }
     },
     "irregular_changes": [],
