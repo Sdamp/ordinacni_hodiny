@@ -75,7 +75,7 @@ async function loadData() {
           box-shadow: inset 0 0 0 1px #ddd;
           align-items: center;
         ">
-          <span style="flex-shrink: 0; width: 100px; font-weight: 600;">${dayName}:</span>
+          <span style="flex-shrink: 0; width: 100px; font-weight: 600;">${dayName}</span>
           <span style="
             flex-grow: 1; 
             margin-left: 12px; 
@@ -92,7 +92,7 @@ async function loadData() {
 
     const futureChanges = (matchedRecord.irregular_changes || []).filter(change => isFutureDate(change.date));
     if (futureChanges.length > 0) {
-      currHtml += `<h3 style="margin-top: 24px; font-size: 20px; border-bottom: 2px solid #ccc; padding-bottom: 4px;">Nepravidelné změny⚠️</h3>`;
+      currHtml += `<h3 style="margin-top: 24px; font-size: 20px; border-bottom: 2px solid #ccc; padding-bottom: 4px;">Aktuální změny⚠️</h3>`;
       for (const change of futureChanges) {
         const isClosed = change.closed;
         const note = change.note ? ` <span style="font-weight: 500;">(${change.note})</span>` : "";
@@ -107,7 +107,7 @@ async function loadData() {
             margin-bottom: 6px;
             align-items: center;
           ">
-            <span style="flex-shrink: 0; width: 100px; font-weight: 600;">${formatDate(change.date)}:</span>
+            <span style="flex-shrink: 0; width: 100px; font-weight: 600;">${formatDate(change.date)}</span>
             <span style="
               flex-grow: 1; 
               margin-left: 12px; 
@@ -136,7 +136,7 @@ function formatHours(day) {
   let ret = [];
   if (day.m_o?.length === 4) ret.push(day.m_o.slice(0, 2) + ":" + day.m_o.slice(2, 4));
   if (day.m_c?.length === 4) ret.push(" - " + day.m_c.slice(0, 2) + ":" + day.m_c.slice(2, 4));
-  if (day.a_o?.length === 4) ret.push("; " + day.a_o.slice(0, 2) + ":" + day.a_o.slice(2, 4));
+  if (day.a_o?.length === 4) ret.push("︱" + day.a_o.slice(0, 2) + ":" + day.a_o.slice(2, 4));
   if (day.a_c?.length === 4) ret.push(" - " + day.a_c.slice(0, 2) + ":" + day.a_c.slice(2, 4));
   return ret.join("");
 }
