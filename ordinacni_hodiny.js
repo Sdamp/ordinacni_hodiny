@@ -43,18 +43,17 @@ async function loadData() {
     const bgColor = colors[townParam.toLowerCase()] || "#f5f5f5";
     let index = 0;
 
-    // === Začátek iframe-stylovaného obsahu ===
     let currHtml = `
-    <div style="
-      font-family: Arial, sans-serif;
-      font-size: 16px;
-      background-color: #ffffff;
-      padding: 2px;
-      max-width: 600px;
-      margin: 0 auto;
-      box-sizing: border-box;
-      color: #333;
-    ">
+      <div style="
+        font-family: Arial, sans-serif;
+        font-size: 16px;
+        background-color: #ffffff;
+        padding: 2px;
+        max-width: 600px;
+        margin: 0 auto;
+        box-sizing: border-box;
+        color: #333;
+      ">
     `;
 
     currHtml += `<h3 style="margin-top: 0; font-size: 20px; border-bottom: 2px solid #ccc; padding-bottom: 4px;">Stálý rozvrh</h3>`;
@@ -71,16 +70,14 @@ async function loadData() {
       currHtml += `
         <div style="
           display: flex;
-          justify-content: space-between;
-          align-items: center;
           padding: 10px 14px;
           background-color: ${rowColor};
           border-radius: 6px;
           margin-bottom: 6px;
           box-shadow: inset 0 0 0 1px #ddd;
         ">
-          <span>${dayName}:</span>
-          <span>${formatHours(values)}${note}</span>
+          <span style="flex-shrink: 0; width: 100px; font-weight: 600;">${dayName}:</span>
+          <span style="flex-grow: 1; margin-left: 12px; text-align: right; word-break: break-word;">${formatHours(values)}${note}</span>
         </div>`;
     }
 
@@ -93,19 +90,20 @@ async function loadData() {
         currHtml += `
           <div style="
             display: flex;
-            justify-content: space-between;
-            align-items: center;
             padding: 10px 14px;
             background-color: ${isClosed ? "#ffecec" : "#e6f7e6"};
             border-left: 4px solid ${isClosed ? "#ff4d4f" : "#4caf50"};
             border-radius: 6px;
             margin-bottom: 6px;
           ">
-            <span>${formatDate(change.date)}:</span>
-            <span>${isClosed ? "Zavřeno" : formatHours(change.day)}${change.note ? ` (${change.note})` : ""}</span>
+            <span style="flex-shrink: 0; width: 100px; font-weight: 600;">${formatDate(change.date)}:</span>
+            <span style="flex-grow: 1; margin-left: 12px; text-align: right; word-break: break-word;">
+              ${isClosed ? "Zavřeno" : formatHours(change.day)}${change.note ? ` (${change.note})` : ""}
+            </span>
           </div>`;
       }
     }
+
     currHtml += `</div>`;
     container.innerHTML = currHtml;
   } catch (error) {
@@ -130,13 +128,12 @@ function isFutureDate(dateStr) {
   const month = parseInt(dateStr.slice(2, 4), 10) - 1;
   const day = parseInt(dateStr.slice(0, 2), 10);
   const inputDate = new Date(year, month, day);
-  
+
   const today = new Date();
-  today.setHours(0, 0, 0, 0); // porovnáváme jen datum
+  today.setHours(0, 0, 0, 0);
 
   return inputDate >= today;
 }
-
 
 function formatDate(dateStr) {
   if (dateStr.length !== 8) return dateStr;
