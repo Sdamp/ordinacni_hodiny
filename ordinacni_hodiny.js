@@ -14,7 +14,7 @@ async function loadData() {
   const container = document.getElementById("content");
 
   if (!townParam || !officeParam) {
-    container.innerHTML = "<p>❌ Missing URL parameters (e.g., ?town=chotebor&office=sportovko)</p>";
+    container.innerHTML = "<p>❌ Missing URL parameters (e.g., ?town=chotebor_m&office=sportovko)</p>";
     return;
   }
 
