@@ -49,7 +49,7 @@ async function loadData() {
       font-family: Arial, sans-serif;
       font-size: 16px;
       background-color: #ffffff;
-      padding: 16px;
+      padding: 2px;
       max-width: 600px;
       margin: 0 auto;
       box-sizing: border-box;
