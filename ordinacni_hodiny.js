@@ -22,15 +22,115 @@ async function loadData() {
   const officeParam = params.get("office");
   const container = document.getElementById("content");
 
-  if (!townParam || !officeParam) {
-    container.innerHTML = `<p style="color: red;">❌ Chybí parametry v URL (např. ?town=chotebor_m&office=sportovko)</p>`;
-    return;
+  const response = await fetch("ordinacni_hodiny.json?_=" + Date.now());
+  const jsonData = await response.json();
+
+ if (!townParam || !officeParam) {
+  const townsMap = {};
+  jsonData.forEach(item => {
+    if (!townsMap[item.town]) {
+      townsMap[item.town] = [];
+    }
+    if (!townsMap[item.town].includes(item.office)) {
+      townsMap[item.town].push(item.office);
+    }
+  });
+
+  let html = `<h3>Aktuální změny:</h3><ul class="menu">`;
+
+  for (const [town, offices] of Object.entries(townsMap)) {
+    const color = colors[town] || "#eee";
+    const style = `style="--bg-color: ${color}"`;
+
+    html += `<li ${style}>
+      <div tabindex="0" class="toggle-btn" style = "border-bottom: 2px solid #ccc;">${town}</div>
+      <ul class="submenu">`;
+
+    for (const office of offices) {
+      const isSingleOffice = offices.length === 1;
+      html += `<li${isSingleOffice ? ' class="open"' : ''}>
+        <div tabindex="0" class="toggle-btn office-btn">${office}</div>
+        <ul class="submenu office-submenu">${isSingleOffice ? renderOfficeChanges(town, office) : ''}</ul>
+      </li>`;
+    }
+
+    html += `</ul></li>`;
   }
 
-  try {
-    const response = await fetch("ordinacni_hodiny.json?_=" + Date.now());
-    const jsonData = await response.json();
+  html += "</ul>";
+  container.innerHTML = html;
 
+  document.querySelectorAll("ul.menu > li > .toggle-btn").forEach(btn => {
+    btn.addEventListener("click", () => {
+      const li = btn.parentElement;
+      li.classList.toggle("open");
+    });
+  });
+
+  document.querySelectorAll(".office-btn").forEach(btn => {
+    btn.addEventListener("click", () => {
+      const officeLi = btn.parentElement;
+      const submenu = btn.nextElementSibling;
+      const townLi = officeLi.parentElement.parentElement;
+      const townBtn = Array.from(townLi.children).find(child => child.classList && child.classList.contains('toggle-btn'));
+      const town = townBtn ? townBtn.textContent : "";
+      const office = btn.textContent;
+
+      if (officeLi.classList.contains("open")) {
+        officeLi.classList.remove("open");
+        submenu.innerHTML = "";
+      } else {
+        if (!submenu.hasChildNodes()) {
+          submenu.innerHTML = renderOfficeChanges(town, office);
+        }
+        officeLi.classList.add("open");
+      }
+    });
+  });
+
+  return;
+  }
+
+  function renderOfficeChanges(town, office) {
+    const record = jsonData.find(item => item.town === town && item.office === office);
+    if (!record || !record.irregular_changes || Object.keys(record.irregular_changes).length === 0) {
+      return `<li><em>Žádné aktuální změny</em></li>`;
+    }
+    let changesHtml = "";
+    for (const change of Object.values(record.irregular_changes)) {
+      const isClosed = change.closed;
+      const note = change.note ? ` <span style="font-weight: 500;">(${change.note})</span>` : "";
+
+      changesHtml += `<li>
+        <div style="
+          display: flex;
+          padding: 10px 14px;
+          background-color: ${isClosed ? "#ffecec" : "#e6f7e6"};
+          border-left: 4px solid ${isClosed ? "#ff4d4f" : "#4caf50"};
+          border-radius: 6px;
+          margin-bottom: 6px;
+          align-items: center;
+        ">
+          <span style="flex-shrink: 0; width: 100px; font-weight: 600;">${formatDate(change.date)}</span>
+          <span style="
+            flex-grow: 1;
+            margin-left: 12px;
+            text-align: right;
+            word-wrap: break-word;
+            white-space: normal;
+            max-width: calc(100% - 110px);
+            display: inline-block;
+          ">
+            ${isClosed ? "Zavřeno" : formatHours(change.day)}${note}
+          </span>
+        </div>
+      </li>`;
+    }
+    return changesHtml;
+  }
+
+  //with params
+  try {
     const matchedRecord = jsonData.find(
       (item) => item.town === townParam && item.office === officeParam
     );
