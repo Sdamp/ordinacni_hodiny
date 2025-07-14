@@ -18,8 +18,8 @@ const day_dict = {
 
 async function loadData() {
   const params = new URLSearchParams(window.location.search);
-  const townParam = params.get("town");
-  const officeParam = params.get("office");
+  const townParam = params.get("mesto");
+  const officeParam = params.get("ordinace");
   const container = document.getElementById("content");
 
   const response = await fetch("ordinacni_hodiny.json?_=" + Date.now());
