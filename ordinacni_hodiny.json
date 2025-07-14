@@ -332,5 +332,14 @@
     "email": null,
     "nurse": null,
     "phone": null
+  },
+  {
+    "town": "kolin",
+    "office": "alergologie",
+    "regular_hours": {},
+    "irregular_changes": [],
+    "nurse": null,
+    "phone": null,
+    "email": null
   }
 ]
