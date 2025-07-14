@@ -336,7 +336,44 @@
   {
     "town": "kolin",
     "office": "alergologie",
-    "regular_hours": {},
+    "regular_hours": {
+      "mon": {
+        "m_o": "0830",
+        "a_c": "1530",
+        "note": "",
+        "_id": "6875069e3fc8d1b3b3bc2636"
+      },
+      "tue": {
+        "m_o": "0730",
+        "m_c": "1100",
+        "a_o": "1130",
+        "a_c": "1530",
+        "note": "",
+        "_id": "6875069e3fc8d1b3b3bc2637"
+      },
+      "wed": {
+        "m_o": "0730",
+        "a_c": "1530",
+        "note": "kolin",
+        "_id": "6875069e3fc8d1b3b3bc2638"
+      },
+      "thu": {
+        "note": "",
+        "_id": "6875069e3fc8d1b3b3bc2639"
+      },
+      "fri": {
+        "note": "",
+        "_id": "6875069e3fc8d1b3b3bc263a"
+      },
+      "sat": {
+        "note": "",
+        "_id": "6875069e3fc8d1b3b3bc263b"
+      },
+      "sun": {
+        "note": "",
+        "_id": "6875069e3fc8d1b3b3bc263c"
+      }
+    },
     "irregular_changes": [],
     "nurse": null,
     "phone": null,
