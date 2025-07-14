@@ -57,7 +57,7 @@ async function loadData() {
         } else {
           const futureChanges = Object.values(record.irregular_changes).filter(change => isFutureDate(change.date));
           if (futureChanges.length === 0) {
-            html += `<p><em>Žádné aktuální změny</em></p>`;
+            html += `<p><em>Aktuálně beze změn</em></p>`;
           } else {
             for (const change of Object.values(record.irregular_changes)) {
               const isClosed = change.closed;
