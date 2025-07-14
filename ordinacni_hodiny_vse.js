@@ -53,7 +53,7 @@ async function loadData() {
         html += `<strong style="border-bottom: 2px solid;">${office}</strong> <div style="margin: 10px;">`;
         const record = jsonData.find(item => item.town === town && item.office === office);
         if (!record || !record.irregular_changes || Object.keys(record.irregular_changes).length === 0) {
-          html += `<p><em>Žádné aktuální změny</em></p>`;
+          html += `<p><em>Aktuálně beze změn</em></p>`;
         } else {
           const futureChanges = Object.values(record.irregular_changes).filter(change => isFutureDate(change.date));
           if (futureChanges.length === 0) {
