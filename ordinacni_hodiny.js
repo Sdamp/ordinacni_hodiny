@@ -26,7 +26,7 @@ async function loadData() {
   const jsonData = await response.json();
 
   if (!townParam || !officeParam) {
-    container.innerHTML = `<p style="color: red;">❌ Prosím, zadejte město a ordinaci v URL(např. ?town=chotebor_m&office=sportovko).</p>`;
+    container.innerHTML = `<p style="color: red;">❌ Prosím, zadejte město a ordinaci v URL(např. ?mesto=chotebor_m&ordinace=sportovko).</p>`;
     return;
   }
 
