@@ -85,19 +85,19 @@
         "a_o": "1300",
         "a_c": "1700",
         "note": "",
-        "_id": "6872acc43e4aadf2409de086"
+        "_id": "6874fba0cba5c70534830934"
       },
       "tue": {
         "m_o": "1521",
         "a_c": "1821",
         "note": "",
-        "_id": "6872acc43e4aadf2409de087"
+        "_id": "6874fba0cba5c70534830935"
       },
       "wed": {
         "m_o": "0405",
         "a_c": "1705",
         "note": "",
-        "_id": "6872acc43e4aadf2409de088"
+        "_id": "6874fba0cba5c70534830936"
       },
       "thu": {
         "m_o": "1000",
@@ -105,31 +105,24 @@
         "a_o": "1300",
         "a_c": "1700",
         "note": "",
-        "_id": "6872acc43e4aadf2409de089"
+        "_id": "6874fba0cba5c70534830937"
       },
       "fri": {
         "m_o": "0800",
         "a_c": "1200",
         "note": "obed",
-        "_id": "6872acc43e4aadf2409de08a"
+        "_id": "6874fba0cba5c70534830938"
       },
       "sat": {
         "note": "",
-        "_id": "6872acc43e4aadf2409de08b"
+        "_id": "6874fba0cba5c70534830939"
       },
       "sun": {
         "note": "",
-        "_id": "6872acc43e4aadf2409de08c"
+        "_id": "6874fba0cba5c7053483093a"
       }
     },
-    "irregular_changes": [
-      {
-        "date": "13072025",
-        "closed": true,
-        "note": "fghj",
-        "_id": "6864477f8ef374695178a525"
-      }
-    ],
+    "irregular_changes": [],
     "email": null,
     "phone": null,
     "nurse": null
