@@ -24,55 +24,71 @@ async function loadData() {
 
     const townsMap = {};
     jsonData.forEach(item => {
-        if (!townsMap[item.town]) {
-        townsMap[item.town] = [];
-        }
-        if (!townsMap[item.town].includes(item.office)) {
-        townsMap[item.town].push(item.office);
-        }
+      if (!townsMap[item.town]) {
+      townsMap[item.town] = [];
+      }
+      if (!townsMap[item.town].includes(item.office)) {
+      townsMap[item.town].push(item.office);
+      }
     });
 
     let html = `<h3>Aktuální změny:</h3><div style="display: flex; flex-wrap: wrap; gap: 10px;">`;
     for (const [town, offices] of Object.entries(townsMap)) {
-        const color = colors[town] || "#eee";
-        html += `<div style="background-color: ${color}; padding: 5px; border-radius: 5px; margin: 5px;"> <h3 style="border-bottom: 2px solid white; text-align: center;">${town}</h3>`; 
-        for (const office of offices) {
-            html += `<div style="margin-bottom: 5px;">`;
-            html += `<strong style="border-bottom: 2px solid;">${office}</strong> <div style="margin: 10px;">`;
-            const record = jsonData.find(item => item.town === town && item.office === office);
-            if (!record || !record.irregular_changes || Object.keys(record.irregular_changes).length === 0) {
-              html += `<p><em>Žádné aktuální změny</em></p>`;
-            } else {
-              for (const change of Object.values(record.irregular_changes)) {
-                if (!isFutureDate(change.date)) continue;
-                const isClosed = change.closed;
-                const note = change.note ? ` <span style="font-weight: 500;">(${change.note})</span>` : "";
-                html += `<div style="
-                    display: flex;
-                    padding: 10px 14px;
-                    background-color: ${isClosed ? "#ffecec" : "#e6f7e6"};
-                    border-left: 4px solid ${isClosed ? "#ff4d4f" : "#4caf50"};
-                    border-radius: 6px;
-                    margin-bottom: 6px;
-                    align-items: center;
-                ">
-                    <span style="flex-shrink: 0; width: 100px; font-weight: 600;">${formatDate(change.date)}</span>
-                    <span style="
-                        flex-grow: 1;
-                        margin-left: 12px;
-                        text-align: right;
-                        word-wrap: break-word;
-                        white-space: normal;
-                        max-width: calc(100% - 110px);
-                        display: inline-block;">
-                        ${isClosed ? "Zavřeno" : formatHours(change.day)}${note}
-                    </span>
-                </div>`;
-              }
+      const color = colors[town] || "#eee";
+      html += `<div style="
+        background-color: ${color};
+        padding: 5px;
+        border-radius: 10px;
+        margin: 10px;
+        flex: 1 1 300px;
+        min-width: 280px;
+        max-width: 100%;
+        box-sizing: border-box;
+        display: flex;
+        flex-direction: column;
+      ">
+        <h3 style="border-bottom: 2px solid white; text-align: center; margin-bottom: 10px;">${town}</h3>`;
+      for (const office of offices) {
+        html += `<div style="margin-bottom: 5px;">`;
+        html += `<strong style="border-bottom: 2px solid;">${office}</strong> <div style="margin: 10px;">`;
+        const record = jsonData.find(item => item.town === town && item.office === office);
+        if (!record || !record.irregular_changes || Object.keys(record.irregular_changes).length === 0) {
+          html += `<p><em>Žádné aktuální změny</em></p>`;
+        } else {
+          const futureChanges = Object.values(record.irregular_changes).filter(change => isFutureDate(change.date));
+          if (futureChanges.length === 0) {
+            html += `<p><em>Žádné aktuální změny</em></p>`;
+          } else {
+            for (const change of Object.values(record.irregular_changes)) {
+              const isClosed = change.closed;
+              const note = change.note ? ` <span style="font-weight: 500;">(${change.note})</span>` : "";
+              html += `<div style="
+                  display: flex;
+                  padding: 10px 14px;
+                  background-color: ${isClosed ? "#ffecec" : "#e6f7e6"};
+                  border-left: 4px solid ${isClosed ? "#ff4d4f" : "#4caf50"};
+                  border-radius: 6px;
+                  margin-bottom: 6px;
+                  align-items: center;
+              ">
+                  <span style="flex-shrink: 0; width: 100px; font-weight: 600;">${formatDate(change.date)}</span>
+                  <span style="
+                      flex-grow: 1;
+                      margin-left: 12px;
+                      text-align: right;
+                      word-wrap: break-word;
+                      white-space: normal;
+                      max-width: calc(100% - 110px);
+                      display: inline-block;">
+                      ${isClosed ? "Zavřeno" : formatHours(change.day)}${note}
+                  </span>
+              </div>`;
             }
-            html += `</div></div>`;
+          }
         }
-        html += `</div>`;
+        html += `</div></div>`;
+      }
+      html += `</div>`;
     }
 
     container.innerHTML = html + `</div>`;
