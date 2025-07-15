@@ -23,10 +23,13 @@ async function loadData() {
     const jsonData = await response.json();
 
     const townsMap = {};
+    const townColor = {};
+
     jsonData.forEach(item => {
       if (!townsMap[item.town]) {
       townsMap[item.town] = [];
-      }
+      townColor[item.town] = item.color || ["#000000", "#FFFFFF"];  
+    }
       if (!townsMap[item.town].includes(item.office)) {
       townsMap[item.town].push(item.office);
       }
@@ -34,9 +37,10 @@ async function loadData() {
 
     let html = `<h3>Aktuální změny:</h3><div style="display: flex; flex-wrap: wrap; gap: 10px;">`;
     for (const [town, offices] of Object.entries(townsMap)) {
-      const color = colors[town] || "#eee";
+      const bgColor = townColor[town][0];
+      const textColor = townColor[town][1];
       html += `<div style="
-        background-color: ${color};
+        background-color: ${bgColor};
         padding: 5px;
         border-radius: 10px;
         margin: 10px;
@@ -47,10 +51,17 @@ async function loadData() {
         display: flex;
         flex-direction: column;
       ">
-        <h3 style="border-bottom: 2px solid white; text-align: center; margin-bottom: 10px;">${town}</h3>`;
+        <h3 style=" text-align: center; margin-bottom: 10px; color: ${textColor}">${town}</h3>
+        <div style="
+        height: 2px;
+        width: 50%;
+        background-color: ${textColor};
+        margin: 0 auto 10px auto;
+        border-radius: 1px;
+      "></div>`;
       for (const office of offices) {
-        html += `<div style="margin-bottom: 5px;">`;
-        html += `<strong style="border-bottom: 2px solid;">${office}</strong> <div style="margin: 10px;">`;
+        html += `<div style="margin-bottom: 5px; margin-left: 10px;">`;
+        html += `<strong style="border-bottom: 2px solid; color: ${textColor}">${office}</strong> <div style="margin: 10px;">`;
         const record = jsonData.find(item => item.town === town && item.office === office);
         if (!record || !record.irregular_changes || Object.keys(record.irregular_changes).length === 0) {
           html += `<p><em>Aktuálně beze změn</em></p>`;

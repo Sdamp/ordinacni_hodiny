@@ -1,11 +1,3 @@
-const colors = {
-  chotebor_p: "#009e7cb8",
-  chotebor_m: "#d75d9eba",
-  hlinsko: "#01bbffba",
-  kolin: "#ff6900",
-  malec: "#ffcd57",
-};
-
 const day_dict = {
   mon: "Pondělí",
   tue: "Úterý",
@@ -41,8 +33,8 @@ async function loadData() {
       return;
     }
 
-    const bgColor = colors[townParam.toLowerCase()] || "#f5f5f5";
     let index = 0;
+    const bgColor = matchedRecord.color ? matchedRecord.color[0] : "#f5f5f5";
 
     let currHtml = `
       <div style="
