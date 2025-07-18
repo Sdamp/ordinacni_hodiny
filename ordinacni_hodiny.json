@@ -384,5 +384,15 @@
       "#ff6900",
       "#ffffffff"
     ]
+  },
+  {
+    "town": "Hlinsko",
+    "office": "Diabetologie",
+    "regular_hours": {},
+    "irregular_changes": [],
+    "color": [
+      "#01bbff",
+      "#ffffff"
+    ]
   }
 ]
