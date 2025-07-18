@@ -1,0 +1,21 @@
+{
+  "exportDate": "2025-07-18",
+  "premises": [
+    {
+      "id": "12924351",
+      "ic": "2443198",
+      "name": "Diabetologie - Sdružená ambulantní péče Pardubice s.r.o.",
+      "address": {
+        "gps": {
+          "latitude": 49.7660019,
+          "longitude": 15.90153
+        },
+        "city": "Hlinsko",
+        "street": "Nádražní",
+        "houseNumber": "548",
+        "zip": "53901"
+      },
+      "openingHours": null
+    }
+  ]
+}
