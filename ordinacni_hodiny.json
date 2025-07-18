@@ -379,7 +379,14 @@
         "_id": "6875069e3fc8d1b3b3bc263c"
       }
     },
-    "irregular_changes": [],
+    "irregular_changes": [
+      {
+        "date": "19072025",
+        "closed": true,
+        "note": "",
+        "_id": "687a265e768077f15084aa59"
+      }
+    ],
     "color": [
       "#ff6900",
       "#ffffffff"
@@ -389,7 +396,20 @@
     "town": "Hlinsko",
     "office": "Diabetologie",
     "regular_hours": {},
-    "irregular_changes": [],
+    "irregular_changes": [
+      {
+        "date": "19072025",
+        "closed": true,
+        "note": "",
+        "_id": "687a2674768077f15084aa6b"
+      },
+      {
+        "date": "20072025",
+        "closed": true,
+        "note": "",
+        "_id": "687a26e8cfd81e6d74177c1a"
+      }
+    ],
     "color": [
       "#01bbff",
       "#ffffff"
