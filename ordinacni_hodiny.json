@@ -401,7 +401,71 @@
   {
     "town": "Hlinsko",
     "office": "Diabetologie",
-    "regular_hours": {},
+    "regular_hours": {
+      "mon": {
+        "closed": false,
+        "m_o": "1315",
+        "m_c": "",
+        "a_o": "",
+        "a_c": "1515",
+        "note": "",
+        "_id": "687a2ce88e7d1567fbb171b0"
+      },
+      "tue": {
+        "closed": true,
+        "m_o": "",
+        "m_c": "",
+        "a_o": "",
+        "a_c": "",
+        "note": "",
+        "_id": "687a2ce88e7d1567fbb171b1"
+      },
+      "wed": {
+        "closed": true,
+        "m_o": "",
+        "m_c": "",
+        "a_o": "",
+        "a_c": "",
+        "note": "",
+        "_id": "687a2ce88e7d1567fbb171b2"
+      },
+      "thu": {
+        "closed": true,
+        "m_o": "",
+        "m_c": "",
+        "a_o": "",
+        "a_c": "",
+        "note": "",
+        "_id": "687a2ce88e7d1567fbb171b3"
+      },
+      "fri": {
+        "closed": true,
+        "m_o": "",
+        "m_c": "",
+        "a_o": "",
+        "a_c": "",
+        "note": "",
+        "_id": "687a2ce88e7d1567fbb171b4"
+      },
+      "sat": {
+        "closed": true,
+        "m_o": "",
+        "m_c": "",
+        "a_o": "",
+        "a_c": "",
+        "note": "",
+        "_id": "687a2ce88e7d1567fbb171b5"
+      },
+      "sun": {
+        "closed": true,
+        "m_o": "",
+        "m_c": "",
+        "a_o": "",
+        "a_c": "",
+        "note": "",
+        "_id": "687a2ce88e7d1567fbb171b6"
+      }
+    },
     "irregular_changes": [
       {
         "date": "19072025",
