@@ -175,7 +175,19 @@
         "_id": "6872acc83e4aadf2409de09d"
       }
     },
-    "irregular_changes": [],
+    "irregular_changes": [
+      {
+        "date": "31072025",
+        "closed": false,
+        "day": {
+          "m_o": "0947",
+          "a_c": "1547",
+          "_id": "68872b193ed008e092210635"
+        },
+        "note": "lol",
+        "_id": "68872b193ed008e092210634"
+      }
+    ],
     "color": [
       "#009e7cb8",
       "#ffffffff"
