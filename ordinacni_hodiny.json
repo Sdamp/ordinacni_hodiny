@@ -4,73 +4,70 @@
     "office": "Tělovýchovné lékařství",
     "regular_hours": {
       "mon": {
+        "closed": false,
         "m_o": "0730",
         "m_c": "1200",
         "a_o": "1300",
         "a_c": "1630",
         "note": "",
-        "_id": "68761a59c8af0940089ea1dd"
+        "_id": "68872af73ed008e0922105f2"
       },
       "tue": {
+        "closed": false,
         "m_o": "0800",
         "m_c": "1200",
         "a_o": "1330",
         "a_c": "1700",
         "note": "",
-        "_id": "68761a59c8af0940089ea1de"
+        "_id": "68872af73ed008e0922105f3"
       },
       "wed": {
+        "closed": false,
         "m_o": "0700",
         "m_c": "1130",
         "a_o": "1230",
         "a_c": "1600",
         "note": "",
-        "_id": "68761a59c8af0940089ea1df"
+        "_id": "68872af73ed008e0922105f4"
       },
       "thu": {
+        "closed": false,
         "m_o": "0800",
         "m_c": "1200",
         "a_o": "1300",
         "a_c": "1500",
         "note": "",
-        "_id": "68761a59c8af0940089ea1e0"
+        "_id": "68872af73ed008e0922105f5"
       },
       "fri": {
+        "closed": false,
         "m_o": "0800",
         "m_c": "1100",
         "a_o": "1200",
         "a_c": "1400",
         "note": "",
-        "_id": "68761a59c8af0940089ea1e1"
+        "_id": "68872af73ed008e0922105f6"
       },
       "sat": {
+        "closed": true,
+        "m_o": "",
+        "m_c": "",
+        "a_o": "",
+        "a_c": "",
         "note": "",
-        "_id": "68761a59c8af0940089ea1e2"
+        "_id": "68872af73ed008e0922105f7"
       },
       "sun": {
+        "closed": true,
+        "m_o": "",
+        "m_c": "",
+        "a_o": "",
+        "a_c": "",
         "note": "",
-        "_id": "68761a59c8af0940089ea1e3"
+        "_id": "68872af73ed008e0922105f8"
       }
     },
-    "irregular_changes": [
-      {
-        "date": "18072025",
-        "closed": true,
-        "note": "bvnbcvn",
-        "_id": "686c1e12611a5751870c56e8"
-      },
-      {
-        "date": "19072025",
-        "closed": false,
-        "day": {
-          "m_o": "2121",
-          "a_c": "2321",
-          "_id": "686c1e6a611a5751870c56f5"
-        },
-        "note": "bvn",
-        "_id": "686c1e6a611a5751870c56f4"
-      }
-    ],
+    "irregular_changes": [],
     "color": [
       "#d75d9eba",
       "#ffffffff"
@@ -237,25 +234,7 @@
         "_id": "68739f6070af9666a97cc33d"
       }
     },
-    "irregular_changes": [
-      {
-        "date": "18072025",
-        "closed": true,
-        "note": "bvnbcvn",
-        "_id": "68739f9a70af9666a97cc359"
-      },
-      {
-        "date": "19072025",
-        "closed": false,
-        "day": {
-          "m_o": "2121",
-          "a_c": "2321",
-          "_id": "686c1e6a611a5751870c56f5"
-        },
-        "note": "bvn",
-        "_id": "686c1e6a611a5751870c56f4"
-      }
-    ],
+    "irregular_changes": [],
     "color": [
       "#d75d9eba",
       "#ffffffff"
@@ -314,25 +293,7 @@
         "_id": "6873b920f5af52f05e058427"
       }
     },
-    "irregular_changes": [
-      {
-        "date": "18072025",
-        "closed": true,
-        "note": "bvnbcvn",
-        "_id": "686c1e12611a5751870c56e8"
-      },
-      {
-        "date": "19072025",
-        "closed": false,
-        "day": {
-          "m_o": "2121",
-          "a_c": "2321",
-          "_id": "686c1e6a611a5751870c56f5"
-        },
-        "note": "bvn",
-        "_id": "686c1e6a611a5751870c56f4"
-      }
-    ],
+    "irregular_changes": [],
     "color": [
       "#ffcd57",
       "#000000"
@@ -380,12 +341,6 @@
       }
     },
     "irregular_changes": [
-      {
-        "date": "19072025",
-        "closed": true,
-        "note": "",
-        "_id": "687a265e768077f15084aa59"
-      },
       {
         "date": "02082025",
         "closed": true,
@@ -467,18 +422,6 @@
       }
     },
     "irregular_changes": [
-      {
-        "date": "20072025",
-        "closed": true,
-        "note": "",
-        "_id": "687a26e8cfd81e6d74177c1a"
-      },
-      {
-        "date": "24072025",
-        "closed": true,
-        "note": "456",
-        "_id": "687a28fd04737279122a3754"
-      },
       {
         "date": "02082025",
         "closed": true,
