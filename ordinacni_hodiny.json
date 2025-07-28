@@ -131,48 +131,67 @@
     "office": "Diabetologie",
     "regular_hours": {
       "mon": {
+        "closed": false,
         "m_o": "0700",
         "m_c": "1200",
         "a_o": "1300",
         "a_c": "1530",
         "note": "",
-        "_id": "6872acc83e4aadf2409de097"
+        "_id": "68872dbd1bd3b2f8df9b0b82"
       },
       "tue": {
+        "closed": false,
         "m_o": "0800",
         "m_c": "1200",
         "a_o": "1300",
         "a_c": "1600",
         "note": "",
-        "_id": "6872acc83e4aadf2409de098"
+        "_id": "68872dbd1bd3b2f8df9b0b83"
       },
       "wed": {
+        "closed": false,
         "m_o": "0900",
         "m_c": "1200",
         "a_o": "1230",
         "a_c": "1500",
         "note": "",
-        "_id": "6872acc83e4aadf2409de099"
+        "_id": "68872dbd1bd3b2f8df9b0b84"
       },
       "thu": {
+        "closed": false,
         "m_o": "0800",
+        "m_c": "",
+        "a_o": "",
         "a_c": "1200",
         "note": "",
-        "_id": "6872acc83e4aadf2409de09a"
+        "_id": "68872dbd1bd3b2f8df9b0b85"
       },
       "fri": {
+        "closed": false,
         "m_o": "0800",
+        "m_c": "",
+        "a_o": "",
         "a_c": "1100",
         "note": "",
-        "_id": "6872acc83e4aadf2409de09b"
+        "_id": "68872dbd1bd3b2f8df9b0b86"
       },
       "sat": {
+        "closed": true,
+        "m_o": "",
+        "m_c": "",
+        "a_o": "",
+        "a_c": "",
         "note": "",
-        "_id": "6872acc83e4aadf2409de09c"
+        "_id": "68872dbd1bd3b2f8df9b0b87"
       },
       "sun": {
+        "closed": true,
+        "m_o": "",
+        "m_c": "",
+        "a_o": "",
+        "a_c": "",
         "note": "",
-        "_id": "6872acc83e4aadf2409de09d"
+        "_id": "68872dbd1bd3b2f8df9b0b88"
       }
     },
     "irregular_changes": [
