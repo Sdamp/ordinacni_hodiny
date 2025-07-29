@@ -479,7 +479,71 @@
   {
     "town": "Chotěboř-Mcentrum",
     "office": "Nefrologie",
-    "regular_hours": {},
+    "regular_hours": {
+      "mon": {
+        "closed": true,
+        "m_o": "",
+        "m_c": "",
+        "a_o": "",
+        "a_c": "",
+        "note": "",
+        "_id": "688881725683496911b85bf4"
+      },
+      "tue": {
+        "closed": false,
+        "m_o": "0730",
+        "m_c": "",
+        "a_o": "",
+        "a_c": "1330",
+        "note": "",
+        "_id": "688881725683496911b85bf5"
+      },
+      "wed": {
+        "closed": true,
+        "m_o": "",
+        "m_c": "",
+        "a_o": "",
+        "a_c": "",
+        "note": "",
+        "_id": "688881725683496911b85bf6"
+      },
+      "thu": {
+        "closed": true,
+        "m_o": "",
+        "m_c": "",
+        "a_o": "",
+        "a_c": "",
+        "note": "",
+        "_id": "688881725683496911b85bf7"
+      },
+      "fri": {
+        "closed": true,
+        "m_o": "",
+        "m_c": "",
+        "a_o": "",
+        "a_c": "",
+        "note": "",
+        "_id": "688881725683496911b85bf8"
+      },
+      "sat": {
+        "closed": true,
+        "m_o": "",
+        "m_c": "",
+        "a_o": "",
+        "a_c": "",
+        "note": "",
+        "_id": "688881725683496911b85bf9"
+      },
+      "sun": {
+        "closed": true,
+        "m_o": "",
+        "m_c": "",
+        "a_o": "",
+        "a_c": "",
+        "note": "",
+        "_id": "688881725683496911b85bfa"
+      }
+    },
     "irregular_changes": [],
     "color": [
       "#d75d9e",
