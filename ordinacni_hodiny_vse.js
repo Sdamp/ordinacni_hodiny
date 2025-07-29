@@ -38,7 +38,8 @@ async function loadData() {
     let html = `<h3>Aktuální změny:</h3><div style="display: flex; flex-wrap: wrap; gap: 10px;">`;
     for (const [town, offices] of Object.entries(townsMap)) {
       const bgColor = townColor[town][0];
-      const textColor = townColor[town][1];
+      //const textColor = townColor[town][1];
+      const textColor = "#000000";
       html += `<div style="
         background-color: ${bgColor};
         padding: 5px;
