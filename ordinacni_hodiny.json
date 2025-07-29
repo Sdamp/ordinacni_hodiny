@@ -475,5 +475,15 @@
       "#01bbff",
       "#ffffff"
     ]
+  },
+  {
+    "town": "Chotěboř-Mcentrum",
+    "office": "Nefrologie",
+    "regular_hours": {},
+    "irregular_changes": [],
+    "color": [
+      "#d75d9e",
+      "#000000"
+    ]
   }
 ]
