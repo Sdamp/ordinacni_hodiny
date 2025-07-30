@@ -4,67 +4,53 @@
     "office": "Tělovýchovné lékařství",
     "regular_hours": {
       "mon": {
-        "closed": false,
         "m_o": "0730",
         "m_c": "1200",
         "a_o": "1300",
         "a_c": "1630",
-        "note": "",
-        "_id": "68872af73ed008e0922105f2"
+        "note": ""
       },
       "tue": {
-        "closed": false,
         "m_o": "0800",
         "m_c": "1200",
         "a_o": "1330",
         "a_c": "1700",
-        "note": "",
-        "_id": "68872af73ed008e0922105f3"
+        "note": ""
       },
       "wed": {
-        "closed": false,
         "m_o": "0700",
         "m_c": "1130",
         "a_o": "1230",
         "a_c": "1600",
-        "note": "",
-        "_id": "68872af73ed008e0922105f4"
+        "note": ""
       },
       "thu": {
-        "closed": false,
         "m_o": "0800",
         "m_c": "1200",
         "a_o": "1300",
         "a_c": "1500",
-        "note": "",
-        "_id": "68872af73ed008e0922105f5"
+        "note": ""
       },
       "fri": {
-        "closed": false,
         "m_o": "0800",
         "m_c": "1100",
         "a_o": "1200",
         "a_c": "1400",
-        "note": "",
-        "_id": "68872af73ed008e0922105f6"
+        "note": ""
       },
       "sat": {
-        "closed": true,
         "m_o": "",
         "m_c": "",
         "a_o": "",
         "a_c": "",
-        "note": "",
-        "_id": "68872af73ed008e0922105f7"
+        "note": ""
       },
       "sun": {
-        "closed": true,
         "m_o": "",
         "m_c": "",
         "a_o": "",
         "a_c": "",
-        "note": "",
-        "_id": "68872af73ed008e0922105f8"
+        "note": ""
       }
     },
     "irregular_changes": [
