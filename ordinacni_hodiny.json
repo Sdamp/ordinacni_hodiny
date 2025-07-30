@@ -402,67 +402,53 @@
     "office": "Endokrinologie",
     "regular_hours": {
       "mon": {
-        "closed": false,
         "m_o": "0830",
         "m_c": "",
         "a_o": "",
         "a_c": "1530",
-        "note": "",
-        "_id": "688886b77c9f54bb472ee090"
+        "note": ""
       },
       "tue": {
-        "closed": false,
         "m_o": "0730",
         "m_c": "1100",
         "a_o": "1130",
         "a_c": "1530",
-        "note": "",
-        "_id": "688886b77c9f54bb472ee091"
+        "note": ""
       },
       "wed": {
-        "closed": false,
         "m_o": "0730",
         "m_c": "",
         "a_o": "",
         "a_c": "1530",
-        "note": "kolin",
-        "_id": "688886b77c9f54bb472ee092"
+        "note": "kolin"
       },
       "thu": {
-        "closed": true,
         "m_o": "",
         "m_c": "",
         "a_o": "",
         "a_c": "",
-        "note": "",
-        "_id": "688886b77c9f54bb472ee093"
+        "note": ""
       },
       "fri": {
-        "closed": true,
         "m_o": "",
         "m_c": "",
         "a_o": "",
         "a_c": "",
-        "note": "",
-        "_id": "688886b77c9f54bb472ee094"
+        "note": ""
       },
       "sat": {
-        "closed": true,
         "m_o": "",
         "m_c": "",
         "a_o": "",
         "a_c": "",
-        "note": "",
-        "_id": "688886b77c9f54bb472ee095"
+        "note": ""
       },
       "sun": {
-        "closed": true,
         "m_o": "",
         "m_c": "",
         "a_o": "",
         "a_c": "",
-        "note": "",
-        "_id": "688886b77c9f54bb472ee096"
+        "note": ""
       }
     },
     "irregular_changes": [
