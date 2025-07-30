@@ -72,6 +72,16 @@
         "closed": false,
         "note": "test final",
         "_id": "6889eb003b8659cc62e69f0c"
+      },
+      {
+        "day": {
+          "m_o": "1000",
+          "a_c": "1800"
+        },
+        "date": "01082025",
+        "closed": false,
+        "note": "test final",
+        "_id": "6889ecb94a903c5a923bcf1b"
       }
     ],
     "color": [
@@ -291,6 +301,16 @@
         "closed": false,
         "note": "test final",
         "_id": "6889eb003b8659cc62e69ec6"
+      },
+      {
+        "day": {
+          "m_o": "1000",
+          "a_c": "1800"
+        },
+        "date": "01082025",
+        "closed": false,
+        "note": "test final",
+        "_id": "6889ecb94a903c5a923bcecd"
       }
     ],
     "color": [
@@ -623,6 +643,16 @@
         "closed": false,
         "note": "test final",
         "_id": "6889eb003b8659cc62e69ee7"
+      },
+      {
+        "day": {
+          "m_o": "1000",
+          "a_c": "1800"
+        },
+        "date": "01082025",
+        "closed": false,
+        "note": "test final",
+        "_id": "6889ecb94a903c5a923bcef2"
       }
     ],
     "color": [
