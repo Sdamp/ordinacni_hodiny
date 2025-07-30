@@ -53,7 +53,18 @@
         "note": ""
       }
     },
-    "irregular_changes": [],
+    "irregular_changes": [
+      {
+        "day": {
+          "m_o": "0539",
+          "a_c": "1839"
+        },
+        "date": "04082025",
+        "closed": false,
+        "note": "gjhkhggh",
+        "_id": "688a2095a45eb8aa2b9b4d8e"
+      }
+    ],
     "color": [
       "#000000",
       "#FFFFFF"
