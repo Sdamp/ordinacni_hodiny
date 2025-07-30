@@ -69,8 +69,8 @@
     },
     "irregular_changes": [],
     "color": [
-      "#d75d9eba",
-      "#ffffffff"
+      "#000000",
+      "#FFFFFF"
     ]
   },
   {
@@ -122,8 +122,8 @@
     },
     "irregular_changes": [],
     "color": [
-      "#01bbffba",
-      "#ffffffff"
+      "#000000",
+      "#FFFFFF"
     ]
   },
   {
@@ -196,20 +196,20 @@
     },
     "irregular_changes": [
       {
-        "date": "31072025",
-        "closed": false,
         "day": {
           "m_o": "0947",
           "a_c": "1547",
           "_id": "68872b193ed008e092210635"
         },
+        "date": "31072025",
+        "closed": false,
         "note": "lol",
         "_id": "68872b193ed008e092210634"
       }
     ],
     "color": [
-      "#009e7cb8",
-      "#ffffffff"
+      "#000000",
+      "#FFFFFF"
     ]
   },
   {
@@ -221,54 +221,55 @@
         "m_c": "1200",
         "a_o": "1300",
         "a_c": "1630",
-        "note": "",
-        "_id": "68739f6070af9666a97cc337"
+        "note": ""
       },
       "tue": {
         "m_o": "0800",
         "m_c": "1200",
         "a_o": "1330",
         "a_c": "1700",
-        "note": "",
-        "_id": "68739f6070af9666a97cc338"
+        "note": ""
       },
       "wed": {
         "m_o": "0700",
         "m_c": "1130",
         "a_o": "1230",
         "a_c": "1600",
-        "note": "",
-        "_id": "68739f6070af9666a97cc339"
+        "note": ""
       },
       "thu": {
         "m_o": "0800",
         "m_c": "1200",
         "a_o": "1300",
         "a_c": "1500",
-        "note": "",
-        "_id": "68739f6070af9666a97cc33a"
+        "note": ""
       },
       "fri": {
         "m_o": "0800",
+        "m_c": "",
+        "a_o": "",
         "a_c": "1400",
-        "note": "",
-        "_id": "68739f6070af9666a97cc33b"
+        "note": ""
       },
       "sat": {
         "m_o": "0800",
+        "m_c": "",
+        "a_o": "",
         "a_c": "1500",
-        "note": "jen dokud se nam chce",
-        "_id": "68739f6070af9666a97cc33c"
+        "note": "jen dokud se nam chce"
       },
       "sun": {
-        "note": "",
-        "_id": "68739f6070af9666a97cc33d"
+        "m_o": "",
+        "m_c": "",
+        "a_o": "",
+        "a_c": "",
+        "note": ""
       }
     },
     "irregular_changes": [],
     "color": [
-      "#d75d9eba",
-      "#ffffffff"
+      "#000000",
+      "#FFFFFF"
     ]
   },
   {
@@ -326,8 +327,8 @@
     },
     "irregular_changes": [],
     "color": [
-      "#ffcd57",
-      "#000000"
+      "#000000",
+      "#FFFFFF"
     ]
   },
   {
@@ -407,8 +408,8 @@
       }
     ],
     "color": [
-      "#ff6900",
-      "#ffffffff"
+      "#000000",
+      "#FFFFFF"
     ]
   },
   {
@@ -487,20 +488,20 @@
         "_id": "687a2957aa9a19a3cc9533ab"
       },
       {
-        "date": "30072025",
-        "closed": false,
         "day": {
           "m_o": "1000",
           "a_c": "1500",
           "_id": "68872e181bd3b2f8df9b0bcb"
         },
+        "date": "30072025",
+        "closed": false,
         "note": "gjh",
         "_id": "68872e181bd3b2f8df9b0bca"
       }
     ],
     "color": [
-      "#01bbff",
-      "#ffffff"
+      "#000000",
+      "#FFFFFF"
     ]
   },
   {
@@ -571,22 +572,10 @@
         "_id": "6888863d5a129896cd8648d4"
       }
     },
-    "irregular_changes": [
-      {
-        "date": "29072025",
-        "closed": false,
-        "day": {
-          "m_o": "1026",
-          "a_c": "1326",
-          "_id": "688885d9f8abca4dc7d93242"
-        },
-        "note": "lmao",
-        "_id": "688885d9f8abca4dc7d93241"
-      }
-    ],
+    "irregular_changes": [],
     "color": [
-      "#d75d9e",
-      "#000000"
+      "#000000",
+      "#FFFFFF"
     ]
   }
 ]
