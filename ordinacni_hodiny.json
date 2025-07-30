@@ -292,47 +292,7 @@
         "note": ""
       }
     },
-    "irregular_changes": [
-      {
-        "day": {
-          "m_o": "1000"
-        },
-        "date": "01082025",
-        "closed": false,
-        "note": "test final",
-        "_id": "6889e30c3b8659cc62e69dc7"
-      },
-      {
-        "day": {
-          "m_o": "1000",
-          "a_c": "1800"
-        },
-        "date": "01082025",
-        "closed": false,
-        "note": "test final",
-        "_id": "6889eb003b8659cc62e69ec6"
-      },
-      {
-        "day": {
-          "m_o": "1000",
-          "a_c": "1800"
-        },
-        "date": "01082025",
-        "closed": false,
-        "note": "test final",
-        "_id": "6889ecb94a903c5a923bcecd"
-      },
-      {
-        "day": {
-          "m_o": "1000",
-          "a_c": "1800"
-        },
-        "date": "01082025",
-        "closed": false,
-        "note": "test final",
-        "_id": "6889ed864a903c5a923bcfda"
-      }
-    ],
+    "irregular_changes": [],
     "color": [
       "#000000",
       "#FFFFFF"
