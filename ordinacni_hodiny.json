@@ -53,47 +53,7 @@
         "note": ""
       }
     },
-    "irregular_changes": [
-      {
-        "day": {
-          "m_o": "1000"
-        },
-        "date": "01082025",
-        "closed": false,
-        "note": "test final",
-        "_id": "6889e30c3b8659cc62e69e05"
-      },
-      {
-        "day": {
-          "m_o": "1000",
-          "a_c": "1800"
-        },
-        "date": "01082025",
-        "closed": false,
-        "note": "test final",
-        "_id": "6889eb003b8659cc62e69f0c"
-      },
-      {
-        "day": {
-          "m_o": "1000",
-          "a_c": "1800"
-        },
-        "date": "01082025",
-        "closed": false,
-        "note": "test final",
-        "_id": "6889ecb94a903c5a923bcf1b"
-      },
-      {
-        "day": {
-          "m_o": "1000",
-          "a_c": "1800"
-        },
-        "date": "01082025",
-        "closed": false,
-        "note": "test final",
-        "_id": "6889ed864a903c5a923bd030"
-      }
-    ],
+    "irregular_changes": [],
     "color": [
       "#000000",
       "#FFFFFF"
