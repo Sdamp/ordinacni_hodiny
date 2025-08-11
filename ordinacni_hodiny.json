@@ -53,18 +53,7 @@
         "note": ""
       }
     },
-    "irregular_changes": [
-      {
-        "day": {
-          "m_o": "0539",
-          "a_c": "1622"
-        },
-        "date": "04082025",
-        "closed": false,
-        "note": "test duplicitni 2",
-        "_id": "688a2acd13a9480e0f2591d3"
-      }
-    ],
+    "irregular_changes": [],
     "color": [
       "#000000",
       "#FFFFFF"
@@ -191,19 +180,7 @@
         "_id": "68872dbd1bd3b2f8df9b0b88"
       }
     },
-    "irregular_changes": [
-      {
-        "day": {
-          "m_o": "0947",
-          "a_c": "1547",
-          "_id": "68872b193ed008e092210635"
-        },
-        "date": "31072025",
-        "closed": false,
-        "note": "lol",
-        "_id": "68872b193ed008e092210634"
-      }
-    ],
+    "irregular_changes": [],
     "color": [
       "#000000",
       "#FFFFFF"
@@ -388,18 +365,6 @@
         "closed": true,
         "note": "test",
         "_id": "6889d2eab282adeb3eae3d8c"
-      },
-      {
-        "date": "01082025",
-        "closed": true,
-        "note": "test",
-        "_id": "6889d2b9b282adeb3eae3d55"
-      },
-      {
-        "date": "02082025",
-        "closed": true,
-        "note": "test git",
-        "_id": "6889edd54a903c5a923bd0d1"
       }
     ],
     "color": [
@@ -475,25 +440,7 @@
         "_id": "688732fef99f9b2793ab4015"
       }
     },
-    "irregular_changes": [
-      {
-        "date": "02082025",
-        "closed": true,
-        "note": "fghj",
-        "_id": "687a2957aa9a19a3cc9533ab"
-      },
-      {
-        "day": {
-          "m_o": "1000",
-          "a_c": "1500",
-          "_id": "68872e181bd3b2f8df9b0bcb"
-        },
-        "date": "30072025",
-        "closed": false,
-        "note": "gjh",
-        "_id": "68872e181bd3b2f8df9b0bca"
-      }
-    ],
+    "irregular_changes": [],
     "color": [
       "#000000",
       "#FFFFFF"
@@ -567,47 +514,7 @@
         "_id": "6888863d5a129896cd8648d4"
       }
     },
-    "irregular_changes": [
-      {
-        "day": {
-          "m_o": "1000"
-        },
-        "date": "01082025",
-        "closed": false,
-        "note": "test final",
-        "_id": "6889e30c3b8659cc62e69de4"
-      },
-      {
-        "day": {
-          "m_o": "1000",
-          "a_c": "1800"
-        },
-        "date": "01082025",
-        "closed": false,
-        "note": "test final",
-        "_id": "6889eb003b8659cc62e69ee7"
-      },
-      {
-        "day": {
-          "m_o": "1000",
-          "a_c": "1800"
-        },
-        "date": "01082025",
-        "closed": false,
-        "note": "test final",
-        "_id": "6889ecb94a903c5a923bcef2"
-      },
-      {
-        "day": {
-          "m_o": "1000",
-          "a_c": "1800"
-        },
-        "date": "01082025",
-        "closed": false,
-        "note": "test final",
-        "_id": "6889ed864a903c5a923bd003"
-      }
-    ],
+    "irregular_changes": [],
     "color": [
       "#000000",
       "#FFFFFF"
