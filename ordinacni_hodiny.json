@@ -53,7 +53,14 @@
         "note": ""
       }
     },
-    "irregular_changes": [],
+    "irregular_changes": [
+      {
+        "date": "15082025",
+        "closed": true,
+        "note": "test pro jen jednu z nekolika upload zmeny",
+        "_id": "6899cc4b86100365c4ff8591"
+      }
+    ],
     "color": [
       "#000000",
       "#FFFFFF"
