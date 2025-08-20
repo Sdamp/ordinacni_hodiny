@@ -75,10 +75,14 @@
         "_id": "68a5e11211940965ddb47ee5"
       },
       {
+        "day": {
+          "m_o": "0700",
+          "a_c": "1500"
+        },
         "date": "05102025",
-        "closed": true,
-        "note": "test_1908_8",
-        "_id": "68a5e6ca11940965ddb48cf0"
+        "closed": false,
+        "note": "test_1908_9",
+        "_id": "68a5e6ff11940965ddb48f47"
       }
     ],
     "color": [
