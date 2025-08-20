@@ -534,7 +534,14 @@
         "_id": "6888863d5a129896cd8648d4"
       }
     },
-    "irregular_changes": [],
+    "irregular_changes": [
+      {
+        "date": "21092025",
+        "closed": true,
+        "note": "test_1908_13",
+        "_id": "68a5eb9a11940965ddb49626"
+      }
+    ],
     "color": [
       "#000000",
       "#FFFFFF"
