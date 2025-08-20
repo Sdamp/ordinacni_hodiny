@@ -55,22 +55,14 @@
     },
     "irregular_changes": [
       {
-        "date": "15082025",
-        "closed": true,
-        "note": "test pro jen jednu z nekolika upload zmeny",
-        "_id": "6899cc4b86100365c4ff8591"
-      },
-      {
         "day": {
-          "m_o": "0630",
-          "m_c": "1030",
-          "a_o": "1100",
-          "a_c": "1700"
+          "m_o": "0832",
+          "a_c": "1432"
         },
-        "date": "18082025",
+        "date": "23082025",
         "closed": false,
-        "note": "test_11.8._1",
-        "_id": "6899dc6a86100365c4ff8aac"
+        "note": "test_1908_1",
+        "_id": "68a5a470247202214ae8dedc"
       }
     ],
     "color": [
@@ -378,14 +370,7 @@
         "note": ""
       }
     },
-    "irregular_changes": [
-      {
-        "date": "17082025",
-        "closed": true,
-        "note": "test",
-        "_id": "6889d2eab282adeb3eae3d8c"
-      }
-    ],
+    "irregular_changes": [],
     "color": [
       "#000000",
       "#FFFFFF"
@@ -533,20 +518,7 @@
         "_id": "6888863d5a129896cd8648d4"
       }
     },
-    "irregular_changes": [
-      {
-        "day": {
-          "m_o": "0630",
-          "m_c": "1030",
-          "a_o": "1100",
-          "a_c": "1700"
-        },
-        "date": "18082025",
-        "closed": false,
-        "note": "test_11.8._1",
-        "_id": "6899dc6a86100365c4ff8ad3"
-      }
-    ],
+    "irregular_changes": [],
     "color": [
       "#000000",
       "#FFFFFF"
