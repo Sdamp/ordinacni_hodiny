@@ -73,6 +73,16 @@
         "closed": false,
         "note": "test_1908_2",
         "_id": "68a5e11211940965ddb47ee5"
+      },
+      {
+        "day": {
+          "m_o": "0700",
+          "a_c": "1500"
+        },
+        "date": "05102025",
+        "closed": false,
+        "note": "test_1908_4",
+        "_id": "68a5e26311940965ddb47ff4"
       }
     ],
     "color": [
