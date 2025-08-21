@@ -1,9 +1,9 @@
 {
-  "exportDate": "2025-08-21T11:42:16.246Z",
+  "exportDate": "2025-08-21T11:52:50.325Z",
   "premises": [
     {
       "id": "12924351",
-      "ic": "2443198",
+      "ic": 2443198,
       "name": "Diabetologie - Sdružená ambulantní péče Pardubice s.r.o.",
       "address": {
         "gps": {
@@ -19,7 +19,7 @@
     },
     {
       "id": "13770302",
-      "ic": "28826060",
+      "ic": 28826060,
       "name": "Nefrologie - Sdružená ambulantní péče Vysočina s.r.o.",
       "address": {
         "gps": {
