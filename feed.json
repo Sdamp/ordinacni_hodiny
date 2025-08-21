@@ -1,5 +1,5 @@
 {
-  "exportDate": "2025-08-21T11:37:07.537Z",
+  "exportDate": "2025-08-21T11:42:16.246Z",
   "premises": [
     {
       "id": "12924351",
@@ -7,8 +7,8 @@
       "name": "Diabetologie - Sdružená ambulantní péče Pardubice s.r.o.",
       "address": {
         "gps": {
-          "latitude": "49.7660019",
-          "longitude": "15.90153"
+          "latitude": 49.7660019,
+          "longitude": 15.90153
         },
         "city": "Hlinsko",
         "street": "Nádražní",
@@ -23,8 +23,8 @@
       "name": "Nefrologie - Sdružená ambulantní péče Vysočina s.r.o.",
       "address": {
         "gps": {
-          "latitude": "49.7169028",
-          "longitude": "15.6711586"
+          "latitude": 49.7169028,
+          "longitude": 15.6711586
         },
         "city": "Chotěboř",
         "street": "Legií",
