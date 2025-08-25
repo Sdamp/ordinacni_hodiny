@@ -1,547 +1,59 @@
 [
   {
     "town": "Chotěboř-Mcentrum",
-    "office": "Tělovýchovné lékařství",
-    "regular_hours": {
-      "mon": {
-        "m_o": "0730",
-        "m_c": "1200",
-        "a_o": "1300",
-        "a_c": "1630",
-        "note": ""
-      },
-      "tue": {
-        "m_o": "0800",
-        "m_c": "1200",
-        "a_o": "1330",
-        "a_c": "1700",
-        "note": ""
-      },
-      "wed": {
-        "m_o": "0700",
-        "m_c": "1130",
-        "a_o": "1230",
-        "a_c": "1600",
-        "note": ""
-      },
-      "thu": {
-        "m_o": "0800",
-        "m_c": "1200",
-        "a_o": "1300",
-        "a_c": "1500",
-        "note": ""
-      },
-      "fri": {
-        "m_o": "0800",
-        "m_c": "1100",
-        "a_o": "1200",
-        "a_c": "1400",
-        "note": ""
-      },
-      "sat": {
-        "m_o": "",
-        "m_c": "",
-        "a_o": "",
-        "a_c": "",
-        "note": ""
-      },
-      "sun": {
-        "m_o": "",
-        "m_c": "",
-        "a_o": "",
-        "a_c": "",
-        "note": ""
-      }
-    },
-    "irregular_changes": [
-      {
-        "day": {
-          "m_o": "0851",
-          "a_c": "1851"
-        },
-        "date": "07092025",
-        "closed": false,
-        "note": "test_1908_2",
-        "_id": "68a5e11211940965ddb47ee5"
-      },
-      {
-        "date": "05102025",
-        "closed": true,
-        "note": "test_1908_12",
-        "_id": "68a5eb4611940965ddb49576"
-      }
-    ],
-    "color": [
-      "#000000",
-      "#FFFFFF"
-    ]
-  },
-  {
-    "town": "Hlinsko",
-    "office": "Nutriční terapie",
-    "regular_hours": {
-      "mon": {
-        "m_o": "0800",
-        "m_c": "1200",
-        "a_o": "1300",
-        "a_c": "1700",
-        "note": "",
-        "_id": "6874fba0cba5c70534830934"
-      },
-      "tue": {
-        "m_o": "1521",
-        "a_c": "1821",
-        "note": "",
-        "_id": "6874fba0cba5c70534830935"
-      },
-      "wed": {
-        "m_o": "0405",
-        "a_c": "1705",
-        "note": "",
-        "_id": "6874fba0cba5c70534830936"
-      },
-      "thu": {
-        "m_o": "1000",
-        "m_c": "1200",
-        "a_o": "1300",
-        "a_c": "1700",
-        "note": "",
-        "_id": "6874fba0cba5c70534830937"
-      },
-      "fri": {
-        "m_o": "0800",
-        "a_c": "1200",
-        "note": "obed",
-        "_id": "6874fba0cba5c70534830938"
-      },
-      "sat": {
-        "note": "",
-        "_id": "6874fba0cba5c70534830939"
-      },
-      "sun": {
-        "note": "",
-        "_id": "6874fba0cba5c7053483093a"
-      }
-    },
-    "irregular_changes": [],
-    "color": [
-      "#000000",
-      "#FFFFFF"
-    ]
-  },
-  {
-    "town": "Chotěboř-Poliklinika",
-    "office": "Diabetologie",
-    "regular_hours": {
-      "mon": {
-        "closed": false,
-        "m_o": "0700",
-        "m_c": "1200",
-        "a_o": "1300",
-        "a_c": "1530",
-        "note": "",
-        "_id": "68872dbd1bd3b2f8df9b0b82"
-      },
-      "tue": {
-        "closed": false,
-        "m_o": "0800",
-        "m_c": "1200",
-        "a_o": "1300",
-        "a_c": "1600",
-        "note": "",
-        "_id": "68872dbd1bd3b2f8df9b0b83"
-      },
-      "wed": {
-        "closed": false,
-        "m_o": "0900",
-        "m_c": "1200",
-        "a_o": "1230",
-        "a_c": "1500",
-        "note": "",
-        "_id": "68872dbd1bd3b2f8df9b0b84"
-      },
-      "thu": {
-        "closed": false,
-        "m_o": "0800",
-        "m_c": "",
-        "a_o": "",
-        "a_c": "1200",
-        "note": "",
-        "_id": "68872dbd1bd3b2f8df9b0b85"
-      },
-      "fri": {
-        "closed": false,
-        "m_o": "0800",
-        "m_c": "",
-        "a_o": "",
-        "a_c": "1100",
-        "note": "",
-        "_id": "68872dbd1bd3b2f8df9b0b86"
-      },
-      "sat": {
-        "closed": true,
-        "m_o": "",
-        "m_c": "",
-        "a_o": "",
-        "a_c": "",
-        "note": "",
-        "_id": "68872dbd1bd3b2f8df9b0b87"
-      },
-      "sun": {
-        "closed": true,
-        "m_o": "",
-        "m_c": "",
-        "a_o": "",
-        "a_c": "",
-        "note": "",
-        "_id": "68872dbd1bd3b2f8df9b0b88"
-      }
-    },
-    "irregular_changes": [],
-    "color": [
-      "#000000",
-      "#FFFFFF"
-    ]
-  },
-  {
-    "town": "Chotěboř-Mcentrum",
-    "office": "Denzitometrie",
-    "regular_hours": {
-      "mon": {
-        "m_o": "0730",
-        "m_c": "1200",
-        "a_o": "1300",
-        "a_c": "1630",
-        "note": ""
-      },
-      "tue": {
-        "m_o": "0800",
-        "m_c": "1200",
-        "a_o": "1330",
-        "a_c": "1700",
-        "note": ""
-      },
-      "wed": {
-        "m_o": "0700",
-        "m_c": "1130",
-        "a_o": "1230",
-        "a_c": "1600",
-        "note": ""
-      },
-      "thu": {
-        "m_o": "0800",
-        "m_c": "1200",
-        "a_o": "1300",
-        "a_c": "1500",
-        "note": ""
-      },
-      "fri": {
-        "m_o": "0800",
-        "m_c": "",
-        "a_o": "",
-        "a_c": "1400",
-        "note": ""
-      },
-      "sat": {
-        "m_o": "0800",
-        "m_c": "",
-        "a_o": "",
-        "a_c": "1500",
-        "note": "jen dokud se nam chce"
-      },
-      "sun": {
-        "m_o": "",
-        "m_c": "",
-        "a_o": "",
-        "a_c": "",
-        "note": ""
-      }
-    },
-    "irregular_changes": [],
-    "color": [
-      "#000000",
-      "#FFFFFF"
-    ]
-  },
-  {
-    "town": "Maleč",
-    "office": "Všeobecný praktický lékař",
-    "regular_hours": {
-      "mon": {
-        "m_o": "0730",
-        "m_c": "1200",
-        "a_o": "1300",
-        "a_c": "1630",
-        "note": "",
-        "_id": "6873b920f5af52f05e058421"
-      },
-      "tue": {
-        "m_o": "0800",
-        "m_c": "1200",
-        "a_o": "1330",
-        "a_c": "1700",
-        "note": "",
-        "_id": "6873b920f5af52f05e058422"
-      },
-      "wed": {
-        "m_o": "0700",
-        "m_c": "1130",
-        "a_o": "1230",
-        "a_c": "1600",
-        "note": "",
-        "_id": "6873b920f5af52f05e058423"
-      },
-      "thu": {
-        "m_o": "0800",
-        "m_c": "1200",
-        "a_o": "1300",
-        "a_c": "1500",
-        "note": "",
-        "_id": "6873b920f5af52f05e058424"
-      },
-      "fri": {
-        "m_o": "0800",
-        "m_c": "1100",
-        "a_o": "1200",
-        "a_c": "1400",
-        "note": "",
-        "_id": "6873b920f5af52f05e058425"
-      },
-      "sat": {
-        "note": "",
-        "_id": "6873b920f5af52f05e058426"
-      },
-      "sun": {
-        "note": "",
-        "_id": "6873b920f5af52f05e058427"
-      }
-    },
-    "irregular_changes": [],
-    "color": [
-      "#000000",
-      "#FFFFFF"
-    ]
-  },
-  {
-    "town": "Kolín",
-    "office": "Endokrinologie",
-    "regular_hours": {
-      "mon": {
-        "m_o": "0830",
-        "m_c": "",
-        "a_o": "",
-        "a_c": "1530",
-        "note": ""
-      },
-      "tue": {
-        "m_o": "0730",
-        "m_c": "1100",
-        "a_o": "1130",
-        "a_c": "1530",
-        "note": ""
-      },
-      "wed": {
-        "m_o": "0730",
-        "m_c": "",
-        "a_o": "",
-        "a_c": "1530",
-        "note": "kolin"
-      },
-      "thu": {
-        "m_o": "",
-        "m_c": "",
-        "a_o": "",
-        "a_c": "",
-        "note": ""
-      },
-      "fri": {
-        "m_o": "",
-        "m_c": "",
-        "a_o": "",
-        "a_c": "",
-        "note": ""
-      },
-      "sat": {
-        "m_o": "",
-        "m_c": "",
-        "a_o": "",
-        "a_c": "",
-        "note": ""
-      },
-      "sun": {
-        "m_o": "",
-        "m_c": "",
-        "a_o": "",
-        "a_c": "",
-        "note": ""
-      }
-    },
-    "irregular_changes": [],
-    "color": [
-      "#000000",
-      "#FFFFFF"
-    ]
-  },
-  {
-    "town": "Hlinsko",
-    "office": "Diabetologie",
-    "regular_hours": {
-      "mon": {
-        "closed": false,
-        "m_o": "1315",
-        "m_c": "",
-        "a_o": "",
-        "a_c": "1515",
-        "note": "",
-        "_id": "688732fef99f9b2793ab400f"
-      },
-      "tue": {
-        "closed": false,
-        "m_o": "0800",
-        "m_c": "0950",
-        "a_o": "1000",
-        "a_c": "1600",
-        "note": "test",
-        "_id": "688732fef99f9b2793ab4010"
-      },
-      "wed": {
-        "closed": true,
-        "m_o": "",
-        "m_c": "",
-        "a_o": "",
-        "a_c": "",
-        "note": "",
-        "_id": "688732fef99f9b2793ab4011"
-      },
-      "thu": {
-        "closed": true,
-        "m_o": "",
-        "m_c": "",
-        "a_o": "",
-        "a_c": "",
-        "note": "",
-        "_id": "688732fef99f9b2793ab4012"
-      },
-      "fri": {
-        "closed": true,
-        "m_o": "",
-        "m_c": "",
-        "a_o": "",
-        "a_c": "",
-        "note": "",
-        "_id": "688732fef99f9b2793ab4013"
-      },
-      "sat": {
-        "closed": true,
-        "m_o": "",
-        "m_c": "",
-        "a_o": "",
-        "a_c": "",
-        "note": "",
-        "_id": "688732fef99f9b2793ab4014"
-      },
-      "sun": {
-        "closed": true,
-        "m_o": "",
-        "m_c": "",
-        "a_o": "",
-        "a_c": "",
-        "note": "",
-        "_id": "688732fef99f9b2793ab4015"
-      }
-    },
-    "irregular_changes": [],
-    "color": [
-      "#000000",
-      "#FFFFFF"
-    ]
-  },
-  {
-    "town": "Chotěboř-Mcentrum",
     "office": "Nefrologie",
     "regular_hours": {
       "mon": {
-        "closed": true,
         "m_o": "",
         "m_c": "",
         "a_o": "",
         "a_c": "",
-        "note": "",
-        "_id": "6888863d5a129896cd8648ce"
+        "note": ""
       },
       "tue": {
-        "closed": false,
         "m_o": "0730",
         "m_c": "",
         "a_o": "",
         "a_c": "1330",
-        "note": "",
-        "_id": "6888863d5a129896cd8648cf"
+        "note": ""
       },
       "wed": {
-        "closed": true,
         "m_o": "",
         "m_c": "",
         "a_o": "",
         "a_c": "",
-        "note": "",
-        "_id": "6888863d5a129896cd8648d0"
+        "note": ""
       },
       "thu": {
-        "closed": true,
         "m_o": "",
         "m_c": "",
         "a_o": "",
         "a_c": "",
-        "note": "",
-        "_id": "6888863d5a129896cd8648d1"
+        "note": ""
       },
       "fri": {
-        "closed": true,
         "m_o": "",
         "m_c": "",
         "a_o": "",
         "a_c": "",
-        "note": "",
-        "_id": "6888863d5a129896cd8648d2"
+        "note": ""
       },
       "sat": {
-        "closed": true,
         "m_o": "",
         "m_c": "",
         "a_o": "",
         "a_c": "",
-        "note": "",
-        "_id": "6888863d5a129896cd8648d3"
+        "note": ""
       },
       "sun": {
-        "closed": true,
         "m_o": "",
         "m_c": "",
         "a_o": "",
         "a_c": "",
-        "note": "",
-        "_id": "6888863d5a129896cd8648d4"
+        "note": ""
       }
     },
-    "irregular_changes": [
-      {
-        "date": "21092025",
-        "closed": true,
-        "note": "test_2308_1",
-        "_id": "68a96e11db6f4dee30dfec6b"
-      },
-      {
-        "day": {
-          "m_o": "0930",
-          "a_c": "1530"
-        },
-        "date": "28082025",
-        "closed": false,
-        "note": "test_2308_2",
-        "_id": "68a96e35db6f4dee30dfecc0"
-      }
-    ],
+    "irregular_changes": [],
     "color": [
       "#000000",
       "#FFFFFF"
