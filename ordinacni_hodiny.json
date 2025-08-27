@@ -62,8 +62,8 @@
       }
     ],
     "color": [
-      "#000000",
-      "#FFFFFF"
+      null,
+      null
     ]
   },
   {
@@ -122,8 +122,8 @@
     },
     "irregular_changes": [],
     "color": [
-      "#000000",
-      "#FFFFFF"
+      "#d75d9e",
+      "#000000"
     ]
   }
 ]
