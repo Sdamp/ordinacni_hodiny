@@ -1,5 +1,5 @@
 {
-  "exportDate": "2025-08-25T20:07:51.262Z",
+  "exportDate": "2025-08-27T08:32:22.226Z",
   "premises": [
     {
       "id": "13770302",
@@ -16,6 +16,22 @@
         "zip": "58301"
       },
       "openingHours": "Tu 07:30-13:30"
+    },
+    {
+      "id": "13770314",
+      "ic": 28826060,
+      "name": "Tělovýchovné lékařství - Sdružená ambulantní péče Vysočina s.r.o.",
+      "address": {
+        "gps": {
+          "latitude": 49.7169028,
+          "longitude": 15.6711586
+        },
+        "city": "Chotěboř",
+        "street": "Legií",
+        "houseNumber": "1851",
+        "zip": "58301"
+      },
+      "openingHours": ""
     }
   ]
 }
