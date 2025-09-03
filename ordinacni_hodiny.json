@@ -118,5 +118,23 @@
       "#d75d9e",
       "#000000"
     ]
+  },
+  {
+    "town": "Maleč",
+    "office": "Všeobecný praktický lékař",
+    "regular_hours": {
+      "mon": {},
+      "tue": {},
+      "wed": {},
+      "thu": {},
+      "fri": {},
+      "sat": {},
+      "sun": {}
+    },
+    "irregular_changes": [],
+    "color": [
+      "#000000",
+      "#FFFFFF"
+    ]
   }
 ]
