@@ -1,5 +1,5 @@
 {
-  "exportDate": "2025-09-09T09:06:39.118Z",
+  "exportDate": "2025-09-09T09:09:12.568Z",
   "premises": [
     {
       "id": "13770302",
@@ -207,6 +207,22 @@
         "zip": "58301"
       },
       "openingHours": "Tu 13:00-19:00"
+    },
+    {
+      "id": "13770011",
+      "ic": 28826060,
+      "name": "Neurologie  - Sdružená ambulantní péče Vysočina s.r.o.",
+      "address": {
+        "gps": {
+          "latitude": 49.716903,
+          "longitude": 15.671159
+        },
+        "city": "Chotěboř",
+        "street": "Legií",
+        "houseNumber": "1851",
+        "zip": "58301"
+      },
+      "openingHours": ""
     }
   ]
 }
