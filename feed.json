@@ -1,5 +1,5 @@
 {
-  "exportDate": "2025-09-09T09:21:12.632Z",
+  "exportDate": "2025-09-09T11:52:34.422Z",
   "premises": [
     {
       "id": "13770302",
@@ -285,6 +285,22 @@
         "street": "Legií",
         "houseNumber": "1851",
         "zip": "58301"
+      },
+      "openingHours": ""
+    },
+    {
+      "id": "12924351",
+      "ic": 2443198,
+      "name": "Diabetologie - Sdružená ambulantní péče Pardubice s.r.o.",
+      "address": {
+        "gps": {
+          "latitude": 49.766002,
+          "longitude": 15.901531
+        },
+        "city": "Hlinsko",
+        "street": "Nádražní",
+        "houseNumber": "548",
+        "zip": "53901"
       },
       "openingHours": ""
     }
