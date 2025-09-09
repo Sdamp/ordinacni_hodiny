@@ -1,5 +1,5 @@
 {
-  "exportDate": "2025-09-09T09:19:25.558Z",
+  "exportDate": "2025-09-09T09:21:12.632Z",
   "premises": [
     {
       "id": "13770302",
@@ -260,6 +260,22 @@
       "id": "13770311",
       "ic": 28826060,
       "name": "Podiatrie - Sdružená ambulantní péče Vysočina s.r.o.",
+      "address": {
+        "gps": {
+          "latitude": 49.716903,
+          "longitude": 15.671159
+        },
+        "city": "Chotěboř",
+        "street": "Legií",
+        "houseNumber": "1851",
+        "zip": "58301"
+      },
+      "openingHours": ""
+    },
+    {
+      "id": "13770029",
+      "ic": 28826060,
+      "name": "Psychoterapie - Sdružená ambulantní péče Vysočina s.r.o.",
       "address": {
         "gps": {
           "latitude": 49.716903,
