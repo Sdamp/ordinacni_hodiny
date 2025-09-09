@@ -1,5 +1,5 @@
 {
-  "exportDate": "2025-09-09T09:15:55.533Z",
+  "exportDate": "2025-09-09T09:19:25.558Z",
   "premises": [
     {
       "id": "13770302",
@@ -244,6 +244,22 @@
       "id": "13770308",
       "ic": 28826060,
       "name": "Obezitologie - Sdružená ambulantní péče Vysočina s.r.o.",
+      "address": {
+        "gps": {
+          "latitude": 49.716903,
+          "longitude": 15.671159
+        },
+        "city": "Chotěboř",
+        "street": "Legií",
+        "houseNumber": "1851",
+        "zip": "58301"
+      },
+      "openingHours": ""
+    },
+    {
+      "id": "13770311",
+      "ic": 28826060,
+      "name": "Podiatrie - Sdružená ambulantní péče Vysočina s.r.o.",
       "address": {
         "gps": {
           "latitude": 49.716903,
