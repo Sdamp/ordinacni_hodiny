@@ -1,5 +1,5 @@
 {
-  "exportDate": "2025-09-09T08:47:34.071Z",
+  "exportDate": "2025-09-09T08:51:24.406Z",
   "premises": [
     {
       "id": "13770302",
@@ -125,6 +125,22 @@
         "street": "Plynárenská",
         "houseNumber": "671",
         "zip": "28002"
+      },
+      "openingHours": ""
+    },
+    {
+      "id": "13292736",
+      "ic": 28826060,
+      "name": "Diabetologie - Sdružená ambulantní péče Vysočina s.r.o.",
+      "address": {
+        "gps": {
+          "latitude": 49.716903,
+          "longitude": 15.671159
+        },
+        "city": "Chotěboř",
+        "street": "Legií",
+        "houseNumber": "1851",
+        "zip": "58301"
       },
       "openingHours": ""
     }
