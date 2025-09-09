@@ -832,5 +832,23 @@
       "#000000",
       "#FFFFFF"
     ]
+  },
+  {
+    "town": "Chotěboř-Mcentrum",
+    "office": "Obezitologie",
+    "regular_hours": {
+      "mon": {},
+      "tue": {},
+      "wed": {},
+      "thu": {},
+      "fri": {},
+      "sat": {},
+      "sun": {}
+    },
+    "irregular_changes": [],
+    "color": [
+      "#000000",
+      "#FFFFFF"
+    ]
   }
 ]
