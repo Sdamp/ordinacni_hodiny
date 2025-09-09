@@ -1,5 +1,5 @@
 {
-  "exportDate": "2025-09-09T12:01:04.809Z",
+  "exportDate": "2025-09-09T12:03:05.816Z",
   "premises": [
     {
       "id": "13770302",
@@ -335,6 +335,22 @@
         "zip": "53901"
       },
       "openingHours": "Mo 07:00-13:00; Tu 07:00-12:00; Th 07:00-15:00"
+    },
+    {
+      "id": "13770080",
+      "ic": 2443198,
+      "name": "Nutriční terapie - Sdružená ambulantní péče Pardubice s.r.o.",
+      "address": {
+        "gps": {
+          "latitude": 49.766002,
+          "longitude": 15.901531
+        },
+        "city": "Hlinsko",
+        "street": "Nádražní",
+        "houseNumber": "548",
+        "zip": "53901"
+      },
+      "openingHours": ""
     }
   ]
 }
