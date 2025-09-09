@@ -1,5 +1,5 @@
 {
-  "exportDate": "2025-09-09T09:10:28.443Z",
+  "exportDate": "2025-09-09T09:12:25.737Z",
   "premises": [
     {
       "id": "13770302",
@@ -223,6 +223,22 @@
         "zip": "58301"
       },
       "openingHours": "Mo 06:30-11:30,12:00-16:00; Tu 08:00-11:30,12:00-13:00; We 13:00-18:00; Th 08:00-11:30,12:00-13:00; Fr 06:30-12:00,12:30-14:00"
+    },
+    {
+      "id": "13770026",
+      "ic": 28826060,
+      "name": "Nutriční terapie - Sdružená ambulantní péče Vysočina s.r.o.",
+      "address": {
+        "gps": {
+          "latitude": 49.716903,
+          "longitude": 15.671159
+        },
+        "city": "Chotěboř",
+        "street": "Legií",
+        "houseNumber": "1851",
+        "zip": "58301"
+      },
+      "openingHours": ""
     }
   ]
 }
