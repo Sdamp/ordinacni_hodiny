@@ -1,5 +1,5 @@
 {
-  "exportDate": "2025-09-09T08:44:05.978Z",
+  "exportDate": "2025-09-09T08:47:34.071Z",
   "premises": [
     {
       "id": "13770302",
@@ -111,6 +111,22 @@
         "zip": "28002"
       },
       "openingHours": "Tu 08:00-10:00; Th 08:00-10:00; Fr 07:00-15:00"
+    },
+    {
+      "id": "13770056",
+      "ic": 28826060,
+      "name": "Nutriční terapie - Sdružená ambulantní péče Vysočina s.r.o.",
+      "address": {
+        "gps": {
+          "latitude": 50.021937,
+          "longitude": 15.211384
+        },
+        "city": "Kolín",
+        "street": "Plynárenská",
+        "houseNumber": "671",
+        "zip": "28002"
+      },
+      "openingHours": ""
     }
   ]
 }
