@@ -1,5 +1,5 @@
 {
-  "exportDate": "2025-09-03T14:52:50.538Z",
+  "exportDate": "2025-09-09T08:11:29.116Z",
   "premises": [
     {
       "id": "13770302",
@@ -43,9 +43,24 @@
           "longitude": 15.67234
         },
         "city": "Maleč",
-        "street": "",
         "houseNumber": "100",
         "zip": "58276"
+      },
+      "openingHours": ""
+    },
+    {
+      "id": "13292742",
+      "ic": 28826060,
+      "name": "Diabetologie - Sdružená ambulantní péče Vysočina s.r.o.",
+      "address": {
+        "gps": {
+          "latitude": 49.71683,
+          "longitude": 15.67156
+        },
+        "city": "Chotěboř",
+        "street": "Jiráskova",
+        "houseNumber": "669",
+        "zip": "58301"
       },
       "openingHours": ""
     }

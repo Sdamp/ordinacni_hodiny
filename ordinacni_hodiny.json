@@ -134,6 +134,24 @@
     "irregular_changes": [],
     "color": [
       "#000000",
+      "#ffffff"
+    ]
+  },
+  {
+    "town": "Chotěboř-Poliklinika",
+    "office": "Diabetologie",
+    "regular_hours": {
+      "mon": {},
+      "tue": {},
+      "wed": {},
+      "thu": {},
+      "fri": {},
+      "sat": {},
+      "sun": {}
+    },
+    "irregular_changes": [],
+    "color": [
+      "#000000",
       "#FFFFFF"
     ]
   }
