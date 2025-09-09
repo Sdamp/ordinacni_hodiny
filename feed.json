@@ -1,5 +1,5 @@
 {
-  "exportDate": "2025-09-09T08:52:06.686Z",
+  "exportDate": "2025-09-09T08:55:53.538Z",
   "premises": [
     {
       "id": "13770302",
@@ -143,6 +143,22 @@
         "zip": "58301"
       },
       "openingHours": "Mo 11:00-15:00; Tu 07:00-12:00; We 07:00-14:30; Th 07:00-16:30; Fr 07:00-16:30"
+    },
+    {
+      "id": "13770239",
+      "ic": 28826060,
+      "name": "Denzitometrie - Sdružená ambulantní péče Vysočina s.r.o.",
+      "address": {
+        "gps": {
+          "latitude": 49.716903,
+          "longitude": 15.671159
+        },
+        "city": "Chotěboř",
+        "street": "Legií",
+        "houseNumber": "1851",
+        "zip": "58301"
+      },
+      "openingHours": ""
     }
   ]
 }
