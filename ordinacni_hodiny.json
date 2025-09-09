@@ -279,13 +279,55 @@
     "town": "Kolín",
     "office": "Diabetologie",
     "regular_hours": {
-      "mon": {},
-      "tue": {},
-      "wed": {},
-      "thu": {},
-      "fri": {},
-      "sat": {},
-      "sun": {}
+      "mon": {
+        "m_o": "",
+        "m_c": "",
+        "a_o": "",
+        "a_c": "",
+        "note": ""
+      },
+      "tue": {
+        "m_o": "0800",
+        "m_c": "",
+        "a_o": "",
+        "a_c": "1000",
+        "note": "odběry, objednaní"
+      },
+      "wed": {
+        "m_o": "",
+        "m_c": "",
+        "a_o": "",
+        "a_c": "",
+        "note": ""
+      },
+      "thu": {
+        "m_o": "0800",
+        "m_c": "",
+        "a_o": "",
+        "a_c": "1000",
+        "note": "odběry, objednaní"
+      },
+      "fri": {
+        "m_o": "0700",
+        "m_c": "",
+        "a_o": "",
+        "a_c": "1500",
+        "note": ""
+      },
+      "sat": {
+        "m_o": "",
+        "m_c": "",
+        "a_o": "",
+        "a_c": "",
+        "note": ""
+      },
+      "sun": {
+        "m_o": "",
+        "m_c": "",
+        "a_o": "",
+        "a_c": "",
+        "note": ""
+      }
     },
     "irregular_changes": [],
     "color": [
