@@ -1168,5 +1168,23 @@
       "#000000",
       "#FFFFFF"
     ]
+  },
+  {
+    "town": "Hlinsko",
+    "office": "Očkovací centrum",
+    "regular_hours": {
+      "mon": {},
+      "tue": {},
+      "wed": {},
+      "thu": {},
+      "fri": {},
+      "sat": {},
+      "sun": {}
+    },
+    "irregular_changes": [],
+    "color": [
+      "#000000",
+      "#FFFFFF"
+    ]
   }
 ]
