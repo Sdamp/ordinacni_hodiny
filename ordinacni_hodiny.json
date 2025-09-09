@@ -993,13 +993,55 @@
     "town": "Hlinsko",
     "office": "Endokrinologie",
     "regular_hours": {
-      "mon": {},
-      "tue": {},
-      "wed": {},
-      "thu": {},
-      "fri": {},
-      "sat": {},
-      "sun": {}
+      "mon": {
+        "m_o": "",
+        "m_c": "",
+        "a_o": "",
+        "a_c": "",
+        "note": ""
+      },
+      "tue": {
+        "m_o": "0700",
+        "m_c": "",
+        "a_o": "",
+        "a_c": "1200",
+        "note": "pouze objednaní"
+      },
+      "wed": {
+        "m_o": "0700",
+        "m_c": "0900",
+        "a_o": "0900",
+        "a_c": "1500",
+        "note": "do 9 akutní případy, poté objednaní"
+      },
+      "thu": {
+        "m_o": "0700",
+        "m_c": "",
+        "a_o": "",
+        "a_c": "1500",
+        "note": "DIA ENDO poradna"
+      },
+      "fri": {
+        "m_o": "0700",
+        "m_c": "1200",
+        "a_o": "1300",
+        "a_c": "1500",
+        "note": "objednaní, administrativa"
+      },
+      "sat": {
+        "m_o": "",
+        "m_c": "",
+        "a_o": "",
+        "a_c": "",
+        "note": ""
+      },
+      "sun": {
+        "m_o": "",
+        "m_c": "",
+        "a_o": "",
+        "a_c": "",
+        "note": ""
+      }
     },
     "irregular_changes": [],
     "color": [
