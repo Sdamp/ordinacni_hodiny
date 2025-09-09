@@ -1,5 +1,5 @@
 {
-  "exportDate": "2025-09-09T09:02:35.141Z",
+  "exportDate": "2025-09-09T09:05:53.137Z",
   "premises": [
     {
       "id": "13770302",
@@ -191,6 +191,22 @@
         "zip": "58301"
       },
       "openingHours": "Mo 06:30-15:00; Tu 06:30-15:00; We 06:30-15:00; Th 06:30-17:30; Fr 06:30-12:00"
+    },
+    {
+      "id": "13769993",
+      "ic": 28826060,
+      "name": "Kardiologie - Sdružená ambulantní péče Vysočina s.r.o.",
+      "address": {
+        "gps": {
+          "latitude": 49.716903,
+          "longitude": 15.671159
+        },
+        "city": "Chotěboř",
+        "street": "Legií",
+        "houseNumber": "1851",
+        "zip": "58301"
+      },
+      "openingHours": ""
     }
   ]
 }
