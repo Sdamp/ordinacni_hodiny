@@ -1,5 +1,5 @@
 {
-  "exportDate": "2025-09-09T08:39:00.290Z",
+  "exportDate": "2025-09-09T08:43:09.577Z",
   "premises": [
     {
       "id": "13770302",
@@ -95,6 +95,22 @@
         "zip": "28002"
       },
       "openingHours": "Tu 08:00-10:00; Th 08:00-10:00; Fr 07:00-15:00"
+    },
+    {
+      "id": "13770323",
+      "ic": 28826060,
+      "name": "Endokrinologie - Sdružená ambulantní péče Vysočina s.r.o.",
+      "address": {
+        "gps": {
+          "latitude": 50.021937,
+          "longitude": 15.211383
+        },
+        "city": "Kolín",
+        "street": "Plynárenská",
+        "houseNumber": "671",
+        "zip": "28002"
+      },
+      "openingHours": ""
     }
   ]
 }
