@@ -1,5 +1,5 @@
 {
-  "exportDate": "2025-09-09T08:59:40.102Z",
+  "exportDate": "2025-09-09T09:01:49.031Z",
   "premises": [
     {
       "id": "13770302",
@@ -175,6 +175,22 @@
         "zip": "58301"
       },
       "openingHours": "Mo 11:00-15:00; Tu 07:00-12:00; We 08:00-14:30; Th 08:00-16:30; Fr 08:00-12:00"
+    },
+    {
+      "id": "13769981",
+      "ic": 28826060,
+      "name": "Fyzioterapie - Sdružená ambulantní péče Vysočina s.r.o.",
+      "address": {
+        "gps": {
+          "latitude": 49.716903,
+          "longitude": 15.671159
+        },
+        "city": "Chotěboř",
+        "street": "Legií",
+        "houseNumber": "1851",
+        "zip": "58301"
+      },
+      "openingHours": ""
     }
   ]
 }
