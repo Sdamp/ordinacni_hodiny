@@ -1,5 +1,5 @@
 {
-  "exportDate": "2025-09-09T08:56:24.415Z",
+  "exportDate": "2025-09-09T08:59:00.554Z",
   "premises": [
     {
       "id": "13770302",
@@ -159,6 +159,22 @@
         "zip": "58301"
       },
       "openingHours": "Mo 07:00-12:00; Tu 07:00-12:00; We 07:00-12:00; Th 07:00-12:00; Fr 07:00-12:00"
+    },
+    {
+      "id": "13770251",
+      "ic": 28826060,
+      "name": "Endokrinologie - Sdružená ambulantní péče Vysočina s.r.o.",
+      "address": {
+        "gps": {
+          "latitude": 49.716903,
+          "longitude": 15.671159
+        },
+        "city": "Chotěboř",
+        "street": "Legií",
+        "houseNumber": "1851",
+        "zip": "58301"
+      },
+      "openingHours": ""
     }
   ]
 }
