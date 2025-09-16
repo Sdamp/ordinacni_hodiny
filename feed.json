@@ -1,5 +1,5 @@
 {
-  "exportDate": "2025-09-16T12:31:16.279Z",
+  "exportDate": "2025-09-16T12:33:44.509Z",
   "premises": [
     {
       "id": "13770302",
@@ -32,21 +32,6 @@
         "zip": "58301"
       },
       "openingHours": "Mo 06:30-15:30; Th 06:30-17:30"
-    },
-    {
-      "id": "13770044",
-      "ic": 28826060,
-      "name": "Všeobecný praktický lékař - Sdružená ambulantní péče Vysočina s.r.o.",
-      "address": {
-        "gps": {
-          "latitude": 49.774089,
-          "longitude": 15.67234
-        },
-        "city": "Maleč",
-        "houseNumber": "100",
-        "zip": "58276"
-      },
-      "openingHours": ""
     },
     {
       "id": "13292742",
@@ -111,22 +96,6 @@
         "zip": "28002"
       },
       "openingHours": "Tu 08:00-10:00; Th 08:00-10:00; Fr 07:00-15:00"
-    },
-    {
-      "id": "13770056",
-      "ic": 28826060,
-      "name": "Nutriční terapie - Sdružená ambulantní péče Vysočina s.r.o.",
-      "address": {
-        "gps": {
-          "latitude": 50.021937,
-          "longitude": 15.211384
-        },
-        "city": "Kolín",
-        "street": "Plynárenská",
-        "houseNumber": "671",
-        "zip": "28002"
-      },
-      "openingHours": ""
     },
     {
       "id": "13292736",
@@ -241,54 +210,6 @@
       "openingHours": "Mo 07:00-15:30; We 07:00-15:30; Th 07:00-15:30; Fr 07:00-15:30"
     },
     {
-      "id": "13770308",
-      "ic": 28826060,
-      "name": "Obezitologie - Sdružená ambulantní péče Vysočina s.r.o.",
-      "address": {
-        "gps": {
-          "latitude": 49.716903,
-          "longitude": 15.671159
-        },
-        "city": "Chotěboř",
-        "street": "Legií",
-        "houseNumber": "1851",
-        "zip": "58301"
-      },
-      "openingHours": ""
-    },
-    {
-      "id": "13770311",
-      "ic": 28826060,
-      "name": "Podiatrie - Sdružená ambulantní péče Vysočina s.r.o.",
-      "address": {
-        "gps": {
-          "latitude": 49.716903,
-          "longitude": 15.671159
-        },
-        "city": "Chotěboř",
-        "street": "Legií",
-        "houseNumber": "1851",
-        "zip": "58301"
-      },
-      "openingHours": ""
-    },
-    {
-      "id": "13770029",
-      "ic": 28826060,
-      "name": "Psychoterapie - Sdružená ambulantní péče Vysočina s.r.o.",
-      "address": {
-        "gps": {
-          "latitude": 49.716903,
-          "longitude": 15.671159
-        },
-        "city": "Chotěboř",
-        "street": "Legií",
-        "houseNumber": "1851",
-        "zip": "58301"
-      },
-      "openingHours": ""
-    },
-    {
       "id": "12924351",
       "ic": 2443198,
       "name": "Diabetologie - Sdružená ambulantní péče Pardubice s.r.o.",
@@ -337,22 +258,6 @@
       "openingHours": "Mo 07:00-13:00; Tu 07:00-12:00; Th 07:00-15:00"
     },
     {
-      "id": "13770080",
-      "ic": 2443198,
-      "name": "Nutriční terapie - Sdružená ambulantní péče Pardubice s.r.o.",
-      "address": {
-        "gps": {
-          "latitude": 49.766002,
-          "longitude": 15.901531
-        },
-        "city": "Hlinsko",
-        "street": "Nádražní",
-        "houseNumber": "548",
-        "zip": "53901"
-      },
-      "openingHours": ""
-    },
-    {
       "id": "13770347",
       "ic": 2443198,
       "name": "Očkovací centrum - Sdružená ambulantní péče Pardubice s.r.o.",
@@ -383,38 +288,6 @@
         "zip": "53901"
       },
       "openingHours": "Mo 07:00-15:30; Tu 07:00-15:30; We 07:00-15:30; Th 07:07-18:30; Fr 07:00-15:30"
-    },
-    {
-      "id": "13770362",
-      "ic": 2443198,
-      "name": "Podiatrie - Sdružená ambulantní péče Pardubice s.r.o.",
-      "address": {
-        "gps": {
-          "latitude": 49.766002,
-          "longitude": 15.901531
-        },
-        "city": "Hlinsko",
-        "street": "Nádražní",
-        "houseNumber": "548",
-        "zip": "53901"
-      },
-      "openingHours": ""
-    },
-    {
-      "id": "13770086",
-      "ic": 2443198,
-      "name": "Psychoterapie - Sdružená ambulantní péče Pardubice s.r.o.",
-      "address": {
-        "gps": {
-          "latitude": 49.766002,
-          "longitude": 15.901531
-        },
-        "city": "Hlinsko",
-        "street": "Nádražní",
-        "houseNumber": "548",
-        "zip": "53901"
-      },
-      "openingHours": ""
     },
     {
       "id": "13770365",
