@@ -55,14 +55,10 @@
     },
     "irregular_changes": [
       {
-        "day": {
-          "m_o": "0730",
-          "a_c": "1200"
-        },
-        "date": "23092025",
-        "closed": false,
-        "note": "zastup vilimov",
-        "_id": "68ca687f64d941dae77c28e5"
+        "date": "01102025",
+        "closed": true,
+        "note": "DOVOLENÁ",
+        "_id": "68dbbe358b975747f838e66f"
       }
     ],
     "color": [
