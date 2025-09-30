@@ -53,14 +53,7 @@
         "note": ""
       }
     },
-    "irregular_changes": [
-      {
-        "date": "01102025",
-        "closed": true,
-        "note": "DOVOLENÁ",
-        "_id": "68dbbe358b975747f838e66f"
-      }
-    ],
+    "irregular_changes": [],
     "color": [
       "#d75d9e",
       "#000000"
