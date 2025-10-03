@@ -18,7 +18,7 @@ async function loadData() {
   const jsonData = await response.json();
 
   if (!townParam || !officeParam) {
-    container.innerHTML = `<p style="color: red;">❌ Prosím, zadejte město a ordinaci v URL(např. ?mesto=chotebor_m&ordinace=sportovko).</p>`;
+    container.innerHTML = `<p style="color: red;">❌ Prosím, zadejte město a ordinaci v URL(např. ?mesto=Chotěboř-Mcentrum&ordinace=Diabetologie).</p>`;
     return;
   }
 
@@ -116,7 +116,7 @@ async function loadData() {
       }
     }
 
-    currHtml += `</div>`;
+    currHtml += `<div style="height: 50px"/></div>`;
     container.innerHTML = currHtml;
   } catch (error) {
     container.innerHTML = `<p style="color: red;">❌ Chyba při načítání dat.</p>`;
