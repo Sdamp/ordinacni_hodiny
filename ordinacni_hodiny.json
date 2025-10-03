@@ -261,16 +261,6 @@
         "closed": false,
         "note": "test2",
         "_id": "68e0280e8b975747f83df235"
-      },
-      {
-        "day": {
-          "m_o": "2145",
-          "a_c": "2245"
-        },
-        "date": "12102025",
-        "closed": false,
-        "note": "test2",
-        "_id": "68e028118b975747f83df249"
       }
     ],
     "color": [
