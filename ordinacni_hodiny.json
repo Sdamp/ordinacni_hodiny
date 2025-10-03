@@ -191,18 +191,7 @@
         "note": ""
       }
     },
-    "irregular_changes": [
-      {
-        "day": {
-          "m_o": "2145",
-          "a_c": "2245"
-        },
-        "date": "10102025",
-        "closed": false,
-        "note": "test2",
-        "_id": "68e0280a8b975747f83df223"
-      }
-    ],
+    "irregular_changes": [],
     "color": [
       "#009e7c",
       "#000000"
