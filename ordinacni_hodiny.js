@@ -36,6 +36,11 @@ async function loadData() {
     let index = 0;
     const bgColor = matchedRecord.color ? matchedRecord.color[0] : "#f5f5f5";
 
+    // Kontrola, zda má ordinace všechny dny zavřeno
+    const hasAnyOpenDay = Object.entries(matchedRecord.regular_hours || {}).some(
+      ([day, values]) => values && values.m_o
+    );
+
     let currHtml = `
       <div style="
         font-family: Arial, sans-serif;
@@ -49,38 +54,91 @@ async function loadData() {
       ">
     `;
 
-    for (const [day, values] of Object.entries(matchedRecord.regular_hours || {})) {
-      if (day === "sun") continue;
-      if (day === "sat" && (values.closed || !values.m_o)) continue;
-
-      const dayName = day_dict[day] || day;
-      const note = values?.note ? ` <span style="font-weight: 500;">(${values.note})</span>` : "";
-      const rowColor = index % 2 === 0 ? bgColor : "#ffffff";
-      index++;
-
+    if (!hasAnyOpenDay) {
+      // Všechny dny zavřeno - zobraz "Individuální objednání" a poznámky
       currHtml += `
         <div style="
-          display: flex;
-          padding: 10px 14px;
-          background-color: ${rowColor};
+          text-align: center;
+          padding: 20px;
+          background-color: ${bgColor};
           border-radius: 6px;
-          margin-bottom: 6px;
-          box-shadow: inset 0 0 0 1px #ddd;
-          align-items: center;
+          margin-bottom: 12px;
+          font-size: 18px;
+          font-weight: 600;
         ">
-          <span style="flex-shrink: 0; width: 100px; font-weight: 600;">${dayName}</span>
-          <span style="
-            flex-grow: 1; 
-            margin-left: 12px; 
-            text-align: right; 
-            word-wrap: break-word; 
-            white-space: normal; 
-            max-width: calc(100% - 110px);
-            display: inline-block;
+          Individuální objednání
+        </div>
+      `;
+
+      // Zobraz poznámky pro jednotlivé dny, pokud existují
+      for (const [day, values] of Object.entries(matchedRecord.regular_hours || {})) {
+        if (day === "sun") continue;
+        if (!values?.note) continue;
+
+        const dayName = day_dict[day] || day;
+        const rowColor = index % 2 === 0 ? bgColor : "#ffffff";
+        index++;
+
+        currHtml += `
+          <div style="
+            display: flex;
+            padding: 10px 14px;
+            background-color: ${rowColor};
+            border-radius: 6px;
+            margin-bottom: 6px;
+            box-shadow: inset 0 0 0 1px #ddd;
+            align-items: center;
           ">
-            ${formatHours(values)}${note}
-          </span>
-        </div>`;
+            <span style="flex-shrink: 0; width: 100px; font-weight: 600;">${dayName}</span>
+            <span style="
+              flex-grow: 1; 
+              margin-left: 12px; 
+              text-align: right; 
+              word-wrap: break-word; 
+              white-space: normal; 
+              max-width: calc(100% - 110px);
+              display: inline-block;
+              font-weight: 500;
+            ">
+              ${values.note}
+            </span>
+          </div>`;
+      }
+    } else {
+      // Normální zobrazení s časy
+      for (const [day, values] of Object.entries(matchedRecord.regular_hours || {})) {
+        if (day === "sun") continue;
+        if (day === "sat" && (values.closed || !values.m_o)) continue;
+
+        const dayName = day_dict[day] || day;
+        const note = values?.note ? ` <span style="font-weight: 500;">(${values.note})</span>` : "";
+        const rowColor = index % 2 === 0 ? bgColor : "#ffffff";
+        index++;
+
+        currHtml += `
+          <div style="
+            display: flex;
+            padding: 10px 14px;
+            background-color: ${rowColor};
+            border-radius: 6px;
+            margin-bottom: 6px;
+            box-shadow: inset 0 0 0 1px #ddd;
+            align-items: center;
+          ">
+            <span style="flex-shrink: 0; width: 100px; font-weight: 600;">${dayName}</span>
+            <span style="
+              flex-grow: 1; 
+              margin-left: 12px; 
+              text-align: right; 
+              word-wrap: break-word; 
+              white-space: normal; 
+              max-width: calc(100% - 110px);
+              display: inline-block;
+            ">
+              ${formatHours(values)}${note}
+            </span>
+          </div>`;
+      }
     }
 
     const futureChanges = (matchedRecord.irregular_changes || []).filter(change => isFutureDate(change.date));
