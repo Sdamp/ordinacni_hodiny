@@ -123,13 +123,55 @@
     "town": "Maleč",
     "office": "Všeobecný praktický lékař",
     "regular_hours": {
-      "mon": {},
-      "tue": {},
-      "wed": {},
-      "thu": {},
-      "fri": {},
-      "sat": {},
-      "sun": {}
+      "mon": {
+        "m_o": "0600",
+        "m_c": "",
+        "a_o": "",
+        "a_c": "1400",
+        "note": "do 9 akutní případy, od 10 pouze sestra objednaní"
+      },
+      "tue": {
+        "m_o": "1300",
+        "m_c": "",
+        "a_o": "",
+        "a_c": "1900",
+        "note": "do 17:00 akutní případy, potom objednaní"
+      },
+      "wed": {
+        "m_o": "0600",
+        "m_c": "",
+        "a_o": "",
+        "a_c": "1400",
+        "note": "do 9 akutní případy, od 10 objednaní"
+      },
+      "thu": {
+        "m_o": "0700",
+        "m_c": "",
+        "a_o": "",
+        "a_c": "1300",
+        "note": "jen objednaní, od 10 tel. konzultace"
+      },
+      "fri": {
+        "m_o": "0600",
+        "m_c": "",
+        "a_o": "",
+        "a_c": "1400",
+        "note": "do 9 akutní případy, od 10 objednaní; 2x měsíčně bez lékaře"
+      },
+      "sat": {
+        "m_o": "",
+        "m_c": "",
+        "a_o": "",
+        "a_c": "",
+        "note": ""
+      },
+      "sun": {
+        "m_o": "",
+        "m_c": "",
+        "a_o": "",
+        "a_c": "",
+        "note": ""
+      }
     },
     "irregular_changes": [],
     "color": [

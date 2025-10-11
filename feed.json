@@ -1,5 +1,5 @@
 {
-  "exportDate": "2025-10-11T13:58:48.317Z",
+  "exportDate": "2025-10-11T14:05:23.712Z",
   "premises": [
     {
       "id": "13770302",
@@ -32,6 +32,21 @@
         "zip": "58301"
       },
       "openingHours": "Mo 06:30-15:30; Th 06:30-17:30"
+    },
+    {
+      "id": "13770044",
+      "ic": 28826060,
+      "name": "Všeobecný praktický lékař - Sdružená ambulantní péče Vysočina s.r.o.",
+      "address": {
+        "gps": {
+          "latitude": 49.774089,
+          "longitude": 15.67234
+        },
+        "city": "Maleč",
+        "houseNumber": "100",
+        "zip": "58276"
+      },
+      "openingHours": "Mo 06:00-14:00; Tu 13:00-19:00; We 06:00-14:00; Th 07:00-13:00; Fr 06:00-14:00"
     },
     {
       "id": "13292742",
