@@ -469,8 +469,8 @@
     },
     "irregular_changes": [],
     "color": [
-      "#000000",
-      "#FFFFFF"
+      "#d75d9e",
+      "#ffffff"
     ]
   },
   {
@@ -529,8 +529,8 @@
     },
     "irregular_changes": [],
     "color": [
-      "#000000",
-      "#FFFFFF"
+      "#d75d9e",
+      "#ffffff"
     ]
   },
   {
@@ -589,8 +589,8 @@
     },
     "irregular_changes": [],
     "color": [
-      "#000000",
-      "#FFFFFF"
+      "#d75d9e",
+      "#ffffff"
     ]
   },
   {
@@ -649,8 +649,8 @@
     },
     "irregular_changes": [],
     "color": [
-      "#000000",
-      "#FFFFFF"
+      "#d75d9e",
+      "#ffffff"
     ]
   },
   {
@@ -709,8 +709,8 @@
     },
     "irregular_changes": [],
     "color": [
-      "#000000",
-      "#FFFFFF"
+      "#d75d9e",
+      "#ffffff"
     ]
   },
   {
@@ -769,8 +769,8 @@
     },
     "irregular_changes": [],
     "color": [
-      "#000000",
-      "#FFFFFF"
+      "#d75d9e",
+      "#ffffff"
     ]
   },
   {
@@ -829,8 +829,8 @@
     },
     "irregular_changes": [],
     "color": [
-      "#000000",
-      "#FFFFFF"
+      "#d75d9e",
+      "#ffffff"
     ]
   },
   {
@@ -889,8 +889,8 @@
     },
     "irregular_changes": [],
     "color": [
-      "#000000",
-      "#FFFFFF"
+      "#d75d9e",
+      "#ffffff"
     ]
   },
   {
@@ -907,8 +907,8 @@
     },
     "irregular_changes": [],
     "color": [
-      "#000000",
-      "#FFFFFF"
+      "#d75d9e",
+      "#ffffff"
     ]
   },
   {
@@ -925,8 +925,8 @@
     },
     "irregular_changes": [],
     "color": [
-      "#000000",
-      "#FFFFFF"
+      "#d75d9e",
+      "#ffffff"
     ]
   },
   {
@@ -1432,13 +1432,13 @@
         "m_c": "0900",
         "a_o": "0900",
         "a_c": "1500",
-        "note": "do 9 akutní případy, poté objednaní"
+        "note": "do 9 akutní případy, poté objednaní do 12:00"
       },
       "thu": {
         "m_o": "0700",
         "m_c": "",
         "a_o": "",
-        "a_c": "",
+        "a_c": "1500",
         "note": "DIA ENDO poradna"
       },
       "fri": {
