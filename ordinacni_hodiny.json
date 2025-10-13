@@ -441,13 +441,55 @@
     "town": "Kolín",
     "office": "Nutriční terapie",
     "regular_hours": {
-      "mon": {},
-      "tue": {},
-      "wed": {},
-      "thu": {},
-      "fri": {},
-      "sat": {},
-      "sun": {}
+      "mon": {
+        "m_o": "0700",
+        "m_c": "",
+        "a_o": "",
+        "a_c": "1500",
+        "note": "dle objednání"
+      },
+      "tue": {
+        "m_o": "",
+        "m_c": "",
+        "a_o": "",
+        "a_c": "",
+        "note": ""
+      },
+      "wed": {
+        "m_o": "",
+        "m_c": "",
+        "a_o": "",
+        "a_c": "",
+        "note": ""
+      },
+      "thu": {
+        "m_o": "",
+        "m_c": "",
+        "a_o": "",
+        "a_c": "",
+        "note": ""
+      },
+      "fri": {
+        "m_o": "",
+        "m_c": "",
+        "a_o": "",
+        "a_c": "",
+        "note": ""
+      },
+      "sat": {
+        "m_o": "",
+        "m_c": "",
+        "a_o": "",
+        "a_c": "",
+        "note": ""
+      },
+      "sun": {
+        "m_o": "",
+        "m_c": "",
+        "a_o": "",
+        "a_c": "",
+        "note": ""
+      }
     },
     "irregular_changes": [],
     "color": [
