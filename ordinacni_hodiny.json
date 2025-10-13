@@ -173,7 +173,14 @@
         "note": ""
       }
     },
-    "irregular_changes": [],
+    "irregular_changes": [
+      {
+        "date": "28102025",
+        "closed": true,
+        "note": "svátek",
+        "_id": "68ed5686bb1920833470ee62"
+      }
+    ],
     "color": [
       "#ffdc57",
       "#000000"
