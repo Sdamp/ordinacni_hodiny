@@ -378,7 +378,14 @@
         "note": ""
       }
     },
-    "irregular_changes": [],
+    "irregular_changes": [
+      {
+        "date": "28102025",
+        "closed": true,
+        "note": "svátek",
+        "_id": "68edf350bb192083347182f2"
+      }
+    ],
     "color": [
       "#ff6900",
       "#000000"
@@ -438,7 +445,14 @@
         "note": ""
       }
     },
-    "irregular_changes": [],
+    "irregular_changes": [
+      {
+        "date": "28102025",
+        "closed": true,
+        "note": "svátek",
+        "_id": "68edf350bb192083347182fd"
+      }
+    ],
     "color": [
       "#ff6900",
       "#000000"
