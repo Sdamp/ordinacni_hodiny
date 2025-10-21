@@ -872,20 +872,7 @@
         "note": ""
       }
     },
-    "irregular_changes": [
-      {
-        "day": {
-          "m_o": "0630",
-          "m_c": "1200",
-          "a_o": "1229",
-          "a_c": "1400"
-        },
-        "date": "31102025",
-        "closed": false,
-        "note": "test",
-        "_id": "68f76f6ff38f37e07791fe68"
-      }
-    ],
+    "irregular_changes": [],
     "color": [
       "#d75d9e",
       "#ffffff"
