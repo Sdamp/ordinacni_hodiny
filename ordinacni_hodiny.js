@@ -54,6 +54,45 @@ async function loadData() {
       ">
     `;
 
+    // Nejdřív zobraz aktuální změny
+    const futureChanges = (matchedRecord.irregular_changes || []).filter(change => isFutureDate(change.date));
+    if (futureChanges.length > 0) {
+      currHtml += `<h3 style="margin-bottom: 12px; font-size: 20px; border-bottom: 2px solid #ccc; padding-bottom: 4px;">Aktuální změny⚠️</h3>`;
+      for (const change of futureChanges) {
+        const isClosed = change.closed;
+        const note = change.note ? ` <span style="font-weight: 500;">(${change.note})</span>` : "";
+
+        currHtml += `
+          <div style="
+            display: flex;
+            padding: 10px 14px;
+            background-color: ${isClosed ? "#ffecec" : "#e6f7e6"};
+            border-left: 4px solid ${isClosed ? "#ff4d4f" : "#4caf50"};
+            border-radius: 6px;
+            margin-bottom: 6px;
+            align-items: center;
+          ">
+            <span style="flex-shrink: 0; width: 100px; font-weight: 600;">${formatDate(change.date)}</span>
+            <span style="
+              flex-grow: 1; 
+              margin-left: 12px; 
+              text-align: right; 
+              word-wrap: break-word; 
+              white-space: normal; 
+              max-width: calc(100% - 110px);
+              display: inline-block;
+            ">
+              ${isClosed ? "Zavřeno" : formatHours(change.day)}${change.note ? ` ${note}` : ""}
+            </span>
+          </div>`;
+      }
+    }
+
+    // Pak zobraz stálý rozvrh
+    if (futureChanges.length > 0) {
+      currHtml += `<h3 style="margin-top: 24px; margin-bottom: 12px; font-size: 20px; border-bottom: 2px solid #ccc; padding-bottom: 4px;">Stálé ordinační hodiny</h3>`;
+    }
+
     if (!hasAnyOpenDay) {
       // Všechny dny zavřeno - zobraz "Individuální objednání" a poznámky
       currHtml += `
@@ -136,39 +175,6 @@ async function loadData() {
               display: inline-block;
             ">
               ${formatHours(values)}${note}
-            </span>
-          </div>`;
-      }
-    }
-
-    const futureChanges = (matchedRecord.irregular_changes || []).filter(change => isFutureDate(change.date));
-    if (futureChanges.length > 0) {
-      currHtml += `<h3 style="margin-top: 24px; font-size: 20px; border-bottom: 2px solid #ccc; padding-bottom: 4px;">Aktuální změny⚠️</h3>`;
-      for (const change of futureChanges) {
-        const isClosed = change.closed;
-        const note = change.note ? ` <span style="font-weight: 500;">(${change.note})</span>` : "";
-
-        currHtml += `
-          <div style="
-            display: flex;
-            padding: 10px 14px;
-            background-color: ${isClosed ? "#ffecec" : "#e6f7e6"};
-            border-left: 4px solid ${isClosed ? "#ff4d4f" : "#4caf50"};
-            border-radius: 6px;
-            margin-bottom: 6px;
-            align-items: center;
-          ">
-            <span style="flex-shrink: 0; width: 100px; font-weight: 600;">${formatDate(change.date)}</span>
-            <span style="
-              flex-grow: 1; 
-              margin-left: 12px; 
-              text-align: right; 
-              word-wrap: break-word; 
-              white-space: normal; 
-              max-width: calc(100% - 110px);
-              display: inline-block;
-            ">
-              ${isClosed ? "Zavřeno" : formatHours(change.day)}${change.note ? ` ${note}` : ""}
             </span>
           </div>`;
       }
