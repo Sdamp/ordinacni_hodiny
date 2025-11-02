@@ -343,6 +343,16 @@
         "closed": false,
         "note": "MUDr. Kasalová Monika M-Centrum Chotěboř (1. patro)",
         "_id": "6907a9bb3359be1ea5f79cbd"
+      },
+      {
+        "day": {
+          "m_o": "0730",
+          "a_c": "0930"
+        },
+        "date": "06112025",
+        "closed": false,
+        "note": "MUDr. Kotyzová-Moravcová Jiřina",
+        "_id": "6907a9d63359be1ea5f79cd3"
       }
     ],
     "color": [
