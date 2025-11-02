@@ -213,6 +213,16 @@
         "closed": false,
         "note": "MUDr. Kotyzová-Moravcová Jiřina Poliklinika Chotěboř (1.patro)",
         "_id": "6907aa5f3359be1ea5f79d5f"
+      },
+      {
+        "day": {
+          "m_o": "0800",
+          "a_c": "1400"
+        },
+        "date": "05112025",
+        "closed": false,
+        "note": "MUDr. Kasalová Monika M-Centrum Chotěboř (1.patro)",
+        "_id": "6907aa783359be1ea5f79d7d"
       }
     ],
     "color": [
