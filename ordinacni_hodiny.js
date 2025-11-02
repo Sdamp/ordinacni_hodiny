@@ -55,12 +55,21 @@ async function loadData() {
     `;
 
     // Nejdřív zobraz aktuální změny
-    const futureChanges = (matchedRecord.irregular_changes || []).filter(change => isFutureDate(change.date));
+    const futureChanges = (matchedRecord.irregular_changes || [])
+      .filter(change => isFutureDate(change.date))
+      .sort((a, b) => {
+        // Seřaď podle data (ddmmyyyy -> yyyy-mm-dd pro porovnání)
+        const dateA = parseDateString(a.date);
+        const dateB = parseDateString(b.date);
+        return dateA - dateB;
+      });
+    
     if (futureChanges.length > 0) {
       currHtml += `<h3 style="margin-bottom: 12px; font-size: 20px; border-bottom: 2px solid #ccc; padding-bottom: 4px;">Aktuální změny⚠️</h3>`;
       for (const change of futureChanges) {
         const isClosed = change.closed;
         const note = change.note ? ` <span style="font-weight: 500;">(${change.note})</span>` : "";
+        const dayAbbr = getDayAbbreviation(change.date);
 
         currHtml += `
           <div style="
@@ -72,14 +81,14 @@ async function loadData() {
             margin-bottom: 6px;
             align-items: center;
           ">
-            <span style="flex-shrink: 0; width: 100px; font-weight: 600;">${formatDate(change.date)}</span>
+            <span style="flex-shrink: 0; width: 140px; font-weight: 600; white-space: nowrap;">${dayAbbr} ${formatDate(change.date)}</span>
             <span style="
               flex-grow: 1; 
               margin-left: 12px; 
               text-align: right; 
               word-wrap: break-word; 
               white-space: normal; 
-              max-width: calc(100% - 110px);
+              max-width: calc(100% - 150px);
               display: inline-block;
             ">
               ${isClosed ? "Zavřeno" : formatHours(change.day)}${change.note ? ` ${note}` : ""}
@@ -209,6 +218,20 @@ function isFutureDate(dateStr) {
   today.setHours(0, 0, 0, 0);
 
   return inputDate >= today;
+}
+
+function parseDateString(dateStr) {
+  if (dateStr.length !== 8) return new Date(0);
+  const year = parseInt(dateStr.slice(4, 8), 10);
+  const month = parseInt(dateStr.slice(2, 4), 10) - 1;
+  const day = parseInt(dateStr.slice(0, 2), 10);
+  return new Date(year, month, day);
+}
+
+function getDayAbbreviation(dateStr) {
+  const date = parseDateString(dateStr);
+  const dayNames = ["Ne", "Po", "Út", "St", "Čt", "Pá", "So"];
+  return dayNames[date.getDay()];
 }
 
 function formatDate(dateStr) {
