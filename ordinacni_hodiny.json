@@ -353,6 +353,16 @@
         "closed": false,
         "note": "MUDr. Kotyzová-Moravcová Jiřina",
         "_id": "6907a9d63359be1ea5f79cd3"
+      },
+      {
+        "day": {
+          "m_o": "0700",
+          "a_c": "1300"
+        },
+        "date": "07112025",
+        "closed": false,
+        "note": "MUDr. Francová Alena",
+        "_id": "6907aa083359be1ea5f79ceb"
       }
     ],
     "color": [
