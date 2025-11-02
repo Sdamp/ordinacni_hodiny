@@ -173,14 +173,7 @@
         "note": ""
       }
     },
-    "irregular_changes": [
-      {
-        "date": "28102025",
-        "closed": true,
-        "note": "svátek",
-        "_id": "68ed5693bb1920833470ee6b"
-      }
-    ],
+    "irregular_changes": [],
     "color": [
       "#ffdc57",
       "#000000"
@@ -300,7 +293,18 @@
         "note": ""
       }
     },
-    "irregular_changes": [],
+    "irregular_changes": [
+      {
+        "day": {
+          "m_o": "0800",
+          "a_c": "1200"
+        },
+        "date": "03112025",
+        "closed": false,
+        "note": "MUDr. Zvolánková Anežka",
+        "_id": "6907a92f3359be1ea5f79a35"
+      }
+    ],
     "color": [
       "#009e7c",
       "#000000"
@@ -378,14 +382,7 @@
         "note": ""
       }
     },
-    "irregular_changes": [
-      {
-        "date": "28102025",
-        "closed": true,
-        "note": "svátek",
-        "_id": "68edf350bb192083347182f2"
-      }
-    ],
+    "irregular_changes": [],
     "color": [
       "#ff6900",
       "#000000"
@@ -445,14 +442,7 @@
         "note": ""
       }
     },
-    "irregular_changes": [
-      {
-        "date": "28102025",
-        "closed": true,
-        "note": "svátek",
-        "_id": "68edf359bb1920833471830b"
-      }
-    ],
+    "irregular_changes": [],
     "color": [
       "#ff6900",
       "#000000"
@@ -1370,18 +1360,7 @@
         "note": ""
       }
     },
-    "irregular_changes": [
-      {
-        "day": {
-          "m_o": "0700",
-          "a_c": "1230"
-        },
-        "date": "22102025",
-        "closed": false,
-        "note": "Mimořádná změna - očkování pouze do 12:30",
-        "_id": "68f764a0f38f37e07791f174"
-      }
-    ],
+    "irregular_changes": [],
     "color": [
       "#01bbff",
       "#000000"
