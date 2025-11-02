@@ -203,6 +203,16 @@
         "closed": false,
         "note": "MUDr. Kotyzová-Moravcová Jiřina Poliklinika Chotěboř (1.patro)",
         "_id": "6907aa5b3359be1ea5f79d43"
+      },
+      {
+        "day": {
+          "m_o": "0730",
+          "a_c": "1200"
+        },
+        "date": "11112025",
+        "closed": false,
+        "note": "MUDr. Kotyzová-Moravcová Jiřina Poliklinika Chotěboř (1.patro)",
+        "_id": "6907aa5f3359be1ea5f79d5f"
       }
     ],
     "color": [
