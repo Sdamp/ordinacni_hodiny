@@ -233,6 +233,16 @@
         "closed": false,
         "note": "MUDr. Kotyzová-Moravcová Jiřina Poliklinika Chotěboř (1.patro",
         "_id": "6907aa9e3359be1ea5f79d9d"
+      },
+      {
+        "day": {
+          "m_o": "0700",
+          "a_c": "1300"
+        },
+        "date": "07112025",
+        "closed": false,
+        "note": "MUDr. Gajdošová Petra Maleč (mimo 21.11.)",
+        "_id": "6907aab63359be1ea5f79dbf"
       }
     ],
     "color": [
