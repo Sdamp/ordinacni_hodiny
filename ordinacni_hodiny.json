@@ -303,6 +303,16 @@
         "closed": false,
         "note": "MUDr. Zvolánková Anežka",
         "_id": "6907a92f3359be1ea5f79a35"
+      },
+      {
+        "day": {
+          "m_o": "0800",
+          "a_c": "1200"
+        },
+        "date": "10112025",
+        "closed": false,
+        "note": "MUDr. Zvolánková Anežka",
+        "_id": "6907a9453359be1ea5f79a48"
       }
     ],
     "color": [
