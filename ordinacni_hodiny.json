@@ -183,6 +183,16 @@
         "closed": false,
         "note": "MUDr. Zvolánková Anežka Poliklinika Chotěboř (1.patro)",
         "_id": "6907aa453359be1ea5f79d11"
+      },
+      {
+        "day": {
+          "m_o": "0800",
+          "a_c": "1200"
+        },
+        "date": "10112025",
+        "closed": false,
+        "note": "MUDr. Zvolánková Anežka Poliklinika Chotěboř (1.patro)",
+        "_id": "6907aa493359be1ea5f79d29"
       }
     ],
     "color": [
