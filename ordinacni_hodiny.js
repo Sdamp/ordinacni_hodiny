@@ -66,6 +66,8 @@ async function loadData() {
     
     if (futureChanges.length > 0) {
       currHtml += `<h3 style="margin-bottom: 12px; font-size: 20px; border-bottom: 2px solid #ccc; padding-bottom: 4px;">Aktuální změny⚠️</h3>`;
+      currHtml += `<div style="max-height: 200px; overflow-y: auto; margin-bottom: 12px;">`;
+      
       for (const change of futureChanges) {
         const isClosed = change.closed;
         const note = change.note ? ` <span style="font-weight: 500;">(${change.note})</span>` : "";
@@ -95,6 +97,8 @@ async function loadData() {
             </span>
           </div>`;
       }
+      
+      currHtml += `</div>`;
     }
 
     // Pak zobraz stálý rozvrh
