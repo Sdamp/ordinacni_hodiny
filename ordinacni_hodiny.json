@@ -176,36 +176,6 @@
     "irregular_changes": [
       {
         "day": {
-          "m_o": "0800",
-          "a_c": "1200"
-        },
-        "date": "03112025",
-        "closed": false,
-        "note": "MUDr. Zvolánková Anežka Poliklinika Chotěboř (1.patro)",
-        "_id": "6907aa453359be1ea5f79d11"
-      },
-      {
-        "day": {
-          "m_o": "0800",
-          "a_c": "1200"
-        },
-        "date": "10112025",
-        "closed": false,
-        "note": "MUDr. Zvolánková Anežka Poliklinika Chotěboř (1.patro)",
-        "_id": "6907aa493359be1ea5f79d29"
-      },
-      {
-        "day": {
-          "m_o": "0730",
-          "a_c": "1200"
-        },
-        "date": "04112025",
-        "closed": false,
-        "note": "MUDr. Kotyzová-Moravcová Jiřina Poliklinika Chotěboř (1.patro)",
-        "_id": "6907aa5b3359be1ea5f79d43"
-      },
-      {
-        "day": {
           "m_o": "0730",
           "a_c": "1200"
         },
@@ -213,36 +183,6 @@
         "closed": false,
         "note": "MUDr. Kotyzová-Moravcová Jiřina Poliklinika Chotěboř (1.patro)",
         "_id": "6907aa5f3359be1ea5f79d5f"
-      },
-      {
-        "day": {
-          "m_o": "0800",
-          "a_c": "1400"
-        },
-        "date": "05112025",
-        "closed": false,
-        "note": "MUDr. Kasalová Monika M-Centrum Chotěboř (1.patro)",
-        "_id": "6907aa783359be1ea5f79d7d"
-      },
-      {
-        "day": {
-          "m_o": "0730",
-          "a_c": "0930"
-        },
-        "date": "06112025",
-        "closed": false,
-        "note": "MUDr. Kotyzová-Moravcová Jiřina Poliklinika Chotěboř (1.patro",
-        "_id": "6907aa9e3359be1ea5f79d9d"
-      },
-      {
-        "day": {
-          "m_o": "0700",
-          "a_c": "1300"
-        },
-        "date": "07112025",
-        "closed": false,
-        "note": "MUDr. Gajdošová Petra Maleč (mimo 21.11.)",
-        "_id": "6907aab63359be1ea5f79dbf"
       }
     ],
     "color": [
@@ -367,36 +307,6 @@
     "irregular_changes": [
       {
         "day": {
-          "m_o": "0800",
-          "a_c": "1200"
-        },
-        "date": "03112025",
-        "closed": false,
-        "note": "MUDr. Zvolánková Anežka",
-        "_id": "6907a92f3359be1ea5f79a35"
-      },
-      {
-        "day": {
-          "m_o": "0800",
-          "a_c": "1200"
-        },
-        "date": "10112025",
-        "closed": false,
-        "note": "MUDr. Zvolánková Anežka",
-        "_id": "6907a94c3359be1ea5f79a58"
-      },
-      {
-        "day": {
-          "m_o": "0730",
-          "a_c": "1200"
-        },
-        "date": "04112025",
-        "closed": false,
-        "note": "MUDr. Kotyzová-Moravcová Jiřina",
-        "_id": "6907a99e3359be1ea5f79c97"
-      },
-      {
-        "day": {
           "m_o": "0730",
           "a_c": "1200"
         },
@@ -407,33 +317,13 @@
       },
       {
         "day": {
-          "m_o": "0800",
-          "a_c": "1400"
+          "m_o": "1500",
+          "a_c": "1900"
         },
-        "date": "05112025",
+        "date": "19112025",
         "closed": false,
-        "note": "MUDr. Kasalová Monika M-Centrum Chotěboř (1. patro)",
-        "_id": "6907a9bb3359be1ea5f79cbd"
-      },
-      {
-        "day": {
-          "m_o": "0730",
-          "a_c": "0930"
-        },
-        "date": "06112025",
-        "closed": false,
-        "note": "MUDr. Kotyzová-Moravcová Jiřina",
-        "_id": "6907a9d63359be1ea5f79cd3"
-      },
-      {
-        "day": {
-          "m_o": "0700",
-          "a_c": "1300"
-        },
-        "date": "07112025",
-        "closed": false,
-        "note": "MUDr. Francová Alena",
-        "_id": "6907aa083359be1ea5f79ceb"
+        "note": "15:00-19:00 lymfodrenáže",
+        "_id": "691377d13359be1ea502be2c"
       }
     ],
     "color": [
