@@ -293,7 +293,18 @@
         "note": ""
       }
     },
-    "irregular_changes": [],
+    "irregular_changes": [
+      {
+        "day": {
+          "m_o": "1500",
+          "a_c": "1900"
+        },
+        "date": "19112025",
+        "closed": false,
+        "note": "15:00-19:00 lymfodrenáže",
+        "_id": "691d57e120a6afd754eca960"
+      }
+    ],
     "color": [
       "#009e7c",
       "#000000"
