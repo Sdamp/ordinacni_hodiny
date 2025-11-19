@@ -333,6 +333,16 @@
         "closed": false,
         "note": "15:00-19:00 lymfodrenáže",
         "_id": "691d58a920a6afd754ecace3"
+      },
+      {
+        "day": {
+          "m_o": "1500",
+          "a_c": "1900"
+        },
+        "date": "03122025",
+        "closed": false,
+        "note": "15:00-19:00 lymfodrenáže",
+        "_id": "691d58ae20a6afd754ecad24"
       }
     ],
     "color": [
