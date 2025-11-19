@@ -173,18 +173,7 @@
         "note": ""
       }
     },
-    "irregular_changes": [
-      {
-        "day": {
-          "m_o": "0730",
-          "a_c": "1200"
-        },
-        "date": "11112025",
-        "closed": false,
-        "note": "MUDr. Kotyzová-Moravcová Jiřina Poliklinika Chotěboř (1.patro)",
-        "_id": "6907aa5f3359be1ea5f79d5f"
-      }
-    ],
+    "irregular_changes": [],
     "color": [
       "#ffdc57",
       "#000000"
@@ -304,18 +293,7 @@
         "note": ""
       }
     },
-    "irregular_changes": [
-      {
-        "day": {
-          "m_o": "0730",
-          "a_c": "1200"
-        },
-        "date": "11112025",
-        "closed": false,
-        "note": "MUDr. Kotyzová-Moravcová Jiřina",
-        "_id": "6907a9a23359be1ea5f79ca9"
-      }
-    ],
+    "irregular_changes": [],
     "color": [
       "#009e7c",
       "#000000"
