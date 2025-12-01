@@ -1768,13 +1768,55 @@
     "town": "Chotěboř-Mcentrum",
     "office": "Pedikúra",
     "regular_hours": {
-      "mon": {},
-      "tue": {},
-      "wed": {},
-      "thu": {},
-      "fri": {},
-      "sat": {},
-      "sun": {}
+      "mon": {
+        "m_o": "0800",
+        "m_c": "",
+        "a_o": "",
+        "a_c": "1800",
+        "note": ""
+      },
+      "tue": {
+        "m_o": "0730",
+        "m_c": "",
+        "a_o": "",
+        "a_c": "1430",
+        "note": "Mobilní pedikúra"
+      },
+      "wed": {
+        "m_o": "0800",
+        "m_c": "",
+        "a_o": "",
+        "a_c": "1800",
+        "note": ""
+      },
+      "thu": {
+        "m_o": "0730",
+        "m_c": "",
+        "a_o": "",
+        "a_c": "1630",
+        "note": ""
+      },
+      "fri": {
+        "m_o": "0700",
+        "m_c": "",
+        "a_o": "",
+        "a_c": "1300",
+        "note": ""
+      },
+      "sat": {
+        "m_o": "",
+        "m_c": "",
+        "a_o": "",
+        "a_c": "",
+        "note": ""
+      },
+      "sun": {
+        "m_o": "",
+        "m_c": "",
+        "a_o": "",
+        "a_c": "",
+        "note": ""
+      }
     },
     "irregular_changes": [],
     "color": [
