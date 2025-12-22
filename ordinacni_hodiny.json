@@ -963,7 +963,80 @@
         "note": ""
       }
     },
-    "irregular_changes": [],
+    "irregular_changes": [
+      {
+        "date": "22122025",
+        "closed": true,
+        "note": "",
+        "_id": "69499c80629ba8ea1be9bd9a"
+      },
+      {
+        "date": "23122025",
+        "closed": true,
+        "note": "",
+        "_id": "69499c80629ba8ea1be9bd9b"
+      },
+      {
+        "date": "24122025",
+        "closed": true,
+        "note": "",
+        "_id": "69499c80629ba8ea1be9bd9c"
+      },
+      {
+        "date": "25122025",
+        "closed": true,
+        "note": "",
+        "_id": "69499c80629ba8ea1be9bd9d"
+      },
+      {
+        "date": "26122025",
+        "closed": true,
+        "note": "",
+        "_id": "69499c80629ba8ea1be9bd9e"
+      },
+      {
+        "date": "27122025",
+        "closed": true,
+        "note": "",
+        "_id": "69499c80629ba8ea1be9bd9f"
+      },
+      {
+        "date": "28122025",
+        "closed": true,
+        "note": "",
+        "_id": "69499c80629ba8ea1be9bda0"
+      },
+      {
+        "date": "29122025",
+        "closed": true,
+        "note": "",
+        "_id": "69499c80629ba8ea1be9bda1"
+      },
+      {
+        "date": "30122025",
+        "closed": true,
+        "note": "",
+        "_id": "69499c80629ba8ea1be9bda2"
+      },
+      {
+        "date": "31122025",
+        "closed": true,
+        "note": "",
+        "_id": "69499c80629ba8ea1be9bda3"
+      },
+      {
+        "date": "01012026",
+        "closed": true,
+        "note": "",
+        "_id": "69499c80629ba8ea1be9bda4"
+      },
+      {
+        "date": "02012026",
+        "closed": true,
+        "note": "",
+        "_id": "69499c80629ba8ea1be9bda5"
+      }
+    ],
     "color": [
       "#d75d9e",
       "#ffffff"
