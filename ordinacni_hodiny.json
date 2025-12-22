@@ -496,7 +496,18 @@
         "note": ""
       }
     },
-    "irregular_changes": [],
+    "irregular_changes": [
+      {
+        "day": {
+          "m_o": "0600",
+          "a_c": "1100"
+        },
+        "date": "22122025",
+        "closed": false,
+        "note": "",
+        "_id": "6949a0f7a900dff1ace219db"
+      }
+    ],
     "color": [
       "#009e7c",
       "#000000"
