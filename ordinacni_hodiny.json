@@ -2267,7 +2267,74 @@
         "note": ""
       }
     },
-    "irregular_changes": [],
+    "irregular_changes": [
+      {
+        "date": "23122025",
+        "closed": true,
+        "note": "",
+        "_id": "6949a3a5a900dff1ace2262a"
+      },
+      {
+        "date": "24122025",
+        "closed": true,
+        "note": "",
+        "_id": "6949a3a5a900dff1ace2262b"
+      },
+      {
+        "date": "25122025",
+        "closed": true,
+        "note": "",
+        "_id": "6949a3a5a900dff1ace2262c"
+      },
+      {
+        "date": "26122025",
+        "closed": true,
+        "note": "",
+        "_id": "6949a3a5a900dff1ace2262d"
+      },
+      {
+        "date": "27122025",
+        "closed": true,
+        "note": "",
+        "_id": "6949a3a5a900dff1ace2262e"
+      },
+      {
+        "date": "28122025",
+        "closed": true,
+        "note": "",
+        "_id": "6949a3a5a900dff1ace2262f"
+      },
+      {
+        "date": "29122025",
+        "closed": true,
+        "note": "",
+        "_id": "6949a3a5a900dff1ace22630"
+      },
+      {
+        "date": "30122025",
+        "closed": true,
+        "note": "",
+        "_id": "6949a3a5a900dff1ace22631"
+      },
+      {
+        "date": "31122025",
+        "closed": true,
+        "note": "",
+        "_id": "6949a3a5a900dff1ace22632"
+      },
+      {
+        "date": "01012026",
+        "closed": true,
+        "note": "",
+        "_id": "6949a3a5a900dff1ace22633"
+      },
+      {
+        "date": "02012026",
+        "closed": true,
+        "note": "",
+        "_id": "6949a3a5a900dff1ace22634"
+      }
+    ],
     "color": [
       "#01bbff",
       "#000000"
@@ -2758,24 +2825,6 @@
     "color": [
       "#01bbff",
       "#000000"
-    ]
-  },
-  {
-    "town": "Hlisnko",
-    "office": "Fyzioterapie",
-    "regular_hours": {
-      "mon": {},
-      "tue": {},
-      "wed": {},
-      "thu": {},
-      "fri": {},
-      "sat": {},
-      "sun": {}
-    },
-    "irregular_changes": [],
-    "color": [
-      "#000000",
-      "#FFFFFF"
     ]
   },
   {
