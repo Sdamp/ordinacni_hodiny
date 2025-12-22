@@ -53,26 +53,7 @@
         "note": ""
       }
     },
-    "irregular_changes": [
-      {
-        "date": "28122025",
-        "closed": true,
-        "note": "",
-        "_id": "69493e33fb0f756086b097e9"
-      },
-      {
-        "date": "29122025",
-        "closed": true,
-        "note": "",
-        "_id": "69493e33fb0f756086b097f1"
-      },
-      {
-        "date": "30122025",
-        "closed": true,
-        "note": "",
-        "_id": "69493e33fb0f756086b097fa"
-      }
-    ],
+    "irregular_changes": [],
     "color": [
       "#d75d9e",
       "#000000"
