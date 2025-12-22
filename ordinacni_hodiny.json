@@ -542,6 +542,16 @@
         "closed": true,
         "note": "",
         "_id": "6949a143a900dff1ace21c84"
+      },
+      {
+        "day": {
+          "m_o": "0600",
+          "a_c": "1100"
+        },
+        "date": "29122025",
+        "closed": false,
+        "note": "",
+        "_id": "6949a160a900dff1ace21d72"
       }
     ],
     "color": [
