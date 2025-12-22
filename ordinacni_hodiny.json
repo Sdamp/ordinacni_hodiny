@@ -349,6 +349,16 @@
         "closed": true,
         "note": "",
         "_id": "6949a05aa900dff1ace2166d"
+      },
+      {
+        "day": {
+          "m_o": "0700",
+          "a_c": "1100"
+        },
+        "date": "29122025",
+        "closed": false,
+        "note": "sestra v ordinaci",
+        "_id": "6949a0a1a900dff1ace21745"
       }
     ],
     "color": [
