@@ -1,5 +1,5 @@
 {
-  "exportDate": "2025-12-22T20:02:04.594Z",
+  "exportDate": "2025-12-22T20:02:07.327Z",
   "premises": [
     {
       "id": "13770302",
@@ -388,6 +388,22 @@
       "id": "13770362",
       "ic": 2443198,
       "name": "Podiatrie - Sdružená ambulantní péče Pardubice s.r.o.",
+      "address": {
+        "gps": {
+          "latitude": 49.766002,
+          "longitude": 15.901531
+        },
+        "city": "Hlinsko",
+        "street": "Nádražní",
+        "houseNumber": "548",
+        "zip": "53901"
+      },
+      "openingHours": "Dec 23 off; Dec 24 off; Dec 25 off; Dec 26 off; Dec 27 off; Dec 28 off; Dec 29 off; Dec 30 off; Dec 31 off; Jan 1 off; Jan 2 off"
+    },
+    {
+      "id": "13770086",
+      "ic": 2443198,
+      "name": "Psychoterapie - Sdružená ambulantní péče Pardubice s.r.o.",
       "address": {
         "gps": {
           "latitude": 49.766002,
