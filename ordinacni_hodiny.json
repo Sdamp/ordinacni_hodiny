@@ -506,6 +506,12 @@
         "closed": false,
         "note": "",
         "_id": "6949a0f7a900dff1ace219db"
+      },
+      {
+        "date": "23122025",
+        "closed": true,
+        "note": "zástup Maleč",
+        "_id": "6949a13ba900dff1ace21b9c"
       }
     ],
     "color": [
