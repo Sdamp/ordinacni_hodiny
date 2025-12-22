@@ -319,7 +319,38 @@
         "note": ""
       }
     },
-    "irregular_changes": [],
+    "irregular_changes": [
+      {
+        "date": "24122025",
+        "closed": true,
+        "note": "",
+        "_id": "6949a05aa900dff1ace21669"
+      },
+      {
+        "date": "25122025",
+        "closed": true,
+        "note": "",
+        "_id": "6949a05aa900dff1ace2166a"
+      },
+      {
+        "date": "26122025",
+        "closed": true,
+        "note": "",
+        "_id": "6949a05aa900dff1ace2166b"
+      },
+      {
+        "date": "27122025",
+        "closed": true,
+        "note": "",
+        "_id": "6949a05aa900dff1ace2166c"
+      },
+      {
+        "date": "28122025",
+        "closed": true,
+        "note": "",
+        "_id": "6949a05aa900dff1ace2166d"
+      }
+    ],
     "color": [
       "#ffdc57",
       "#000000"
