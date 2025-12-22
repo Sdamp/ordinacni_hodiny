@@ -369,6 +369,12 @@
         "closed": false,
         "note": "sestra v ordinaci",
         "_id": "6949a0b2a900dff1ace2181f"
+      },
+      {
+        "date": "01012026",
+        "closed": true,
+        "note": "sestra v ordinaci",
+        "_id": "6949a0c7a900dff1ace218fb"
       }
     ],
     "color": [
