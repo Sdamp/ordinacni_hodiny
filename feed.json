@@ -1,5 +1,5 @@
 {
-  "exportDate": "2025-12-22T19:31:21.037Z",
+  "exportDate": "2025-12-22T19:31:25.364Z",
   "premises": [
     {
       "id": "13770302",
@@ -222,7 +222,7 @@
         "houseNumber": "1851",
         "zip": "58301"
       },
-      "openingHours": "Mo 06:30-11:30,12:00-16:00; Tu 06:30-14:00; We 07:00-15:00; Th 08:00-11:30,12:00-13:00; Fr 06:30-12:00,12:30-14:00"
+      "openingHours": "Mo 06:30-11:30,12:00-16:00; Tu 06:30-14:00; We 07:00-15:00; Th 08:00-11:30,12:00-13:00; Fr 06:30-12:00,12:30-14:00; Dec 22 off; Dec 23 off; Dec 24 off; Dec 25 off; Dec 26 off; Dec 27 off; Dec 28 off; Dec 29 off; Dec 30 off; Dec 31 off; Jan 1 off; Jan 2 off"
     },
     {
       "id": "13770026",
