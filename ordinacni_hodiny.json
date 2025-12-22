@@ -512,6 +512,36 @@
         "closed": true,
         "note": "zástup Maleč",
         "_id": "6949a13ba900dff1ace21b9c"
+      },
+      {
+        "date": "24122025",
+        "closed": true,
+        "note": "",
+        "_id": "6949a143a900dff1ace21c80"
+      },
+      {
+        "date": "25122025",
+        "closed": true,
+        "note": "",
+        "_id": "6949a143a900dff1ace21c81"
+      },
+      {
+        "date": "26122025",
+        "closed": true,
+        "note": "",
+        "_id": "6949a143a900dff1ace21c82"
+      },
+      {
+        "date": "27122025",
+        "closed": true,
+        "note": "",
+        "_id": "6949a143a900dff1ace21c83"
+      },
+      {
+        "date": "28122025",
+        "closed": true,
+        "note": "",
+        "_id": "6949a143a900dff1ace21c84"
       }
     ],
     "color": [
