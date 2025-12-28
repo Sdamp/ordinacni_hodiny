@@ -1,5 +1,5 @@
 {
-  "exportDate": "2025-12-23T19:43:59.035Z",
+  "exportDate": "2025-12-28T16:58:28.104Z",
   "premises": [
     {
       "id": "13770302",
@@ -15,7 +15,7 @@
         "houseNumber": "1851",
         "zip": "58301"
       },
-      "openingHours": "Tu 07:30-13:30; Dec 23 off; Dec 24 off; Dec 25 off; Dec 26 off; Dec 27 off; Dec 28 off; Dec 29 off; Dec 30 off; Dec 31 off; Jan 1 off; Jan 2 off"
+      "openingHours": "Tu 07:30-13:30; Dec 28 off; Dec 29 off; Dec 30 off; Dec 31 off; Jan 1 off; Jan 2 off"
     },
     {
       "id": "13770314",
@@ -31,7 +31,7 @@
         "houseNumber": "1851",
         "zip": "58301"
       },
-      "openingHours": "Mo 12:00-16:00; Th 12:00-16:00; Dec 23 off; Dec 24 off; Dec 25 off; Dec 26 off; Dec 27 off; Dec 28 off; Dec 29 off; Dec 30 off; Dec 31 off; Jan 1 off; Jan 2 off"
+      "openingHours": "Mo 12:00-16:00; Th 12:00-16:00; Dec 28 off; Dec 29 off; Dec 30 off; Dec 31 off; Jan 1 off; Jan 2 off"
     },
     {
       "id": "13770044",
@@ -46,7 +46,7 @@
         "houseNumber": "100",
         "zip": "58276"
       },
-      "openingHours": "Mo 06:00-14:00; Tu 13:00-19:00; We 06:00-14:00; Th 07:00-13:00; Fr 06:00-14:00; Dec 24 off; Dec 25 off; Dec 26 off; Dec 27 off; Dec 28 off; Dec 29 off; Dec 30 06:00-11:00; Jan 1 off"
+      "openingHours": "Mo 06:00-14:00; Tu 13:00-19:00; We 06:00-14:00; Th 07:00-13:00; Fr 06:00-14:00; Dec 28 off; Dec 29 off; Dec 30 06:00-11:00; Jan 1 off"
     },
     {
       "id": "13292742",
@@ -62,7 +62,7 @@
         "houseNumber": "669",
         "zip": "58301"
       },
-      "openingHours": "We 07:30-11:30; Fr 06:30-12:00; Dec 23 off; Dec 24 off; Dec 25 off; Dec 26 off; Dec 27 off; Dec 28 off; Dec 29 off; Dec 30 off; Dec 31 off; Jan 1 off; Jan 2 off"
+      "openingHours": "We 07:30-11:30; Fr 06:30-12:00; Dec 28 off; Dec 29 off; Dec 30 off; Dec 31 off; Jan 1 off; Jan 2 off"
     },
     {
       "id": "13292744",
@@ -78,7 +78,7 @@
         "houseNumber": "669",
         "zip": "58301"
       },
-      "openingHours": "Mo 10:00-13:00,13:00-18:00; Tu 08:00-10:00,10:00-13:00; We 08:00-10:00,10:00-13:00; Th 07:00-09:00,09:00-18:00; Fr 07:00-12:00; Dec 23 off; Dec 24 off; Dec 25 off; Dec 26 off; Dec 27 off; Dec 28 off; Dec 29 06:00-11:00; Dec 30 off; Jan 1 off; Jan 2 07:00-11:00"
+      "openingHours": "Mo 10:00-13:00,13:00-18:00; Tu 08:00-10:00,10:00-13:00; We 08:00-10:00,10:00-13:00; Th 07:00-09:00,09:00-18:00; Fr 07:00-12:00; Dec 28 off; Dec 29 06:00-11:00; Dec 30 off; Jan 1 off; Jan 2 07:00-11:00"
     },
     {
       "id": "13770047",
@@ -94,7 +94,7 @@
         "houseNumber": "671",
         "zip": "28002"
       },
-      "openingHours": "Tu 07:00-13:00; Th 07:00-13:00; Fr 07:00-15:00; Dec 23 off; Dec 24 off; Dec 25 off; Dec 26 off; Dec 27 off; Dec 28 off; Dec 30 off; Dec 31 off; Jan 1 off; Dec 29 off"
+      "openingHours": "Tu 07:00-13:00; Th 07:00-13:00; Fr 07:00-15:00; Dec 28 off; Dec 30 off; Dec 31 off; Jan 1 off; Dec 29 off"
     },
     {
       "id": "13770323",
@@ -110,7 +110,7 @@
         "houseNumber": "671",
         "zip": "28002"
       },
-      "openingHours": "Tu 07:00-13:00; Th 07:00-13:00; Fr 07:00-15:00; Dec 23 off; Dec 24 off; Dec 25 off; Dec 26 off; Dec 27 off; Dec 28 off; Dec 30 off; Dec 31 off; Jan 1 off; Dec 29 off"
+      "openingHours": "Tu 07:00-13:00; Th 07:00-13:00; Fr 07:00-15:00; Dec 28 off; Dec 30 off; Dec 31 off; Jan 1 off; Dec 29 off"
     },
     {
       "id": "13770056",
@@ -126,7 +126,7 @@
         "houseNumber": "671",
         "zip": "28002"
       },
-      "openingHours": "Mo 07:00-15:00; Dec 23 off; Dec 24 off; Dec 25 off; Dec 26 off; Dec 27 off; Dec 28 off; Dec 30 off; Dec 31 off; Jan 1 off; Jan 2 off; Dec 29 off"
+      "openingHours": "Mo 07:00-15:00; Dec 28 off; Dec 30 off; Dec 31 off; Jan 1 off; Jan 2 off; Dec 29 off"
     },
     {
       "id": "13292736",
@@ -142,7 +142,7 @@
         "houseNumber": "1851",
         "zip": "58301"
       },
-      "openingHours": "Mo 11:00-15:00; Tu 07:00-12:00; We 07:00-14:30; Th 07:00-16:30; Fr 07:00-16:30; Dec 23 off; Dec 24 off; Dec 25 off; Dec 26 off; Dec 27 off; Dec 28 off; Dec 29 off; Dec 30 off; Dec 31 off; Jan 1 off; Jan 2 off"
+      "openingHours": "Mo 11:00-15:00; Tu 07:00-12:00; We 07:00-14:30; Th 07:00-16:30; Fr 07:00-16:30; Dec 28 off; Dec 29 off; Dec 30 off; Dec 31 off; Jan 1 off; Jan 2 off"
     },
     {
       "id": "13770239",
@@ -158,7 +158,7 @@
         "houseNumber": "1851",
         "zip": "58301"
       },
-      "openingHours": "Mo 07:00-12:00; Tu 07:00-12:00; We 07:00-12:00; Th 07:00-12:00; Fr 07:00-12:00; Dec 23 off; Dec 24 off; Dec 25 off; Dec 26 off; Dec 27 off; Dec 28 off; Dec 29 off; Dec 30 off; Dec 31 off; Jan 1 off; Jan 2 off"
+      "openingHours": "Mo 07:00-12:00; Tu 07:00-12:00; We 07:00-12:00; Th 07:00-12:00; Fr 07:00-12:00; Dec 28 off; Dec 29 off; Dec 30 off; Dec 31 off; Jan 1 off; Jan 2 off"
     },
     {
       "id": "13770251",
@@ -174,7 +174,7 @@
         "houseNumber": "1851",
         "zip": "58301"
       },
-      "openingHours": "Mo 11:00-15:00; Tu 07:00-12:00; We 08:00-14:30; Th 08:00-16:30; Fr 08:00-12:00; Dec 23 off; Dec 24 off; Dec 25 off; Dec 26 off; Dec 27 off; Dec 28 off; Dec 29 off; Dec 30 off; Dec 31 off; Jan 1 off; Jan 2 off"
+      "openingHours": "Mo 11:00-15:00; Tu 07:00-12:00; We 08:00-14:30; Th 08:00-16:30; Fr 08:00-12:00; Dec 28 off; Dec 29 off; Dec 30 off; Dec 31 off; Jan 1 off; Jan 2 off"
     },
     {
       "id": "13769981",
@@ -190,7 +190,7 @@
         "houseNumber": "1851",
         "zip": "58301"
       },
-      "openingHours": "Tu 06:30-17:00; We 06:30-12:00; Th 06:30-17:00; Dec 23 off; Dec 24 off; Dec 25 off; Dec 26 off; Dec 27 off; Dec 28 off; Dec 29 off; Dec 30 off; Dec 31 off; Jan 1 off; Jan 2 off"
+      "openingHours": "Tu 06:30-17:00; We 06:30-12:00; Th 06:30-17:00; Dec 28 off; Dec 29 off; Dec 30 off; Dec 31 off; Jan 1 off; Jan 2 off"
     },
     {
       "id": "13769993",
@@ -206,7 +206,7 @@
         "houseNumber": "1851",
         "zip": "58301"
       },
-      "openingHours": "Tu 13:00-19:00; Dec 23 off; Dec 24 off; Dec 25 off; Dec 26 off; Dec 27 off; Dec 28 off; Dec 29 off; Dec 30 off; Dec 31 off; Jan 1 off; Jan 2 off"
+      "openingHours": "Tu 13:00-19:00; Dec 28 off; Dec 29 off; Dec 30 off; Dec 31 off; Jan 1 off; Jan 2 off"
     },
     {
       "id": "13770011",
@@ -222,7 +222,7 @@
         "houseNumber": "1851",
         "zip": "58301"
       },
-      "openingHours": "Mo 06:30-11:30,12:00-16:00; Tu 06:30-14:00; We 07:00-15:00; Th 08:00-11:30,12:00-13:00; Fr 06:30-12:00,12:30-14:00; Dec 23 off; Dec 24 off; Dec 25 off; Dec 26 off; Dec 27 off; Dec 28 off; Dec 29 off; Dec 30 off; Dec 31 off; Jan 1 off; Jan 2 off"
+      "openingHours": "Mo 06:30-11:30,12:00-16:00; Tu 06:30-14:00; We 07:00-15:00; Th 08:00-11:30,12:00-13:00; Fr 06:30-12:00,12:30-14:00; Dec 28 off; Dec 29 off; Dec 30 off; Dec 31 off; Jan 1 off; Jan 2 off"
     },
     {
       "id": "13770026",
@@ -238,7 +238,7 @@
         "houseNumber": "1851",
         "zip": "58301"
       },
-      "openingHours": "Mo 08:00-16:00; Fr 08:00-16:00; Dec 23 off; Dec 24 off; Dec 25 off; Dec 26 off; Dec 27 off; Dec 28 off; Dec 29 off; Dec 30 off; Dec 31 off; Jan 1 off; Jan 2 off"
+      "openingHours": "Mo 08:00-16:00; Fr 08:00-16:00; Dec 28 off; Dec 29 off; Dec 30 off; Dec 31 off; Jan 1 off; Jan 2 off"
     },
     {
       "id": "13770308",
@@ -254,7 +254,7 @@
         "houseNumber": "1851",
         "zip": "58301"
       },
-      "openingHours": "Dec 23 off; Dec 24 off; Dec 25 off; Dec 26 off; Dec 27 off; Dec 28 off; Dec 29 off; Dec 30 off; Dec 31 off; Jan 1 off; Jan 2 off"
+      "openingHours": "Dec 28 off; Dec 29 off; Dec 30 off; Dec 31 off; Jan 1 off; Jan 2 off"
     },
     {
       "id": "13770311",
@@ -270,7 +270,7 @@
         "houseNumber": "1851",
         "zip": "58301"
       },
-      "openingHours": "Dec 23 off; Dec 24 off; Dec 25 off; Dec 26 off; Dec 27 off; Dec 28 off; Dec 29 off; Dec 30 off; Dec 31 off; Jan 1 off; Jan 2 off"
+      "openingHours": "Dec 28 off; Dec 29 off; Dec 30 off; Dec 31 off; Jan 1 off; Jan 2 off"
     },
     {
       "id": "13770029",
@@ -286,7 +286,7 @@
         "houseNumber": "1851",
         "zip": "58301"
       },
-      "openingHours": "Dec 23 off; Dec 24 off; Dec 25 off; Dec 26 off; Dec 27 off; Dec 28 off; Dec 29 off; Dec 30 off; Dec 31 off; Jan 1 off; Jan 2 off"
+      "openingHours": "Dec 28 off; Dec 29 off; Dec 30 off; Dec 31 off; Jan 1 off; Jan 2 off"
     },
     {
       "id": "12924351",
@@ -302,7 +302,7 @@
         "houseNumber": "548",
         "zip": "53901"
       },
-      "openingHours": "Tu 07:00-12:00; We 07:00-09:00,09:00-15:00; Th 07:00-15:00; Fr 07:00-12:00,13:00-15:00; Dec 23 off; Dec 24 off; Dec 25 off; Dec 26 off; Dec 27 off; Dec 28 off; Dec 29 off; Dec 30 off; Dec 31 off; Jan 1 off; Jan 2 off"
+      "openingHours": "Tu 07:00-12:00; We 07:00-09:00,09:00-15:00; Th 07:00-15:00; Fr 07:00-12:00,13:00-15:00; Dec 28 off; Dec 29 off; Dec 30 off; Dec 31 off; Jan 1 off; Jan 2 off"
     },
     {
       "id": "13770332",
@@ -318,7 +318,7 @@
         "houseNumber": "548",
         "zip": "53901"
       },
-      "openingHours": "Tu 07:00-12:00; We 07:00-09:00,09:00-15:00; Th 07:00-15:00; Fr 07:00-12:00,13:00-15:00; Dec 23 off; Dec 24 off; Dec 25 off; Dec 26 off; Dec 27 off; Dec 28 off; Dec 29 off; Dec 30 off; Dec 31 off; Jan 1 off; Jan 2 off"
+      "openingHours": "Tu 07:00-12:00; We 07:00-09:00,09:00-15:00; Th 07:00-15:00; Fr 07:00-12:00,13:00-15:00; Dec 28 off; Dec 29 off; Dec 30 off; Dec 31 off; Jan 1 off; Jan 2 off"
     },
     {
       "id": "13770335",
@@ -334,7 +334,7 @@
         "houseNumber": "548",
         "zip": "53901"
       },
-      "openingHours": "Mo 07:00-13:00; Tu 07:00-12:00; Th 07:00-15:00; Dec 23 off; Dec 24 off; Dec 25 off; Dec 26 off; Dec 27 off; Dec 28 off; Dec 29 off; Dec 30 off; Dec 31 off; Jan 1 off; Jan 2 off"
+      "openingHours": "Mo 07:00-13:00; Tu 07:00-12:00; Th 07:00-15:00; Dec 28 off; Dec 29 off; Dec 30 off; Dec 31 off; Jan 1 off; Jan 2 off"
     },
     {
       "id": "13770080",
@@ -350,7 +350,7 @@
         "houseNumber": "548",
         "zip": "53901"
       },
-      "openingHours": "Dec 23 off; Dec 24 off; Dec 25 off; Dec 26 off; Dec 27 off; Dec 28 off; Dec 29 off; Dec 30 off; Dec 31 off; Jan 1 off; Jan 2 off"
+      "openingHours": "Dec 28 off; Dec 29 off; Dec 30 off; Dec 31 off; Jan 1 off; Jan 2 off"
     },
     {
       "id": "13770347",
@@ -366,7 +366,7 @@
         "houseNumber": "548",
         "zip": "53901"
       },
-      "openingHours": "Mo 07:00-15:00; Tu 07:00-15:00; We 07:00-15:00; Th 07:00-15:00; Fr 07:00-15:00; Dec 23 off; Dec 24 off; Dec 25 off; Dec 26 off; Dec 27 off; Dec 28 off; Dec 29 off; Dec 30 off; Dec 31 off; Jan 1 off; Jan 2 off"
+      "openingHours": "Mo 07:00-15:00; Tu 07:00-15:00; We 07:00-15:00; Th 07:00-15:00; Fr 07:00-15:00; Dec 28 off; Dec 29 off; Dec 30 off; Dec 31 off; Jan 1 off; Jan 2 off"
     },
     {
       "id": "13770350",
@@ -382,7 +382,7 @@
         "houseNumber": "548",
         "zip": "53901"
       },
-      "openingHours": "Mo 07:00-15:30; Tu 07:00-15:30; We 07:00-15:30; Th 07:00-18:00; Fr 07:00-12:00; Dec 23 off; Dec 24 off; Dec 25 off; Dec 26 off; Dec 27 off; Dec 28 off; Dec 29 off; Dec 30 off; Dec 31 off; Jan 1 off; Jan 2 off"
+      "openingHours": "Mo 07:00-15:30; Tu 07:00-15:30; We 07:00-15:30; Th 07:00-18:00; Fr 07:00-12:00; Dec 28 off; Dec 29 off; Dec 30 off; Dec 31 off; Jan 1 off; Jan 2 off"
     },
     {
       "id": "13770362",
@@ -398,7 +398,7 @@
         "houseNumber": "548",
         "zip": "53901"
       },
-      "openingHours": "Dec 23 off; Dec 24 off; Dec 25 off; Dec 26 off; Dec 27 off; Dec 28 off; Dec 29 off; Dec 30 off; Dec 31 off; Jan 1 off; Jan 2 off"
+      "openingHours": "Dec 28 off; Dec 29 off; Dec 30 off; Dec 31 off; Jan 1 off; Jan 2 off"
     },
     {
       "id": "13770086",
@@ -414,7 +414,7 @@
         "houseNumber": "548",
         "zip": "53901"
       },
-      "openingHours": "Dec 23 off; Dec 24 off; Dec 25 off; Dec 26 off; Dec 27 off; Dec 28 off; Dec 29 off; Dec 30 off; Dec 31 off; Jan 1 off; Jan 2 off"
+      "openingHours": "Dec 28 off; Dec 29 off; Dec 30 off; Dec 31 off; Jan 1 off; Jan 2 off"
     },
     {
       "id": "13770365",
@@ -430,7 +430,7 @@
         "houseNumber": "548",
         "zip": "53901"
       },
-      "openingHours": "Mo 07:00-13:00; Tu 07:00-12:00; We 07:00-09:00,09:00-15:00; Th 07:00-15:00; Fr 07:00-12:00,13:00-15:00; Dec 23 off; Dec 24 off; Dec 25 off; Dec 26 off; Dec 27 off; Dec 28 off; Dec 29 off; Dec 30 off; Dec 31 off; Jan 1 off; Jan 2 off"
+      "openingHours": "Mo 07:00-13:00; Tu 07:00-12:00; We 07:00-09:00,09:00-15:00; Th 07:00-15:00; Fr 07:00-12:00,13:00-15:00; Dec 28 off; Dec 29 off; Dec 30 off; Dec 31 off; Jan 1 off; Jan 2 off"
     }
   ]
 }
