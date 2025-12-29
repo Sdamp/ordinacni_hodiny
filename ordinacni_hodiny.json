@@ -2681,14 +2681,7 @@
         "note": ""
       }
     },
-    "irregular_changes": [
-      {
-        "date": "02012026",
-        "closed": true,
-        "note": "",
-        "_id": "694ae607a900dff1ace3a022"
-      }
-    ],
+    "irregular_changes": [],
     "color": [
       "#a217ed",
       "#ffffff"
