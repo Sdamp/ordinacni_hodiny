@@ -55,12 +55,6 @@
     },
     "irregular_changes": [
       {
-        "date": "29122025",
-        "closed": true,
-        "note": "",
-        "_id": "69499c73629ba8ea1be9bc2d"
-      },
-      {
         "date": "30122025",
         "closed": true,
         "note": "",
@@ -98,7 +92,7 @@
         "m_o": "1200",
         "m_c": "",
         "a_o": "",
-        "a_c": "1600",
+        "a_c": "1800",
         "note": ""
       },
       "tue": {
@@ -116,10 +110,10 @@
         "note": ""
       },
       "thu": {
-        "m_o": "1200",
+        "m_o": "",
         "m_c": "",
         "a_o": "",
-        "a_c": "1600",
+        "a_c": "",
         "note": ""
       },
       "fri": {
@@ -145,12 +139,6 @@
       }
     },
     "irregular_changes": [
-      {
-        "date": "29122025",
-        "closed": true,
-        "note": "",
-        "_id": "69499c76629ba8ea1be9bc78"
-      },
       {
         "date": "30122025",
         "closed": true,
@@ -237,12 +225,6 @@
     },
     "irregular_changes": [
       {
-        "date": "29122025",
-        "closed": true,
-        "note": "zástup M-Centrum Chotěboř",
-        "_id": "695161cba900dff1ace9c541"
-      },
-      {
         "day": {
           "m_o": "0600",
           "a_c": "1100"
@@ -319,12 +301,6 @@
       }
     },
     "irregular_changes": [
-      {
-        "date": "29122025",
-        "closed": true,
-        "note": "",
-        "_id": "6949a19fa900dff1ace22126"
-      },
       {
         "date": "30122025",
         "closed": true,
@@ -411,16 +387,6 @@
     },
     "irregular_changes": [
       {
-        "day": {
-          "m_o": "0600",
-          "a_c": "1100"
-        },
-        "date": "29122025",
-        "closed": false,
-        "note": "POZOR! Ordinujeme v M-Centru ordinace č. 10 (pro registrované)",
-        "_id": "695161b4a900dff1ace9c3a9"
-      },
-      {
         "date": "30122025",
         "closed": true,
         "note": "zástup Maleč",
@@ -461,12 +427,6 @@
       "sun": {}
     },
     "irregular_changes": [
-      {
-        "date": "29122025",
-        "closed": true,
-        "note": "",
-        "_id": "6949a1a4a900dff1ace22214"
-      },
       {
         "date": "30122025",
         "closed": true,
@@ -569,12 +529,6 @@
         "closed": true,
         "note": "",
         "_id": "6949a3e5a900dff1ace23530"
-      },
-      {
-        "date": "29122025",
-        "closed": true,
-        "note": "",
-        "_id": "6949a584a900dff1ace241db"
       }
     ],
     "color": [
@@ -654,12 +608,6 @@
         "closed": true,
         "note": "",
         "_id": "6949a3dea900dff1ace2324b"
-      },
-      {
-        "date": "29122025",
-        "closed": true,
-        "note": "",
-        "_id": "6949a588a900dff1ace24363"
       }
     ],
     "color": [
@@ -745,12 +693,6 @@
         "closed": true,
         "note": "",
         "_id": "6949a3eda900dff1ace23828"
-      },
-      {
-        "date": "29122025",
-        "closed": true,
-        "note": "",
-        "_id": "6949a40ca900dff1ace23ca8"
       }
     ],
     "color": [
@@ -813,12 +755,6 @@
       }
     },
     "irregular_changes": [
-      {
-        "date": "29122025",
-        "closed": true,
-        "note": "",
-        "_id": "69499c79629ba8ea1be9bccf"
-      },
       {
         "date": "30122025",
         "closed": true,
@@ -905,12 +841,6 @@
     },
     "irregular_changes": [
       {
-        "date": "29122025",
-        "closed": true,
-        "note": "",
-        "_id": "69499c7d629ba8ea1be9bd32"
-      },
-      {
         "date": "30122025",
         "closed": true,
         "note": "",
@@ -995,12 +925,6 @@
       }
     },
     "irregular_changes": [
-      {
-        "date": "29122025",
-        "closed": true,
-        "note": "",
-        "_id": "69499c80629ba8ea1be9bda1"
-      },
       {
         "date": "30122025",
         "closed": true,
@@ -1087,12 +1011,6 @@
     },
     "irregular_changes": [
       {
-        "date": "29122025",
-        "closed": true,
-        "note": "",
-        "_id": "69499c85629ba8ea1be9be1c"
-      },
-      {
         "date": "30122025",
         "closed": true,
         "note": "",
@@ -1177,12 +1095,6 @@
       }
     },
     "irregular_changes": [
-      {
-        "date": "29122025",
-        "closed": true,
-        "note": "",
-        "_id": "69499c89629ba8ea1be9bea3"
-      },
       {
         "date": "30122025",
         "closed": true,
@@ -1269,12 +1181,6 @@
     },
     "irregular_changes": [
       {
-        "date": "29122025",
-        "closed": true,
-        "note": "",
-        "_id": "69499c8d629ba8ea1be9bf36"
-      },
-      {
         "date": "30122025",
         "closed": true,
         "note": "",
@@ -1359,12 +1265,6 @@
       }
     },
     "irregular_changes": [
-      {
-        "date": "29122025",
-        "closed": true,
-        "note": "",
-        "_id": "69499bf6629ba8ea1be9bbee"
-      },
       {
         "date": "30122025",
         "closed": true,
@@ -1451,12 +1351,6 @@
     },
     "irregular_changes": [
       {
-        "date": "29122025",
-        "closed": true,
-        "note": "",
-        "_id": "69499c98629ba8ea1be9bfd5"
-      },
-      {
         "date": "30122025",
         "closed": true,
         "note": "",
@@ -1499,12 +1393,6 @@
       "sun": {}
     },
     "irregular_changes": [
-      {
-        "date": "29122025",
-        "closed": true,
-        "note": "",
-        "_id": "69499c9d629ba8ea1be9c080"
-      },
       {
         "date": "30122025",
         "closed": true,
@@ -1591,12 +1479,6 @@
     },
     "irregular_changes": [
       {
-        "date": "29122025",
-        "closed": true,
-        "note": "",
-        "_id": "69499ca1629ba8ea1be9c137"
-      },
-      {
         "date": "30122025",
         "closed": true,
         "note": "",
@@ -1681,12 +1563,6 @@
       }
     },
     "irregular_changes": [
-      {
-        "date": "29122025",
-        "closed": true,
-        "note": "",
-        "_id": "6949a3a5a900dff1ace22630"
-      },
       {
         "date": "30122025",
         "closed": true,
@@ -1773,12 +1649,6 @@
     },
     "irregular_changes": [
       {
-        "date": "29122025",
-        "closed": true,
-        "note": "",
-        "_id": "6949a3a8a900dff1ace22734"
-      },
-      {
         "date": "30122025",
         "closed": true,
         "note": "",
@@ -1863,12 +1733,6 @@
       }
     },
     "irregular_changes": [
-      {
-        "date": "29122025",
-        "closed": true,
-        "note": "",
-        "_id": "6949a3aca900dff1ace22843"
-      },
       {
         "date": "30122025",
         "closed": true,
@@ -1955,12 +1819,6 @@
     },
     "irregular_changes": [
       {
-        "date": "29122025",
-        "closed": true,
-        "note": "",
-        "_id": "6949a3b2a900dff1ace2295d"
-      },
-      {
         "date": "30122025",
         "closed": true,
         "note": "",
@@ -2045,12 +1903,6 @@
       }
     },
     "irregular_changes": [
-      {
-        "date": "29122025",
-        "closed": true,
-        "note": "",
-        "_id": "6949a3b5a900dff1ace22a83"
-      },
       {
         "date": "30122025",
         "closed": true,
@@ -2137,12 +1989,6 @@
     },
     "irregular_changes": [
       {
-        "date": "29122025",
-        "closed": true,
-        "note": "",
-        "_id": "6949a3b8a900dff1ace22bb3"
-      },
-      {
         "date": "30122025",
         "closed": true,
         "note": "",
@@ -2227,12 +2073,6 @@
       }
     },
     "irregular_changes": [
-      {
-        "date": "29122025",
-        "closed": true,
-        "note": "",
-        "_id": "6949a3bca900dff1ace22cee"
-      },
       {
         "date": "30122025",
         "closed": true,
@@ -2319,12 +2159,6 @@
     },
     "irregular_changes": [
       {
-        "date": "29122025",
-        "closed": true,
-        "note": "",
-        "_id": "6949a3bfa900dff1ace22e34"
-      },
-      {
         "date": "30122025",
         "closed": true,
         "note": "",
@@ -2409,12 +2243,6 @@
       }
     },
     "irregular_changes": [
-      {
-        "date": "29122025",
-        "closed": true,
-        "note": "zástup MUDr. Pavlišová 8:00-12:30 Adámková třída 149",
-        "_id": "6949b1a5a900dff1ace261b9"
-      },
       {
         "date": "30122025",
         "closed": true,
@@ -2501,12 +2329,6 @@
     },
     "irregular_changes": [
       {
-        "date": "29122025",
-        "closed": true,
-        "note": "",
-        "_id": "6949a3cba900dff1ace230e0"
-      },
-      {
         "date": "30122025",
         "closed": true,
         "note": "",
@@ -2591,12 +2413,6 @@
       }
     },
     "irregular_changes": [
-      {
-        "date": "29122025",
-        "closed": true,
-        "note": "",
-        "_id": "69499ca5629ba8ea1be9c1fa"
-      },
       {
         "date": "30122025",
         "closed": true,
