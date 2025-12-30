@@ -336,30 +336,30 @@
     "office": "Všeobecný praktický lékař",
     "regular_hours": {
       "mon": {
-        "m_o": "1000",
-        "m_c": "1300",
-        "a_o": "1300",
-        "a_c": "1800",
-        "note": "do 13 pro nemocné, poté objednaní"
+        "m_o": "0600",
+        "m_c": "",
+        "a_o": "",
+        "a_c": "",
+        "note": "10:00-12:00 akutní"
       },
       "tue": {
-        "m_o": "0800",
-        "m_c": "1000",
-        "a_o": "1000",
-        "a_c": "1300",
-        "note": "do 10 pro nemocné, poté objednaní"
+        "m_o": "1230",
+        "m_c": "",
+        "a_o": "",
+        "a_c": "1900",
+        "note": "12:30-14:30 akutní"
       },
       "wed": {
-        "m_o": "0800",
-        "m_c": "1000",
-        "a_o": "1000",
-        "a_c": "1300",
-        "note": "do 10 pro nemocné, poté objednaní"
+        "m_o": "0600",
+        "m_c": "",
+        "a_o": "",
+        "a_c": "1800",
+        "note": "10:00-12:00 akutní"
       },
       "thu": {
         "m_o": "0700",
-        "m_c": "0900",
-        "a_o": "0900",
+        "m_c": "",
+        "a_o": "",
         "a_c": "1800",
         "note": "do 9 pro nemocné, poté objednaní"
       },
