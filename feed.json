@@ -1,5 +1,5 @@
 {
-  "exportDate": "2025-12-30T21:37:26.834Z",
+  "exportDate": "2025-12-30T21:37:42.597Z",
   "premises": [
     {
       "id": "13770302",
@@ -430,7 +430,7 @@
         "houseNumber": "548",
         "zip": "53901"
       },
-      "openingHours": "Mo 07:00-13:00; Tu 07:00-12:00; We 07:00-09:00,09:00-15:00; Th 07:00-15:00; Fr 07:00-12:00,13:00-15:00; Dec 30 off; Dec 31 off; Jan 1 off; Jan 2 off"
+      "openingHours": "Mo 07:00-13:00; Tu 07:00-12:00; We 12:30-19:00; Th 07:00-15:00; Fr 07:00-12:00,13:00-15:00; Dec 30 off; Dec 31 off; Jan 1 off; Jan 2 off"
     }
   ]
 }
