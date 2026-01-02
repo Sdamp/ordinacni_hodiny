@@ -55,18 +55,6 @@
     },
     "irregular_changes": [
       {
-        "date": "31122025",
-        "closed": true,
-        "note": "",
-        "_id": "69499c73629ba8ea1be9bc2f"
-      },
-      {
-        "date": "01012026",
-        "closed": true,
-        "note": "",
-        "_id": "69499c73629ba8ea1be9bc30"
-      },
-      {
         "date": "02012026",
         "closed": true,
         "note": "",
@@ -134,18 +122,6 @@
     },
     "irregular_changes": [
       {
-        "date": "31122025",
-        "closed": true,
-        "note": "",
-        "_id": "69499c76629ba8ea1be9bc7a"
-      },
-      {
-        "date": "01012026",
-        "closed": true,
-        "note": "",
-        "_id": "69499c76629ba8ea1be9bc7b"
-      },
-      {
         "date": "02012026",
         "closed": true,
         "note": "",
@@ -211,14 +187,7 @@
         "note": ""
       }
     },
-    "irregular_changes": [
-      {
-        "date": "01012026",
-        "closed": true,
-        "note": "",
-        "_id": "6949b224a900dff1ace26c86"
-      }
-    ],
+    "irregular_changes": [],
     "color": [
       "#ffdc57",
       "#000000"
@@ -279,18 +248,6 @@
       }
     },
     "irregular_changes": [
-      {
-        "date": "31122025",
-        "closed": true,
-        "note": "",
-        "_id": "6949a19fa900dff1ace22128"
-      },
-      {
-        "date": "01012026",
-        "closed": true,
-        "note": "",
-        "_id": "6949a19fa900dff1ace22129"
-      },
       {
         "date": "02012026",
         "closed": true,
@@ -359,12 +316,6 @@
     },
     "irregular_changes": [
       {
-        "date": "01012026",
-        "closed": true,
-        "note": "",
-        "_id": "6949a17da900dff1ace21f54"
-      },
-      {
         "day": {
           "m_o": "0700",
           "a_c": "1100"
@@ -393,18 +344,6 @@
       "sun": {}
     },
     "irregular_changes": [
-      {
-        "date": "31122025",
-        "closed": true,
-        "note": "",
-        "_id": "6949a1a4a900dff1ace22216"
-      },
-      {
-        "date": "01012026",
-        "closed": true,
-        "note": "",
-        "_id": "6949a1a4a900dff1ace22217"
-      },
       {
         "date": "02012026",
         "closed": true,
@@ -471,20 +410,7 @@
         "note": ""
       }
     },
-    "irregular_changes": [
-      {
-        "date": "31122025",
-        "closed": true,
-        "note": "",
-        "_id": "6949a3e5a900dff1ace2352f"
-      },
-      {
-        "date": "01012026",
-        "closed": true,
-        "note": "",
-        "_id": "6949a3e5a900dff1ace23530"
-      }
-    ],
+    "irregular_changes": [],
     "color": [
       "#ff6900",
       "#000000"
@@ -544,20 +470,7 @@
         "note": ""
       }
     },
-    "irregular_changes": [
-      {
-        "date": "31122025",
-        "closed": true,
-        "note": "",
-        "_id": "6949a3dea900dff1ace2324a"
-      },
-      {
-        "date": "01012026",
-        "closed": true,
-        "note": "",
-        "_id": "6949a3dea900dff1ace2324b"
-      }
-    ],
+    "irregular_changes": [],
     "color": [
       "#ff6900",
       "#000000"
@@ -618,18 +531,6 @@
       }
     },
     "irregular_changes": [
-      {
-        "date": "31122025",
-        "closed": true,
-        "note": "",
-        "_id": "6949a3eda900dff1ace23826"
-      },
-      {
-        "date": "01012026",
-        "closed": true,
-        "note": "",
-        "_id": "6949a3eda900dff1ace23827"
-      },
       {
         "date": "02012026",
         "closed": true,
@@ -698,18 +599,6 @@
     },
     "irregular_changes": [
       {
-        "date": "31122025",
-        "closed": true,
-        "note": "",
-        "_id": "69499c79629ba8ea1be9bcd1"
-      },
-      {
-        "date": "01012026",
-        "closed": true,
-        "note": "",
-        "_id": "69499c79629ba8ea1be9bcd2"
-      },
-      {
         "date": "02012026",
         "closed": true,
         "note": "",
@@ -776,18 +665,6 @@
       }
     },
     "irregular_changes": [
-      {
-        "date": "31122025",
-        "closed": true,
-        "note": "",
-        "_id": "69499c7d629ba8ea1be9bd34"
-      },
-      {
-        "date": "01012026",
-        "closed": true,
-        "note": "",
-        "_id": "69499c7d629ba8ea1be9bd35"
-      },
       {
         "date": "02012026",
         "closed": true,
@@ -856,18 +733,6 @@
     },
     "irregular_changes": [
       {
-        "date": "31122025",
-        "closed": true,
-        "note": "",
-        "_id": "69499c80629ba8ea1be9bda3"
-      },
-      {
-        "date": "01012026",
-        "closed": true,
-        "note": "",
-        "_id": "69499c80629ba8ea1be9bda4"
-      },
-      {
         "date": "02012026",
         "closed": true,
         "note": "",
@@ -934,18 +799,6 @@
       }
     },
     "irregular_changes": [
-      {
-        "date": "31122025",
-        "closed": true,
-        "note": "",
-        "_id": "69499c85629ba8ea1be9be1e"
-      },
-      {
-        "date": "01012026",
-        "closed": true,
-        "note": "",
-        "_id": "69499c85629ba8ea1be9be1f"
-      },
       {
         "date": "02012026",
         "closed": true,
@@ -1014,18 +867,6 @@
     },
     "irregular_changes": [
       {
-        "date": "31122025",
-        "closed": true,
-        "note": "",
-        "_id": "69499c89629ba8ea1be9bea5"
-      },
-      {
-        "date": "01012026",
-        "closed": true,
-        "note": "",
-        "_id": "69499c89629ba8ea1be9bea6"
-      },
-      {
         "date": "02012026",
         "closed": true,
         "note": "",
@@ -1092,18 +933,6 @@
       }
     },
     "irregular_changes": [
-      {
-        "date": "31122025",
-        "closed": true,
-        "note": "",
-        "_id": "69499c8d629ba8ea1be9bf38"
-      },
-      {
-        "date": "01012026",
-        "closed": true,
-        "note": "",
-        "_id": "69499c8d629ba8ea1be9bf39"
-      },
       {
         "date": "02012026",
         "closed": true,
@@ -1172,18 +1001,6 @@
     },
     "irregular_changes": [
       {
-        "date": "31122025",
-        "closed": true,
-        "note": "",
-        "_id": "69499bf6629ba8ea1be9bbf0"
-      },
-      {
-        "date": "01012026",
-        "closed": true,
-        "note": "",
-        "_id": "69499bf6629ba8ea1be9bbf1"
-      },
-      {
         "date": "02012026",
         "closed": true,
         "note": "",
@@ -1250,18 +1067,6 @@
       }
     },
     "irregular_changes": [
-      {
-        "date": "31122025",
-        "closed": true,
-        "note": "",
-        "_id": "69499c98629ba8ea1be9bfd7"
-      },
-      {
-        "date": "01012026",
-        "closed": true,
-        "note": "",
-        "_id": "69499c98629ba8ea1be9bfd8"
-      },
       {
         "date": "02012026",
         "closed": true,
@@ -1330,18 +1135,6 @@
     },
     "irregular_changes": [
       {
-        "date": "31122025",
-        "closed": true,
-        "note": "",
-        "_id": "69499c9d629ba8ea1be9c082"
-      },
-      {
-        "date": "01012026",
-        "closed": true,
-        "note": "",
-        "_id": "69499c9d629ba8ea1be9c083"
-      },
-      {
         "date": "02012026",
         "closed": true,
         "note": "",
@@ -1408,18 +1201,6 @@
       }
     },
     "irregular_changes": [
-      {
-        "date": "31122025",
-        "closed": true,
-        "note": "",
-        "_id": "69499ca1629ba8ea1be9c139"
-      },
-      {
-        "date": "01012026",
-        "closed": true,
-        "note": "",
-        "_id": "69499ca1629ba8ea1be9c13a"
-      },
       {
         "date": "02012026",
         "closed": true,
@@ -1488,18 +1269,6 @@
     },
     "irregular_changes": [
       {
-        "date": "31122025",
-        "closed": true,
-        "note": "",
-        "_id": "6949a3a5a900dff1ace22632"
-      },
-      {
-        "date": "01012026",
-        "closed": true,
-        "note": "",
-        "_id": "6949a3a5a900dff1ace22633"
-      },
-      {
         "date": "02012026",
         "closed": true,
         "note": "",
@@ -1566,18 +1335,6 @@
       }
     },
     "irregular_changes": [
-      {
-        "date": "31122025",
-        "closed": true,
-        "note": "",
-        "_id": "6949a3a8a900dff1ace22736"
-      },
-      {
-        "date": "01012026",
-        "closed": true,
-        "note": "",
-        "_id": "6949a3a8a900dff1ace22737"
-      },
       {
         "date": "02012026",
         "closed": true,
@@ -1646,18 +1403,6 @@
     },
     "irregular_changes": [
       {
-        "date": "31122025",
-        "closed": true,
-        "note": "",
-        "_id": "6949a3aca900dff1ace22845"
-      },
-      {
-        "date": "01012026",
-        "closed": true,
-        "note": "",
-        "_id": "6949a3aca900dff1ace22846"
-      },
-      {
         "date": "02012026",
         "closed": true,
         "note": "",
@@ -1724,18 +1469,6 @@
       }
     },
     "irregular_changes": [
-      {
-        "date": "31122025",
-        "closed": true,
-        "note": "",
-        "_id": "6949a3b2a900dff1ace2295f"
-      },
-      {
-        "date": "01012026",
-        "closed": true,
-        "note": "",
-        "_id": "6949a3b2a900dff1ace22960"
-      },
       {
         "date": "02012026",
         "closed": true,
@@ -1804,18 +1537,6 @@
     },
     "irregular_changes": [
       {
-        "date": "31122025",
-        "closed": true,
-        "note": "",
-        "_id": "6949a3b5a900dff1ace22a85"
-      },
-      {
-        "date": "01012026",
-        "closed": true,
-        "note": "",
-        "_id": "6949a3b5a900dff1ace22a86"
-      },
-      {
         "date": "02012026",
         "closed": true,
         "note": "",
@@ -1882,18 +1603,6 @@
       }
     },
     "irregular_changes": [
-      {
-        "date": "31122025",
-        "closed": true,
-        "note": "",
-        "_id": "6949a3b8a900dff1ace22bb5"
-      },
-      {
-        "date": "01012026",
-        "closed": true,
-        "note": "",
-        "_id": "6949a3b8a900dff1ace22bb6"
-      },
       {
         "date": "02012026",
         "closed": true,
@@ -1962,18 +1671,6 @@
     },
     "irregular_changes": [
       {
-        "date": "31122025",
-        "closed": true,
-        "note": "",
-        "_id": "6949a3bca900dff1ace22cf0"
-      },
-      {
-        "date": "01012026",
-        "closed": true,
-        "note": "",
-        "_id": "6949a3bca900dff1ace22cf1"
-      },
-      {
         "date": "02012026",
         "closed": true,
         "note": "",
@@ -2040,18 +1737,6 @@
       }
     },
     "irregular_changes": [
-      {
-        "date": "31122025",
-        "closed": true,
-        "note": "",
-        "_id": "6949a3bfa900dff1ace22e36"
-      },
-      {
-        "date": "01012026",
-        "closed": true,
-        "note": "",
-        "_id": "6949a3bfa900dff1ace22e37"
-      },
       {
         "date": "02012026",
         "closed": true,
@@ -2120,18 +1805,6 @@
     },
     "irregular_changes": [
       {
-        "date": "31122025",
-        "closed": true,
-        "note": "zástup MUDr. Šauer Poliklinika Hlinsko",
-        "_id": "6949b1b8a900dff1ace264c9"
-      },
-      {
-        "date": "01012026",
-        "closed": true,
-        "note": "",
-        "_id": "6949a3c7a900dff1ace22f88"
-      },
-      {
         "date": "02012026",
         "closed": true,
         "note": "zástup MUDr. Šauer Poliklinika Hlinsko",
@@ -2198,18 +1871,6 @@
       }
     },
     "irregular_changes": [
-      {
-        "date": "31122025",
-        "closed": true,
-        "note": "",
-        "_id": "6949a3cba900dff1ace230e2"
-      },
-      {
-        "date": "01012026",
-        "closed": true,
-        "note": "",
-        "_id": "6949a3cba900dff1ace230e3"
-      },
       {
         "date": "02012026",
         "closed": true,
@@ -2278,18 +1939,6 @@
     },
     "irregular_changes": [
       {
-        "date": "31122025",
-        "closed": true,
-        "note": "",
-        "_id": "69499ca5629ba8ea1be9c1fc"
-      },
-      {
-        "date": "01012026",
-        "closed": true,
-        "note": "",
-        "_id": "69499ca5629ba8ea1be9c1fd"
-      },
-      {
         "date": "02012026",
         "closed": true,
         "note": "",
@@ -2324,7 +1973,7 @@
         "m_c": "",
         "a_o": "",
         "a_c": "1800",
-        "note": "Sestra od 6:00"
+        "note": ""
       },
       "thu": {
         "m_o": "0730",
@@ -2338,7 +1987,7 @@
         "m_c": "",
         "a_o": "",
         "a_c": "1300",
-        "note": "Sestra od 6:00"
+        "note": ""
       },
       "sat": {
         "m_o": "",
