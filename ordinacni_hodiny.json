@@ -135,7 +135,7 @@
         "m_c": "1200",
         "a_o": "1230",
         "a_c": "1430",
-        "note": "lékař do 12h (Akutní případy: 10:00 - 12:00)"
+        "note": "lékař do 12h (akutní případy: 10:00 - 12:00)"
       },
       "wed": {
         "m_o": "0630",
@@ -149,7 +149,7 @@
         "m_c": "",
         "a_o": "",
         "a_c": "1900",
-        "note": "lékař od 15h (Akutní případy: 15:00 - 17:00)"
+        "note": "lékař od 15h (akutní případy: 15:00 - 17:00)"
       },
       "fri": {
         "m_o": "0630",
