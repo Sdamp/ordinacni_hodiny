@@ -53,14 +53,7 @@
         "note": ""
       }
     },
-    "irregular_changes": [
-      {
-        "date": "02012026",
-        "closed": true,
-        "note": "",
-        "_id": "69499c73629ba8ea1be9bc31"
-      }
-    ],
+    "irregular_changes": [],
     "color": [
       "#d75d9e",
       "#000000"
@@ -120,14 +113,7 @@
         "note": ""
       }
     },
-    "irregular_changes": [
-      {
-        "date": "02012026",
-        "closed": true,
-        "note": "",
-        "_id": "69499c76629ba8ea1be9bc7c"
-      }
-    ],
+    "irregular_changes": [],
     "color": [
       "#d75d9e",
       "#000000"
@@ -149,7 +135,7 @@
         "m_c": "1200",
         "a_o": "1230",
         "a_c": "1430",
-        "note": "lékař do 12h"
+        "note": "lékař do 12h (Akutní případy: 10:00 - 12:00)"
       },
       "wed": {
         "m_o": "0630",
@@ -163,7 +149,7 @@
         "m_c": "",
         "a_o": "",
         "a_c": "1900",
-        "note": "lékař od 15h"
+        "note": "lékař od 15h (Akutní případy: 15:00 - 17:00)"
       },
       "fri": {
         "m_o": "0630",
@@ -247,14 +233,7 @@
         "note": ""
       }
     },
-    "irregular_changes": [
-      {
-        "date": "02012026",
-        "closed": true,
-        "note": "",
-        "_id": "6949a19fa900dff1ace2212a"
-      }
-    ],
+    "irregular_changes": [],
     "color": [
       "#009e7c",
       "#000000"
@@ -314,18 +293,7 @@
         "note": ""
       }
     },
-    "irregular_changes": [
-      {
-        "day": {
-          "m_o": "0700",
-          "a_c": "1100"
-        },
-        "date": "02012026",
-        "closed": false,
-        "note": "",
-        "_id": "6949a18ca900dff1ace22048"
-      }
-    ],
+    "irregular_changes": [],
     "color": [
       "#009e7c",
       "#000000"
@@ -343,14 +311,7 @@
       "sat": {},
       "sun": {}
     },
-    "irregular_changes": [
-      {
-        "date": "02012026",
-        "closed": true,
-        "note": "",
-        "_id": "6949a1a4a900dff1ace22218"
-      }
-    ],
+    "irregular_changes": [],
     "color": [
       "#009e7c",
       "#000000"
@@ -530,14 +491,7 @@
         "note": ""
       }
     },
-    "irregular_changes": [
-      {
-        "date": "02012026",
-        "closed": true,
-        "note": "",
-        "_id": "6949a3eda900dff1ace23828"
-      }
-    ],
+    "irregular_changes": [],
     "color": [
       "#ff6900",
       "#000000"
@@ -597,14 +551,7 @@
         "note": ""
       }
     },
-    "irregular_changes": [
-      {
-        "date": "02012026",
-        "closed": true,
-        "note": "",
-        "_id": "69499c79629ba8ea1be9bcd3"
-      }
-    ],
+    "irregular_changes": [],
     "color": [
       "#d75d9e",
       "#ffffff"
@@ -664,14 +611,7 @@
         "note": ""
       }
     },
-    "irregular_changes": [
-      {
-        "date": "02012026",
-        "closed": true,
-        "note": "",
-        "_id": "69499c7d629ba8ea1be9bd36"
-      }
-    ],
+    "irregular_changes": [],
     "color": [
       "#d75d9e",
       "#ffffff"
@@ -731,14 +671,7 @@
         "note": ""
       }
     },
-    "irregular_changes": [
-      {
-        "date": "02012026",
-        "closed": true,
-        "note": "",
-        "_id": "69499c80629ba8ea1be9bda5"
-      }
-    ],
+    "irregular_changes": [],
     "color": [
       "#d75d9e",
       "#ffffff"
@@ -798,14 +731,7 @@
         "note": ""
       }
     },
-    "irregular_changes": [
-      {
-        "date": "02012026",
-        "closed": true,
-        "note": "",
-        "_id": "69499c85629ba8ea1be9be20"
-      }
-    ],
+    "irregular_changes": [],
     "color": [
       "#d75d9e",
       "#ffffff"
@@ -865,14 +791,7 @@
         "note": ""
       }
     },
-    "irregular_changes": [
-      {
-        "date": "02012026",
-        "closed": true,
-        "note": "",
-        "_id": "69499c89629ba8ea1be9bea7"
-      }
-    ],
+    "irregular_changes": [],
     "color": [
       "#d75d9e",
       "#ffffff"
@@ -932,14 +851,7 @@
         "note": ""
       }
     },
-    "irregular_changes": [
-      {
-        "date": "02012026",
-        "closed": true,
-        "note": "",
-        "_id": "69499c8d629ba8ea1be9bf3a"
-      }
-    ],
+    "irregular_changes": [],
     "color": [
       "#d75d9e",
       "#ffffff"
@@ -999,14 +911,7 @@
         "note": ""
       }
     },
-    "irregular_changes": [
-      {
-        "date": "02012026",
-        "closed": true,
-        "note": "",
-        "_id": "69499bf6629ba8ea1be9bbf2"
-      }
-    ],
+    "irregular_changes": [],
     "color": [
       "#d75d9e",
       "#ffffff"
@@ -1066,14 +971,7 @@
         "note": ""
       }
     },
-    "irregular_changes": [
-      {
-        "date": "02012026",
-        "closed": true,
-        "note": "",
-        "_id": "69499c98629ba8ea1be9bfd9"
-      }
-    ],
+    "irregular_changes": [],
     "color": [
       "#d75d9e",
       "#ffffff"
@@ -1133,14 +1031,7 @@
         "note": ""
       }
     },
-    "irregular_changes": [
-      {
-        "date": "02012026",
-        "closed": true,
-        "note": "",
-        "_id": "69499c9d629ba8ea1be9c084"
-      }
-    ],
+    "irregular_changes": [],
     "color": [
       "#d75d9e",
       "#ffffff"
@@ -1200,14 +1091,7 @@
         "note": ""
       }
     },
-    "irregular_changes": [
-      {
-        "date": "02012026",
-        "closed": true,
-        "note": "",
-        "_id": "69499ca1629ba8ea1be9c13b"
-      }
-    ],
+    "irregular_changes": [],
     "color": [
       "#d75d9e",
       "#ffffff"
@@ -1267,14 +1151,7 @@
         "note": ""
       }
     },
-    "irregular_changes": [
-      {
-        "date": "02012026",
-        "closed": true,
-        "note": "",
-        "_id": "6949a3a5a900dff1ace22634"
-      }
-    ],
+    "irregular_changes": [],
     "color": [
       "#01bbff",
       "#000000"
@@ -1334,14 +1211,7 @@
         "note": ""
       }
     },
-    "irregular_changes": [
-      {
-        "date": "02012026",
-        "closed": true,
-        "note": "",
-        "_id": "6949a3a8a900dff1ace22738"
-      }
-    ],
+    "irregular_changes": [],
     "color": [
       "#01bbff",
       "#000000"
@@ -1401,14 +1271,7 @@
         "note": ""
       }
     },
-    "irregular_changes": [
-      {
-        "date": "02012026",
-        "closed": true,
-        "note": "",
-        "_id": "6949a3aca900dff1ace22847"
-      }
-    ],
+    "irregular_changes": [],
     "color": [
       "#01bbff",
       "#000000"
@@ -1468,14 +1331,7 @@
         "note": ""
       }
     },
-    "irregular_changes": [
-      {
-        "date": "02012026",
-        "closed": true,
-        "note": "",
-        "_id": "6949a3b2a900dff1ace22961"
-      }
-    ],
+    "irregular_changes": [],
     "color": [
       "#01bbff",
       "#000000"
@@ -1535,14 +1391,7 @@
         "note": ""
       }
     },
-    "irregular_changes": [
-      {
-        "date": "02012026",
-        "closed": true,
-        "note": "",
-        "_id": "6949a3b5a900dff1ace22a87"
-      }
-    ],
+    "irregular_changes": [],
     "color": [
       "#01bbff",
       "#000000"
@@ -1602,14 +1451,7 @@
         "note": ""
       }
     },
-    "irregular_changes": [
-      {
-        "date": "02012026",
-        "closed": true,
-        "note": "",
-        "_id": "6949a3b8a900dff1ace22bb7"
-      }
-    ],
+    "irregular_changes": [],
     "color": [
       "#01bbff",
       "#000000"
@@ -1669,14 +1511,7 @@
         "note": ""
       }
     },
-    "irregular_changes": [
-      {
-        "date": "02012026",
-        "closed": true,
-        "note": "",
-        "_id": "6949a3bca900dff1ace22cf2"
-      }
-    ],
+    "irregular_changes": [],
     "color": [
       "#01bbff",
       "#000000"
@@ -1736,14 +1571,7 @@
         "note": ""
       }
     },
-    "irregular_changes": [
-      {
-        "date": "02012026",
-        "closed": true,
-        "note": "",
-        "_id": "6949a3bfa900dff1ace22e38"
-      }
-    ],
+    "irregular_changes": [],
     "color": [
       "#01bbff",
       "#000000"
@@ -1803,14 +1631,7 @@
         "note": ""
       }
     },
-    "irregular_changes": [
-      {
-        "date": "02012026",
-        "closed": true,
-        "note": "zástup MUDr. Šauer Poliklinika Hlinsko",
-        "_id": "6949b1bba900dff1ace26651"
-      }
-    ],
+    "irregular_changes": [],
     "color": [
       "#01bbff",
       "#000000"
@@ -1870,14 +1691,7 @@
         "note": ""
       }
     },
-    "irregular_changes": [
-      {
-        "date": "02012026",
-        "closed": true,
-        "note": "",
-        "_id": "6949a3cba900dff1ace230e4"
-      }
-    ],
+    "irregular_changes": [],
     "color": [
       "#00bbff",
       "#ffffff"
@@ -1937,14 +1751,7 @@
         "note": ""
       }
     },
-    "irregular_changes": [
-      {
-        "date": "02012026",
-        "closed": true,
-        "note": "",
-        "_id": "69499ca5629ba8ea1be9c1fe"
-      }
-    ],
+    "irregular_changes": [],
     "color": [
       "#000000",
       "#FFFFFF"
