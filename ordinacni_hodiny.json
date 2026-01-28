@@ -209,6 +209,12 @@
         "closed": true,
         "note": "test, neni aktualni informace",
         "_id": "697a228556b4ca562dff5589"
+      },
+      {
+        "date": "02022026",
+        "closed": true,
+        "note": "test, neni aktualni informace",
+        "_id": "697a228856b4ca562dff5721"
       }
     ],
     "nurse": "Lenka Němcová",
