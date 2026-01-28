@@ -13,6 +13,7 @@ async function loadData() {
   const townParam = params.get("mesto");
   const officeParam = params.get("ordinace");
   const container = document.getElementById("content");
+  const addInfo = params.get("add_info");
 
   const response = await fetch("ordinacni_hodiny.json?_=" + Date.now());
   const jsonData = await response.json();
@@ -194,6 +195,30 @@ async function loadData() {
     }
 
     currHtml += `<div style="height: 50px"/></div>`;
+    if (addInfo === "true") {
+      let additionalInfo = '';
+      
+      if (matchedRecord.nurse || matchedRecord.email || matchedRecord.phone) {
+        additionalInfo += `<div style="margin-top: 20px; padding: 15px; background-color: #f9f9f9; border-radius: 6px; border-left: 4px solid ${bgColor};">`;
+        additionalInfo += `<h3 style="margin-top: 0; margin-bottom: 10px; font-size: 18px;">Kontaktní informace</h3>`;
+        
+        if (matchedRecord.nurse) {
+          additionalInfo += `<div style="margin-bottom: 8px;"><strong>Sestra:</strong> ${matchedRecord.nurse}</div>`;
+        }
+        
+        if (matchedRecord.email) {
+          additionalInfo += `<div style="margin-bottom: 8px;"><strong>Email:</strong> <a href="mailto:${matchedRecord.email}" style="color: #0066cc; text-decoration: none;">${matchedRecord.email}</a></div>`;
+        }
+        
+        if (matchedRecord.phone) {
+          additionalInfo += `<div style="margin-bottom: 8px;"><strong>Telefon:</strong> <a href="tel:${matchedRecord.phone}" style="color: #0066cc; text-decoration: none;">${matchedRecord.phone}</a></div>`;
+        }
+        
+        additionalInfo += `</div>`;
+      }
+      
+      currHtml += additionalInfo;
+    }
     container.innerHTML = currHtml;
   } catch (error) {
     container.innerHTML = `<p style="color: red;">❌ Chyba při načítání dat.</p>`;
