@@ -196,6 +196,7 @@ async function loadData() {
 
     currHtml += `<div style="height: 50px"/></div>`;
     if (addInfo === "true") {
+      console.log(matchedRecord);
       let additionalInfo = '';
       
       if (matchedRecord.nurse || matchedRecord.email || matchedRecord.phone) {
@@ -220,6 +221,9 @@ async function loadData() {
       currHtml += additionalInfo;
     }
     container.innerHTML = currHtml;
+    
+    // Po aktualizaci DOM pošli novou výšku rodičovskému oknu
+    sendHeightToParent();
   } catch (error) {
     container.innerHTML = `<p style="color: red;">❌ Chyba při načítání dat.</p>`;
     console.error(error);
@@ -271,4 +275,22 @@ function formatDate(dateStr) {
   return `${day}.${month}.${year}`;
 }
 
-window.onload = loadData;
+function sendHeightToParent() {
+  // Počkej na renderování
+  setTimeout(() => {
+    const height = document.body.scrollHeight;
+    // Pošli výšku rodičovskému oknu
+    if (window.parent !== window) {
+      window.parent.postMessage({ type: 'iframeHeight', height: height }, '*');
+    }
+  }, 100);
+}
+
+window.onload = () => {
+  loadData().then(() => {
+    sendHeightToParent();
+  });
+  
+  // Pošli výšku i při změně velikosti okna
+  window.addEventListener('resize', sendHeightToParent);
+};
