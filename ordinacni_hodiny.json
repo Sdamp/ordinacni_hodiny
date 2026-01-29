@@ -179,14 +179,7 @@
         "note": ""
       }
     },
-    "irregular_changes": [
-      {
-        "date": "04022026",
-        "closed": true,
-        "note": "test, neni aktualni informace",
-        "_id": "697a229056b4ca562dff5a57"
-      }
-    ],
+    "irregular_changes": [],
     "nurse": "Lenka Němcová",
     "phone": "+420 564 565 155",
     "email": "vplmalec@sdamp.cz",
