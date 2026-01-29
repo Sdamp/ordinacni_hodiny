@@ -181,30 +181,6 @@
     },
     "irregular_changes": [
       {
-        "date": "31012026",
-        "closed": true,
-        "note": "test, neni aktualni informace",
-        "_id": "697a228156b4ca562dff53f3"
-      },
-      {
-        "date": "01022026",
-        "closed": true,
-        "note": "test, neni aktualni informace",
-        "_id": "697a228556b4ca562dff5589"
-      },
-      {
-        "date": "02022026",
-        "closed": true,
-        "note": "test, neni aktualni informace",
-        "_id": "697a228856b4ca562dff5721"
-      },
-      {
-        "date": "03022026",
-        "closed": true,
-        "note": "test, neni aktualni informace",
-        "_id": "697a228c56b4ca562dff58bb"
-      },
-      {
         "date": "04022026",
         "closed": true,
         "note": "test, neni aktualni informace",
