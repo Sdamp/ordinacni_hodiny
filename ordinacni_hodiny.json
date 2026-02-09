@@ -1998,6 +1998,69 @@
     "town": "Havlíčkův Brod",
     "office": "Diabetologie",
     "regular_hours": {
+      "mon": {
+        "m_o": "",
+        "m_c": "",
+        "a_o": "",
+        "a_c": "",
+        "note": ""
+      },
+      "tue": {
+        "m_o": "",
+        "m_c": "",
+        "a_o": "",
+        "a_c": "",
+        "note": ""
+      },
+      "wed": {
+        "m_o": "1600",
+        "m_c": "",
+        "a_o": "",
+        "a_c": "1900",
+        "note": ""
+      },
+      "thu": {
+        "m_o": "1600",
+        "m_c": "",
+        "a_o": "",
+        "a_c": "1900",
+        "note": ""
+      },
+      "fri": {
+        "m_o": "0700",
+        "m_c": "",
+        "a_o": "",
+        "a_c": "1530",
+        "note": ""
+      },
+      "sat": {
+        "m_o": "",
+        "m_c": "",
+        "a_o": "",
+        "a_c": "",
+        "note": ""
+      },
+      "sun": {
+        "m_o": "",
+        "m_c": "",
+        "a_o": "",
+        "a_c": "",
+        "note": ""
+      }
+    },
+    "irregular_changes": [],
+    "nurse": null,
+    "phone": null,
+    "email": null,
+    "color": [
+      "#000000",
+      "#FFFFFF"
+    ]
+  },
+  {
+    "town": "Hlinsko",
+    "office": "Pedikúra",
+    "regular_hours": {
       "mon": {},
       "tue": {},
       "wed": {},
