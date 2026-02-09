@@ -1909,5 +1909,26 @@
       "#a217ed",
       "#ffffff"
     ]
+  },
+  {
+    "town": "Chotěboř-Mcentrum",
+    "office": "Všeobecný praktický lékař",
+    "regular_hours": {
+      "mon": {},
+      "tue": {},
+      "wed": {},
+      "thu": {},
+      "fri": {},
+      "sat": {},
+      "sun": {}
+    },
+    "irregular_changes": [],
+    "nurse": null,
+    "phone": null,
+    "email": null,
+    "color": [
+      "#000000",
+      "#FFFFFF"
+    ]
   }
 ]
