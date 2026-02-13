@@ -70,7 +70,7 @@
         "m_o": "1200",
         "m_c": "",
         "a_o": "",
-        "a_c": "1800",
+        "a_c": "1600",
         "note": ""
       },
       "tue": {
@@ -141,7 +141,7 @@
         "m_c": "1200",
         "a_o": "1230",
         "a_c": "1430",
-        "note": "lékař do 12h"
+        "note": "lékař do 12h (akutní případy: 10:00 - 12:00)"
       },
       "wed": {
         "m_o": "0630",
@@ -155,7 +155,7 @@
         "m_c": "",
         "a_o": "",
         "a_c": "1900",
-        "note": "lékař od 15h"
+        "note": "lékař od 15h (akutní případy: 15:00 - 17:00)"
       },
       "fri": {
         "m_o": "0630",
@@ -180,9 +180,9 @@
       }
     },
     "irregular_changes": [],
-    "nurse": "Lenka Němcová",
-    "phone": "+420 564 565 155",
-    "email": "vplmalec@sdamp.cz",
+    "nurse": "",
+    "phone": "",
+    "email": "",
     "color": [
       "#ffdc57",
       "#000000"
@@ -584,7 +584,7 @@
     "email": "endochotebor@sdamp.cz",
     "color": [
       "#d75d9e",
-      "#000000"
+      "#ffffff"
     ]
   },
   {
@@ -647,7 +647,7 @@
     "email": "osteochotebor@sdamp.cz",
     "color": [
       "#d75d9e",
-      "#000000"
+      "#ffffff"
     ]
   },
   {
@@ -710,7 +710,7 @@
     "email": "endochotebor@sdamp.cz",
     "color": [
       "#d75d9e",
-      "#000000"
+      "#ffffff"
     ]
   },
   {
@@ -773,7 +773,7 @@
     "email": "sportlekchotebor@sdamp.cz",
     "color": [
       "#d75d9e",
-      "#000000"
+      "#ffffff"
     ]
   },
   {
@@ -836,7 +836,7 @@
     "email": "kardiochotebor@sdamp.cz",
     "color": [
       "#d75d9e",
-      "#000000"
+      "#ffffff"
     ]
   },
   {
@@ -899,7 +899,7 @@
     "email": "neurochotebor@sdamp.cz",
     "color": [
       "#d75d9e",
-      "#000000"
+      "#ffffff"
     ]
   },
   {
@@ -962,7 +962,7 @@
     "email": "nutri@sdamp.cz",
     "color": [
       "#d75d9e",
-      "#000000"
+      "#ffffff"
     ]
   },
   {
@@ -1025,7 +1025,7 @@
     "email": "endochotebor@sdamp.cz",
     "color": [
       "#d75d9e",
-      "#000000"
+      "#ffffff"
     ]
   },
   {
@@ -1088,7 +1088,7 @@
     "email": "podiachotebor@sdamp.cz",
     "color": [
       "#d75d9e",
-      "#000000"
+      "#ffffff"
     ]
   },
   {
@@ -1151,7 +1151,7 @@
     "email": "",
     "color": [
       "#d75d9e",
-      "#000000"
+      "#ffffff"
     ]
   },
   {
@@ -1159,11 +1159,11 @@
     "office": "Diabetologie",
     "regular_hours": {
       "mon": {
-        "m_o": "",
+        "m_o": "0700",
         "m_c": "",
         "a_o": "",
-        "a_c": "",
-        "note": ""
+        "a_c": "1300",
+        "note": "interní pacienti"
       },
       "tue": {
         "m_o": "0700",
@@ -1222,11 +1222,11 @@
     "office": "Endokrinologie",
     "regular_hours": {
       "mon": {
-        "m_o": "",
+        "m_o": "0700",
         "m_c": "",
         "a_o": "",
-        "a_c": "",
-        "note": ""
+        "a_c": "1300",
+        "note": "interní pacienti"
       },
       "tue": {
         "m_o": "0700",
@@ -1843,8 +1843,8 @@
     "phone": "733 645 602",
     "email": null,
     "color": [
-      "#d75d9e",
-      "#000000"
+      "#000000",
+      "#FFFFFF"
     ]
   },
   {
