@@ -179,14 +179,7 @@
         "note": ""
       }
     },
-    "irregular_changes": [
-      {
-        "date": "15022026",
-        "closed": true,
-        "note": "",
-        "_id": "698f58e9444096a3dcef4b1c"
-      }
-    ],
+    "irregular_changes": [],
     "nurse": "",
     "phone": "",
     "email": "",
