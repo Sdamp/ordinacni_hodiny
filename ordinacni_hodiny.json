@@ -1914,13 +1914,55 @@
     "town": "Chotěboř-Mcentrum",
     "office": "Všeobecný praktický lékař",
     "regular_hours": {
-      "mon": {},
-      "tue": {},
-      "wed": {},
-      "thu": {},
-      "fri": {},
-      "sat": {},
-      "sun": {}
+      "mon": {
+        "m_o": "0600",
+        "m_c": "",
+        "a_o": "",
+        "a_c": "1200",
+        "note": "Poliklinika"
+      },
+      "tue": {
+        "m_o": "1230",
+        "m_c": "",
+        "a_o": "",
+        "a_c": "1900",
+        "note": "Poliklinika"
+      },
+      "wed": {
+        "m_o": "0600",
+        "m_c": "",
+        "a_o": "",
+        "a_c": "1200",
+        "note": "Poliklinika"
+      },
+      "thu": {
+        "m_o": "0630",
+        "m_c": "",
+        "a_o": "",
+        "a_c": "1200",
+        "note": "Poliklinika"
+      },
+      "fri": {
+        "m_o": "0700",
+        "m_c": "",
+        "a_o": "",
+        "a_c": "1100",
+        "note": "M-Centrum MUDr. Turinský"
+      },
+      "sat": {
+        "m_o": "",
+        "m_c": "",
+        "a_o": "",
+        "a_c": "",
+        "note": ""
+      },
+      "sun": {
+        "m_o": "",
+        "m_c": "",
+        "a_o": "",
+        "a_c": "",
+        "note": ""
+      }
     },
     "irregular_changes": [],
     "nurse": null,
