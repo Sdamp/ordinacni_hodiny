@@ -1922,7 +1922,7 @@
         "note": "Poliklinika"
       },
       "tue": {
-        "m_o": "1230",
+        "m_o": "1300",
         "m_c": "",
         "a_o": "",
         "a_c": "1900",
@@ -1936,11 +1936,11 @@
         "note": "Poliklinika"
       },
       "thu": {
-        "m_o": "0630",
+        "m_o": "0600",
         "m_c": "",
         "a_o": "",
-        "a_c": "1200",
-        "note": "Poliklinika"
+        "a_c": "0800",
+        "note": "M-Centrum"
       },
       "fri": {
         "m_o": "0700",
