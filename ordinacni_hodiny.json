@@ -260,28 +260,28 @@
         "m_c": "",
         "a_o": "",
         "a_c": "1200",
-        "note": "10:00-12:00 akutní"
+        "note": "10:00-12:00 akutní případy"
       },
       "tue": {
         "m_o": "1230",
         "m_c": "",
         "a_o": "",
         "a_c": "1900",
-        "note": "12:30-14:30 akutní"
+        "note": "12:30-14:30 akutní případy"
       },
       "wed": {
         "m_o": "0600",
         "m_c": "",
         "a_o": "",
         "a_c": "1200",
-        "note": "10:00-12:00 akutní"
+        "note": "10:00-12:00 akutní případy"
       },
       "thu": {
         "m_o": "0630",
         "m_c": "",
         "a_o": "",
         "a_c": "1200",
-        "note": "10:00-12:00 akutní"
+        "note": "sestra v ordinaci"
       },
       "fri": {
         "m_o": "1100",
