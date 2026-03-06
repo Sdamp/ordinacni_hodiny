@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="cz">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Příklad použití iframe s ordinačními hodinami</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      padding: 20px;
+      background-color: #f5f5f5;
+    }
+    .container {
+      max-width: 800px;
+      margin: 0 auto;
+      background-color: white;
+      padding: 20px;
+      border-radius: 8px;
+      box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+    }
+    h1 {
+      text-align: center;
+      color: #333;
+    }
+    iframe {
+      width: 100%;
+      border: 1px solid #ddd;
+      border-radius: 6px;
+      overflow: hidden;
+      transition: height 0.3s ease;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>Ordinační hodiny</h1>
+    <p>Toto je ukázka, jak vložit ordinační hodiny jako iframe s dynamickou výškou.</p>
+    
+    <!-- Příklad iframe - upravte URL parametry podle potřeby -->
+    <iframe 
+      id="ordinaceIframe" 
+      src="https://sdamp.github.io/ordinacni_hodiny/ordinacni_hodiny.html?mesto=Maleč&ordinace=Všeobecný%20praktický%20lékař&add_info=true"
+      style="height: 275px;"
+      scrolling="no"
+    ></iframe>
+  </div>
+
+  <script>
+    // Poslouchej zprávy z iframe
+    window.addEventListener('message', function(event) {
+      // Kontrola typu zprávy
+      if (event.data && event.data.type === 'iframeHeight') {
+        const iframe = document.getElementById('ordinaceIframe');
+        if (iframe) {
+          // Nastav výšku iframe podle obsahu + trochu rezervy
+          iframe.style.height = (event.data.height + 20) + 'px';
+        }
+      }
+    });
+  </script>
+</body>
+</html>

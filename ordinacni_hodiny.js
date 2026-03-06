@@ -55,6 +55,10 @@ async function loadData() {
       ">
     `;
 
+    if (matchedRecord.office === "Všeobecný praktický lékař") {
+      currHtml += `<h2 style="margin-bottom: 12px; font-size: 22px; border-bottom: 2px solid #ccc; padding-bottom: 4px;">Všeobecný praktický lékař</h2>`;
+    }
+
     // Nejdřív zobraz aktuální změny
     const futureChanges = (matchedRecord.irregular_changes || [])
       .filter(change => isFutureDate(change.date))
