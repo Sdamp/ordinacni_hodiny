@@ -56,7 +56,7 @@ async function loadData() {
     `;
 
     if (matchedRecord.office.includes("praktický")) {
-      currHtml += `<p style="margin-bottom: 12px; font-size: 14px; border-bottom: 2px solid #ccc; padding-bottom: 4px;">Příjem pacientů končí 30 minut před koncem ordinační doby.</p>`;
+      currHtml += `<p style="margin-bottom: 12px; font-size: 14px; border-bottom: 2px solid #ccc; padding-bottom: 4px;">Příjem pacientů končí 30 minut<br>před koncem ordinační doby.</p>`;
     }
 
     // Nejdřív zobraz aktuální změny
