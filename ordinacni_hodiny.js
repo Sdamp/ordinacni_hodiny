@@ -56,7 +56,7 @@ async function loadData() {
     `;
 
     if (matchedRecord.office.includes("praktický")) {
-      currHtml += `<h2 style="margin-bottom: 12px; font-size: 22px; border-bottom: 2px solid #ccc; padding-bottom: 4px;">Všeobecný praktický lékař</h2>`;
+      currHtml += `<p style="margin-bottom: 12px; font-size: 22px; border-bottom: 2px solid #ccc; padding-bottom: 4px;">Příjem pacientů končí 30 minut před koncem ordinační doby.</p>`;
     }
 
     // Nejdřív zobraz aktuální změny
