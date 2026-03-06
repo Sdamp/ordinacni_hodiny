@@ -729,7 +729,32 @@
         "note": ""
       }
     },
-    "irregular_changes": [],
+    "irregular_changes": [
+      {
+        "date": "10032026",
+        "closed": true,
+        "note": "Dovolená",
+        "_id": "69aafa8b413cda9c797c0ac1"
+      },
+      {
+        "date": "11032026",
+        "closed": true,
+        "note": "Dovolená",
+        "_id": "69aafa8b413cda9c797c0ac2"
+      },
+      {
+        "date": "12032026",
+        "closed": true,
+        "note": "Dovolená",
+        "_id": "69aafa8b413cda9c797c0ac3"
+      },
+      {
+        "date": "13032026",
+        "closed": true,
+        "note": "Dovolená",
+        "_id": "69aafa8b413cda9c797c0ac4"
+      }
+    ],
     "nurse": "Markéta Špitálníková",
     "phone": "+420 910 444 688",
     "email": "endochotebor@sdamp.cz",
