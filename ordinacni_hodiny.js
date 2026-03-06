@@ -55,7 +55,7 @@ async function loadData() {
       ">
     `;
 
-    if (matchedRecord.office.contains("praktický")) {
+    if (matchedRecord.office.includes("praktický")) {
       currHtml += `<h2 style="margin-bottom: 12px; font-size: 22px; border-bottom: 2px solid #ccc; padding-bottom: 4px;">Všeobecný praktický lékař</h2>`;
     }
 
