@@ -607,10 +607,14 @@
         "_id": "69aafa7d413cda9c797c092f"
       },
       {
+        "day": {
+          "m_o": "0600",
+          "a_c": "1200"
+        },
         "date": "12032026",
-        "closed": true,
-        "note": "Dovolená",
-        "_id": "69aafa7d413cda9c797c0930"
+        "closed": false,
+        "note": "DOVOLENÁ.  Všeobené prakt. lékařství - zástup M-Centrum MUDr. Krulíková Lenka",
+        "_id": "69b13b09a63e5585cd047aa2"
       },
       {
         "date": "13032026",
@@ -752,10 +756,14 @@
         "_id": "69aafa8b413cda9c797c0ac2"
       },
       {
+        "day": {
+          "m_o": "0600",
+          "a_c": "1200"
+        },
         "date": "12032026",
-        "closed": true,
-        "note": "Dovolená",
-        "_id": "69aafa8b413cda9c797c0ac3"
+        "closed": false,
+        "note": "DOVOLENÁ.  Všeobené prakt. lékařství - zástup M-Centrum MUDr. Krulíková Lenka",
+        "_id": "69b13b09a63e5585cd047aba"
       },
       {
         "date": "13032026",
