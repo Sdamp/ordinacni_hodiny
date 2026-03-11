@@ -861,7 +861,18 @@
         "note": ""
       }
     },
-    "irregular_changes": [],
+    "irregular_changes": [
+      {
+        "day": {
+          "m_o": "0630",
+          "a_c": "1700"
+        },
+        "date": "11032026",
+        "closed": false,
+        "note": "DOVOLENÁ - zavřeno",
+        "_id": "69b142e1a63e5585cd04920b"
+      }
+    ],
     "nurse": "Mgr. Lucie Pradáčová",
     "phone": "+420 910 444 691, +420 910 444 699",
     "email": "sportlekchotebor@sdamp.cz",
