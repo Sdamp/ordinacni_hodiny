@@ -714,6 +714,16 @@
         "closed": false,
         "note": "DOVOLENÁ",
         "_id": "69b15c61a63e5585cd04997b"
+      },
+      {
+        "day": {
+          "m_o": "0700",
+          "a_c": "1300"
+        },
+        "date": "13032026",
+        "closed": false,
+        "note": "DOVOLENÁ",
+        "_id": "69b15c84a63e5585cd049b89"
       }
     ],
     "nurse": "Eva Dvořáková, Dis",
