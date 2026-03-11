@@ -305,7 +305,18 @@
         "note": ""
       }
     },
-    "irregular_changes": [],
+    "irregular_changes": [
+      {
+        "day": {
+          "m_o": "0600",
+          "a_c": "1200"
+        },
+        "date": "11032026",
+        "closed": false,
+        "note": "",
+        "_id": "69b13676a63e5585cd046c8c"
+      }
+    ],
     "nurse": "Jaroslava Černíková",
     "phone": "+420 910444688, +420 910 444 698, +420 569 333 548",
     "email": "endochotebor@sdamp.cz",
@@ -580,12 +591,6 @@
     },
     "irregular_changes": [
       {
-        "date": "10032026",
-        "closed": true,
-        "note": "Dovolená",
-        "_id": "69aafa7d413cda9c797c092e"
-      },
-      {
         "date": "11032026",
         "closed": true,
         "note": "Dovolená",
@@ -730,12 +735,6 @@
       }
     },
     "irregular_changes": [
-      {
-        "date": "10032026",
-        "closed": true,
-        "note": "Dovolená",
-        "_id": "69aafa8b413cda9c797c0ac1"
-      },
       {
         "date": "11032026",
         "closed": true,
