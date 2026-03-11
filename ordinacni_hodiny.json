@@ -179,7 +179,18 @@
         "note": ""
       }
     },
-    "irregular_changes": [],
+    "irregular_changes": [
+      {
+        "day": {
+          "m_o": "0700",
+          "a_c": "1200"
+        },
+        "date": "12032026",
+        "closed": false,
+        "note": "DOVOLENÁ  - zavřeno. Zástup M-Centrum MUDr. Krulíková Lenka 07:15-11:30",
+        "_id": "69b14182a63e5585cd048fad"
+      }
+    ],
     "nurse": "",
     "phone": "",
     "email": "",
