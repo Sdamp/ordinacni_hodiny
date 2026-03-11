@@ -871,6 +871,16 @@
         "closed": false,
         "note": "DOVOLENÁ - zavřeno",
         "_id": "69b142e1a63e5585cd04920b"
+      },
+      {
+        "day": {
+          "m_o": "0630",
+          "a_c": "1730"
+        },
+        "date": "12032026",
+        "closed": false,
+        "note": "DOVOLENÁ - zavřeno",
+        "_id": "69b14330a63e5585cd049458"
       }
     ],
     "nurse": "Mgr. Lucie Pradáčová",
