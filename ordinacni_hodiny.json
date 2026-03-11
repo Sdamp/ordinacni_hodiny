@@ -1291,7 +1291,18 @@
         "note": ""
       }
     },
-    "irregular_changes": [],
+    "irregular_changes": [
+      {
+        "day": {
+          "m_o": "1300",
+          "a_c": "1900"
+        },
+        "date": "11032026",
+        "closed": false,
+        "note": "Lékař: MUDr. Špitálníková - DOVOLENÁ. Zástup MUDr. Pavlišová Kateřina",
+        "_id": "69b13ec5a63e5585cd04875c"
+      }
+    ],
     "nurse": "Martina Piskačová",
     "phone": "+420 910 444 694",
     "email": "endohlinsko@sdamp.cz",
@@ -1354,7 +1365,18 @@
         "note": ""
       }
     },
-    "irregular_changes": [],
+    "irregular_changes": [
+      {
+        "day": {
+          "m_o": "1300",
+          "a_c": "1900"
+        },
+        "date": "11032026",
+        "closed": false,
+        "note": "Lékař: MUDr. Špitálníková - DOVOLENÁ. Zástup MUDr. Pavlišová Kateřina",
+        "_id": "69b13ec5a63e5585cd04876f"
+      }
+    ],
     "nurse": "Martina Piskačová",
     "phone": "+420 910 444 694",
     "email": "endohlinsko@sdamp.cz",
