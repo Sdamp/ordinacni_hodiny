@@ -621,10 +621,14 @@
         "_id": "69b13b09a63e5585cd047aa2"
       },
       {
+        "day": {
+          "m_o": "0600",
+          "a_c": "1200"
+        },
         "date": "13032026",
-        "closed": true,
-        "note": "Dovolená",
-        "_id": "69aafa7d413cda9c797c0931"
+        "closed": false,
+        "note": "DOVOLENÁ.  Všeobené prakt. lékařství - zástup Poliklinika MUDr. Francová Alena",
+        "_id": "69b13ca2a63e5585cd04819c"
       }
     ],
     "nurse": "Markéta Špitálníková",
@@ -774,10 +778,14 @@
         "_id": "69b13b09a63e5585cd047aba"
       },
       {
+        "day": {
+          "m_o": "0600",
+          "a_c": "1200"
+        },
         "date": "13032026",
-        "closed": true,
-        "note": "Dovolená",
-        "_id": "69aafa8b413cda9c797c0ac4"
+        "closed": false,
+        "note": "DOVOLENÁ.  Všeobené prakt. lékařství - zástup Poliklinika MUDr. Francová Alena",
+        "_id": "69b13ca2a63e5585cd0481b5"
       }
     ],
     "nurse": "Markéta Špitálníková",
