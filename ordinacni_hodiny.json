@@ -315,6 +315,16 @@
         "closed": false,
         "note": "",
         "_id": "69b13676a63e5585cd046c8c"
+      },
+      {
+        "day": {
+          "m_o": "0700",
+          "a_c": "1200"
+        },
+        "date": "12032026",
+        "closed": false,
+        "note": "V ordinaci je přítomná zdravotní sestra.  Lékař - zástup MUDr. Krulíková.",
+        "_id": "69b137aea63e5585cd04708d"
       }
     ],
     "nurse": "Jaroslava Černíková",
