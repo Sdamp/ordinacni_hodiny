@@ -182,13 +182,13 @@
     "irregular_changes": [
       {
         "day": {
-          "m_o": "0700",
+          "m_o": "0630",
           "a_c": "1200"
         },
-        "date": "12032026",
+        "date": "20032026",
         "closed": false,
-        "note": "DOVOLENÁ  - zavřeno. Zástup M-Centrum MUDr. Krulíková Lenka 07:15-11:30",
-        "_id": "69b14182a63e5585cd048fad"
+        "note": "Neordinuje se - Zástup Poliklinika Chotěboř, MUDr. Francová 06:30-12:00",
+        "_id": "69bcf2904725ac62fe094b2e"
       }
     ],
     "nurse": "",
@@ -316,28 +316,7 @@
         "note": ""
       }
     },
-    "irregular_changes": [
-      {
-        "day": {
-          "m_o": "0700",
-          "a_c": "1200"
-        },
-        "date": "11032026",
-        "closed": false,
-        "note": "(V ordinaci je přítomná zdravotní sestra. Lékař - zástup M-Centrum MUDr. Krulíková Lenka)",
-        "_id": "69b1392ea63e5585cd0476b4"
-      },
-      {
-        "day": {
-          "m_o": "0700",
-          "a_c": "1200"
-        },
-        "date": "12032026",
-        "closed": false,
-        "note": "V ordinaci je přítomná zdravotní sestra.  Lékař - zástup MUDr. Krulíková.",
-        "_id": "69b137aea63e5585cd04708d"
-      }
-    ],
+    "irregular_changes": [],
     "nurse": "Jaroslava Černíková",
     "phone": "+420 910444688, +420 910 444 698, +420 569 333 548",
     "email": "endochotebor@sdamp.cz",
@@ -610,38 +589,7 @@
         "note": ""
       }
     },
-    "irregular_changes": [
-      {
-        "day": {
-          "m_o": "0600",
-          "a_c": "1200"
-        },
-        "date": "11032026",
-        "closed": false,
-        "note": "DOVOLENÁ.  Všeobené prakt. lékařství - zástup M-Centrum MUDr. Krulíková Lenka",
-        "_id": "69b13c57a63e5585cd047e58"
-      },
-      {
-        "day": {
-          "m_o": "0600",
-          "a_c": "1200"
-        },
-        "date": "12032026",
-        "closed": false,
-        "note": "DOVOLENÁ.  Všeobené prakt. lékařství - zástup M-Centrum MUDr. Krulíková Lenka",
-        "_id": "69b13b09a63e5585cd047aa2"
-      },
-      {
-        "day": {
-          "m_o": "0600",
-          "a_c": "1200"
-        },
-        "date": "13032026",
-        "closed": false,
-        "note": "DOVOLENÁ.  Všeobené prakt. lékařství - zástup Poliklinika MUDr. Francová Alena",
-        "_id": "69b13ca2a63e5585cd04819c"
-      }
-    ],
+    "irregular_changes": [],
     "nurse": "Markéta Špitálníková",
     "phone": "+420 910 444 688",
     "email": "endochotebor@sdamp.cz",
@@ -704,28 +652,7 @@
         "note": ""
       }
     },
-    "irregular_changes": [
-      {
-        "day": {
-          "m_o": "0800",
-          "a_c": "1300"
-        },
-        "date": "12032026",
-        "closed": false,
-        "note": "DOVOLENÁ",
-        "_id": "69b15c61a63e5585cd04997b"
-      },
-      {
-        "day": {
-          "m_o": "0700",
-          "a_c": "1300"
-        },
-        "date": "13032026",
-        "closed": false,
-        "note": "DOVOLENÁ",
-        "_id": "69b15c84a63e5585cd049b89"
-      }
-    ],
+    "irregular_changes": [],
     "nurse": "Eva Dvořáková, Dis",
     "phone": "+420 910 444 689",
     "email": "osteochotebor@sdamp.cz",
@@ -788,38 +715,7 @@
         "note": ""
       }
     },
-    "irregular_changes": [
-      {
-        "day": {
-          "m_o": "0600",
-          "a_c": "1200"
-        },
-        "date": "11032026",
-        "closed": false,
-        "note": "DOVOLENÁ.  Všeobené prakt. lékařství - zástup M-Centrum MUDr. Krulíková Lenka",
-        "_id": "69b13c57a63e5585cd047e70"
-      },
-      {
-        "day": {
-          "m_o": "0600",
-          "a_c": "1200"
-        },
-        "date": "12032026",
-        "closed": false,
-        "note": "DOVOLENÁ.  Všeobené prakt. lékařství - zástup M-Centrum MUDr. Krulíková Lenka",
-        "_id": "69b13b09a63e5585cd047aba"
-      },
-      {
-        "day": {
-          "m_o": "0600",
-          "a_c": "1200"
-        },
-        "date": "13032026",
-        "closed": false,
-        "note": "DOVOLENÁ.  Všeobené prakt. lékařství - zástup Poliklinika MUDr. Francová Alena",
-        "_id": "69b13ca2a63e5585cd0481b5"
-      }
-    ],
+    "irregular_changes": [],
     "nurse": "Markéta Špitálníková",
     "phone": "+420 910 444 688",
     "email": "endochotebor@sdamp.cz",
@@ -882,28 +778,7 @@
         "note": ""
       }
     },
-    "irregular_changes": [
-      {
-        "day": {
-          "m_o": "0630",
-          "a_c": "1200"
-        },
-        "date": "11032026",
-        "closed": false,
-        "note": "",
-        "_id": "69b143b7a63e5585cd0496a7"
-      },
-      {
-        "day": {
-          "m_o": "0630",
-          "a_c": "1730"
-        },
-        "date": "12032026",
-        "closed": false,
-        "note": "DOVOLENÁ - zavřeno",
-        "_id": "69b14330a63e5585cd049458"
-      }
-    ],
+    "irregular_changes": [],
     "nurse": "Mgr. Lucie Pradáčová",
     "phone": "+420 910 444 691, +420 910 444 699",
     "email": "sportlekchotebor@sdamp.cz",
@@ -1344,18 +1219,7 @@
         "note": ""
       }
     },
-    "irregular_changes": [
-      {
-        "day": {
-          "m_o": "1300",
-          "a_c": "1900"
-        },
-        "date": "11032026",
-        "closed": false,
-        "note": "Sestra v ordinaci 07:00-15:00, Lékař: MUDr. Špitálníková - DOVOLENÁ. Zástup MUDr. Pavlišová Kateřina 08:00-12:00",
-        "_id": "69b13fc3a63e5585cd048c2a"
-      }
-    ],
+    "irregular_changes": [],
     "nurse": "Martina Piskačová",
     "phone": "+420 910 444 694",
     "email": "endohlinsko@sdamp.cz",
@@ -1418,18 +1282,7 @@
         "note": ""
       }
     },
-    "irregular_changes": [
-      {
-        "day": {
-          "m_o": "1300",
-          "a_c": "1900"
-        },
-        "date": "11032026",
-        "closed": false,
-        "note": "Sestra v ordinaci 07:00-15:00, Lékař: MUDr. Špitálníková - DOVOLENÁ. Zástup MUDr. Pavlišová Kateřina 08:00-12:00",
-        "_id": "69b13fc3a63e5585cd048c3e"
-      }
-    ],
+    "irregular_changes": [],
     "nurse": "Martina Piskačová",
     "phone": "+420 910 444 694",
     "email": "endohlinsko@sdamp.cz",
