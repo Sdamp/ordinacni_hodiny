@@ -182,13 +182,13 @@
     "irregular_changes": [
       {
         "day": {
-          "m_o": "0630",
-          "a_c": "1200"
+          "m_o": "0600",
+          "a_c": "1400"
         },
-        "date": "20032026",
+        "date": "26032026",
         "closed": false,
-        "note": "Neordinuje se - Zástup Poliklinika Chotěboř, MUDr. Francová 06:30-12:00",
-        "_id": "69bcf2904725ac62fe094b2e"
+        "note": "Sestra v ordinaci 0600-14:00, Lékař - zástup M-Centrum Chotěboř (endokrinologie, 1.patro) MUDr. Mgr. Sylvie Špitálníková Ph.D. 06:00-14:00",
+        "_id": "69c3f72ffe26b27982a5c013"
       }
     ],
     "nurse": "",
