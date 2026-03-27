@@ -1219,7 +1219,18 @@
         "note": ""
       }
     },
-    "irregular_changes": [],
+    "irregular_changes": [
+      {
+        "day": {
+          "m_o": "0700",
+          "a_c": "1300"
+        },
+        "date": "27032026",
+        "closed": false,
+        "note": "Dnes ordinuje MUDr. Jiří Hradec (MUDr. Málková-dovolená). Sestra bude v ordinaci pouze do 13:00.",
+        "_id": "69c656515994134c62075491"
+      }
+    ],
     "nurse": "Martina Piskačová",
     "phone": "+420 910 444 694",
     "email": "endohlinsko@sdamp.cz",
@@ -1282,7 +1293,18 @@
         "note": ""
       }
     },
-    "irregular_changes": [],
+    "irregular_changes": [
+      {
+        "day": {
+          "m_o": "0700",
+          "a_c": "1300"
+        },
+        "date": "27032026",
+        "closed": false,
+        "note": "Dnes ordinuje MUDr. Jiří Hradec (MUDr. Málková-dovolená). Sestra bude v ordinaci pouze do 13:00.",
+        "_id": "69c656515994134c620754a6"
+      }
+    ],
     "nurse": "Martina Piskačová",
     "phone": "+420 910 444 694",
     "email": "endohlinsko@sdamp.cz",
