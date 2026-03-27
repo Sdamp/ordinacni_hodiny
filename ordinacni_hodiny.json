@@ -589,7 +589,18 @@
         "note": ""
       }
     },
-    "irregular_changes": [],
+    "irregular_changes": [
+      {
+        "day": {
+          "m_o": "0700",
+          "a_c": "1400"
+        },
+        "date": "27032026",
+        "closed": false,
+        "note": "Dnes zavřeno. ",
+        "_id": "69c657cc5994134c620757d1"
+      }
+    ],
     "nurse": "Markéta Špitálníková",
     "phone": "+420 910 444 688",
     "email": "endochotebor@sdamp.cz",
@@ -715,7 +726,18 @@
         "note": ""
       }
     },
-    "irregular_changes": [],
+    "irregular_changes": [
+      {
+        "day": {
+          "m_o": "0700",
+          "a_c": "1400"
+        },
+        "date": "27032026",
+        "closed": false,
+        "note": "Dnes zavřeno. ",
+        "_id": "69c657cc5994134c620757e9"
+      }
+    ],
     "nurse": "Markéta Špitálníková",
     "phone": "+420 910 444 688",
     "email": "endochotebor@sdamp.cz",
