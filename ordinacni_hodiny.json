@@ -182,13 +182,13 @@
     "irregular_changes": [
       {
         "day": {
-          "m_o": "0600",
-          "a_c": "1400"
+          "m_o": "1400",
+          "a_c": "1800"
         },
-        "date": "26032026",
+        "date": "31032026",
         "closed": false,
-        "note": "Sestra v ordinaci 0600-14:00, Lékař - zástup M-Centrum Chotěboř (endokrinologie, 1.patro) MUDr. Mgr. Sylvie Špitálníková Ph.D. 06:00-14:00",
-        "_id": "69c3f72ffe26b27982a5c013"
+        "note": "Sestra v ordinaci 06:30-14:00, Lékař:  zástup Poliklinika Chotěboř MUDr. Mgr. Sylvie Špitálníková Ph.D. 14:00-18:00 ",
+        "_id": "69c651eb5994134c620750ae"
       }
     ],
     "nurse": "",
