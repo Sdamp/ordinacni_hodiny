@@ -1262,7 +1262,18 @@
         "note": ""
       }
     },
-    "irregular_changes": [],
+    "irregular_changes": [
+      {
+        "day": {
+          "m_o": "0700",
+          "a_c": "1500"
+        },
+        "date": "01042026",
+        "closed": false,
+        "note": "Sestra v ordinaci 07:00-15:30, Lékař:  zástup 08:00-10:00ř MUDr. Pavlišová, Adámkova třída 149, Hlinsko ",
+        "_id": "69cbc8ae5e6b33c2a8881583"
+      }
+    ],
     "nurse": "Martina Piskačová",
     "phone": "+420 910 444 694",
     "email": "endohlinsko@sdamp.cz",
@@ -1325,7 +1336,18 @@
         "note": ""
       }
     },
-    "irregular_changes": [],
+    "irregular_changes": [
+      {
+        "day": {
+          "m_o": "0700",
+          "a_c": "1500"
+        },
+        "date": "01042026",
+        "closed": false,
+        "note": "Sestra v ordinaci 07:00-15:30, Lékař:  zástup 08:00-10:00ř MUDr. Pavlišová, Adámkova třída 149, Hlinsko ",
+        "_id": "69cbc8af5e6b33c2a8881598"
+      }
+    ],
     "nurse": "Martina Piskačová",
     "phone": "+420 910 444 694",
     "email": "endohlinsko@sdamp.cz",
