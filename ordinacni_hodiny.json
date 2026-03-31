@@ -316,7 +316,18 @@
         "note": ""
       }
     },
-    "irregular_changes": [],
+    "irregular_changes": [
+      {
+        "day": {
+          "m_o": "0600",
+          "a_c": "1430"
+        },
+        "date": "01042026",
+        "closed": false,
+        "note": "Sestra v ordinaci 06:30-14:30, Lékař neordinuje - zástup Poliklinika Chotěboř MUDr. Jaroslav Nejedlý 08:00-12:00",
+        "_id": "69cbbbc55e6b33c2a887fbe3"
+      }
+    ],
     "nurse": "Jaroslava Černíková",
     "phone": "+420 910444688, +420 910 444 698, +420 569 333 548",
     "email": "endochotebor@sdamp.cz",
@@ -589,18 +600,7 @@
         "note": ""
       }
     },
-    "irregular_changes": [
-      {
-        "day": {
-          "m_o": "0700",
-          "a_c": "1400"
-        },
-        "date": "27032026",
-        "closed": false,
-        "note": "Dnes zavřeno. ",
-        "_id": "69c657cc5994134c620757d1"
-      }
-    ],
+    "irregular_changes": [],
     "nurse": "Markéta Špitálníková",
     "phone": "+420 910 444 688",
     "email": "endochotebor@sdamp.cz",
@@ -726,18 +726,7 @@
         "note": ""
       }
     },
-    "irregular_changes": [
-      {
-        "day": {
-          "m_o": "0700",
-          "a_c": "1400"
-        },
-        "date": "27032026",
-        "closed": false,
-        "note": "Dnes zavřeno. ",
-        "_id": "69c657cc5994134c620757e9"
-      }
-    ],
+    "irregular_changes": [],
     "nurse": "Markéta Špitálníková",
     "phone": "+420 910 444 688",
     "email": "endochotebor@sdamp.cz",
@@ -1241,18 +1230,7 @@
         "note": ""
       }
     },
-    "irregular_changes": [
-      {
-        "day": {
-          "m_o": "0700",
-          "a_c": "1300"
-        },
-        "date": "27032026",
-        "closed": false,
-        "note": "Dnes ordinuje MUDr. Jiří Hradec (MUDr. Málková-dovolená). Sestra bude v ordinaci pouze do 13:00.",
-        "_id": "69c656515994134c62075491"
-      }
-    ],
+    "irregular_changes": [],
     "nurse": "Martina Piskačová",
     "phone": "+420 910 444 694",
     "email": "endohlinsko@sdamp.cz",
@@ -1315,18 +1293,7 @@
         "note": ""
       }
     },
-    "irregular_changes": [
-      {
-        "day": {
-          "m_o": "0700",
-          "a_c": "1300"
-        },
-        "date": "27032026",
-        "closed": false,
-        "note": "Dnes ordinuje MUDr. Jiří Hradec (MUDr. Málková-dovolená). Sestra bude v ordinaci pouze do 13:00.",
-        "_id": "69c656515994134c620754a6"
-      }
-    ],
+    "irregular_changes": [],
     "nurse": "Martina Piskačová",
     "phone": "+420 910 444 694",
     "email": "endohlinsko@sdamp.cz",
