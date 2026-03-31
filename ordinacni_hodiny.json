@@ -189,6 +189,16 @@
         "closed": false,
         "note": "Sestra v ordinaci 06:30-14:00, Lékař:  zástup Poliklinika Chotěboř MUDr. Mgr. Sylvie Špitálníková Ph.D. 14:00-18:00 ",
         "_id": "69c651eb5994134c620750ae"
+      },
+      {
+        "day": {
+          "m_o": "0700",
+          "a_c": "1100"
+        },
+        "date": "01042026",
+        "closed": false,
+        "note": "Neordinuje se - Zástup Vilémov, MUDr. Dofek Jiří 07:00-11:00",
+        "_id": "69cbc1db5e6b33c2a8880676"
       }
     ],
     "nurse": "",
