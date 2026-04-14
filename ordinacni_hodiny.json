@@ -420,6 +420,16 @@
         "closed": false,
         "note": "Omlouváme se, v tento termín neordinujeme.",
         "_id": "69de3d6f46f306dfe07a46ff"
+      },
+      {
+        "day": {
+          "m_o": "0700",
+          "a_c": "1500"
+        },
+        "date": "17042026",
+        "closed": false,
+        "note": "Omlouváme se, v tento termín neordinujeme. Nebude přítomna ani zdravotní sestra, ani lékař.",
+        "_id": "69de3db346f306dfe07a48ff"
       }
     ],
     "nurse": "Vendulka Beranová",
@@ -494,6 +504,16 @@
         "closed": false,
         "note": "Omlouváme se, v tento termín neordinujeme.",
         "_id": "69de3d6f46f306dfe07a4713"
+      },
+      {
+        "day": {
+          "m_o": "0700",
+          "a_c": "1500"
+        },
+        "date": "17042026",
+        "closed": false,
+        "note": "Omlouváme se, v tento termín neordinujeme. Nebude přítomna ani zdravotní sestra, ani lékař.",
+        "_id": "69de3db346f306dfe07a4914"
       }
     ],
     "nurse": "Vendulka Beranová",
