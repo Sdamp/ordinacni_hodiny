@@ -179,28 +179,7 @@
         "note": ""
       }
     },
-    "irregular_changes": [
-      {
-        "day": {
-          "m_o": "1400",
-          "a_c": "1800"
-        },
-        "date": "31032026",
-        "closed": false,
-        "note": "Sestra v ordinaci 06:30-14:00, Lékař:  zástup Poliklinika Chotěboř MUDr. Mgr. Sylvie Špitálníková Ph.D. 14:00-18:00 ",
-        "_id": "69cbc2f95e6b33c2a8880b9d"
-      },
-      {
-        "day": {
-          "m_o": "0700",
-          "a_c": "1100"
-        },
-        "date": "01042026",
-        "closed": false,
-        "note": "Neordinuje se - Zástup Vilémov, MUDr. Dufek Jiří 07:00-11:00",
-        "_id": "69cbc2c55e6b33c2a88809ea"
-      }
-    ],
+    "irregular_changes": [],
     "nurse": "",
     "phone": "",
     "email": "",
@@ -326,18 +305,7 @@
         "note": ""
       }
     },
-    "irregular_changes": [
-      {
-        "day": {
-          "m_o": "0600",
-          "a_c": "1430"
-        },
-        "date": "01042026",
-        "closed": false,
-        "note": "Sestra v ordinaci 06:30-14:30, Lékař neordinuje - zástup Poliklinika Chotěboř MUDr. Jaroslav Nejedlý 08:00-12:00",
-        "_id": "69cbbbc55e6b33c2a887fbe3"
-      }
-    ],
+    "irregular_changes": [],
     "nurse": "Jaroslava Černíková",
     "phone": "+420 910444688, +420 910 444 698, +420 569 333 548",
     "email": "endochotebor@sdamp.cz",
@@ -677,12 +645,12 @@
       {
         "day": {
           "m_o": "0700",
-          "a_c": "1300"
+          "a_c": "1200"
         },
-        "date": "31032026",
+        "date": "14042026",
         "closed": false,
-        "note": "Neordinuje se - z důvodu nemoci je dnes zavřeno.",
-        "_id": "69cbc4a95e6b33c2a8880dfc"
+        "note": "Omlouváme se, dnes se z provozních důvodů neordinuje. Děkujeme za pochopení",
+        "_id": "69ddc8a446f306dfe07a3bdd"
       }
     ],
     "nurse": "Eva Dvořáková, Dis",
@@ -936,18 +904,7 @@
         "note": ""
       }
     },
-    "irregular_changes": [
-      {
-        "day": {
-          "m_o": "0630",
-          "a_c": "1130"
-        },
-        "date": "02042026",
-        "closed": false,
-        "note": "2.4.2026  Sestra v ordinaci pouze od 6:30-11:30",
-        "_id": "69cbbf3f5e6b33c2a887feff"
-      }
-    ],
+    "irregular_changes": [],
     "nurse": "Pavla Málková",
     "phone": "+420 910 444 692",
     "email": "neurochotebor@sdamp.cz",
@@ -1262,18 +1219,7 @@
         "note": ""
       }
     },
-    "irregular_changes": [
-      {
-        "day": {
-          "m_o": "0700",
-          "a_c": "1500"
-        },
-        "date": "01042026",
-        "closed": false,
-        "note": "Sestra v ordinaci 07:00-15:30, Lékař:  zástup 08:00-10:00ř MUDr. Pavlišová, Adámkova třída 149, Hlinsko ",
-        "_id": "69cbc8ae5e6b33c2a8881583"
-      }
-    ],
+    "irregular_changes": [],
     "nurse": "Martina Piskačová",
     "phone": "+420 910 444 694",
     "email": "endohlinsko@sdamp.cz",
@@ -1336,18 +1282,7 @@
         "note": ""
       }
     },
-    "irregular_changes": [
-      {
-        "day": {
-          "m_o": "0700",
-          "a_c": "1500"
-        },
-        "date": "01042026",
-        "closed": false,
-        "note": "Sestra v ordinaci 07:00-15:30, Lékař:  zástup 08:00-10:00ř MUDr. Pavlišová, Adámkova třída 149, Hlinsko ",
-        "_id": "69cbc8af5e6b33c2a8881598"
-      }
-    ],
+    "irregular_changes": [],
     "nurse": "Martina Piskačová",
     "phone": "+420 910 444 694",
     "email": "endohlinsko@sdamp.cz",
@@ -1788,18 +1723,7 @@
         "note": ""
       }
     },
-    "irregular_changes": [
-      {
-        "day": {
-          "m_o": "0700",
-          "a_c": "1500"
-        },
-        "date": "01042026",
-        "closed": false,
-        "note": "Zástup 08:00-10:00 MUDr. Kateřina Pavlišová, Adámkova třída 149, Hlinsko",
-        "_id": "69cbc9a15e6b33c2a888181c"
-      }
-    ],
+    "irregular_changes": [],
     "nurse": null,
     "phone": "+420 910 444 694",
     "email": "endohlinsko@sdamp.cz",
