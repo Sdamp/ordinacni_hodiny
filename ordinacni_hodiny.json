@@ -1366,6 +1366,16 @@
         "closed": false,
         "note": "Omlouváme se, v tento termín je ordinace MUDr. Špitálníkové zrušena. V ordinaci bude přítomna zdravotní sestra v době 07:00-15:30.",
         "_id": "69de3f8d46f306dfe07a4d8a"
+      },
+      {
+        "day": {
+          "m_o": "0700",
+          "a_c": "1500"
+        },
+        "date": "16042026",
+        "closed": false,
+        "note": "Omlouváme se, v tento termín neordinujeme. Nebude přítomna ani zdravotní sestra, ani lékař. Zástup zajišťuje MUDr. Pavlišová, Adámkova třída, Hlinsko.",
+        "_id": "69de425546f306dfe07a515e"
       }
     ],
     "nurse": "Martina Piskačová",
@@ -1430,7 +1440,18 @@
         "note": ""
       }
     },
-    "irregular_changes": [],
+    "irregular_changes": [
+      {
+        "day": {
+          "m_o": "0700",
+          "a_c": "1500"
+        },
+        "date": "16042026",
+        "closed": false,
+        "note": "Omlouváme se, v tento termín neordinujeme. Nebude přítomna ani zdravotní sestra, ani lékař. Zástup zajišťuje MUDr. Pavlišová, Adámkova třída, Hlinsko.",
+        "_id": "69de425646f306dfe07a5171"
+      }
+    ],
     "nurse": null,
     "phone": "+420 910 444 694",
     "email": "endohlinsko@sdamp.cz",
