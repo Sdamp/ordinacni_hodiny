@@ -189,6 +189,16 @@
         "closed": false,
         "note": "Sestra v ordinaci 07:00-13:00, Lékař:  zástup MUDr. Jiří Dufek, Vilémov 07:00-11:00 ",
         "_id": "69de375a46f306dfe07a3ebc"
+      },
+      {
+        "day": {
+          "m_o": "0630",
+          "a_c": "1400"
+        },
+        "date": "17042026",
+        "closed": false,
+        "note": "Omlouváme se, z provozních důvodů v pátek 17.4.2026 neordinujeme. Lékař:  zástup MUDr. Jiří Dufek, Vilémov 07:00-11:00 ",
+        "_id": "69de388a46f306dfe07a41cd"
       }
     ],
     "nurse": "",
