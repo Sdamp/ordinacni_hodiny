@@ -1375,7 +1375,7 @@
         "date": "16042026",
         "closed": false,
         "note": "Omlouváme se, v tento termín neordinujeme. Nebude přítomna ani zdravotní sestra, ani lékař. Zástup zajišťuje MUDr. Pavlišová, Adámkova třída, Hlinsko.",
-        "_id": "69de425546f306dfe07a515e"
+        "_id": "69de42e846f306dfe07a53fe"
       }
     ],
     "nurse": "Martina Piskačová",
@@ -1449,7 +1449,7 @@
         "date": "16042026",
         "closed": false,
         "note": "Omlouváme se, v tento termín neordinujeme. Nebude přítomna ani zdravotní sestra, ani lékař. Zástup zajišťuje MUDr. Pavlišová, Adámkova třída, Hlinsko.",
-        "_id": "69de425646f306dfe07a5171"
+        "_id": "69de42e846f306dfe07a5412"
       }
     ],
     "nurse": null,
@@ -1840,7 +1840,18 @@
         "note": ""
       }
     },
-    "irregular_changes": [],
+    "irregular_changes": [
+      {
+        "day": {
+          "m_o": "0700",
+          "a_c": "1500"
+        },
+        "date": "16042026",
+        "closed": false,
+        "note": "Omlouváme se, v tento termín neordinujeme. Nebude přítomna ani zdravotní sestra, ani lékař. Zástup zajišťuje MUDr. Pavlišová, Adámkova třída, Hlinsko.",
+        "_id": "69de42e846f306dfe07a5426"
+      }
+    ],
     "nurse": null,
     "phone": "+420 910 444 694",
     "email": "endohlinsko@sdamp.cz",
