@@ -410,7 +410,18 @@
         "note": ""
       }
     },
-    "irregular_changes": [],
+    "irregular_changes": [
+      {
+        "day": {
+          "m_o": "0700",
+          "a_c": "1300"
+        },
+        "date": "16042026",
+        "closed": false,
+        "note": "Omlouváme se, v tento termín neordinujeme.",
+        "_id": "69de3d6f46f306dfe07a46ff"
+      }
+    ],
     "nurse": "Vendulka Beranová",
     "phone": "+420 910 444 697",
     "email": "endokolin@sdamp.cz",
@@ -473,7 +484,18 @@
         "note": ""
       }
     },
-    "irregular_changes": [],
+    "irregular_changes": [
+      {
+        "day": {
+          "m_o": "0700",
+          "a_c": "1300"
+        },
+        "date": "16042026",
+        "closed": false,
+        "note": "Omlouváme se, v tento termín neordinujeme.",
+        "_id": "69de3d6f46f306dfe07a4713"
+      }
+    ],
     "nurse": "Vendulka Beranová",
     "phone": "+420 910 444 697",
     "email": "endokolin@sdamp.cz",
