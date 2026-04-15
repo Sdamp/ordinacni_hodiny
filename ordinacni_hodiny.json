@@ -326,7 +326,18 @@
         "note": ""
       }
     },
-    "irregular_changes": [],
+    "irregular_changes": [
+      {
+        "day": {
+          "m_o": "0600",
+          "a_c": "1430"
+        },
+        "date": "16042026",
+        "closed": false,
+        "note": "Omlouváme se, v tento termín MUDr. Špitálníková neordinuje. Na ambulanci je přítomna zdr. sestra. Zástup zajišťuje MUDr. Nejedlý, Poliklinika Chotěboř.",
+        "_id": "69df32e846f306dfe07a6374"
+      }
+    ],
     "nurse": "Jaroslava Černíková",
     "phone": "+420 910444688, +420 910 444 698, +420 569 333 548",
     "email": "endochotebor@sdamp.cz",
