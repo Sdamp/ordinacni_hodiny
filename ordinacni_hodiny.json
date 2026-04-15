@@ -704,18 +704,7 @@
         "note": ""
       }
     },
-    "irregular_changes": [
-      {
-        "day": {
-          "m_o": "0700",
-          "a_c": "1200"
-        },
-        "date": "14042026",
-        "closed": false,
-        "note": "Omlouváme se, dnes se z provozních důvodů neordinuje. Děkujeme za pochopení",
-        "_id": "69ddc8a446f306dfe07a3bdd"
-      }
-    ],
+    "irregular_changes": [],
     "nurse": "Eva Dvořáková, Dis",
     "phone": "+420 910 444 689",
     "email": "osteochotebor@sdamp.cz",
@@ -967,7 +956,18 @@
         "note": ""
       }
     },
-    "irregular_changes": [],
+    "irregular_changes": [
+      {
+        "day": {
+          "m_o": "0700",
+          "a_c": "1500"
+        },
+        "date": "15042026",
+        "closed": false,
+        "note": "Zdr. sestra ordinuje na Poliklinice Hlinsko, Nádražní 458",
+        "_id": "69df2af546f306dfe07a5b4e"
+      }
+    ],
     "nurse": "Pavla Málková",
     "phone": "+420 910 444 692",
     "email": "neurochotebor@sdamp.cz",
