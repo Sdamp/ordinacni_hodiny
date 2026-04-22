@@ -199,6 +199,16 @@
         "closed": false,
         "note": "Omlouváme se, v tento termín neordinujeme. Nebude přítomna ani zdravotní sestra, ani lékař. Zástup zajišťuje MUDr. Zvolánková, Poliklinika Chotěboř, 08:00-12:00",
         "_id": "69e857266da2f8102ed9fbd1"
+      },
+      {
+        "day": {
+          "m_o": "0630",
+          "a_c": "1400"
+        },
+        "date": "24042026",
+        "closed": false,
+        "note": "Omlouváme se, v tento termín neordinujeme. Nebude přítomna ani zdravotní sestra, ani lékař. Zástup zajišťuje MUDr. Francová, Poliklinika Chotěboř , 08:00-11:00",
+        "_id": "69e857ad6da2f8102ed9fdc5"
       }
     ],
     "nurse": "",
