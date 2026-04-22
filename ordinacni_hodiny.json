@@ -179,28 +179,7 @@
         "note": ""
       }
     },
-    "irregular_changes": [
-      {
-        "day": {
-          "m_o": "0700",
-          "a_c": "1300"
-        },
-        "date": "16042026",
-        "closed": false,
-        "note": "Sestra v ordinaci 07:00-13:00, Lékař:  zástup MUDr. Jiří Dufek, Vilémov 07:00-11:00 ",
-        "_id": "69de375a46f306dfe07a3ebc"
-      },
-      {
-        "day": {
-          "m_o": "0630",
-          "a_c": "1400"
-        },
-        "date": "17042026",
-        "closed": false,
-        "note": "Omlouváme se, z provozních důvodů v pátek 17.4.2026 neordinujeme. Lékař:  zástup MUDr. Jiří Dufek, Vilémov 07:00-11:00 ",
-        "_id": "69de388a46f306dfe07a41cd"
-      }
-    ],
+    "irregular_changes": [],
     "nurse": "",
     "phone": "",
     "email": "",
@@ -326,18 +305,7 @@
         "note": ""
       }
     },
-    "irregular_changes": [
-      {
-        "day": {
-          "m_o": "0600",
-          "a_c": "1430"
-        },
-        "date": "16042026",
-        "closed": false,
-        "note": "Omlouváme se, v tento termín MUDr. Špitálníková neordinuje. Na ambulanci je přítomna zdr. sestra. Zástup zajišťuje MUDr. Nejedlý, Poliklinika Chotěboř.",
-        "_id": "69df32e846f306dfe07a6374"
-      }
-    ],
+    "irregular_changes": [],
     "nurse": "Jaroslava Černíková",
     "phone": "+420 910444688, +420 910 444 698, +420 569 333 548",
     "email": "endochotebor@sdamp.cz",
@@ -421,28 +389,7 @@
         "note": ""
       }
     },
-    "irregular_changes": [
-      {
-        "day": {
-          "m_o": "0700",
-          "a_c": "1300"
-        },
-        "date": "16042026",
-        "closed": false,
-        "note": "Omlouváme se, v tento termín neordinujeme.",
-        "_id": "69de3d6f46f306dfe07a46ff"
-      },
-      {
-        "day": {
-          "m_o": "0700",
-          "a_c": "1500"
-        },
-        "date": "17042026",
-        "closed": false,
-        "note": "Omlouváme se, v tento termín neordinujeme. Nebude přítomna ani zdravotní sestra, ani lékař.",
-        "_id": "69de3db346f306dfe07a48ff"
-      }
-    ],
+    "irregular_changes": [],
     "nurse": "Vendulka Beranová",
     "phone": "+420 910 444 697",
     "email": "endokolin@sdamp.cz",
@@ -505,28 +452,7 @@
         "note": ""
       }
     },
-    "irregular_changes": [
-      {
-        "day": {
-          "m_o": "0700",
-          "a_c": "1300"
-        },
-        "date": "16042026",
-        "closed": false,
-        "note": "Omlouváme se, v tento termín neordinujeme.",
-        "_id": "69de3d6f46f306dfe07a4713"
-      },
-      {
-        "day": {
-          "m_o": "0700",
-          "a_c": "1500"
-        },
-        "date": "17042026",
-        "closed": false,
-        "note": "Omlouváme se, v tento termín neordinujeme. Nebude přítomna ani zdravotní sestra, ani lékař.",
-        "_id": "69de3db346f306dfe07a4914"
-      }
-    ],
+    "irregular_changes": [],
     "nurse": "Vendulka Beranová",
     "phone": "+420 910 444 697",
     "email": "endokolin@sdamp.cz",
@@ -652,18 +578,7 @@
         "note": ""
       }
     },
-    "irregular_changes": [
-      {
-        "day": {
-          "m_o": "0600",
-          "a_c": "1400"
-        },
-        "date": "16042026",
-        "closed": false,
-        "note": "Omlouváme se, v tento termín neordinujeme. Nebude přítomna ani zdravotní sestra, ani lékař. Zástup v oboru Praktické lékařství zajišťuje MUDr. Nejedlý, Poliklinika Chotěboř.",
-        "_id": "69df310446f306dfe07a5ffb"
-      }
-    ],
+    "irregular_changes": [],
     "nurse": "Markéta Špitálníková",
     "phone": "+420 910 444 688",
     "email": "endochotebor@sdamp.cz",
@@ -789,18 +704,7 @@
         "note": ""
       }
     },
-    "irregular_changes": [
-      {
-        "day": {
-          "m_o": "0600",
-          "a_c": "1400"
-        },
-        "date": "16042026",
-        "closed": false,
-        "note": "Omlouváme se, v tento termín neordinujeme. Nebude přítomna ani zdravotní sestra, ani lékař. Zástup v oboru Praktické lékařství zajišťuje MUDr. Nejedlý, Poliklinika Chotěboř.",
-        "_id": "69df310446f306dfe07a6014"
-      }
-    ],
+    "irregular_changes": [],
     "nurse": "Markéta Špitálníková",
     "phone": "+420 910 444 688",
     "email": "endochotebor@sdamp.cz",
@@ -989,18 +893,7 @@
         "note": ""
       }
     },
-    "irregular_changes": [
-      {
-        "day": {
-          "m_o": "0700",
-          "a_c": "1500"
-        },
-        "date": "15042026",
-        "closed": false,
-        "note": "Zdr. sestra je přítomna v ambulanci na Poliklinice Hlinsko, Nádražní 458 - analgetické infuze",
-        "_id": "69df2ec546f306dfe07a5d2e"
-      }
-    ],
+    "irregular_changes": [],
     "nurse": "Pavla Málková",
     "phone": "+420 910 444 692",
     "email": "neurochotebor@sdamp.cz",
@@ -1315,18 +1208,7 @@
         "note": ""
       }
     },
-    "irregular_changes": [
-      {
-        "day": {
-          "m_o": "0700",
-          "a_c": "1900"
-        },
-        "date": "15042026",
-        "closed": false,
-        "note": "Omlouváme se, v tento termín je ordinace MUDr. Špitálníkové zrušena. V ordinaci bude přítomna zdravotní sestra v době 07:00-15:30.",
-        "_id": "69de3f8d46f306dfe07a4d74"
-      }
-    ],
+    "irregular_changes": [],
     "nurse": "Martina Piskačová",
     "phone": "+420 910 444 694",
     "email": "endohlinsko@sdamp.cz",
@@ -1389,28 +1271,7 @@
         "note": ""
       }
     },
-    "irregular_changes": [
-      {
-        "day": {
-          "m_o": "0700",
-          "a_c": "1900"
-        },
-        "date": "15042026",
-        "closed": false,
-        "note": "Omlouváme se, v tento termín je ordinace MUDr. Špitálníkové zrušena. V ordinaci bude přítomna zdravotní sestra v době 07:00-15:30.",
-        "_id": "69de3f8d46f306dfe07a4d8a"
-      },
-      {
-        "day": {
-          "m_o": "0700",
-          "a_c": "1500"
-        },
-        "date": "16042026",
-        "closed": false,
-        "note": "Omlouváme se, v tento termín neordinujeme. Nebude přítomna ani zdravotní sestra, ani lékař. Zástup zajišťuje MUDr. Pavlišová, Adámkova třída, Hlinsko.",
-        "_id": "69de42e846f306dfe07a53fe"
-      }
-    ],
+    "irregular_changes": [],
     "nurse": "Martina Piskačová",
     "phone": "+420 910 444 694",
     "email": "endohlinsko@sdamp.cz",
@@ -1473,18 +1334,7 @@
         "note": ""
       }
     },
-    "irregular_changes": [
-      {
-        "day": {
-          "m_o": "0700",
-          "a_c": "1500"
-        },
-        "date": "16042026",
-        "closed": false,
-        "note": "Omlouváme se, v tento termín neordinujeme. Nebude přítomna ani zdravotní sestra, ani lékař. Zástup zajišťuje MUDr. Pavlišová, Adámkova třída, Hlinsko.",
-        "_id": "69de42e846f306dfe07a5412"
-      }
-    ],
+    "irregular_changes": [],
     "nurse": null,
     "phone": "+420 910 444 694",
     "email": "endohlinsko@sdamp.cz",
@@ -1673,18 +1523,7 @@
         "note": ""
       }
     },
-    "irregular_changes": [
-      {
-        "day": {
-          "m_o": "0700",
-          "a_c": "1800"
-        },
-        "date": "16042026",
-        "closed": false,
-        "note": "Omlouváme se,  v tento termín neordinujeme.",
-        "_id": "69de3b8946f306dfe07a4424"
-      }
-    ],
+    "irregular_changes": [],
     "nurse": "Jana Bílá",
     "phone": "+420 910 444 695",
     "email": "osteohlinsko@sdamp.cz",
@@ -1873,18 +1712,7 @@
         "note": ""
       }
     },
-    "irregular_changes": [
-      {
-        "day": {
-          "m_o": "0700",
-          "a_c": "1500"
-        },
-        "date": "16042026",
-        "closed": false,
-        "note": "Omlouváme se, v tento termín neordinujeme. Nebude přítomna ani zdravotní sestra, ani lékař. Zástup zajišťuje MUDr. Pavlišová, Adámkova třída, Hlinsko.",
-        "_id": "69de42e846f306dfe07a5426"
-      }
-    ],
+    "irregular_changes": [],
     "nurse": null,
     "phone": "+420 910 444 694",
     "email": "endohlinsko@sdamp.cz",
