@@ -179,7 +179,18 @@
         "note": ""
       }
     },
-    "irregular_changes": [],
+    "irregular_changes": [
+      {
+        "day": {
+          "m_o": "0630",
+          "a_c": "1400"
+        },
+        "date": "22042026",
+        "closed": false,
+        "note": "Omlouváme se, v tento termín neordinujeme. Zdravotní sestra nebude přítomna v ordinaci.",
+        "_id": "69e8568e6da2f8102ed9f9e0"
+      }
+    ],
     "nurse": "",
     "phone": "",
     "email": "",
