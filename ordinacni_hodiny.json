@@ -1795,6 +1795,16 @@
         "closed": false,
         "note": "Omlouváme se, v tomto termínu nebude Fyzioterapie ordinovat. ",
         "_id": "69f0ca3978b8d15bafbd4033"
+      },
+      {
+        "day": {
+          "m_o": "0700",
+          "a_c": "1530"
+        },
+        "date": "29052026",
+        "closed": false,
+        "note": "Omlouváme se, v tomto termínu nebude Fyzioterapie ordinovat. ",
+        "_id": "69f0ca4e78b8d15bafbd4210"
       }
     ],
     "nurse": "",
