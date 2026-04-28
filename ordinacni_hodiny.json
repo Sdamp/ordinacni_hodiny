@@ -179,38 +179,7 @@
         "note": ""
       }
     },
-    "irregular_changes": [
-      {
-        "day": {
-          "m_o": "0630",
-          "a_c": "1400"
-        },
-        "date": "22042026",
-        "closed": false,
-        "note": "Omlouváme se, v tento termín neordinujeme. Zdravotní sestra nebude přítomna v ordinaci.",
-        "_id": "69e8568e6da2f8102ed9f9e0"
-      },
-      {
-        "day": {
-          "m_o": "1200",
-          "a_c": "1900"
-        },
-        "date": "23042026",
-        "closed": false,
-        "note": "Omlouváme se, v tento termín neordinujeme. Nebude přítomna ani zdravotní sestra, ani lékař. Zástup zajišťuje MUDr. Zvolánková, Poliklinika Chotěboř, 08:00-12:00",
-        "_id": "69e857266da2f8102ed9fbd1"
-      },
-      {
-        "day": {
-          "m_o": "0630",
-          "a_c": "1400"
-        },
-        "date": "24042026",
-        "closed": false,
-        "note": "Omlouváme se, v tento termín neordinujeme. Nebude přítomna ani zdravotní sestra, ani lékař. Zástup zajišťuje MUDr. Francová, Poliklinika Chotěboř , 08:00-11:00",
-        "_id": "69e857ad6da2f8102ed9fdc5"
-      }
-    ],
+    "irregular_changes": [],
     "nurse": "",
     "phone": "",
     "email": "",
@@ -1806,7 +1775,18 @@
         "note": ""
       }
     },
-    "irregular_changes": [],
+    "irregular_changes": [
+      {
+        "day": {
+          "m_o": "0700",
+          "a_c": "1530"
+        },
+        "date": "25052026",
+        "closed": false,
+        "note": "Omlouváme se, v tomto termínu nebude Fyzioterapie ordinovat. ",
+        "_id": "69f0c9c078b8d15bafbd3e58"
+      }
+    ],
     "nurse": "",
     "phone": "",
     "email": "",
