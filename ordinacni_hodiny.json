@@ -676,13 +676,13 @@
     "irregular_changes": [
       {
         "day": {
-          "m_o": "0800",
-          "a_c": "1300"
+          "m_o": "0700",
+          "a_c": "1200"
         },
         "date": "07052026",
         "closed": false,
         "note": "Pouze objednaní",
-        "_id": "69fc6eef133667621bbd7f6f"
+        "_id": "69fc6f41133667621bbd81b5"
       }
     ],
     "nurse": "Eva Dvořáková, Dis",
