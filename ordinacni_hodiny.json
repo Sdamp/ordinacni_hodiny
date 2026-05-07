@@ -1114,7 +1114,18 @@
         "note": ""
       }
     },
-    "irregular_changes": [],
+    "irregular_changes": [
+      {
+        "day": {
+          "m_o": "0700",
+          "a_c": "1400"
+        },
+        "date": "07052026",
+        "closed": false,
+        "note": "Omlouváme se, Podiatrická ordinace dnes z provozních důvodů neordinuje. Děkujeme za pochopení",
+        "_id": "69fc6d75133667621bbd796e"
+      }
+    ],
     "nurse": "Eva Dvořáková, Dis",
     "phone": "",
     "email": "podiachotebor@sdamp.cz",
