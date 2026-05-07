@@ -347,6 +347,16 @@
         "closed": false,
         "note": "Omlouváme se, v tento termín bude v ordinaci přítomna pouze zdravotní sestra. Lékař neordinuje. Zástup MUDr. Nejedlý Jaroslav, Poliklinika Chotěboř 08:00-12:00.",
         "_id": "69fc741a133667621bbd8941"
+      },
+      {
+        "day": {
+          "m_o": "0600",
+          "a_c": "1900"
+        },
+        "date": "12052026",
+        "closed": false,
+        "note": "Omlouváme se, v tento termín bude v ordinaci přítomna pouze zdravotní sestra. Lékař neordinuje. Zástup MUDr. Nejedlý Jaroslav, Poliklinika Chotěboř 08:00-12:00.",
+        "_id": "69fc743b133667621bbd8bd8"
       }
     ],
     "nurse": "Jaroslava Černíková",
