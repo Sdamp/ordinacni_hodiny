@@ -1279,8 +1279,8 @@
         },
         "date": "07052026",
         "closed": false,
-        "note": "Omlouváme se, v tomto termínu nejsou ordinace následujících lékařů:  MUDr.Hradec, MUDr. Pullerová-DOV. V ordinaci je přítomna zdravotní sestra.",
-        "_id": "69fc6660133667621bbd6749"
+        "note": "Omlouváme se, v tento termín neordinujeme. Nebude přítomna ani zdravotní sestra, ani lékař. Zástup zajišťuje MUDr. Pavlišová, Adámkova třída, Hlinsko.",
+        "_id": "69fc6737133667621bbd6a6b"
       }
     ],
     "nurse": "Martina Piskačová",
@@ -1353,8 +1353,8 @@
         },
         "date": "07052026",
         "closed": false,
-        "note": "Omlouváme se, v tomto termínu nejsou ordinace následujících lékařů:  MUDr.Hradec, MUDr. Pullerová-DOV. V ordinaci je přítomna zdravotní sestra.",
-        "_id": "69fc6660133667621bbd675e"
+        "note": "Omlouváme se, v tento termín neordinujeme. Nebude přítomna ani zdravotní sestra, ani lékař. Zástup zajišťuje MUDr. Pavlišová, Adámkova třída, Hlinsko.",
+        "_id": "69fc6737133667621bbd6a80"
       }
     ],
     "nurse": null,
