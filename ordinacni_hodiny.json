@@ -116,18 +116,7 @@
         "note": ""
       }
     },
-    "irregular_changes": [
-      {
-        "day": {
-          "m_o": "1200",
-          "a_c": "1600"
-        },
-        "date": "11052026",
-        "closed": false,
-        "note": "Omlouváme se, v tento termín se z provozních důvodů neordinuje. Děkujeme za pochopení",
-        "_id": "69fc70b0133667621bbd84d8"
-      }
-    ],
+    "irregular_changes": [],
     "nurse": "",
     "phone": "",
     "email": "",
@@ -190,28 +179,7 @@
         "note": ""
       }
     },
-    "irregular_changes": [
-      {
-        "day": {
-          "m_o": "0600",
-          "a_c": "1400"
-        },
-        "date": "11052026",
-        "closed": false,
-        "note": "Omlouváme se, v tento termín nebude přítomen lékař - MUDr. Špitálníková. Zástup: MUDr. Dufek, Vilémov 08:00-12:00. V ordinaci bude přítomná zdravotní sestra.",
-        "_id": "69fc6a5b133667621bbd7245"
-      },
-      {
-        "day": {
-          "m_o": "0600",
-          "a_c": "1400"
-        },
-        "date": "12052026",
-        "closed": false,
-        "note": "Omlouváme se, v tento termín nebude přítomen lékař - MUDr. Špitálníková. Zástup: MUDr. Dufek, Vilémov 08:00-12:00. V ordinaci bude přítomná zdravotní sestra.",
-        "_id": "69fc6b84133667621bbd744b"
-      }
-    ],
+    "irregular_changes": [],
     "nurse": "",
     "phone": "",
     "email": "",
@@ -337,28 +305,7 @@
         "note": ""
       }
     },
-    "irregular_changes": [
-      {
-        "day": {
-          "m_o": "0600",
-          "a_c": "1700"
-        },
-        "date": "11052026",
-        "closed": false,
-        "note": "Omlouváme se, v tento termín bude v ordinaci přítomna pouze zdravotní sestra. Lékař neordinuje. Zástup MUDr. Nejedlý Jaroslav, Poliklinika Chotěboř 08:00-12:00.",
-        "_id": "69fc741a133667621bbd8941"
-      },
-      {
-        "day": {
-          "m_o": "0600",
-          "a_c": "1900"
-        },
-        "date": "12052026",
-        "closed": false,
-        "note": "Omlouváme se, v tento termín bude v ordinaci přítomna pouze zdravotní sestra. Lékař neordinuje. Zástup MUDr. Nejedlý Jaroslav, Poliklinika Chotěboř 08:00-12:00.",
-        "_id": "69fc743b133667621bbd8bd8"
-      }
-    ],
+    "irregular_changes": [],
     "nurse": "Jaroslava Černíková",
     "phone": "+420 910444688, +420 910 444 698, +420 569 333 548",
     "email": "endochotebor@sdamp.cz",
@@ -631,18 +578,7 @@
         "note": ""
       }
     },
-    "irregular_changes": [
-      {
-        "day": {
-          "m_o": "1200",
-          "a_c": "1800"
-        },
-        "date": "11052026",
-        "closed": false,
-        "note": "Omlouváme se, v tento termín neordinujeme. Nebude přítomna ani zdravotní sestra, ani lékař.  ",
-        "_id": "69fc6e45133667621bbd7cb3"
-      }
-    ],
+    "irregular_changes": [],
     "nurse": "Markéta Špitálníková",
     "phone": "+420 910 444 688",
     "email": "endochotebor@sdamp.cz",
@@ -705,18 +641,7 @@
         "note": ""
       }
     },
-    "irregular_changes": [
-      {
-        "day": {
-          "m_o": "0700",
-          "a_c": "1200"
-        },
-        "date": "07052026",
-        "closed": false,
-        "note": "Pouze objednaní",
-        "_id": "69fc6f41133667621bbd81b5"
-      }
-    ],
+    "irregular_changes": [],
     "nurse": "Eva Dvořáková, Dis",
     "phone": "+420 910 444 689",
     "email": "osteochotebor@sdamp.cz",
@@ -779,18 +704,7 @@
         "note": ""
       }
     },
-    "irregular_changes": [
-      {
-        "day": {
-          "m_o": "1200",
-          "a_c": "1800"
-        },
-        "date": "11052026",
-        "closed": false,
-        "note": "Omlouváme se, v tento termín neordinujeme. Nebude přítomna ani zdravotní sestra, ani lékař.  ",
-        "_id": "69fc6e45133667621bbd7cce"
-      }
-    ],
+    "irregular_changes": [],
     "nurse": "Markéta Špitálníková",
     "phone": "+420 910 444 688",
     "email": "endochotebor@sdamp.cz",
@@ -853,7 +767,18 @@
         "note": ""
       }
     },
-    "irregular_changes": [],
+    "irregular_changes": [
+      {
+        "day": {
+          "m_o": "0700",
+          "a_c": "1530"
+        },
+        "date": "13052026",
+        "closed": false,
+        "note": "Omlouváme se, dnes se z provozních důvodů neordinuje. Děkujeme za pochopení",
+        "_id": "6a043070b8121f908438061c"
+      }
+    ],
     "nurse": "Mgr. Lucie Pradáčová",
     "phone": "+420 910 444 691, +420 910 444 699",
     "email": "sportlekchotebor@sdamp.cz",
@@ -1168,18 +1093,7 @@
         "note": ""
       }
     },
-    "irregular_changes": [
-      {
-        "day": {
-          "m_o": "0700",
-          "a_c": "1400"
-        },
-        "date": "07052026",
-        "closed": false,
-        "note": "Omlouváme se, Podiatrická ordinace dnes z provozních důvodů neordinuje. Děkujeme za pochopení",
-        "_id": "69fc6d75133667621bbd796e"
-      }
-    ],
+    "irregular_changes": [],
     "nurse": "Eva Dvořáková, Dis",
     "phone": "",
     "email": "podiachotebor@sdamp.cz",
@@ -1368,18 +1282,7 @@
         "note": ""
       }
     },
-    "irregular_changes": [
-      {
-        "day": {
-          "m_o": "0700",
-          "a_c": "1500"
-        },
-        "date": "07052026",
-        "closed": false,
-        "note": "Omlouváme se, v tento termín neordinujeme. Nebude přítomna ani zdravotní sestra, ani lékař. Zástup zajišťuje MUDr. Pavlišová, Adámkova třída, Hlinsko.",
-        "_id": "69fc6737133667621bbd6a6b"
-      }
-    ],
+    "irregular_changes": [],
     "nurse": "Martina Piskačová",
     "phone": "+420 910 444 694",
     "email": "endohlinsko@sdamp.cz",
@@ -1442,18 +1345,7 @@
         "note": ""
       }
     },
-    "irregular_changes": [
-      {
-        "day": {
-          "m_o": "0700",
-          "a_c": "1500"
-        },
-        "date": "07052026",
-        "closed": false,
-        "note": "Omlouváme se, v tento termín neordinujeme. Nebude přítomna ani zdravotní sestra, ani lékař. Zástup zajišťuje MUDr. Pavlišová, Adámkova třída, Hlinsko.",
-        "_id": "69fc6737133667621bbd6a80"
-      }
-    ],
+    "irregular_changes": [],
     "nurse": null,
     "phone": "+420 910 444 694",
     "email": "endohlinsko@sdamp.cz",
