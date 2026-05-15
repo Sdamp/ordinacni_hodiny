@@ -1533,6 +1533,16 @@
         "closed": false,
         "note": "Omlouváme se, dnes se z provozních důvodů neordinuje. Děkujeme za pochopení",
         "_id": "6a06f8f7b8121f908438163b"
+      },
+      {
+        "day": {
+          "m_o": "0700",
+          "a_c": "1200"
+        },
+        "date": "19052026",
+        "closed": false,
+        "note": "Omlouváme se, dnes se z provozních důvodů ordinuje pouze od 7:00-12:00 hod. Děkujeme za pochopení",
+        "_id": "6a06f92db8121f908438182d"
       }
     ],
     "nurse": "Jana Bílá",
