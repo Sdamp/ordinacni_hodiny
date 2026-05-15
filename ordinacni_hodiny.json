@@ -179,18 +179,7 @@
         "note": ""
       }
     },
-    "irregular_changes": [
-      {
-        "day": {
-          "m_o": "0630",
-          "a_c": "1200"
-        },
-        "date": "13052026",
-        "closed": false,
-        "note": "Omlouváme se, dnes bude provozních důvodů sestra v ordinaci pouze do 12:00 hod. Děkujeme za pochopení",
-        "_id": "6a0430f7b8121f9084380849"
-      }
-    ],
+    "irregular_changes": [],
     "nurse": "",
     "phone": "",
     "email": "",
@@ -778,18 +767,7 @@
         "note": ""
       }
     },
-    "irregular_changes": [
-      {
-        "day": {
-          "m_o": "0700",
-          "a_c": "1530"
-        },
-        "date": "13052026",
-        "closed": false,
-        "note": "Omlouváme se, dnes se z provozních důvodů neordinuje. Děkujeme za pochopení",
-        "_id": "6a043070b8121f908438061c"
-      }
-    ],
+    "irregular_changes": [],
     "nurse": "Mgr. Lucie Pradáčová",
     "phone": "+420 910 444 691, +420 910 444 699",
     "email": "sportlekchotebor@sdamp.cz",
@@ -1545,7 +1523,18 @@
         "note": ""
       }
     },
-    "irregular_changes": [],
+    "irregular_changes": [
+      {
+        "day": {
+          "m_o": "0700",
+          "a_c": "1530"
+        },
+        "date": "18052026",
+        "closed": false,
+        "note": "Omlouváme se, dnes se z provozních důvodů neordinuje. Děkujeme za pochopení",
+        "_id": "6a06f8f7b8121f908438163b"
+      }
+    ],
     "nurse": "Jana Bílá",
     "phone": "+420 910 444 695",
     "email": "osteohlinsko@sdamp.cz",
