@@ -179,7 +179,18 @@
         "note": ""
       }
     },
-    "irregular_changes": [],
+    "irregular_changes": [
+      {
+        "day": {
+          "m_o": "0630",
+          "a_c": "1130"
+        },
+        "date": "27052026",
+        "closed": false,
+        "note": "Omlouváme se, z provozních důvodů bude dnes zdravotní sestra přítomná pouze do 11:30 hod. Děkujeme za pochopení",
+        "_id": "6a16997815eaafba42af73a8"
+      }
+    ],
     "nurse": "",
     "phone": "",
     "email": "",
@@ -894,26 +905,6 @@
       }
     },
     "irregular_changes": [
-      {
-        "day": {
-          "m_o": "0630",
-          "a_c": "1500"
-        },
-        "date": "25052026",
-        "closed": false,
-        "note": "MUDr. Králová ordinuje každé PO, ÚT, PÁ. Ve ČT je v ordinaci přítomná zdr. sestra. Ve ST ve v ordinaci v Chotěboři neordinuje, zdr. sestra je přítomná v ambulanci na Poliklinice v Hlinsku",
-        "_id": "6a0d7838b8121f90843830e1"
-      },
-      {
-        "day": {
-          "m_o": "0630",
-          "a_c": "1500"
-        },
-        "date": "26052026",
-        "closed": false,
-        "note": "MUDr. Králová ordinuje každé PO, ÚT, PÁ. Ve ČT je v ordinaci přítomná zdr. sestra. Ve ST ve v ordinaci v Chotěboři neordinuje, zdr. sestra je přítomná v ambulanci na Poliklinice v Hlinsku",
-        "_id": "6a0d7838b8121f90843830e2"
-      },
       {
         "day": {
           "m_o": "0630",
@@ -3977,16 +3968,6 @@
       }
     },
     "irregular_changes": [
-      {
-        "day": {
-          "m_o": "0700",
-          "a_c": "1530"
-        },
-        "date": "25052026",
-        "closed": false,
-        "note": "Omlouváme se, v tomto termínu nebude Fyzioterapie ordinovat. ",
-        "_id": "69f0c9c078b8d15bafbd3e58"
-      },
       {
         "day": {
           "m_o": "0700",
