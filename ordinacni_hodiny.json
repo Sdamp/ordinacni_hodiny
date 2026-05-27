@@ -189,6 +189,16 @@
         "closed": false,
         "note": "Omlouváme se, z provozních důvodů bude dnes zdravotní sestra přítomná pouze do 11:30 hod. Děkujeme za pochopení",
         "_id": "6a16997815eaafba42af73a8"
+      },
+      {
+        "day": {
+          "m_o": "0700",
+          "a_c": "1400"
+        },
+        "date": "28052026",
+        "closed": false,
+        "note": "Omlouváme se, v tento termín nebude přítomen lékař, ani zdravotní sestra. Zástup: MUDr. Dufek, Vilémov 08:00-12:00.",
+        "_id": "6a169a6a15eaafba42af7719"
       }
     ],
     "nurse": "",
