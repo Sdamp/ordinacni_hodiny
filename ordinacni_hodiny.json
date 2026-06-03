@@ -450,6 +450,16 @@
         "closed": false,
         "note": "Omlouváme se, v tento termín nebude přítomen lékař - MUDr. Špitálníková. V ordinaci bude přítomná zdravotní sestra.",
         "_id": "6a1ff60818fc5916ce4e3d2e"
+      },
+      {
+        "day": {
+          "m_o": "0700",
+          "a_c": "1530"
+        },
+        "date": "17072026",
+        "closed": false,
+        "note": "Omlouváme se, v tento termín nebude přítomen lékař - MUDr. Špitálníková.  V ordinaci bude přítomná zdravotní sestra.",
+        "_id": "6a1ff63918fc5916ce4e4040"
       }
     ],
     "nurse": "Vendulka Beranová",
@@ -554,6 +564,16 @@
         "closed": false,
         "note": "Omlouváme se, v tento termín nebude přítomen lékař - MUDr. Špitálníková. V ordinaci bude přítomná zdravotní sestra.",
         "_id": "6a1ff60818fc5916ce4e3d47"
+      },
+      {
+        "day": {
+          "m_o": "0700",
+          "a_c": "1530"
+        },
+        "date": "17072026",
+        "closed": false,
+        "note": "Omlouváme se, v tento termín nebude přítomen lékař - MUDr. Špitálníková.  V ordinaci bude přítomná zdravotní sestra.",
+        "_id": "6a1ff63918fc5916ce4e405a"
       }
     ],
     "nurse": "Vendulka Beranová",
