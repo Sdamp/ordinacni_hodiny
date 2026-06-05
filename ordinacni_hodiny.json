@@ -199,6 +199,16 @@
         "closed": false,
         "note": "Omlouváme se, v tento termín nebude přítomen lékař - MUDr. Špitálníková. Zástup: MUDr. Dufek, Vilémov 08:00-12:00. V ordinaci bude přítomná zdravotní sestra.",
         "_id": "6a1ff26d6a92dcf50ba89f7b"
+      },
+      {
+        "day": {
+          "m_o": "0600",
+          "a_c": "1400"
+        },
+        "date": "05062026",
+        "closed": false,
+        "note": "Omlouváme se, dnes se z provozních důvodů neordinuje. Děkujeme za pochopení",
+        "_id": "6a22e201eb9aed9932477774"
       }
     ],
     "nurse": "",
@@ -764,18 +774,7 @@
         "note": ""
       }
     },
-    "irregular_changes": [
-      {
-        "day": {
-          "m_o": "0700",
-          "a_c": "1500"
-        },
-        "date": "04062026",
-        "closed": false,
-        "note": "Omlouváme se, V TENTO TERMÍN se z provozních důvodů neordinuje. Děkujeme za pochopení",
-        "_id": "6a1ff4f918fc5916ce4e2fce"
-      }
-    ],
+    "irregular_changes": [],
     "nurse": "Eva Dvořáková, Dis",
     "phone": "+420 910 444 689",
     "email": "osteochotebor@sdamp.cz",
@@ -1028,26 +1027,6 @@
       }
     },
     "irregular_changes": [
-      {
-        "day": {
-          "m_o": "0630",
-          "a_c": "1500"
-        },
-        "date": "03062026",
-        "closed": false,
-        "note": "MUDr. Králová ordinuje každé PO, ÚT, PÁ. Ve ČT je v ordinaci přítomná zdr. sestra. Ve ST ve v ordinaci v Chotěboři neordinuje, zdr. sestra je přítomná v ambulanci na Poliklinice v Hlinsku",
-        "_id": "6a0d7838b8121f90843830ea"
-      },
-      {
-        "day": {
-          "m_o": "0630",
-          "a_c": "1500"
-        },
-        "date": "04062026",
-        "closed": false,
-        "note": "MUDr. Králová ordinuje každé PO, ÚT, PÁ. Ve ČT je v ordinaci přítomná zdr. sestra. Ve ST ve v ordinaci v Chotěboři neordinuje, zdr. sestra je přítomná v ambulanci na Poliklinice v Hlinsku",
-        "_id": "6a0d7838b8121f90843830eb"
-      },
       {
         "day": {
           "m_o": "0630",
