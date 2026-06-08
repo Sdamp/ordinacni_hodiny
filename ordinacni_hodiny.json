@@ -199,6 +199,16 @@
         "closed": false,
         "note": "Omlouváme se, v tento termín nebude přítomen lékař - MUDr. Špitálníková. Zástup: MUDr. Dufek, Vilémov 08:00-12:00. V ordinaci bude přítomná zdravotní sestra.",
         "_id": "6a1ff26d6a92dcf50ba89f7b"
+      },
+      {
+        "day": {
+          "m_o": "0700",
+          "a_c": "1400"
+        },
+        "date": "18062026",
+        "closed": false,
+        "note": "",
+        "_id": "6a267175059027891166ef05"
       }
     ],
     "nurse": "",
