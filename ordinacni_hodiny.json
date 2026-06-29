@@ -53,7 +53,18 @@
         "note": ""
       }
     },
-    "irregular_changes": [],
+    "irregular_changes": [
+      {
+        "day": {
+          "m_o": "0800",
+          "a_c": "1300"
+        },
+        "date": "30062026",
+        "closed": false,
+        "note": "Omlouváme se, v tento termín nebude přítomen lékař - MUDr. Medňanská. V ordinaci bude přítomná zdravotní sestra.",
+        "_id": "6a42531141846b037da41bac"
+      }
+    ],
     "nurse": "Markéta Špitálníková",
     "phone": "+420 910 444 688",
     "email": "nefrochotebor@sdamp.cz",
