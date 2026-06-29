@@ -3667,7 +3667,158 @@
         "note": ""
       }
     },
-    "irregular_changes": [],
+    "irregular_changes": [
+      {
+        "day": {
+          "m_o": "0700",
+          "a_c": "1200"
+        },
+        "date": "27072026",
+        "closed": false,
+        "note": "Oznamujeme, že od 27.7 do 10.8.2026 zastupujeme v naší ordinaci Mudr. Kateřinu Pavlišovou,  Adámkova tř. 149, 539 01 Hlinsko.",
+        "_id": "6a424ad141846b037da3fc8f"
+      },
+      {
+        "day": {
+          "m_o": "0700",
+          "a_c": "1200"
+        },
+        "date": "28072026",
+        "closed": false,
+        "note": "Oznamujeme, že od 27.7 do 10.8.2026 zastupujeme v naší ordinaci Mudr. Kateřinu Pavlišovou,  Adámkova tř. 149, 539 01 Hlinsko.",
+        "_id": "6a424ad141846b037da3fc90"
+      },
+      {
+        "day": {
+          "m_o": "0700",
+          "a_c": "1200"
+        },
+        "date": "29072026",
+        "closed": false,
+        "note": "Oznamujeme, že od 27.7 do 10.8.2026 zastupujeme v naší ordinaci Mudr. Kateřinu Pavlišovou,  Adámkova tř. 149, 539 01 Hlinsko.",
+        "_id": "6a424ad141846b037da3fc91"
+      },
+      {
+        "day": {
+          "m_o": "0700",
+          "a_c": "1200"
+        },
+        "date": "30072026",
+        "closed": false,
+        "note": "Oznamujeme, že od 27.7 do 10.8.2026 zastupujeme v naší ordinaci Mudr. Kateřinu Pavlišovou,  Adámkova tř. 149, 539 01 Hlinsko.",
+        "_id": "6a424ad141846b037da3fc92"
+      },
+      {
+        "day": {
+          "m_o": "0700",
+          "a_c": "1200"
+        },
+        "date": "31072026",
+        "closed": false,
+        "note": "Oznamujeme, že od 27.7 do 10.8.2026 zastupujeme v naší ordinaci Mudr. Kateřinu Pavlišovou,  Adámkova tř. 149, 539 01 Hlinsko.",
+        "_id": "6a424ad141846b037da3fc93"
+      },
+      {
+        "day": {
+          "m_o": "0700",
+          "a_c": "1200"
+        },
+        "date": "01082026",
+        "closed": false,
+        "note": "Oznamujeme, že od 27.7 do 10.8.2026 zastupujeme v naší ordinaci Mudr. Kateřinu Pavlišovou,  Adámkova tř. 149, 539 01 Hlinsko.",
+        "_id": "6a424ad141846b037da3fc94"
+      },
+      {
+        "day": {
+          "m_o": "0700",
+          "a_c": "1200"
+        },
+        "date": "02082026",
+        "closed": false,
+        "note": "Oznamujeme, že od 27.7 do 10.8.2026 zastupujeme v naší ordinaci Mudr. Kateřinu Pavlišovou,  Adámkova tř. 149, 539 01 Hlinsko.",
+        "_id": "6a424ad141846b037da3fc95"
+      },
+      {
+        "day": {
+          "m_o": "0700",
+          "a_c": "1200"
+        },
+        "date": "03082026",
+        "closed": false,
+        "note": "Oznamujeme, že od 27.7 do 10.8.2026 zastupujeme v naší ordinaci Mudr. Kateřinu Pavlišovou,  Adámkova tř. 149, 539 01 Hlinsko.",
+        "_id": "6a424ad141846b037da3fc96"
+      },
+      {
+        "day": {
+          "m_o": "0700",
+          "a_c": "1200"
+        },
+        "date": "04082026",
+        "closed": false,
+        "note": "Oznamujeme, že od 27.7 do 10.8.2026 zastupujeme v naší ordinaci Mudr. Kateřinu Pavlišovou,  Adámkova tř. 149, 539 01 Hlinsko.",
+        "_id": "6a424ad141846b037da3fc97"
+      },
+      {
+        "day": {
+          "m_o": "0700",
+          "a_c": "1200"
+        },
+        "date": "05082026",
+        "closed": false,
+        "note": "Oznamujeme, že od 27.7 do 10.8.2026 zastupujeme v naší ordinaci Mudr. Kateřinu Pavlišovou,  Adámkova tř. 149, 539 01 Hlinsko.",
+        "_id": "6a424ad141846b037da3fc98"
+      },
+      {
+        "day": {
+          "m_o": "0700",
+          "a_c": "1200"
+        },
+        "date": "06082026",
+        "closed": false,
+        "note": "Oznamujeme, že od 27.7 do 10.8.2026 zastupujeme v naší ordinaci Mudr. Kateřinu Pavlišovou,  Adámkova tř. 149, 539 01 Hlinsko.",
+        "_id": "6a424ad141846b037da3fc99"
+      },
+      {
+        "day": {
+          "m_o": "0700",
+          "a_c": "1200"
+        },
+        "date": "07082026",
+        "closed": false,
+        "note": "Oznamujeme, že od 27.7 do 10.8.2026 zastupujeme v naší ordinaci Mudr. Kateřinu Pavlišovou,  Adámkova tř. 149, 539 01 Hlinsko.",
+        "_id": "6a424ad141846b037da3fc9a"
+      },
+      {
+        "day": {
+          "m_o": "0700",
+          "a_c": "1200"
+        },
+        "date": "08082026",
+        "closed": false,
+        "note": "Oznamujeme, že od 27.7 do 10.8.2026 zastupujeme v naší ordinaci Mudr. Kateřinu Pavlišovou,  Adámkova tř. 149, 539 01 Hlinsko.",
+        "_id": "6a424ad141846b037da3fc9b"
+      },
+      {
+        "day": {
+          "m_o": "0700",
+          "a_c": "1200"
+        },
+        "date": "09082026",
+        "closed": false,
+        "note": "Oznamujeme, že od 27.7 do 10.8.2026 zastupujeme v naší ordinaci Mudr. Kateřinu Pavlišovou,  Adámkova tř. 149, 539 01 Hlinsko.",
+        "_id": "6a424ad141846b037da3fc9c"
+      },
+      {
+        "day": {
+          "m_o": "0700",
+          "a_c": "1200"
+        },
+        "date": "10082026",
+        "closed": false,
+        "note": "Oznamujeme, že od 27.7 do 10.8.2026 zastupujeme v naší ordinaci Mudr. Kateřinu Pavlišovou,  Adámkova tř. 149, 539 01 Hlinsko.",
+        "_id": "6a424ad141846b037da3fc9d"
+      }
+    ],
     "nurse": null,
     "phone": "+420 910 444 694",
     "email": "endohlinsko@sdamp.cz",
