@@ -671,6 +671,16 @@
         "closed": false,
         "note": "Omlouváme se, v červenci ordinuje MUDr. Mgr. Špitálníková Ph.D. pouze ve dnech 10.7. a 17.7. V ostatní dny, od 30.6. do 28.7. bude ordinace z důvodu dovolené uzavřena.",
         "_id": "6a425ba441846b037da445a0"
+      },
+      {
+        "day": {
+          "m_o": "0700",
+          "a_c": "1500"
+        },
+        "date": "30062026",
+        "closed": false,
+        "note": "Omlouváme se, dnes se z provozních důvodů neordinuje. Děkujeme za pochopení",
+        "_id": "6a425c6e41846b037da44954"
       }
     ],
     "nurse": "Vendulka Beranová",
@@ -995,6 +1005,16 @@
         "closed": false,
         "note": "Omlouváme se, v červenci ordinuje MUDr. Mgr. Špitálníková Ph.D. pouze ve dnech 10.7. a 17.7. V ostatní dny, od 30.6. do 28.7. bude ordinace z důvodu dovolené uzavřena.",
         "_id": "6a425adb41846b037da43b98"
+      },
+      {
+        "day": {
+          "m_o": "0700",
+          "a_c": "1500"
+        },
+        "date": "30062026",
+        "closed": false,
+        "note": "Omlouváme se, dnes se z provozních důvodů neordinuje. Děkujeme za pochopení",
+        "_id": "6a425c6e41846b037da44987"
       }
     ],
     "nurse": "Vendulka Beranová",
