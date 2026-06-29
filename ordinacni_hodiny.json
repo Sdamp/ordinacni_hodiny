@@ -411,7 +411,268 @@
         "note": ""
       }
     },
-    "irregular_changes": [],
+    "irregular_changes": [
+      {
+        "day": {
+          "m_o": "0700",
+          "a_c": "1530"
+        },
+        "date": "01072026",
+        "closed": false,
+        "note": "Omlouváme se, v červenci ordinuje MUDr. Mgr. Špitálníková Ph.D. pouze ve dnech 10.7. a 17.7. V ostatní dny, od 30.6. do 28.7. bude ordinace z důvodu dovolené uzavřena.",
+        "_id": "6a425ba441846b037da44587"
+      },
+      {
+        "day": {
+          "m_o": "0700",
+          "a_c": "1530"
+        },
+        "date": "02072026",
+        "closed": false,
+        "note": "Omlouváme se, v červenci ordinuje MUDr. Mgr. Špitálníková Ph.D. pouze ve dnech 10.7. a 17.7. V ostatní dny, od 30.6. do 28.7. bude ordinace z důvodu dovolené uzavřena.",
+        "_id": "6a425ba441846b037da44588"
+      },
+      {
+        "day": {
+          "m_o": "0700",
+          "a_c": "1530"
+        },
+        "date": "04072026",
+        "closed": false,
+        "note": "Omlouváme se, v červenci ordinuje MUDr. Mgr. Špitálníková Ph.D. pouze ve dnech 10.7. a 17.7. V ostatní dny, od 30.6. do 28.7. bude ordinace z důvodu dovolené uzavřena.",
+        "_id": "6a425ba441846b037da44589"
+      },
+      {
+        "day": {
+          "m_o": "0700",
+          "a_c": "1530"
+        },
+        "date": "05072026",
+        "closed": false,
+        "note": "Omlouváme se, v červenci ordinuje MUDr. Mgr. Špitálníková Ph.D. pouze ve dnech 10.7. a 17.7. V ostatní dny, od 30.6. do 28.7. bude ordinace z důvodu dovolené uzavřena.",
+        "_id": "6a425ba441846b037da4458a"
+      },
+      {
+        "day": {
+          "m_o": "0700",
+          "a_c": "1530"
+        },
+        "date": "06072026",
+        "closed": false,
+        "note": "Omlouváme se, v červenci ordinuje MUDr. Mgr. Špitálníková Ph.D. pouze ve dnech 10.7. a 17.7. V ostatní dny, od 30.6. do 28.7. bude ordinace z důvodu dovolené uzavřena.",
+        "_id": "6a425ba441846b037da4458b"
+      },
+      {
+        "day": {
+          "m_o": "0700",
+          "a_c": "1530"
+        },
+        "date": "07072026",
+        "closed": false,
+        "note": "Omlouváme se, v červenci ordinuje MUDr. Mgr. Špitálníková Ph.D. pouze ve dnech 10.7. a 17.7. V ostatní dny, od 30.6. do 28.7. bude ordinace z důvodu dovolené uzavřena.",
+        "_id": "6a425ba441846b037da4458c"
+      },
+      {
+        "day": {
+          "m_o": "0700",
+          "a_c": "1530"
+        },
+        "date": "08072026",
+        "closed": false,
+        "note": "Omlouváme se, v červenci ordinuje MUDr. Mgr. Špitálníková Ph.D. pouze ve dnech 10.7. a 17.7. V ostatní dny, od 30.6. do 28.7. bude ordinace z důvodu dovolené uzavřena.",
+        "_id": "6a425ba441846b037da4458d"
+      },
+      {
+        "day": {
+          "m_o": "0700",
+          "a_c": "1530"
+        },
+        "date": "09072026",
+        "closed": false,
+        "note": "Omlouváme se, v červenci ordinuje MUDr. Mgr. Špitálníková Ph.D. pouze ve dnech 10.7. a 17.7. V ostatní dny, od 30.6. do 28.7. bude ordinace z důvodu dovolené uzavřena.",
+        "_id": "6a425ba441846b037da4458e"
+      },
+      {
+        "day": {
+          "m_o": "0700",
+          "a_c": "1530"
+        },
+        "date": "10072026",
+        "closed": false,
+        "note": "Omlouváme se, v červenci ordinuje MUDr. Mgr. Špitálníková Ph.D. pouze ve dnech 10.7. a 17.7. V ostatní dny, od 30.6. do 28.7. bude ordinace z důvodu dovolené uzavřena.",
+        "_id": "6a425ba441846b037da4458f"
+      },
+      {
+        "day": {
+          "m_o": "0700",
+          "a_c": "1530"
+        },
+        "date": "11072026",
+        "closed": false,
+        "note": "Omlouváme se, v červenci ordinuje MUDr. Mgr. Špitálníková Ph.D. pouze ve dnech 10.7. a 17.7. V ostatní dny, od 30.6. do 28.7. bude ordinace z důvodu dovolené uzavřena.",
+        "_id": "6a425ba441846b037da44590"
+      },
+      {
+        "day": {
+          "m_o": "0700",
+          "a_c": "1530"
+        },
+        "date": "12072026",
+        "closed": false,
+        "note": "Omlouváme se, v červenci ordinuje MUDr. Mgr. Špitálníková Ph.D. pouze ve dnech 10.7. a 17.7. V ostatní dny, od 30.6. do 28.7. bude ordinace z důvodu dovolené uzavřena.",
+        "_id": "6a425ba441846b037da44591"
+      },
+      {
+        "day": {
+          "m_o": "0700",
+          "a_c": "1530"
+        },
+        "date": "13072026",
+        "closed": false,
+        "note": "Omlouváme se, v červenci ordinuje MUDr. Mgr. Špitálníková Ph.D. pouze ve dnech 10.7. a 17.7. V ostatní dny, od 30.6. do 28.7. bude ordinace z důvodu dovolené uzavřena.",
+        "_id": "6a425ba441846b037da44592"
+      },
+      {
+        "day": {
+          "m_o": "0700",
+          "a_c": "1530"
+        },
+        "date": "14072026",
+        "closed": false,
+        "note": "Omlouváme se, v červenci ordinuje MUDr. Mgr. Špitálníková Ph.D. pouze ve dnech 10.7. a 17.7. V ostatní dny, od 30.6. do 28.7. bude ordinace z důvodu dovolené uzavřena.",
+        "_id": "6a425ba441846b037da44593"
+      },
+      {
+        "day": {
+          "m_o": "0700",
+          "a_c": "1530"
+        },
+        "date": "15072026",
+        "closed": false,
+        "note": "Omlouváme se, v červenci ordinuje MUDr. Mgr. Špitálníková Ph.D. pouze ve dnech 10.7. a 17.7. V ostatní dny, od 30.6. do 28.7. bude ordinace z důvodu dovolené uzavřena.",
+        "_id": "6a425ba441846b037da44594"
+      },
+      {
+        "day": {
+          "m_o": "0700",
+          "a_c": "1530"
+        },
+        "date": "16072026",
+        "closed": false,
+        "note": "Omlouváme se, v červenci ordinuje MUDr. Mgr. Špitálníková Ph.D. pouze ve dnech 10.7. a 17.7. V ostatní dny, od 30.6. do 28.7. bude ordinace z důvodu dovolené uzavřena.",
+        "_id": "6a425ba441846b037da44595"
+      },
+      {
+        "day": {
+          "m_o": "0700",
+          "a_c": "1530"
+        },
+        "date": "18072026",
+        "closed": false,
+        "note": "Omlouváme se, v červenci ordinuje MUDr. Mgr. Špitálníková Ph.D. pouze ve dnech 10.7. a 17.7. V ostatní dny, od 30.6. do 28.7. bude ordinace z důvodu dovolené uzavřena.",
+        "_id": "6a425ba441846b037da44596"
+      },
+      {
+        "day": {
+          "m_o": "0700",
+          "a_c": "1530"
+        },
+        "date": "19072026",
+        "closed": false,
+        "note": "Omlouváme se, v červenci ordinuje MUDr. Mgr. Špitálníková Ph.D. pouze ve dnech 10.7. a 17.7. V ostatní dny, od 30.6. do 28.7. bude ordinace z důvodu dovolené uzavřena.",
+        "_id": "6a425ba441846b037da44597"
+      },
+      {
+        "day": {
+          "m_o": "0700",
+          "a_c": "1530"
+        },
+        "date": "20072026",
+        "closed": false,
+        "note": "Omlouváme se, v červenci ordinuje MUDr. Mgr. Špitálníková Ph.D. pouze ve dnech 10.7. a 17.7. V ostatní dny, od 30.6. do 28.7. bude ordinace z důvodu dovolené uzavřena.",
+        "_id": "6a425ba441846b037da44598"
+      },
+      {
+        "day": {
+          "m_o": "0700",
+          "a_c": "1530"
+        },
+        "date": "21072026",
+        "closed": false,
+        "note": "Omlouváme se, v červenci ordinuje MUDr. Mgr. Špitálníková Ph.D. pouze ve dnech 10.7. a 17.7. V ostatní dny, od 30.6. do 28.7. bude ordinace z důvodu dovolené uzavřena.",
+        "_id": "6a425ba441846b037da44599"
+      },
+      {
+        "day": {
+          "m_o": "0700",
+          "a_c": "1530"
+        },
+        "date": "22072026",
+        "closed": false,
+        "note": "Omlouváme se, v červenci ordinuje MUDr. Mgr. Špitálníková Ph.D. pouze ve dnech 10.7. a 17.7. V ostatní dny, od 30.6. do 28.7. bude ordinace z důvodu dovolené uzavřena.",
+        "_id": "6a425ba441846b037da4459a"
+      },
+      {
+        "day": {
+          "m_o": "0700",
+          "a_c": "1530"
+        },
+        "date": "23072026",
+        "closed": false,
+        "note": "Omlouváme se, v červenci ordinuje MUDr. Mgr. Špitálníková Ph.D. pouze ve dnech 10.7. a 17.7. V ostatní dny, od 30.6. do 28.7. bude ordinace z důvodu dovolené uzavřena.",
+        "_id": "6a425ba441846b037da4459b"
+      },
+      {
+        "day": {
+          "m_o": "0700",
+          "a_c": "1530"
+        },
+        "date": "24072026",
+        "closed": false,
+        "note": "Omlouváme se, v červenci ordinuje MUDr. Mgr. Špitálníková Ph.D. pouze ve dnech 10.7. a 17.7. V ostatní dny, od 30.6. do 28.7. bude ordinace z důvodu dovolené uzavřena.",
+        "_id": "6a425ba441846b037da4459c"
+      },
+      {
+        "day": {
+          "m_o": "0700",
+          "a_c": "1530"
+        },
+        "date": "25072026",
+        "closed": false,
+        "note": "Omlouváme se, v červenci ordinuje MUDr. Mgr. Špitálníková Ph.D. pouze ve dnech 10.7. a 17.7. V ostatní dny, od 30.6. do 28.7. bude ordinace z důvodu dovolené uzavřena.",
+        "_id": "6a425ba441846b037da4459d"
+      },
+      {
+        "day": {
+          "m_o": "0700",
+          "a_c": "1530"
+        },
+        "date": "26072026",
+        "closed": false,
+        "note": "Omlouváme se, v červenci ordinuje MUDr. Mgr. Špitálníková Ph.D. pouze ve dnech 10.7. a 17.7. V ostatní dny, od 30.6. do 28.7. bude ordinace z důvodu dovolené uzavřena.",
+        "_id": "6a425ba441846b037da4459e"
+      },
+      {
+        "day": {
+          "m_o": "0700",
+          "a_c": "1530"
+        },
+        "date": "27072026",
+        "closed": false,
+        "note": "Omlouváme se, v červenci ordinuje MUDr. Mgr. Špitálníková Ph.D. pouze ve dnech 10.7. a 17.7. V ostatní dny, od 30.6. do 28.7. bude ordinace z důvodu dovolené uzavřena.",
+        "_id": "6a425ba441846b037da4459f"
+      },
+      {
+        "day": {
+          "m_o": "0700",
+          "a_c": "1530"
+        },
+        "date": "28072026",
+        "closed": false,
+        "note": "Omlouváme se, v červenci ordinuje MUDr. Mgr. Špitálníková Ph.D. pouze ve dnech 10.7. a 17.7. V ostatní dny, od 30.6. do 28.7. bude ordinace z důvodu dovolené uzavřena.",
+        "_id": "6a425ba441846b037da445a0"
+      }
+    ],
     "nurse": "Vendulka Beranová",
     "phone": "+420 910 444 697",
     "email": "endokolin@sdamp.cz",
