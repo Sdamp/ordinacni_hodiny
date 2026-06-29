@@ -3132,6 +3132,16 @@
         "closed": false,
         "note": "Omlouváme se, v tento termín nebude přítomen lékař - MUDr. Zvolánková. V ordinaci bude přítomná zdravotní sestra.",
         "_id": "6a424f9641846b037da40ece"
+      },
+      {
+        "day": {
+          "m_o": "1300",
+          "a_c": "1900"
+        },
+        "date": "08072026",
+        "closed": false,
+        "note": "Omlouváme se v tomto termínu nebude v ordinaci lékař: MUDr. Mgr. Špitálníková Ph.D - DOVOLENÁ. Zástup MUDr. Pavlišová Kateřina 08:00-12:00. V ordinaci bude přítomná zdravotní sestra.",
+        "_id": "6a42517341846b037da412d4"
       }
     ],
     "nurse": "Martina Piskačová",
@@ -3216,6 +3226,16 @@
         "closed": false,
         "note": "Omlouváme se, v tento termín nebude přítomen lékař - MUDr. Zvolánková. V ordinaci bude přítomná zdravotní sestra.",
         "_id": "6a424f9641846b037da40eea"
+      },
+      {
+        "day": {
+          "m_o": "1300",
+          "a_c": "1900"
+        },
+        "date": "08072026",
+        "closed": false,
+        "note": "Omlouváme se v tomto termínu nebude v ordinaci lékař: MUDr. Mgr. Špitálníková Ph.D - DOVOLENÁ. Zástup MUDr. Pavlišová Kateřina 08:00-12:00. V ordinaci bude přítomná zdravotní sestra.",
+        "_id": "6a42517341846b037da412f0"
       }
     ],
     "nurse": "Martina Piskačová",
