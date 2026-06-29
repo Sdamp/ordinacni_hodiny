@@ -4121,7 +4121,18 @@
         "note": ""
       }
     },
-    "irregular_changes": [],
+    "irregular_changes": [
+      {
+        "day": {
+          "m_o": "1100",
+          "a_c": "1300"
+        },
+        "date": "03072026",
+        "closed": false,
+        "note": "Omlouváme se, v tento termín nebude přítomen lékař - MUDr. Turínský. V ordinaci bude přítomná zdravotní sestra.",
+        "_id": "6a4255ab41846b037da42172"
+      }
+    ],
     "nurse": "Eva Zelená",
     "phone": "+420 569 697 123",
     "email": "vplkrucemburk@sdamp.cz",
