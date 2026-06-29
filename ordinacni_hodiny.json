@@ -179,38 +179,7 @@
         "note": ""
       }
     },
-    "irregular_changes": [
-      {
-        "day": {
-          "m_o": "0600",
-          "a_c": "1430"
-        },
-        "date": "09062026",
-        "closed": false,
-        "note": "Omlouváme se, v tento termín nebude přítomen lékař - MUDr. Špitálníková. Zástup: MUDr. Dufek, Vilémov 07:00-12:00. V ordinaci bude přítomná zdravotní sestra.",
-        "_id": "6a1ff22d6a92dcf50ba89bf1"
-      },
-      {
-        "day": {
-          "m_o": "0600",
-          "a_c": "1200"
-        },
-        "date": "23062026",
-        "closed": false,
-        "note": "Omlouváme se, v tento termín nebude přítomen lékař - MUDr. Špitálníková. Zástup: MUDr. Dufek, Vilémov 08:00-12:00. V ordinaci bude přítomná zdravotní sestra.",
-        "_id": "6a1ff26d6a92dcf50ba89f7b"
-      },
-      {
-        "day": {
-          "m_o": "0700",
-          "a_c": "1400"
-        },
-        "date": "18062026",
-        "closed": false,
-        "note": "",
-        "_id": "6a267175059027891166ef05"
-      }
-    ],
+    "irregular_changes": [],
     "nurse": "",
     "phone": "",
     "email": "",
@@ -336,18 +305,7 @@
         "note": ""
       }
     },
-    "irregular_changes": [
-      {
-        "day": {
-          "m_o": "0600",
-          "a_c": "0900"
-        },
-        "date": "09062026",
-        "closed": false,
-        "note": "M-Centrum",
-        "_id": "6a267126059027891166ec10"
-      }
-    ],
+    "irregular_changes": [],
     "nurse": "Jaroslava Černíková",
     "phone": "+420 910444688, +420 910 444 698, +420 569 333 548",
     "email": "endochotebor@sdamp.cz",
@@ -437,26 +395,6 @@
           "m_o": "0700",
           "a_c": "1530"
         },
-        "date": "19062026",
-        "closed": false,
-        "note": "Omlouváme se, v tento termín nebude přítomen lékař - MUDr. Špitálníková. V ordinaci bude přítomná zdravotní sestra.",
-        "_id": "6a1ff59818fc5916ce4e364a"
-      },
-      {
-        "day": {
-          "m_o": "0700",
-          "a_c": "1530"
-        },
-        "date": "26062026",
-        "closed": false,
-        "note": "Omlouváme se, v tento termín nebude přítomen lékař - MUDr. Špitálníková. V ordinaci bude přítomná zdravotní sestra.",
-        "_id": "6a1ff5c818fc5916ce4e3988"
-      },
-      {
-        "day": {
-          "m_o": "0700",
-          "a_c": "1530"
-        },
         "date": "03072026",
         "closed": false,
         "note": "Omlouváme se, v tento termín nebude přítomen lékař - MUDr. Špitálníková. V ordinaci bude přítomná zdravotní sestra.",
@@ -536,26 +474,6 @@
       }
     },
     "irregular_changes": [
-      {
-        "day": {
-          "m_o": "0700",
-          "a_c": "1530"
-        },
-        "date": "19062026",
-        "closed": false,
-        "note": "Omlouváme se, v tento termín nebude přítomen lékař - MUDr. Špitálníková. V ordinaci bude přítomná zdravotní sestra.",
-        "_id": "6a1ff59818fc5916ce4e3661"
-      },
-      {
-        "day": {
-          "m_o": "0700",
-          "a_c": "1530"
-        },
-        "date": "26062026",
-        "closed": false,
-        "note": "Omlouváme se, v tento termín nebude přítomen lékař - MUDr. Špitálníková. V ordinaci bude přítomná zdravotní sestra.",
-        "_id": "6a1ff5c818fc5916ce4e399f"
-      },
       {
         "day": {
           "m_o": "0700",
@@ -1018,216 +936,6 @@
       }
     },
     "irregular_changes": [
-      {
-        "day": {
-          "m_o": "0630",
-          "a_c": "1500"
-        },
-        "date": "08062026",
-        "closed": false,
-        "note": "MUDr. Králová ordinuje každé PO, ÚT, PÁ. Ve ČT je v ordinaci přítomná zdr. sestra. Ve ST ve v ordinaci v Chotěboři neordinuje, zdr. sestra je přítomná v ambulanci na Poliklinice v Hlinsku",
-        "_id": "6a0d7838b8121f90843830ef"
-      },
-      {
-        "day": {
-          "m_o": "0630",
-          "a_c": "1500"
-        },
-        "date": "09062026",
-        "closed": false,
-        "note": "MUDr. Králová ordinuje každé PO, ÚT, PÁ. Ve ČT je v ordinaci přítomná zdr. sestra. Ve ST ve v ordinaci v Chotěboři neordinuje, zdr. sestra je přítomná v ambulanci na Poliklinice v Hlinsku",
-        "_id": "6a0d7838b8121f90843830f0"
-      },
-      {
-        "day": {
-          "m_o": "0630",
-          "a_c": "1500"
-        },
-        "date": "10062026",
-        "closed": false,
-        "note": "MUDr. Králová ordinuje každé PO, ÚT, PÁ. Ve ČT je v ordinaci přítomná zdr. sestra. Ve ST ve v ordinaci v Chotěboři neordinuje, zdr. sestra je přítomná v ambulanci na Poliklinice v Hlinsku",
-        "_id": "6a0d7838b8121f90843830f1"
-      },
-      {
-        "day": {
-          "m_o": "0630",
-          "a_c": "1500"
-        },
-        "date": "11062026",
-        "closed": false,
-        "note": "MUDr. Králová ordinuje každé PO, ÚT, PÁ. Ve ČT je v ordinaci přítomná zdr. sestra. Ve ST ve v ordinaci v Chotěboři neordinuje, zdr. sestra je přítomná v ambulanci na Poliklinice v Hlinsku",
-        "_id": "6a0d7838b8121f90843830f2"
-      },
-      {
-        "day": {
-          "m_o": "0630",
-          "a_c": "1500"
-        },
-        "date": "12062026",
-        "closed": false,
-        "note": "MUDr. Králová ordinuje každé PO, ÚT, PÁ. Ve ČT je v ordinaci přítomná zdr. sestra. Ve ST ve v ordinaci v Chotěboři neordinuje, zdr. sestra je přítomná v ambulanci na Poliklinice v Hlinsku",
-        "_id": "6a0d7838b8121f90843830f3"
-      },
-      {
-        "day": {
-          "m_o": "0630",
-          "a_c": "1500"
-        },
-        "date": "13062026",
-        "closed": false,
-        "note": "MUDr. Králová ordinuje každé PO, ÚT, PÁ. Ve ČT je v ordinaci přítomná zdr. sestra. Ve ST ve v ordinaci v Chotěboři neordinuje, zdr. sestra je přítomná v ambulanci na Poliklinice v Hlinsku",
-        "_id": "6a0d7838b8121f90843830f4"
-      },
-      {
-        "day": {
-          "m_o": "0630",
-          "a_c": "1500"
-        },
-        "date": "14062026",
-        "closed": false,
-        "note": "MUDr. Králová ordinuje každé PO, ÚT, PÁ. Ve ČT je v ordinaci přítomná zdr. sestra. Ve ST ve v ordinaci v Chotěboři neordinuje, zdr. sestra je přítomná v ambulanci na Poliklinice v Hlinsku",
-        "_id": "6a0d7838b8121f90843830f5"
-      },
-      {
-        "day": {
-          "m_o": "0630",
-          "a_c": "1500"
-        },
-        "date": "15062026",
-        "closed": false,
-        "note": "MUDr. Králová ordinuje každé PO, ÚT, PÁ. Ve ČT je v ordinaci přítomná zdr. sestra. Ve ST ve v ordinaci v Chotěboři neordinuje, zdr. sestra je přítomná v ambulanci na Poliklinice v Hlinsku",
-        "_id": "6a0d7838b8121f90843830f6"
-      },
-      {
-        "day": {
-          "m_o": "0630",
-          "a_c": "1500"
-        },
-        "date": "16062026",
-        "closed": false,
-        "note": "MUDr. Králová ordinuje každé PO, ÚT, PÁ. Ve ČT je v ordinaci přítomná zdr. sestra. Ve ST ve v ordinaci v Chotěboři neordinuje, zdr. sestra je přítomná v ambulanci na Poliklinice v Hlinsku",
-        "_id": "6a0d7838b8121f90843830f7"
-      },
-      {
-        "day": {
-          "m_o": "0630",
-          "a_c": "1500"
-        },
-        "date": "17062026",
-        "closed": false,
-        "note": "MUDr. Králová ordinuje každé PO, ÚT, PÁ. Ve ČT je v ordinaci přítomná zdr. sestra. Ve ST ve v ordinaci v Chotěboři neordinuje, zdr. sestra je přítomná v ambulanci na Poliklinice v Hlinsku",
-        "_id": "6a0d7838b8121f90843830f8"
-      },
-      {
-        "day": {
-          "m_o": "0630",
-          "a_c": "1500"
-        },
-        "date": "18062026",
-        "closed": false,
-        "note": "MUDr. Králová ordinuje každé PO, ÚT, PÁ. Ve ČT je v ordinaci přítomná zdr. sestra. Ve ST ve v ordinaci v Chotěboři neordinuje, zdr. sestra je přítomná v ambulanci na Poliklinice v Hlinsku",
-        "_id": "6a0d7838b8121f90843830f9"
-      },
-      {
-        "day": {
-          "m_o": "0630",
-          "a_c": "1500"
-        },
-        "date": "19062026",
-        "closed": false,
-        "note": "MUDr. Králová ordinuje každé PO, ÚT, PÁ. Ve ČT je v ordinaci přítomná zdr. sestra. Ve ST ve v ordinaci v Chotěboři neordinuje, zdr. sestra je přítomná v ambulanci na Poliklinice v Hlinsku",
-        "_id": "6a0d7838b8121f90843830fa"
-      },
-      {
-        "day": {
-          "m_o": "0630",
-          "a_c": "1500"
-        },
-        "date": "20062026",
-        "closed": false,
-        "note": "MUDr. Králová ordinuje každé PO, ÚT, PÁ. Ve ČT je v ordinaci přítomná zdr. sestra. Ve ST ve v ordinaci v Chotěboři neordinuje, zdr. sestra je přítomná v ambulanci na Poliklinice v Hlinsku",
-        "_id": "6a0d7838b8121f90843830fb"
-      },
-      {
-        "day": {
-          "m_o": "0630",
-          "a_c": "1500"
-        },
-        "date": "21062026",
-        "closed": false,
-        "note": "MUDr. Králová ordinuje každé PO, ÚT, PÁ. Ve ČT je v ordinaci přítomná zdr. sestra. Ve ST ve v ordinaci v Chotěboři neordinuje, zdr. sestra je přítomná v ambulanci na Poliklinice v Hlinsku",
-        "_id": "6a0d7838b8121f90843830fc"
-      },
-      {
-        "day": {
-          "m_o": "0630",
-          "a_c": "1500"
-        },
-        "date": "22062026",
-        "closed": false,
-        "note": "MUDr. Králová ordinuje každé PO, ÚT, PÁ. Ve ČT je v ordinaci přítomná zdr. sestra. Ve ST ve v ordinaci v Chotěboři neordinuje, zdr. sestra je přítomná v ambulanci na Poliklinice v Hlinsku",
-        "_id": "6a0d7838b8121f90843830fd"
-      },
-      {
-        "day": {
-          "m_o": "0630",
-          "a_c": "1500"
-        },
-        "date": "23062026",
-        "closed": false,
-        "note": "MUDr. Králová ordinuje každé PO, ÚT, PÁ. Ve ČT je v ordinaci přítomná zdr. sestra. Ve ST ve v ordinaci v Chotěboři neordinuje, zdr. sestra je přítomná v ambulanci na Poliklinice v Hlinsku",
-        "_id": "6a0d7838b8121f90843830fe"
-      },
-      {
-        "day": {
-          "m_o": "0630",
-          "a_c": "1500"
-        },
-        "date": "24062026",
-        "closed": false,
-        "note": "MUDr. Králová ordinuje každé PO, ÚT, PÁ. Ve ČT je v ordinaci přítomná zdr. sestra. Ve ST ve v ordinaci v Chotěboři neordinuje, zdr. sestra je přítomná v ambulanci na Poliklinice v Hlinsku",
-        "_id": "6a0d7838b8121f90843830ff"
-      },
-      {
-        "day": {
-          "m_o": "0630",
-          "a_c": "1500"
-        },
-        "date": "25062026",
-        "closed": false,
-        "note": "MUDr. Králová ordinuje každé PO, ÚT, PÁ. Ve ČT je v ordinaci přítomná zdr. sestra. Ve ST ve v ordinaci v Chotěboři neordinuje, zdr. sestra je přítomná v ambulanci na Poliklinice v Hlinsku",
-        "_id": "6a0d7838b8121f9084383100"
-      },
-      {
-        "day": {
-          "m_o": "0630",
-          "a_c": "1500"
-        },
-        "date": "26062026",
-        "closed": false,
-        "note": "MUDr. Králová ordinuje každé PO, ÚT, PÁ. Ve ČT je v ordinaci přítomná zdr. sestra. Ve ST ve v ordinaci v Chotěboři neordinuje, zdr. sestra je přítomná v ambulanci na Poliklinice v Hlinsku",
-        "_id": "6a0d7838b8121f9084383101"
-      },
-      {
-        "day": {
-          "m_o": "0630",
-          "a_c": "1500"
-        },
-        "date": "27062026",
-        "closed": false,
-        "note": "MUDr. Králová ordinuje každé PO, ÚT, PÁ. Ve ČT je v ordinaci přítomná zdr. sestra. Ve ST ve v ordinaci v Chotěboři neordinuje, zdr. sestra je přítomná v ambulanci na Poliklinice v Hlinsku",
-        "_id": "6a0d7838b8121f9084383102"
-      },
-      {
-        "day": {
-          "m_o": "0630",
-          "a_c": "1500"
-        },
-        "date": "28062026",
-        "closed": false,
-        "note": "MUDr. Králová ordinuje každé PO, ÚT, PÁ. Ve ČT je v ordinaci přítomná zdr. sestra. Ve ST ve v ordinaci v Chotěboři neordinuje, zdr. sestra je přítomná v ambulanci na Poliklinice v Hlinsku",
-        "_id": "6a0d7838b8121f9084383103"
-      },
       {
         "day": {
           "m_o": "0630",
@@ -4149,18 +3857,7 @@
         "note": ""
       }
     },
-    "irregular_changes": [
-      {
-        "day": {
-          "m_o": "0600",
-          "a_c": "0900"
-        },
-        "date": "09062026",
-        "closed": false,
-        "note": "M-Centrum",
-        "_id": "6a2670ef059027891166e91b"
-      }
-    ],
+    "irregular_changes": [],
     "nurse": null,
     "phone": null,
     "email": null,
