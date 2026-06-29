@@ -505,28 +505,7 @@
         "note": ""
       }
     },
-    "irregular_changes": [
-      {
-        "day": {
-          "m_o": "0700",
-          "a_c": "1530"
-        },
-        "date": "17072026",
-        "closed": false,
-        "note": "Omlouváme se, v tento termín nebude přítomen lékař - MUDr. Špitálníková.  V ordinaci bude přítomná zdravotní sestra.",
-        "_id": "6a1ff63918fc5916ce4e405a"
-      },
-      {
-        "day": {
-          "m_o": "0700",
-          "a_c": "1400"
-        },
-        "date": "30062026",
-        "closed": false,
-        "note": "Omlouváme se, dnes se z provozních důvodů neordinuje. Děkujeme za pochopení",
-        "_id": "6a4256d941846b037da4297f"
-      }
-    ],
+    "irregular_changes": [],
     "nurse": "Vendulka Beranová",
     "phone": "+420 910 444 697",
     "email": "endokolin@sdamp.cz",
