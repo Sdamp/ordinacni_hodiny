@@ -4756,6 +4756,16 @@
         "closed": false,
         "note": "Omlouváme se, v tento termín nebude přítomen lékař - MUDr. Zvolánková. V ordinaci bude přítomná zdravotní sestra.",
         "_id": "6a425e6541846b037da45a6e"
+      },
+      {
+        "day": {
+          "m_o": "0930",
+          "a_c": "1400"
+        },
+        "date": "11082026",
+        "closed": false,
+        "note": "Omlouváme se, 11.8.2026 bude posunutá ordinační doba  - MUDr. Kotyzová bude ordinovat od 9:30 do 14:00 hod.",
+        "_id": "6a43b4dc41846b037da48dc1"
       }
     ],
     "nurse": "Eva Zelená",
