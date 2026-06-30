@@ -190,7 +190,48 @@
         "note": ""
       }
     },
-    "irregular_changes": [],
+    "irregular_changes": [
+      {
+        "day": {
+          "m_o": "0700",
+          "a_c": "1400"
+        },
+        "date": "07072026",
+        "closed": false,
+        "note": "Omlouváme se, od 7.7. do 10.07.2026 bude ordinace z důvodu dovolené uzavřena. Zástup zajišťuje MUDr. Dufek ve Vilémově, od 7:00-12:00 hod.",
+        "_id": "6a43a9a241846b037da46fb5"
+      },
+      {
+        "day": {
+          "m_o": "0700",
+          "a_c": "1400"
+        },
+        "date": "08072026",
+        "closed": false,
+        "note": "Omlouváme se, od 7.7. do 10.07.2026 bude ordinace z důvodu dovolené uzavřena. Zástup zajišťuje MUDr. Dufek ve Vilémově, od 7:00-12:00 hod.",
+        "_id": "6a43a9a241846b037da46fb6"
+      },
+      {
+        "day": {
+          "m_o": "0700",
+          "a_c": "1400"
+        },
+        "date": "09072026",
+        "closed": false,
+        "note": "Omlouváme se, od 7.7. do 10.07.2026 bude ordinace z důvodu dovolené uzavřena. Zástup zajišťuje MUDr. Dufek ve Vilémově, od 7:00-12:00 hod.",
+        "_id": "6a43a9a241846b037da46fb7"
+      },
+      {
+        "day": {
+          "m_o": "0700",
+          "a_c": "1400"
+        },
+        "date": "10072026",
+        "closed": false,
+        "note": "Omlouváme se, od 7.7. do 10.07.2026 bude ordinace z důvodu dovolené uzavřena. Zástup zajišťuje MUDr. Dufek ve Vilémově, od 7:00-12:00 hod.",
+        "_id": "6a43a9a241846b037da46fb8"
+      }
+    ],
     "nurse": "",
     "phone": "",
     "email": "",
