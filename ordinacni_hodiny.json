@@ -3560,6 +3560,16 @@
         "closed": false,
         "note": "Omlouváme se, dnes se z provozních důvodů neordinuje. Děkujeme za pochopení",
         "_id": "6a43a62741846b037da4622e"
+      },
+      {
+        "day": {
+          "m_o": "0700",
+          "a_c": "1400"
+        },
+        "date": "03072026",
+        "closed": false,
+        "note": "Omlouváme se, dnes se z provozních důvodů neordinuje. Děkujeme za pochopení",
+        "_id": "6a43aa5f41846b037da47387"
       }
     ],
     "nurse": "Eva Dvořáková, Dis",
