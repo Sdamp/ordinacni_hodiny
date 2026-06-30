@@ -190,18 +190,7 @@
         "note": ""
       }
     },
-    "irregular_changes": [
-      {
-        "day": {
-          "m_o": "0700",
-          "a_c": "1400"
-        },
-        "date": "29062026",
-        "closed": false,
-        "note": "Omlouváme se, dnes se z provozních důvodů neordinuje. Děkujeme za pochopení",
-        "_id": "6a425cc641846b037da44d9a"
-      }
-    ],
+    "irregular_changes": [],
     "nurse": "",
     "phone": "",
     "email": "",
@@ -1491,16 +1480,6 @@
       }
     },
     "irregular_changes": [
-      {
-        "day": {
-          "m_o": "0630",
-          "a_c": "1630"
-        },
-        "date": "29062026",
-        "closed": false,
-        "note": "Omlouváme se, v tento termín nebude přítomen lékař - MUDr. Králová. V ordinaci bude přítomná zdravotní sestra.",
-        "_id": "6a42428a41846b037da3e7d8"
-      },
       {
         "day": {
           "m_o": "0630",
@@ -3530,7 +3509,18 @@
         "note": ""
       }
     },
-    "irregular_changes": [],
+    "irregular_changes": [
+      {
+        "day": {
+          "m_o": "0700",
+          "a_c": "1400"
+        },
+        "date": "02072026",
+        "closed": false,
+        "note": "Omlouváme se, dnes se z provozních důvodů neordinuje. Děkujeme za pochopení",
+        "_id": "6a43a62741846b037da4622e"
+      }
+    ],
     "nurse": "Eva Dvořáková, Dis",
     "phone": "",
     "email": "podiachotebor@sdamp.cz",
@@ -4075,16 +4065,6 @@
       }
     },
     "irregular_changes": [
-      {
-        "day": {
-          "m_o": "0600",
-          "a_c": "1500"
-        },
-        "date": "29062026",
-        "closed": false,
-        "note": "Omlouváme se, v období od 22.6.2026 do 3.7.2026 na denzitometrii neordinujeme.",
-        "_id": "6a423f8441846b037da3c6be"
-      },
       {
         "day": {
           "m_o": "0600",
@@ -4664,16 +4644,6 @@
         "closed": false,
         "note": "Omlouváme se, v tento termín nebude přítomen lékař - MUDr. Turínský. V ordinaci bude přítomná zdravotní sestra.",
         "_id": "6a4255ab41846b037da42172"
-      },
-      {
-        "day": {
-          "m_o": "0600",
-          "a_c": "1200"
-        },
-        "date": "29062026",
-        "closed": false,
-        "note": "Omlouváme se, v tento termín nebude přítomen lékař - MUDr. Zvolánková. V ordinaci bude přítomná zdravotní sestra.",
-        "_id": "6a425de641846b037da451fa"
       },
       {
         "day": {
