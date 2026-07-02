@@ -4917,5 +4917,26 @@
       "#000000",
       "#FFFFFF"
     ]
+  },
+  {
+    "town": "Chotěboř-Poliklinika",
+    "office": "Fyzioterapie 2",
+    "regular_hours": {
+      "mon": {},
+      "tue": {},
+      "wed": {},
+      "thu": {},
+      "fri": {},
+      "sat": {},
+      "sun": {}
+    },
+    "irregular_changes": [],
+    "nurse": "Martina Topinková DiS.",
+    "phone": "608 454 336",
+    "email": "fyziochotebor@sdamp.cz",
+    "color": [
+      "#000000",
+      "#FFFFFF"
+    ]
   }
 ]
