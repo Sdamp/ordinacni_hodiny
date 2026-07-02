@@ -4922,13 +4922,55 @@
     "town": "Chotěboř-Poliklinika",
     "office": "Fyzioterapie 2",
     "regular_hours": {
-      "mon": {},
-      "tue": {},
-      "wed": {},
-      "thu": {},
-      "fri": {},
-      "sat": {},
-      "sun": {}
+      "mon": {
+        "m_o": "0615",
+        "m_c": "1200",
+        "a_o": "1230",
+        "a_c": "1445",
+        "note": ""
+      },
+      "tue": {
+        "m_o": "0615",
+        "m_c": "1200",
+        "a_o": "1230",
+        "a_c": "1715",
+        "note": ""
+      },
+      "wed": {
+        "m_o": "0615",
+        "m_c": "1200",
+        "a_o": "1230",
+        "a_c": "1545",
+        "note": ""
+      },
+      "thu": {
+        "m_o": "0615",
+        "m_c": "1200",
+        "a_o": "1230",
+        "a_c": "1345",
+        "note": ""
+      },
+      "fri": {
+        "m_o": "0615",
+        "m_c": "",
+        "a_o": "",
+        "a_c": "1145",
+        "note": ""
+      },
+      "sat": {
+        "m_o": "",
+        "m_c": "",
+        "a_o": "",
+        "a_c": "",
+        "note": ""
+      },
+      "sun": {
+        "m_o": "",
+        "m_c": "",
+        "a_o": "",
+        "a_c": "",
+        "note": ""
+      }
     },
     "irregular_changes": [],
     "nurse": "Martina Topinková DiS.",
