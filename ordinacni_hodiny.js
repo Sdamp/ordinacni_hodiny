@@ -59,6 +59,25 @@ async function loadData() {
       currHtml += `<p style="margin-bottom: 12px; font-size: 16px; border-bottom: 2px solid #ccc; padding-bottom: 4px; text-align: center;">Příjem pacientů končí 30 minut<br>před koncem ordinační doby.</p>`;
     }
 
+    if (matchedRecord.note) {
+      currHtml += `
+        <div style="
+          margin-bottom: 12px;
+          padding: 12px 14px;
+          background-color: #f8f8f8;
+          border-left: 4px solid ${bgColor};
+          border-radius: 6px;
+          font-size: 14px;
+          line-height: 1.45;
+          color: #444;
+          white-space: pre-wrap;
+        ">
+          <strong style="display: block; margin-bottom: 4px; color: #222;">Poznámka ordinace</strong>
+          ${matchedRecord.note}
+        </div>
+      `;
+    }
+
     // Nejdřív zobraz aktuální změny
     const futureChanges = (matchedRecord.irregular_changes || [])
       .filter(change => isFutureDate(change.date))

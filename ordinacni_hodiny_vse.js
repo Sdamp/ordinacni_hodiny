@@ -64,6 +64,22 @@ async function loadData() {
         html += `<div style="margin-bottom: 5px; margin-left: 10px;">`;
         html += `<strong style="border-bottom: 2px solid; color: ${textColor}">${office}</strong> <div style="margin: 10px;">`;
         const record = jsonData.find(item => item.town === town && item.office === office);
+        if (record?.note) {
+          html += `<div style="
+              margin-bottom: 10px;
+              padding: 10px 12px;
+              background-color: rgba(255, 255, 255, 0.35);
+              border-left: 4px solid ${textColor};
+              border-radius: 6px;
+              font-size: 14px;
+              line-height: 1.45;
+              color: ${textColor};
+              white-space: pre-wrap;
+          ">
+              <strong style="display: block; margin-bottom: 4px;">Poznámka ordinace</strong>
+              ${record.note}
+          </div>`;
+        }
         if (!record || !record.irregular_changes || Object.keys(record.irregular_changes).length === 0) {
           html += `<p><em>Aktuálně beze změn</em></p>`;
         } else {
