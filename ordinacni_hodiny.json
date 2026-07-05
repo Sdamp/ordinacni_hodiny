@@ -467,26 +467,6 @@
           "m_o": "0700",
           "a_c": "1530"
         },
-        "date": "02072026",
-        "closed": false,
-        "note": "Omlouváme se, v červenci ordinuje MUDr. Mgr. Špitálníková Ph.D. pouze ve dnech 10.7. a 17.7. V ostatní dny, od 30.6. do 28.7. bude ordinace z důvodu dovolené uzavřena.",
-        "_id": "6a425ba441846b037da44588"
-      },
-      {
-        "day": {
-          "m_o": "0700",
-          "a_c": "1530"
-        },
-        "date": "04072026",
-        "closed": false,
-        "note": "Omlouváme se, v červenci ordinuje MUDr. Mgr. Špitálníková Ph.D. pouze ve dnech 10.7. a 17.7. V ostatní dny, od 30.6. do 28.7. bude ordinace z důvodu dovolené uzavřena.",
-        "_id": "6a425ba441846b037da44589"
-      },
-      {
-        "day": {
-          "m_o": "0700",
-          "a_c": "1530"
-        },
         "date": "05072026",
         "closed": false,
         "note": "Omlouváme se, v červenci ordinuje MUDr. Mgr. Špitálníková Ph.D. pouze ve dnech 10.7. a 17.7. V ostatní dny, od 30.6. do 28.7. bude ordinace z důvodu dovolené uzavřena.",
@@ -776,26 +756,6 @@
       }
     },
     "irregular_changes": [
-      {
-        "day": {
-          "m_o": "0700",
-          "a_c": "1530"
-        },
-        "date": "02072026",
-        "closed": false,
-        "note": "Omlouváme se, v červenci ordinuje MUDr. Mgr. Špitálníková Ph.D. pouze ve dnech 10.7. a 17.7. V ostatní dny, od 30.6. do 28.7. bude ordinace z důvodu dovolené uzavřena.",
-        "_id": "6a425adb41846b037da43b80"
-      },
-      {
-        "day": {
-          "m_o": "0700",
-          "a_c": "1530"
-        },
-        "date": "04072026",
-        "closed": false,
-        "note": "Omlouváme se, v červenci ordinuje MUDr. Mgr. Špitálníková Ph.D. pouze ve dnech 10.7. a 17.7. V ostatní dny, od 30.6. do 28.7. bude ordinace z důvodu dovolené uzavřena.",
-        "_id": "6a425adb41846b037da43b81"
-      },
       {
         "day": {
           "m_o": "0700",
@@ -1152,18 +1112,7 @@
         "note": ""
       }
     },
-    "irregular_changes": [
-      {
-        "day": {
-          "m_o": "0700",
-          "a_c": "1000"
-        },
-        "date": "03072026",
-        "closed": false,
-        "note": "Omlouváme se, v tento termín nebude přítomen lékař - MUDr. Turínský.",
-        "_id": "6a4255f841846b037da4254c"
-      }
-    ],
+    "irregular_changes": [],
     "nurse": "Markéta Špitálníková",
     "phone": "+420 910 444 688",
     "email": "endochotebor@sdamp.cz",
@@ -1226,18 +1175,7 @@
         "note": ""
       }
     },
-    "irregular_changes": [
-      {
-        "day": {
-          "m_o": "0700",
-          "a_c": "1300"
-        },
-        "date": "03072026",
-        "closed": false,
-        "note": "Omlouváme se, dnes se z provozních důvodů neordinuje. Děkujeme za pochopení",
-        "_id": "6a43ab4f41846b037da4785d"
-      }
-    ],
+    "irregular_changes": [],
     "nurse": "Eva Dvořáková, Dis",
     "phone": "+420 910 444 689",
     "email": "osteochotebor@sdamp.cz",
@@ -1300,18 +1238,7 @@
         "note": ""
       }
     },
-    "irregular_changes": [
-      {
-        "day": {
-          "m_o": "0700",
-          "a_c": "1000"
-        },
-        "date": "03072026",
-        "closed": false,
-        "note": "Omlouváme se, v tento termín nebude přítomen lékař - MUDr. Turínský.",
-        "_id": "6a4255f841846b037da42568"
-      }
-    ],
+    "irregular_changes": [],
     "nurse": "Markéta Špitálníková",
     "phone": "+420 910 444 688",
     "email": "endochotebor@sdamp.cz",
@@ -1476,7 +1403,7 @@
         "m_c": "1130",
         "a_o": "1200",
         "a_c": "1300",
-        "note": ""
+        "note": "sestra v ordinaci"
       },
       "fri": {
         "m_o": "0630",
@@ -1501,36 +1428,6 @@
       }
     },
     "irregular_changes": [
-      {
-        "day": {
-          "m_o": "0630",
-          "a_c": "1500"
-        },
-        "date": "02072026",
-        "closed": false,
-        "note": "MUDr. Králová ordinuje každé PO, ÚT, PÁ. Ve ČT je v ordinaci přítomná zdr. sestra. Ve ST ve v ordinaci v Chotěboři neordinuje, zdr. sestra je přítomná v ambulanci na Poliklinice v Hlinsku",
-        "_id": "6a0d7838b8121f9084383107"
-      },
-      {
-        "day": {
-          "m_o": "0630",
-          "a_c": "1500"
-        },
-        "date": "03072026",
-        "closed": false,
-        "note": "MUDr. Králová ordinuje každé PO, ÚT, PÁ. Ve ČT je v ordinaci přítomná zdr. sestra. Ve ST ve v ordinaci v Chotěboři neordinuje, zdr. sestra je přítomná v ambulanci na Poliklinice v Hlinsku",
-        "_id": "6a0d7838b8121f9084383108"
-      },
-      {
-        "day": {
-          "m_o": "0630",
-          "a_c": "1500"
-        },
-        "date": "04072026",
-        "closed": false,
-        "note": "MUDr. Králová ordinuje každé PO, ÚT, PÁ. Ve ČT je v ordinaci přítomná zdr. sestra. Ve ST ve v ordinaci v Chotěboři neordinuje, zdr. sestra je přítomná v ambulanci na Poliklinice v Hlinsku",
-        "_id": "6a0d7838b8121f9084383109"
-      },
       {
         "day": {
           "m_o": "0630",
@@ -3510,28 +3407,7 @@
         "note": ""
       }
     },
-    "irregular_changes": [
-      {
-        "day": {
-          "m_o": "0700",
-          "a_c": "1400"
-        },
-        "date": "02072026",
-        "closed": false,
-        "note": "Omlouváme se, dnes se z provozních důvodů neordinuje. Děkujeme za pochopení",
-        "_id": "6a43a62741846b037da4622e"
-      },
-      {
-        "day": {
-          "m_o": "0700",
-          "a_c": "1400"
-        },
-        "date": "03072026",
-        "closed": false,
-        "note": "Omlouváme se, dnes se z provozních důvodů neordinuje. Děkujeme za pochopení",
-        "_id": "6a43aa5f41846b037da47387"
-      }
-    ],
+    "irregular_changes": [],
     "nurse": "Eva Dvořáková, Dis",
     "phone": "",
     "email": "podiachotebor@sdamp.cz",
@@ -3761,16 +3637,6 @@
         "closed": false,
         "note": "Omlouváme se v tomto termínu nebude v ordinaci lékař: MUDr. Mgr. Špitálníková Ph.D - DOVOLENÁ. Zástup MUDr. Pavlišová Kateřina 08:00-12:00. V ordinaci bude přítomná zdravotní sestra.",
         "_id": "6a42517341846b037da412f0"
-      },
-      {
-        "day": {
-          "m_o": "0700",
-          "a_c": "1500"
-        },
-        "date": "02072026",
-        "closed": false,
-        "note": "Omlouváme se, v tento termín nebude přítomen lékař - MUDr. Hradec. V ordinaci bude přítomná zdravotní sestra.",
-        "_id": "6a42526041846b037da4168f"
       }
     ],
     "nurse": "Martina Piskačová",
@@ -3845,16 +3711,6 @@
         "closed": false,
         "note": "Omlouváme se, v tento termín nebude přítomen lékař - MUDr. Zvolánková. V ordinaci bude přítomná zdravotní sestra.",
         "_id": "6a424f9641846b037da40f01"
-      },
-      {
-        "day": {
-          "m_o": "0700",
-          "a_c": "1500"
-        },
-        "date": "02072026",
-        "closed": false,
-        "note": "Omlouváme se, v tento termín nebude přítomen lékař - MUDr. Hradec. V ordinaci bude přítomná zdravotní sestra.",
-        "_id": "6a42526041846b037da416a7"
       }
     ],
     "nurse": null,
@@ -4045,28 +3901,7 @@
         "note": ""
       }
     },
-    "irregular_changes": [
-      {
-        "day": {
-          "m_o": "0600",
-          "a_c": "1500"
-        },
-        "date": "02072026",
-        "closed": false,
-        "note": "Omlouváme se, v období od 22.6.2026 do 3.7.2026 na denzitometrii neordinujeme.",
-        "_id": "6a423f8441846b037da3c6c1"
-      },
-      {
-        "day": {
-          "m_o": "0600",
-          "a_c": "1500"
-        },
-        "date": "03072026",
-        "closed": false,
-        "note": "Omlouváme se, v období od 22.6.2026 do 3.7.2026 na denzitometrii neordinujeme.",
-        "_id": "6a423f8441846b037da3c6c2"
-      }
-    ],
+    "irregular_changes": [],
     "nurse": "Jana Bílá",
     "phone": "+420 910 444 695",
     "email": "osteohlinsko@sdamp.cz",
@@ -4596,16 +4431,6 @@
       }
     },
     "irregular_changes": [
-      {
-        "day": {
-          "m_o": "1100",
-          "a_c": "1300"
-        },
-        "date": "03072026",
-        "closed": false,
-        "note": "Omlouváme se, v tento termín nebude přítomen lékař - MUDr. Turínský. V ordinaci bude přítomná zdravotní sestra.",
-        "_id": "6a4255ab41846b037da42172"
-      },
       {
         "day": {
           "m_o": "1600",
