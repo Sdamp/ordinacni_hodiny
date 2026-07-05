@@ -57,6 +57,7 @@
     "nurse": "Markéta Špitálníková",
     "phone": "+420 910 444 688",
     "email": "nefrochotebor@sdamp.cz",
+    "note": "",
     "color": [
       "#d75d9e",
       "#000000"
@@ -120,6 +121,7 @@
     "nurse": "",
     "phone": "",
     "email": "",
+    "note": "",
     "color": [
       "#d75d9e",
       "#000000"
@@ -224,6 +226,7 @@
     "nurse": "",
     "phone": "",
     "email": "",
+    "note": "",
     "color": [
       "#ffdc57",
       "#000000"
@@ -287,6 +290,7 @@
     "nurse": "Jaroslava Černíková",
     "phone": "+420 910 444 698, +420 569 333 548",
     "email": "diapra@sdamp.cz",
+    "note": "",
     "color": [
       "#009d7b",
       "#ffffff"
@@ -381,6 +385,7 @@
     "nurse": "Jaroslava Černíková",
     "phone": "+420 910444688, +420 910 444 698, +420 569 333 548",
     "email": "endochotebor@sdamp.cz",
+    "note": "",
     "color": [
       "#009d7b",
       "#ffffff"
@@ -402,6 +407,7 @@
     "nurse": "Mgr. Dana Šamořilová",
     "phone": "+420 910 444 699",
     "email": "sportlekchotebor@sdamp.cz",
+    "note": "",
     "color": [
       "#009d7b",
       "#ffffff"
@@ -574,6 +580,7 @@
     "nurse": "Vendulka Beranová",
     "phone": "+420 910 444 697",
     "email": "endokolin@sdamp.cz",
+    "note": "",
     "color": [
       "#ff6900",
       "#000000"
@@ -740,6 +747,7 @@
     "nurse": "Vendulka Beranová",
     "phone": "+420 910 444 697",
     "email": "endokolin@sdamp.cz",
+    "note": "",
     "color": [
       "#ff6900",
       "#000000"
@@ -803,6 +811,7 @@
     "nurse": "Mgr. Karolína Kotková",
     "phone": "+420 733 650 764, +420 910 444 643",
     "email": "nutrikolin@sdamp.cz",
+    "note": "",
     "color": [
       "#ff6900",
       "#000000"
@@ -866,6 +875,7 @@
     "nurse": "Markéta Špitálníková",
     "phone": "+420 910 444 688",
     "email": "endochotebor@sdamp.cz",
+    "note": "",
     "color": [
       "#d75d9e",
       "#000000"
@@ -929,6 +939,7 @@
     "nurse": "Eva Dvořáková, Dis",
     "phone": "+420 910 444 689",
     "email": "osteochotebor@sdamp.cz",
+    "note": "",
     "color": [
       "#d75d9e",
       "#000000"
@@ -992,6 +1003,7 @@
     "nurse": "Markéta Špitálníková",
     "phone": "+420 910 444 688",
     "email": "endochotebor@sdamp.cz",
+    "note": "",
     "color": [
       "#d75d9e",
       "#000000"
@@ -1055,6 +1067,7 @@
     "nurse": "Mgr. Lucie Pradáčová",
     "phone": "+420 910 444 691, +420 910 444 699",
     "email": "sportlekchotebor@sdamp.cz",
+    "note": "",
     "color": [
       "#d75d9e",
       "#000000"
@@ -1118,6 +1131,7 @@
     "nurse": "Eva Dvořáková, Dis",
     "phone": "+420 910 444 689",
     "email": "kardiochotebor@sdamp.cz",
+    "note": "",
     "color": [
       "#d75d9e",
       "#000000"
@@ -1181,6 +1195,7 @@
     "nurse": "Pavla Málková",
     "phone": "+420 910 444 692",
     "email": "neurochotebor@sdamp.cz",
+    "note": "",
     "color": [
       "#d75d9e",
       "#000000"
@@ -1244,6 +1259,7 @@
     "nurse": "Bc. Kateřina Bílková",
     "phone": "+420 733 650 679",
     "email": "nutri@sdamp.cz",
+    "note": "",
     "color": [
       "#d75d9e",
       "#000000"
@@ -1307,6 +1323,7 @@
     "nurse": "Bc. Kateřina Bílková",
     "phone": "+420 910 444 688",
     "email": "endochotebor@sdamp.cz",
+    "note": "",
     "color": [
       "#d75d9e",
       "#000000"
@@ -1370,6 +1387,7 @@
     "nurse": "Eva Dvořáková, Dis",
     "phone": "",
     "email": "podiachotebor@sdamp.cz",
+    "note": "",
     "color": [
       "#d75d9e",
       "#000000"
@@ -1433,6 +1451,7 @@
     "nurse": "MUDr. Petronela Vahalíková",
     "phone": "+420 604 501 348",
     "email": "",
+    "note": "",
     "color": [
       "#d75d9e",
       "#000000"
@@ -1517,6 +1536,7 @@
     "nurse": "Martina Piskačová",
     "phone": "+420 910 444 694",
     "email": "endohlinsko@sdamp.cz",
+    "note": "",
     "color": [
       "#01bbff",
       "#000000"
@@ -1601,6 +1621,7 @@
     "nurse": "Martina Piskačová",
     "phone": "+420 910 444 694",
     "email": "endohlinsko@sdamp.cz",
+    "note": "",
     "color": [
       "#01bbff",
       "#000000"
@@ -1675,6 +1696,7 @@
     "nurse": null,
     "phone": "+420 910 444 694",
     "email": "endohlinsko@sdamp.cz",
+    "note": "",
     "color": [
       "#01bbff",
       "#000000"
@@ -1738,6 +1760,7 @@
     "nurse": "Bc. Kateřina Bílková",
     "phone": "+420 793 943 934, +420 910 444 644",
     "email": "nutrihlinsko@sdamp.cu",
+    "note": "",
     "color": [
       "#01bbff",
       "#000000"
@@ -1801,6 +1824,7 @@
     "nurse": "",
     "phone": "+420 910 444 695",
     "email": "ockovanihlinsko@sdamp.cz",
+    "note": "",
     "color": [
       "#01bbff",
       "#000000"
@@ -1864,6 +1888,7 @@
     "nurse": "Jana Bílá",
     "phone": "+420 910 444 695",
     "email": "osteohlinsko@sdamp.cz",
+    "note": "",
     "color": [
       "#01bbff",
       "#000000"
@@ -1927,6 +1952,7 @@
     "nurse": "Jana Bílá",
     "phone": null,
     "email": "pedikurahlinsko@sdamp.cz",
+    "note": "",
     "color": [
       "#01bbff",
       "#000000"
@@ -1990,6 +2016,7 @@
     "nurse": "MUDr. Petronela Vahalíková",
     "phone": "+420 604 501 348",
     "email": "psychhlinsko@sdamp.cz",
+    "note": "",
     "color": [
       "#01bbff",
       "#000000"
@@ -2053,6 +2080,7 @@
     "nurse": null,
     "phone": "+420 910 444 694",
     "email": "endohlinsko@sdamp.cz",
+    "note": "Oznamujeme, že od 27.7. do 18.8.2026 zastupujeme v naší ordinaci MUDr. Kateřinu Pavlišovou, Adámkova tř. 149, 539 01 Hlinsko.",
     "color": [
       "#01bbff",
       "#000000"
@@ -2116,6 +2144,7 @@
     "nurse": "",
     "phone": "",
     "email": "",
+    "note": "",
     "color": [
       "#00bbff",
       "#ffffff"
@@ -2179,6 +2208,7 @@
     "nurse": null,
     "phone": "733 645 602",
     "email": null,
+    "note": "",
     "color": [
       "#d75d9e",
       "#000000"
@@ -2273,6 +2303,7 @@
     "nurse": "Eva Zelená",
     "phone": "+420 569 697 123",
     "email": "vplkrucemburk@sdamp.cz",
+    "note": "",
     "color": [
       "#a217ed",
       "#ffffff"
@@ -2336,6 +2367,7 @@
     "nurse": null,
     "phone": null,
     "email": null,
+    "note": "",
     "color": [
       "#d75d9e",
       "#000000"
@@ -2399,6 +2431,7 @@
     "nurse": "",
     "phone": "",
     "email": "endobrod@sdamp.cz",
+    "note": "",
     "color": [
       "#f90419",
       "#ffffff"
@@ -2462,6 +2495,7 @@
     "nurse": null,
     "phone": null,
     "email": null,
+    "note": "",
     "color": [
       "#f90419",
       "#ffffff"
@@ -2483,6 +2517,7 @@
     "nurse": null,
     "phone": null,
     "email": null,
+    "note": "",
     "color": [
       "#000000",
       "#FFFFFF"
@@ -2546,6 +2581,7 @@
     "nurse": "Mgr. Dana Šamořilová",
     "phone": "+420 910 444 699",
     "email": "sportlekchotebor@sdamp.cz",
+    "note": "",
     "color": [
       "#009d7b",
       "#ffffff"
@@ -2609,6 +2645,7 @@
     "nurse": "Martina Topinková DiS.",
     "phone": "608 454 336",
     "email": "fyziochotebor@sdamp.cz",
+    "note": "",
     "color": [
       "#009d7b",
       "#ffffff"
