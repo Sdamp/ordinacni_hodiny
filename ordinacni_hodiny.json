@@ -181,48 +181,7 @@
         "note": ""
       }
     },
-    "irregular_changes": [
-      {
-        "day": {
-          "m_o": "0700",
-          "a_c": "1400"
-        },
-        "date": "07072026",
-        "closed": false,
-        "note": "Omlouváme se, od 7.7. do 10.07.2026 bude ordinace z důvodu dovolené uzavřena. Zástup zajišťuje MUDr. Dufek ve Vilémově, od 7:00-12:00 hod.",
-        "_id": "6a43a9a241846b037da46fb5"
-      },
-      {
-        "day": {
-          "m_o": "0700",
-          "a_c": "1400"
-        },
-        "date": "08072026",
-        "closed": false,
-        "note": "Omlouváme se, od 7.7. do 10.07.2026 bude ordinace z důvodu dovolené uzavřena. Zástup zajišťuje MUDr. Dufek ve Vilémově, od 7:00-12:00 hod.",
-        "_id": "6a43a9a241846b037da46fb6"
-      },
-      {
-        "day": {
-          "m_o": "0700",
-          "a_c": "1400"
-        },
-        "date": "09072026",
-        "closed": false,
-        "note": "Omlouváme se, od 7.7. do 10.07.2026 bude ordinace z důvodu dovolené uzavřena. Zástup zajišťuje MUDr. Dufek ve Vilémově, od 7:00-12:00 hod.",
-        "_id": "6a43a9a241846b037da46fb7"
-      },
-      {
-        "day": {
-          "m_o": "0700",
-          "a_c": "1400"
-        },
-        "date": "10072026",
-        "closed": false,
-        "note": "Omlouváme se, od 7.7. do 10.07.2026 bude ordinace z důvodu dovolené uzavřena. Zástup zajišťuje MUDr. Dufek ve Vilémově, od 7:00-12:00 hod.",
-        "_id": "6a43a9a241846b037da46fb8"
-      }
-    ],
+    "irregular_changes": [],
     "nurse": "",
     "phone": "",
     "email": "",
@@ -350,38 +309,7 @@
         "note": ""
       }
     },
-    "irregular_changes": [
-      {
-        "day": {
-          "m_o": "0700",
-          "a_c": "1400"
-        },
-        "date": "07072026",
-        "closed": false,
-        "note": "Omlouváme se, od 7.7. do 9.7.2026 nebude MUDr. Mgr. Špitálníková Ph.D. ordinovat.  V úterý 7.7. je zajištěn zástup v ord. prakt. lékaře na Poliklinice, 15:00-17:00 MUDr. Doležalová. Ve ST 8.7. a ČT 9.7. je zajištěn zástup u MUDr. Krulíkové v M-Centru Chotěboř. V ordinaci bude přítomná zdravotní sestra.",
-        "_id": "6a43b19d41846b037da482ba"
-      },
-      {
-        "day": {
-          "m_o": "0700",
-          "a_c": "1400"
-        },
-        "date": "08072026",
-        "closed": false,
-        "note": "Omlouváme se, od 7.7. do 9.7.2026 nebude MUDr. Mgr. Špitálníková Ph.D. ordinovat.  V úterý 7.7. je zajištěn zástup v ord. prakt. lékaře na Poliklinice, 15:00-17:00 MUDr. Doležalová. Ve ST 8.7. a ČT 9.7. je zajištěn zástup u MUDr. Krulíkové v M-Centru Chotěboř. V ordinaci bude přítomná zdravotní sestra.",
-        "_id": "6a43b1a941846b037da48625"
-      },
-      {
-        "day": {
-          "m_o": "0700",
-          "a_c": "1400"
-        },
-        "date": "09072026",
-        "closed": false,
-        "note": "Omlouváme se, od 7.7. do 9.7.2026 nebude MUDr. Mgr. Špitálníková Ph.D. ordinovat.  V úterý 7.7. je zajištěn zástup v ord. prakt. lékaře na Poliklinice, 15:00-17:00 MUDr. Doležalová. Ve ST 8.7. a ČT 9.7. je zajištěn zástup u MUDr. Krulíkové v M-Centru Chotěboř. V ordinaci bude přítomná zdravotní sestra.",
-        "_id": "6a43b1b741846b037da48990"
-      }
-    ],
+    "irregular_changes": [],
     "nurse": "Jaroslava Černíková",
     "phone": "+420 910444688, +420 910 444 698, +420 569 333 548",
     "email": "endochotebor@sdamp.cz",
@@ -468,54 +396,6 @@
       }
     },
     "irregular_changes": [
-      {
-        "date": "05072026",
-        "closed": true,
-        "note": "",
-        "_id": "6a4a4fda93b8f1f5ed2b8334"
-      },
-      {
-        "date": "06072026",
-        "closed": true,
-        "note": "",
-        "_id": "6a4a4fda93b8f1f5ed2b8335"
-      },
-      {
-        "date": "07072026",
-        "closed": true,
-        "note": "",
-        "_id": "6a4a4fda93b8f1f5ed2b8336"
-      },
-      {
-        "date": "08072026",
-        "closed": true,
-        "note": "",
-        "_id": "6a4a4fda93b8f1f5ed2b8337"
-      },
-      {
-        "date": "09072026",
-        "closed": true,
-        "note": "",
-        "_id": "6a4a4fda93b8f1f5ed2b8338"
-      },
-      {
-        "date": "13072026",
-        "closed": true,
-        "note": "",
-        "_id": "6a4a4ffc93b8f1f5ed2b85da"
-      },
-      {
-        "date": "14072026",
-        "closed": true,
-        "note": "",
-        "_id": "6a4a4ffc93b8f1f5ed2b85db"
-      },
-      {
-        "date": "15072026",
-        "closed": true,
-        "note": "",
-        "_id": "6a4a4ffc93b8f1f5ed2b85dc"
-      },
       {
         "date": "16072026",
         "closed": true,
@@ -641,48 +521,6 @@
       }
     },
     "irregular_changes": [
-      {
-        "date": "06072026",
-        "closed": true,
-        "note": "",
-        "_id": "6a4a504093b8f1f5ed2b8de2"
-      },
-      {
-        "date": "07072026",
-        "closed": true,
-        "note": "",
-        "_id": "6a4a504093b8f1f5ed2b8de3"
-      },
-      {
-        "date": "08072026",
-        "closed": true,
-        "note": "",
-        "_id": "6a4a504093b8f1f5ed2b8de4"
-      },
-      {
-        "date": "09072026",
-        "closed": true,
-        "note": "",
-        "_id": "6a4a504093b8f1f5ed2b8de5"
-      },
-      {
-        "date": "13072026",
-        "closed": true,
-        "note": "",
-        "_id": "6a4a504a93b8f1f5ed2b9080"
-      },
-      {
-        "date": "14072026",
-        "closed": true,
-        "note": "",
-        "_id": "6a4a504a93b8f1f5ed2b9081"
-      },
-      {
-        "date": "15072026",
-        "closed": true,
-        "note": "",
-        "_id": "6a4a504a93b8f1f5ed2b9082"
-      },
       {
         "date": "16072026",
         "closed": true,
@@ -1511,28 +1349,7 @@
         "note": ""
       }
     },
-    "irregular_changes": [
-      {
-        "day": {
-          "m_o": "0800",
-          "a_c": "1200"
-        },
-        "date": "07072026",
-        "closed": false,
-        "note": "Omlouváme se, v tento termín nebude přítomen lékař - MUDr. Zvolánková. V ordinaci bude přítomná zdravotní sestra.",
-        "_id": "6a424f9641846b037da40ece"
-      },
-      {
-        "day": {
-          "m_o": "1300",
-          "a_c": "1900"
-        },
-        "date": "08072026",
-        "closed": false,
-        "note": "Omlouváme se v tomto termínu nebude v ordinaci lékař: MUDr. Mgr. Špitálníková Ph.D - DOVOLENÁ. Zástup MUDr. Pavlišová Kateřina 08:00-12:00. V ordinaci bude přítomná zdravotní sestra.",
-        "_id": "6a42517341846b037da412d4"
-      }
-    ],
+    "irregular_changes": [],
     "nurse": "Martina Piskačová",
     "phone": "+420 910 444 694",
     "email": "endohlinsko@sdamp.cz",
@@ -1596,28 +1413,7 @@
         "note": ""
       }
     },
-    "irregular_changes": [
-      {
-        "day": {
-          "m_o": "0800",
-          "a_c": "1200"
-        },
-        "date": "07072026",
-        "closed": false,
-        "note": "Omlouváme se, v tento termín nebude přítomen lékař - MUDr. Zvolánková. V ordinaci bude přítomná zdravotní sestra.",
-        "_id": "6a424f9641846b037da40eea"
-      },
-      {
-        "day": {
-          "m_o": "1300",
-          "a_c": "1900"
-        },
-        "date": "08072026",
-        "closed": false,
-        "note": "Omlouváme se v tomto termínu nebude v ordinaci lékař: MUDr. Mgr. Špitálníková Ph.D - DOVOLENÁ. Zástup MUDr. Pavlišová Kateřina 08:00-12:00. V ordinaci bude přítomná zdravotní sestra.",
-        "_id": "6a42517341846b037da412f0"
-      }
-    ],
+    "irregular_changes": [],
     "nurse": "Martina Piskačová",
     "phone": "+420 910 444 694",
     "email": "endohlinsko@sdamp.cz",
@@ -1681,18 +1477,7 @@
         "note": ""
       }
     },
-    "irregular_changes": [
-      {
-        "day": {
-          "m_o": "0800",
-          "a_c": "1200"
-        },
-        "date": "07072026",
-        "closed": false,
-        "note": "Omlouváme se, v tento termín nebude přítomen lékař - MUDr. Zvolánková. V ordinaci bude přítomná zdravotní sestra.",
-        "_id": "6a424f9641846b037da40f01"
-      }
-    ],
+    "irregular_changes": [],
     "nurse": null,
     "phone": "+420 910 444 694",
     "email": "endohlinsko@sdamp.cz",
@@ -2080,7 +1865,7 @@
     "nurse": null,
     "phone": "+420 910 444 694",
     "email": "endohlinsko@sdamp.cz",
-    "note": "Oznamujeme, že od 27.7. do 18.8.2026 zastupujeme v naší ordinaci MUDr. Kateřinu Pavlišovou, Adámkova tř. 149, 539 01 Hlinsko.",
+    "note": "Oznamujeme, že 28. - 29. 7. a 3. - 6. 8.  zastupujeme v naší ordinaci MUDr. Kateřinu Pavlišovou, Adámkova tř. 149, 539 01 Hlinsko.",
     "color": [
       "#01bbff",
       "#000000"
@@ -2269,16 +2054,6 @@
       }
     },
     "irregular_changes": [
-      {
-        "day": {
-          "m_o": "1600",
-          "a_c": "1800"
-        },
-        "date": "08072026",
-        "closed": false,
-        "note": "Omlouváme se, v tento termín nebude přítomen lékař - MUDr. Zvolánková. V ordinaci bude přítomná zdravotní sestra.",
-        "_id": "6a425e6541846b037da45a6e"
-      },
       {
         "day": {
           "m_o": "0930",
