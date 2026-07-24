@@ -397,36 +397,6 @@
     },
     "irregular_changes": [
       {
-        "date": "16072026",
-        "closed": true,
-        "note": "",
-        "_id": "6a4a4ffc93b8f1f5ed2b85dd"
-      },
-      {
-        "date": "20072026",
-        "closed": true,
-        "note": "",
-        "_id": "6a4a500e93b8f1f5ed2b8887"
-      },
-      {
-        "date": "21072026",
-        "closed": true,
-        "note": "",
-        "_id": "6a4a500e93b8f1f5ed2b8888"
-      },
-      {
-        "date": "22072026",
-        "closed": true,
-        "note": "",
-        "_id": "6a4a500e93b8f1f5ed2b8889"
-      },
-      {
-        "date": "23072026",
-        "closed": true,
-        "note": "",
-        "_id": "6a4a500e93b8f1f5ed2b888a"
-      },
-      {
         "date": "24072026",
         "closed": true,
         "note": "",
@@ -521,36 +491,6 @@
       }
     },
     "irregular_changes": [
-      {
-        "date": "16072026",
-        "closed": true,
-        "note": "",
-        "_id": "6a4a504a93b8f1f5ed2b9083"
-      },
-      {
-        "date": "20072026",
-        "closed": true,
-        "note": "",
-        "_id": "6a4a505593b8f1f5ed2b9326"
-      },
-      {
-        "date": "21072026",
-        "closed": true,
-        "note": "",
-        "_id": "6a4a505593b8f1f5ed2b9327"
-      },
-      {
-        "date": "22072026",
-        "closed": true,
-        "note": "",
-        "_id": "6a4a505593b8f1f5ed2b9328"
-      },
-      {
-        "date": "23072026",
-        "closed": true,
-        "note": "",
-        "_id": "6a4a505593b8f1f5ed2b9329"
-      },
       {
         "date": "24072026",
         "closed": true,
@@ -2303,38 +2243,38 @@
     "office": "Fyzioterapie 1",
     "regular_hours": {
       "mon": {
-        "m_o": "0615",
-        "m_c": "1200",
-        "a_o": "1230",
-        "a_c": "1445",
+        "m_o": "",
+        "m_c": "",
+        "a_o": "",
+        "a_c": "",
         "note": ""
       },
       "tue": {
-        "m_o": "0615",
-        "m_c": "1200",
-        "a_o": "1230",
-        "a_c": "1715",
+        "m_o": "0630",
+        "m_c": "",
+        "a_o": "",
+        "a_c": "1700",
         "note": ""
       },
       "wed": {
         "m_o": "0615",
-        "m_c": "1200",
-        "a_o": "1230",
-        "a_c": "1545",
+        "m_c": "",
+        "a_o": "",
+        "a_c": "1215",
         "note": ""
       },
       "thu": {
-        "m_o": "0615",
-        "m_c": "1200",
-        "a_o": "1230",
-        "a_c": "1345",
+        "m_o": "0630",
+        "m_c": "",
+        "a_o": "",
+        "a_c": "1700",
         "note": ""
       },
       "fri": {
-        "m_o": "0615",
+        "m_o": "",
         "m_c": "",
         "a_o": "",
-        "a_c": "1145",
+        "a_c": "",
         "note": ""
       },
       "sat": {
