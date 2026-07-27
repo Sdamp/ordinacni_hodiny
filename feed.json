@@ -1,5 +1,5 @@
 {
-  "exportDate": "2026-07-24T20:09:34.086Z",
+  "exportDate": "2026-07-27T06:21:33.424Z",
   "premises": [
     {
       "id": "13770302",
@@ -31,7 +31,7 @@
         "houseNumber": "1851",
         "zip": "58301"
       },
-      "openingHours": "Mo 12:00-16:00; Jul 24 off; Jul 25 off; Jul 26 off; Jul 27 off; Jul 28 off; Jul 29 off; Jul 30 off; Jul 31 off; Aug 1 off; Aug 2 off; Aug 3 off; Aug 4 off; Aug 5 off; Aug 6 off; Aug 7 off; Aug 17 off; Aug 24 off"
+      "openingHours": "Mo 12:00-16:00; Jul 27 off; Jul 28 off; Jul 29 off; Jul 30 off; Jul 31 off; Aug 1 off; Aug 2 off; Aug 3 off; Aug 4 off; Aug 5 off; Aug 6 off; Aug 7 off; Aug 17 off; Aug 24 off"
     },
     {
       "id": "13770044",
@@ -94,7 +94,7 @@
         "houseNumber": "671",
         "zip": "28002"
       },
-      "openingHours": "Tu 07:00-13:00; Th 07:00-13:00; Fr 07:00-15:00; Jul 24 off; Jul 25 off; Jul 26 off; Jul 27 off; Jul 28 off"
+      "openingHours": "Tu 07:00-13:00; Th 07:00-13:00; Fr 07:00-15:00; Jul 27 off; Jul 28 off"
     },
     {
       "id": "13770323",
@@ -110,7 +110,7 @@
         "houseNumber": "671",
         "zip": "28002"
       },
-      "openingHours": "Tu 07:00-13:00; Th 07:00-13:00; Fr 07:00-15:00; Jul 24 off; Jul 25 off; Jul 26 off; Jul 27 off; Jul 28 off"
+      "openingHours": "Tu 07:00-13:00; Th 07:00-13:00; Fr 07:00-15:00; Jul 27 off; Jul 28 off"
     },
     {
       "id": "13770056",
