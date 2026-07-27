@@ -1021,13 +1021,13 @@
     "irregular_changes": [
       {
         "day": {
-          "m_o": "0700",
-          "a_c": "1500"
+          "m_o": "0600",
+          "a_c": "1400"
         },
         "date": "29072026",
         "closed": false,
-        "note": "Neurologie, M-Centrum Chotěboř - zavřeno. Zdr. sestra ordinuje na Poliklinice Hlinsko, Nádražní 458.",
-        "_id": "6a6706d4219801af610497b1"
+        "note": "Omlouváme se, dnes se z provozních důvodů neordinuje - dovolená.",
+        "_id": "6a670cd9219801af6104bcc8"
       },
       {
         "day": {
