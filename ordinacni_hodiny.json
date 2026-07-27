@@ -1058,6 +1058,16 @@
         "closed": false,
         "note": "Neurologie, M-Centrum Chotěboř - zavřeno. Zdr. sestra ordinuje na Poliklinice Hlinsko, Nádražní 458.",
         "_id": "6a670714219801af6104a10f"
+      },
+      {
+        "day": {
+          "m_o": "0700",
+          "a_c": "1500"
+        },
+        "date": "26082026",
+        "closed": false,
+        "note": "Neurologie, M-Centrum Chotěboř - zavřeno. Zdr. sestra ordinuje na Poliklinice Hlinsko, Nádražní 458.",
+        "_id": "6a670725219801af6104a416"
       }
     ],
     "nurse": "Pavla Málková",
