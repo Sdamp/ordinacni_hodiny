@@ -1614,6 +1614,16 @@
         "closed": false,
         "note": "MUDr. Machač-Pullerová - dovolená. Zastupuje MUDr. Pavlišová Hlinsko.",
         "_id": "6a671281219801af6104ecc7"
+      },
+      {
+        "day": {
+          "m_o": "0700",
+          "a_c": "1300"
+        },
+        "date": "27072026",
+        "closed": false,
+        "note": "MUDr. Málek Josef - neordinuje, dovolená. Zástup MUDr. Šauer Filip",
+        "_id": "6a673b19799e35fe751b7e44"
       }
     ],
     "nurse": null,
