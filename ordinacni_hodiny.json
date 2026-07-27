@@ -954,7 +954,63 @@
         "note": ""
       }
     },
-    "irregular_changes": [],
+    "irregular_changes": [
+      {
+        "day": {
+          "m_o": "1300",
+          "a_c": "1900"
+        },
+        "date": "28072026",
+        "groupId": "gms33ejnk13ncm6",
+        "closed": false,
+        "note": "Od 1.7. do 31.8.2026 kardiologie neordinuje.",
+        "_id": "6a6734d7799e35fe751b7749"
+      },
+      {
+        "day": {
+          "m_o": "1300",
+          "a_c": "1900"
+        },
+        "date": "04082026",
+        "groupId": "gms33ejnk13ncm6",
+        "closed": false,
+        "note": "Od 1.7. do 31.8.2026 kardiologie neordinuje.",
+        "_id": "6a6734d7799e35fe751b774a"
+      },
+      {
+        "day": {
+          "m_o": "1300",
+          "a_c": "1900"
+        },
+        "date": "11082026",
+        "groupId": "gms33ejnk13ncm6",
+        "closed": false,
+        "note": "Od 1.7. do 31.8.2026 kardiologie neordinuje.",
+        "_id": "6a6734d7799e35fe751b774b"
+      },
+      {
+        "day": {
+          "m_o": "1300",
+          "a_c": "1900"
+        },
+        "date": "18082026",
+        "groupId": "gms33ejnk13ncm6",
+        "closed": false,
+        "note": "Od 1.7. do 31.8.2026 kardiologie neordinuje.",
+        "_id": "6a6734d7799e35fe751b774c"
+      },
+      {
+        "day": {
+          "m_o": "1300",
+          "a_c": "1900"
+        },
+        "date": "25082026",
+        "groupId": "gms33ejnk13ncm6",
+        "closed": false,
+        "note": "Od 1.7. do 31.8.2026 kardiologie neordinuje.",
+        "_id": "6a6734d7799e35fe751b774d"
+      }
+    ],
     "nurse": "Eva Dvořáková, Dis",
     "phone": "+420 910 444 689",
     "email": "kardiochotebor@sdamp.cz",
