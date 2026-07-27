@@ -1018,7 +1018,18 @@
         "note": ""
       }
     },
-    "irregular_changes": [],
+    "irregular_changes": [
+      {
+        "day": {
+          "m_o": "0700",
+          "a_c": "1500"
+        },
+        "date": "29072026",
+        "closed": false,
+        "note": "Neurologie, M-Centrum Chotěboř - zavřeno. Zdr. sestra ordinuje na Poliklinice Hlinsko, Nádražní 458.",
+        "_id": "6a6706d4219801af610497b1"
+      }
+    ],
     "nurse": "Pavla Málková",
     "phone": "+420 910 444 692",
     "email": "neurochotebor@sdamp.cz",
