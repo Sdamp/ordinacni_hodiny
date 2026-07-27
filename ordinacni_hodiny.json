@@ -1473,7 +1473,18 @@
         "note": ""
       }
     },
-    "irregular_changes": [],
+    "irregular_changes": [
+      {
+        "day": {
+          "m_o": "0700",
+          "a_c": "1500"
+        },
+        "date": "30072026",
+        "closed": false,
+        "note": "MUDr. Machač-Pullerová    - dovolená ",
+        "_id": "6a671195219801af6104e353"
+      }
+    ],
     "nurse": "Martina Piskačová",
     "phone": "+420 910 444 694",
     "email": "endohlinsko@sdamp.cz",
@@ -1537,7 +1548,18 @@
         "note": ""
       }
     },
-    "irregular_changes": [],
+    "irregular_changes": [
+      {
+        "day": {
+          "m_o": "0700",
+          "a_c": "1500"
+        },
+        "date": "30072026",
+        "closed": false,
+        "note": "MUDr. Machač-Pullerová    - dovolená ",
+        "_id": "6a671195219801af6104e36d"
+      }
+    ],
     "nurse": null,
     "phone": "+420 910 444 694",
     "email": "endohlinsko@sdamp.cz",
