@@ -2354,13 +2354,13 @@
       },
       {
         "day": {
-          "m_o": "0600",
-          "a_c": "1200"
+          "m_o": "0930",
+          "a_c": "1300"
         },
         "date": "06082026",
         "closed": false,
-        "note": "Zavřeno - neordinuje se . Zástup MUDr. Doležalová, Poliklinika Chotěboř 15-17 h.",
-        "_id": "6a689524d29fbe3379b4eda5"
+        "note": "Zavřeno - neordinuje se . Zástup MUDr. Mgr. Špitálníková Ph.D., M-Centrum Chotěboř 6-8 h.",
+        "_id": "6a6896b6d29fbe3379b4f58e"
       }
     ],
     "nurse": "Eva Zelená",
