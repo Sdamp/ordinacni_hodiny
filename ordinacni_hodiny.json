@@ -411,13 +411,13 @@
       },
       {
         "day": {
-          "m_o": "1000",
-          "a_c": "1230"
+          "m_o": "1500",
+          "a_c": "1700"
         },
         "date": "04082026",
         "closed": false,
-        "note": "MUDr. Mgr. Špitálníková neordinuje. Zajištěn zástup (ve stejné ordinaci) MUDr. Doležalová 15:00-17:00 hod.",
-        "_id": "6a6867a2d29fbe3379b47765"
+        "note": "MUDr. Mgr. Špitálníková neordinuje. Zástup (ve stejné ordinaci) MUDr. Doležalová 15:00-17:00 hod.",
+        "_id": "6a686990d29fbe3379b48923"
       },
       {
         "day": {
