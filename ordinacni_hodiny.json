@@ -2324,13 +2324,13 @@
     "irregular_changes": [
       {
         "day": {
-          "m_o": "0930",
-          "a_c": "1400"
+          "m_o": "0730",
+          "a_c": "1200"
         },
         "date": "11082026",
         "closed": false,
         "note": "11.8.2026 bude posunutá ordinační doba - MUDr. Kotyzová bude ordinovat od 9:30 do 13:00 hod.",
-        "_id": "6a689dd5d29fbe3379b508ff"
+        "_id": "6a689e18d29fbe3379b50d28"
       },
       {
         "day": {
