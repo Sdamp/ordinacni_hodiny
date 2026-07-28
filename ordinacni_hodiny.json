@@ -2361,6 +2361,16 @@
         "closed": false,
         "note": "Zavřeno - neordinuje se . Zástup MUDr. Mgr. Špitálníková Ph.D., M-Centrum Chotěboř 6-8 h.",
         "_id": "6a6896b6d29fbe3379b4f58e"
+      },
+      {
+        "day": {
+          "m_o": "0800",
+          "a_c": "1000"
+        },
+        "date": "05082026",
+        "closed": false,
+        "note": "13.8.2026 bude posunutá ordinační doba - MUDr. Zvolánková bude ordinovat od 08:00 do 10:00 hod.",
+        "_id": "6a689cd6d29fbe3379b4ffe5"
       }
     ],
     "nurse": "Eva Zelená",
