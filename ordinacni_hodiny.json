@@ -2371,6 +2371,16 @@
         "closed": false,
         "note": "5.8.2026 bude posunutá ordinační doba - MUDr. Zvolánková bude ordinovat od 08:00 do 10:00 hod.",
         "_id": "6a689cefd29fbe3379b502eb"
+      },
+      {
+        "day": {
+          "m_o": "0800",
+          "a_c": "1000"
+        },
+        "date": "12082026",
+        "closed": false,
+        "note": "1.8.2026 bude posunutá ordinační doba - MUDr. Zvolánková bude ordinovat od 08:00 do 10:00 hod.",
+        "_id": "6a689d0dd29fbe3379b505f1"
       }
     ],
     "nurse": "Eva Zelená",
