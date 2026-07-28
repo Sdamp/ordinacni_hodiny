@@ -2341,6 +2341,16 @@
         "closed": false,
         "note": "Omlouváme se, 13.8.2026 bude posunutá ordinační doba  - MUDr. Kotyzová bude ordinovat od 9:30 do 13:00 hod.",
         "_id": "6a43b50041846b037da49143"
+      },
+      {
+        "day": {
+          "m_o": "0600",
+          "a_c": "1200"
+        },
+        "date": "04082026",
+        "closed": false,
+        "note": "MUDr. Kotyzová neordinuje., v ord. bude sestra. Zástup MUDr. Doležalová, Poliklinika Chotěboř 15-17 h.",
+        "_id": "6a689416d29fbe3379b4e3ad"
       }
     ],
     "nurse": "Eva Zelená",
