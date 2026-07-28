@@ -2355,12 +2355,12 @@
       {
         "day": {
           "m_o": "0600",
-          "a_c": "1030"
+          "a_c": "1200"
         },
         "date": "06082026",
         "closed": false,
-        "note": "Ordinace zavřena. Zástup MUDr. Doležalová, Poliklinika Chotěboř 15-17 h.",
-        "_id": "6a689486d29fbe3379b4e9bf"
+        "note": "Zavřeno - neordinuje se . Zástup MUDr. Doležalová, Poliklinika Chotěboř 15-17 h.",
+        "_id": "6a689524d29fbe3379b4eda5"
       }
     ],
     "nurse": "Eva Zelená",
