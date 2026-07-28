@@ -2344,13 +2344,13 @@
       },
       {
         "day": {
-          "m_o": "0600",
-          "a_c": "1200"
+          "m_o": "0930",
+          "a_c": "1400"
         },
         "date": "04082026",
         "closed": false,
-        "note": "Ordinace zavřena. Zástup MUDr. Doležalová, Poliklinika Chotěboř 15-17 h.",
-        "_id": "6a689464d29fbe3379b4e6b7"
+        "note": "Zavřeno - neordinuje se . Zástup MUDr. Doležalová, Poliklinika Chotěboř 15-17 h.",
+        "_id": "6a68961ad29fbe3379b4f1e0"
       },
       {
         "day": {
