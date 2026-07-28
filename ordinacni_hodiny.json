@@ -421,13 +421,13 @@
       },
       {
         "day": {
-          "m_o": "1500",
-          "a_c": "1700"
+          "m_o": "1230",
+          "a_c": "1900"
         },
         "date": "11082026",
         "closed": false,
-        "note": "MUDr. Mgr. Špitálníková neordinuje. Zástup (ve stejné ordinaci) MUDr. Francová 06:00-12:00 hod.",
-        "_id": "6a6868ccd29fbe3379b47ea2"
+        "note": "MUDr. Mgr. Špitálníková neordinuje. Zástup (ve stejné ordinaci) MUDr. Doležalová 15:00-17:00 hod.",
+        "_id": "6a686932d29fbe3379b482eb"
       }
     ],
     "nurse": "Jaroslava Černíková",
