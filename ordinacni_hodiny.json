@@ -418,6 +418,16 @@
         "closed": false,
         "note": "MUDr. Mgr. Špitálníková neordinuje. Zajištěn zástup (ve stejné ordinaci) MUDr. Doležalová 15:00-17:00 hod.",
         "_id": "6a6867a2d29fbe3379b47765"
+      },
+      {
+        "day": {
+          "m_o": "1500",
+          "a_c": "1700"
+        },
+        "date": "11082026",
+        "closed": false,
+        "note": "MUDr. Mgr. Špitálníková neordinuje. Zajištěn zástup (ve stejné ordinaci) MUDr. Doležalová 15:00-17:00 hod.",
+        "_id": "6a68681ed29fbe3379b47b82"
       }
     ],
     "nurse": "Jaroslava Černíková",
