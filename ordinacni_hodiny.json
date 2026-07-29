@@ -1359,7 +1359,18 @@
         "note": ""
       }
     },
-    "irregular_changes": [],
+    "irregular_changes": [
+      {
+        "day": {
+          "m_o": "0800",
+          "a_c": "1200"
+        },
+        "date": "03082026",
+        "closed": false,
+        "note": "Zavřeno - dovolená.",
+        "_id": "6a6a02edd29fbe3379b541a3"
+      }
+    ],
     "nurse": "Bc. Kateřina Bílková",
     "phone": "+420 733 650 679",
     "email": "nutri@sdamp.cz",
