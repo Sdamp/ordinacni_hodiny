@@ -119,12 +119,6 @@
     },
     "irregular_changes": [
       {
-        "date": "28072026",
-        "closed": true,
-        "note": "",
-        "_id": "6a63c65d7311f23d44e4c51e"
-      },
-      {
         "date": "29072026",
         "closed": true,
         "note": "",
@@ -452,16 +446,6 @@
     "irregular_changes": [
       {
         "day": {
-          "m_o": "1000",
-          "a_c": "1230"
-        },
-        "date": "28072026",
-        "closed": false,
-        "note": "Dnes MUDr. Špitálníková neordinuje. Zajištěn zástup (ve stejné ordinaci) MUDr. Doležalová 15:00-17:00.",
-        "_id": "6a68659ed29fbe3379b46d6e"
-      },
-      {
-        "day": {
           "m_o": "0600",
           "a_c": "1200"
         },
@@ -636,14 +620,7 @@
         "note": ""
       }
     },
-    "irregular_changes": [
-      {
-        "date": "28072026",
-        "closed": true,
-        "note": "",
-        "_id": "6a4a500e93b8f1f5ed2b888f"
-      }
-    ],
+    "irregular_changes": [],
     "nurse": "Vendulka Beranová",
     "phone": "+420 910 444 697",
     "email": "endokolin@sdamp.cz",
@@ -707,14 +684,7 @@
         "note": ""
       }
     },
-    "irregular_changes": [
-      {
-        "date": "28072026",
-        "closed": true,
-        "note": "",
-        "_id": "6a4a505593b8f1f5ed2b932e"
-      }
-    ],
+    "irregular_changes": [],
     "nurse": "Vendulka Beranová",
     "phone": "+420 910 444 697",
     "email": "endokolin@sdamp.cz",
@@ -862,6 +832,16 @@
         "closed": false,
         "note": "MUDr. Mgr. Špitálníková neordinuje., v ord. bude přítomna sestra.",
         "_id": "6a687a1bd29fbe3379b4c1ad"
+      },
+      {
+        "day": {
+          "m_o": "0700",
+          "a_c": "1500"
+        },
+        "date": "29072026",
+        "closed": false,
+        "note": "MUDr. Kasalová neordinuje - dovolená. V ordinaci je přítomna sestra.",
+        "_id": "6a69ff10d29fbe3379b5331c"
       }
     ],
     "nurse": "Markéta Špitálníková",
@@ -1011,6 +991,16 @@
         "closed": false,
         "note": "MUDr. Mgr. Špitálníková neordinuje., v ord. bude přítomna sestra.",
         "_id": "6a687a1bd29fbe3379b4c1cb"
+      },
+      {
+        "day": {
+          "m_o": "0700",
+          "a_c": "1500"
+        },
+        "date": "29072026",
+        "closed": false,
+        "note": "MUDr. Kasalová neordinuje - dovolená. V ordinaci je přítomna sestra.",
+        "_id": "6a69ff10d29fbe3379b5333b"
       }
     ],
     "nurse": "Markéta Špitálníková",
@@ -2682,16 +2672,6 @@
       }
     },
     "irregular_changes": [
-      {
-        "day": {
-          "m_o": "0615",
-          "a_c": "1700"
-        },
-        "date": "28072026",
-        "closed": false,
-        "note": "Neordinuje se - dovolená.",
-        "_id": "6a672f98dfb07ba90fb7906a"
-      },
       {
         "day": {
           "m_o": "0615",
