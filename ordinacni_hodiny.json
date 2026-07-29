@@ -1379,6 +1379,16 @@
         "closed": false,
         "note": "Zavřeno - dovolená.",
         "_id": "6a6a0306d29fbe3379b544a4"
+      },
+      {
+        "day": {
+          "m_o": "0800",
+          "a_c": "1200"
+        },
+        "date": "17082026",
+        "closed": false,
+        "note": "Zavřeno - dovolená.",
+        "_id": "6a6a032cd29fbe3379b547ae"
       }
     ],
     "nurse": "Bc. Kateřina Bílková",
