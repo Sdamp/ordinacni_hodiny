@@ -842,6 +842,16 @@
         "closed": false,
         "note": "MUDr. Kasalová neordinuje - dovolená. V ordinaci je přítomna sestra.",
         "_id": "6a69ff10d29fbe3379b5331c"
+      },
+      {
+        "day": {
+          "m_o": "0700",
+          "a_c": "1500"
+        },
+        "date": "05082026",
+        "closed": false,
+        "note": "MUDr. Kasalová neordinuje - dovolená. V ordinaci je přítomna sestra.",
+        "_id": "6a6a03dfd29fbe3379b54e52"
       }
     ],
     "nurse": "Markéta Špitálníková",
@@ -1001,6 +1011,16 @@
         "closed": false,
         "note": "MUDr. Kasalová neordinuje - dovolená. V ordinaci je přítomna sestra.",
         "_id": "6a69ff10d29fbe3379b5333b"
+      },
+      {
+        "day": {
+          "m_o": "0700",
+          "a_c": "1500"
+        },
+        "date": "05082026",
+        "closed": false,
+        "note": "MUDr. Kasalová neordinuje - dovolená. V ordinaci je přítomna sestra.",
+        "_id": "6a6a03dfd29fbe3379b54e72"
       }
     ],
     "nurse": "Markéta Špitálníková",
