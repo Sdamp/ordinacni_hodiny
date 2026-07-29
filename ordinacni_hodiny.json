@@ -1284,6 +1284,16 @@
         "closed": false,
         "note": "MUDr. Králová neordinuje - dovolená. V ordinaci bude přítomna sestra.",
         "_id": "6a6a0155d29fbe3379b53afb"
+      },
+      {
+        "day": {
+          "m_o": "0630",
+          "a_c": "1430"
+        },
+        "date": "21082026",
+        "closed": false,
+        "note": "MUDr. Králová neordinuje - dovolená. V ordinaci bude přítomna sestra.",
+        "_id": "6a6a0160d29fbe3379b53e33"
       }
     ],
     "nurse": "Pavla Málková",
