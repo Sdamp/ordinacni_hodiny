@@ -63,6 +63,16 @@
         "closed": false,
         "note": "MUDr. Medňanská neordinuje - dovolená. V ordinaci je přítomna sestra.",
         "_id": "6a6a0466d29fbe3379b551ca"
+      },
+      {
+        "day": {
+          "m_o": "0800",
+          "a_c": "1300"
+        },
+        "date": "25082026",
+        "closed": false,
+        "note": "MUDr. Medňanská neordinuje - dovolená. V ordinaci je přítomna sestra.",
+        "_id": "6a6a0486d29fbe3379b5551d"
       }
     ],
     "nurse": "Markéta Špitálníková",
