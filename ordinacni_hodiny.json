@@ -883,6 +883,16 @@
         "closed": false,
         "note": "MUDr. Mgr. Špitálníková neordinuje., v ord. bude přítomna sestra.",
         "_id": "6a6a05b3d29fbe3379b55880"
+      },
+      {
+        "day": {
+          "m_o": "1100",
+          "a_c": "1800"
+        },
+        "date": "24082026",
+        "closed": false,
+        "note": "(MUDr. Mgr. Špitálníková neordinuje., v ord. bude přítomna sestra.",
+        "_id": "6a6a05c1d29fbe3379b55bb9"
       }
     ],
     "nurse": "Markéta Špitálníková",
@@ -1062,6 +1072,16 @@
         "closed": false,
         "note": "MUDr. Mgr. Špitálníková neordinuje., v ord. bude přítomna sestra.",
         "_id": "6a6a05b3d29fbe3379b558a1"
+      },
+      {
+        "day": {
+          "m_o": "1100",
+          "a_c": "1800"
+        },
+        "date": "24082026",
+        "closed": false,
+        "note": "(MUDr. Mgr. Špitálníková neordinuje., v ord. bude přítomna sestra.",
+        "_id": "6a6a05c1d29fbe3379b55bdb"
       }
     ],
     "nurse": "Markéta Špitálníková",
