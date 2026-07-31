@@ -323,6 +323,16 @@
         "closed": false,
         "note": "MUDr. Mgr. Špitálníková neordinuje., v ord. bude sestra. Zástup: MUDr. Dufek Vilémov 7-12 h.,  MUDr. Nejedlý, Poliklinika Chotěboř 6:30-12 h.",
         "_id": "6a6883e1d29fbe3379b4dbd9"
+      },
+      {
+        "day": {
+          "m_o": "0600",
+          "a_c": "1400"
+        },
+        "date": "10082026",
+        "closed": false,
+        "note": "Neordinuje se - Zástup Poliklinika Chotěboř",
+        "_id": "6a6cae92e9bc7a616f05b22e"
       }
     ],
     "nurse": "",
