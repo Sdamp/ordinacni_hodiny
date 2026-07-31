@@ -1685,7 +1685,18 @@
         "note": ""
       }
     },
-    "irregular_changes": [],
+    "irregular_changes": [
+      {
+        "day": {
+          "m_o": "0700",
+          "a_c": "1500"
+        },
+        "date": "07082026",
+        "closed": false,
+        "note": "MUDr. Málková neordinuje, zavřeno.",
+        "_id": "6a6ca9ede9bc7a616f05a022"
+      }
+    ],
     "nurse": "Martina Piskačová",
     "phone": "+420 910 444 694",
     "email": "endohlinsko@sdamp.cz",
@@ -1749,7 +1760,18 @@
         "note": ""
       }
     },
-    "irregular_changes": [],
+    "irregular_changes": [
+      {
+        "day": {
+          "m_o": "0700",
+          "a_c": "1500"
+        },
+        "date": "07082026",
+        "closed": false,
+        "note": "MUDr. Málková neordinuje, zavřeno.",
+        "_id": "6a6ca9ede9bc7a616f05a043"
+      }
+    ],
     "nurse": "Martina Piskačová",
     "phone": "+420 910 444 694",
     "email": "endohlinsko@sdamp.cz",
