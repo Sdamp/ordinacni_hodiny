@@ -333,6 +333,16 @@
         "closed": false,
         "note": "Neordinuje se - Zástup Poliklinika Chotěboř",
         "_id": "6a6cae92e9bc7a616f05b22e"
+      },
+      {
+        "day": {
+          "m_o": "0600",
+          "a_c": "1400"
+        },
+        "date": "14082026",
+        "closed": false,
+        "note": "Neordinuje se - Zástup Poliklinika Chotěboř",
+        "_id": "6a6caefee9bc7a616f05b631"
       }
     ],
     "nurse": "",
