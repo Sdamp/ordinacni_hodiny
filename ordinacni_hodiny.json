@@ -639,6 +639,16 @@
         "closed": false,
         "note": "Neordinuje se - dovolená.",
         "_id": "6a6cacb6e9bc7a616f05a93b"
+      },
+      {
+        "day": {
+          "m_o": "0700",
+          "a_c": "1200"
+        },
+        "date": "08082026",
+        "closed": false,
+        "note": "MUDr. Mgr. Špitálníková - mimořádná ordinace 07:00-12:00",
+        "_id": "6a6cace9e9bc7a616f05ac8d"
       }
     ],
     "nurse": "Vendulka Beranová",
@@ -714,6 +724,16 @@
         "closed": false,
         "note": "Neordinuje se - dovolená.",
         "_id": "6a6cacb6e9bc7a616f05a969"
+      },
+      {
+        "day": {
+          "m_o": "0700",
+          "a_c": "1200"
+        },
+        "date": "08082026",
+        "closed": false,
+        "note": "MUDr. Mgr. Špitálníková - mimořádná ordinace 07:00-12:00",
+        "_id": "6a6caceae9bc7a616f05acbc"
       }
     ],
     "nurse": "Vendulka Beranová",
