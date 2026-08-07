@@ -140,48 +140,6 @@
     },
     "irregular_changes": [
       {
-        "date": "31072026",
-        "closed": true,
-        "note": "",
-        "_id": "6a63c65d7311f23d44e4c521"
-      },
-      {
-        "date": "01082026",
-        "closed": true,
-        "note": "",
-        "_id": "6a63c65d7311f23d44e4c522"
-      },
-      {
-        "date": "02082026",
-        "closed": true,
-        "note": "",
-        "_id": "6a63c65d7311f23d44e4c523"
-      },
-      {
-        "date": "03082026",
-        "closed": true,
-        "note": "",
-        "_id": "6a63c65d7311f23d44e4c524"
-      },
-      {
-        "date": "04082026",
-        "closed": true,
-        "note": "",
-        "_id": "6a63c65d7311f23d44e4c525"
-      },
-      {
-        "date": "05082026",
-        "closed": true,
-        "note": "",
-        "_id": "6a63c65d7311f23d44e4c526"
-      },
-      {
-        "date": "06082026",
-        "closed": true,
-        "note": "",
-        "_id": "6a63c65d7311f23d44e4c527"
-      },
-      {
         "date": "07082026",
         "closed": true,
         "note": "",
@@ -264,16 +222,6 @@
       }
     },
     "irregular_changes": [
-      {
-        "day": {
-          "m_o": "0600",
-          "a_c": "1200"
-        },
-        "date": "04082026",
-        "closed": false,
-        "note": "MUDr. Mgr. Špitálníková neordinuje., v ord. bude sestra. Zástup: MUDr. Dufek Vilémov 7-12 h.,  MUDr. Doležalová, Poliklinika Chotěboř 15-17 h.",
-        "_id": "6a6880ced29fbe3379b4cad6"
-      },
       {
         "day": {
           "m_o": "0600",
@@ -473,26 +421,6 @@
       }
     },
     "irregular_changes": [
-      {
-        "day": {
-          "m_o": "0600",
-          "a_c": "1200"
-        },
-        "date": "03082026",
-        "closed": false,
-        "note": "MUDr. Mgr. Špitálníková neordinuje. Zástup (ve stejné ordinaci) MUDr. Francová 06:00-12:00 hod.",
-        "_id": "6a686961d29fbe3379b48607"
-      },
-      {
-        "day": {
-          "m_o": "1500",
-          "a_c": "1700"
-        },
-        "date": "04082026",
-        "closed": false,
-        "note": "MUDr. Mgr. Špitálníková neordinuje. Zástup (ve stejné ordinaci) MUDr. Doležalová 15:00-17:00 hod.",
-        "_id": "6a686990d29fbe3379b48923"
-      },
       {
         "day": {
           "m_o": "1230",
@@ -906,16 +834,6 @@
       },
       {
         "day": {
-          "m_o": "0700",
-          "a_c": "1500"
-        },
-        "date": "05082026",
-        "closed": false,
-        "note": "MUDr. Kasalová neordinuje - dovolená. V ordinaci je přítomna sestra.",
-        "_id": "6a6a03dfd29fbe3379b54e52"
-      },
-      {
-        "day": {
           "m_o": "1100",
           "a_c": "1800"
         },
@@ -936,13 +854,13 @@
       },
       {
         "day": {
-          "m_o": "1230",
-          "a_c": "1800"
+          "m_o": "0700",
+          "a_c": "1430"
         },
-        "date": "03082026",
+        "date": "13082026",
         "closed": false,
-        "note": "Neordinuje se - dovolená.",
-        "_id": "6a6caadbe9bc7a616f05a44d"
+        "note": "MUDr. Špitálníková dovolená, pouze sestra",
+        "_id": "6a75c27ee5e67372dafcae20"
       }
     ],
     "nurse": "Markéta Špitálníková",
@@ -1095,16 +1013,6 @@
       },
       {
         "day": {
-          "m_o": "0700",
-          "a_c": "1500"
-        },
-        "date": "05082026",
-        "closed": false,
-        "note": "MUDr. Kasalová neordinuje - dovolená. V ordinaci je přítomna sestra.",
-        "_id": "6a6a03dfd29fbe3379b54e72"
-      },
-      {
-        "day": {
           "m_o": "1100",
           "a_c": "1800"
         },
@@ -1122,16 +1030,6 @@
         "closed": false,
         "note": "(MUDr. Mgr. Špitálníková neordinuje., v ord. bude přítomna sestra.",
         "_id": "6a6a05c1d29fbe3379b55bdb"
-      },
-      {
-        "day": {
-          "m_o": "1230",
-          "a_c": "1800"
-        },
-        "date": "03082026",
-        "closed": false,
-        "note": "Neordinuje se - dovolená.",
-        "_id": "6a6caadbe9bc7a616f05a470"
       }
     ],
     "nurse": "Markéta Špitálníková",
@@ -1328,16 +1226,6 @@
     "irregular_changes": [
       {
         "day": {
-          "m_o": "0600",
-          "a_c": "1400"
-        },
-        "date": "05082026",
-        "closed": false,
-        "note": "Neordinuje se - dovolená.",
-        "_id": "6a670f75219801af6104cbb1"
-      },
-      {
-        "day": {
           "m_o": "0700",
           "a_c": "1500"
         },
@@ -1365,16 +1253,6 @@
         "closed": false,
         "note": "Neurologie Chotěboř - zavřeno. Zdr. sestra ordinuje v ambulanci v Hlinsku.",
         "_id": "6a671085219801af6104dc2e"
-      },
-      {
-        "day": {
-          "m_o": "0600",
-          "a_c": "1400"
-        },
-        "date": "06082026",
-        "closed": false,
-        "note": "Neordinuje se - dovolená.",
-        "_id": "6a670f62219801af6104c85b"
       },
       {
         "day": {
@@ -1471,16 +1349,6 @@
       }
     },
     "irregular_changes": [
-      {
-        "day": {
-          "m_o": "0800",
-          "a_c": "1200"
-        },
-        "date": "03082026",
-        "closed": false,
-        "note": "Zavřeno - dovolená.",
-        "_id": "6a6a02edd29fbe3379b541a3"
-      },
       {
         "day": {
           "m_o": "0800",
@@ -2109,18 +1977,7 @@
         "note": ""
       }
     },
-    "irregular_changes": [
-      {
-        "day": {
-          "m_o": "0600",
-          "a_c": "1400"
-        },
-        "date": "31072026",
-        "closed": false,
-        "note": "Neordinuje se - dovolená.",
-        "_id": "6a6ca939e9bc7a616f059b54"
-      }
-    ],
+    "irregular_changes": [],
     "nurse": "Jana Bílá",
     "phone": "+420 910 444 695",
     "email": "osteohlinsko@sdamp.cz",
@@ -2524,36 +2381,6 @@
         "closed": false,
         "note": "13.8.2026 bude posunutá ordinační doba - MUDr. Kotyzová bude ordinovat od 9:30 do 13:00 hod.",
         "_id": "6a689e3dd29fbe3379b51150"
-      },
-      {
-        "day": {
-          "m_o": "0930",
-          "a_c": "1400"
-        },
-        "date": "04082026",
-        "closed": false,
-        "note": "Zavřeno - neordinuje se . Zástup MUDr. Doležalová, Poliklinika Chotěboř 15-17 h.",
-        "_id": "6a68961ad29fbe3379b4f1e0"
-      },
-      {
-        "day": {
-          "m_o": "0930",
-          "a_c": "1300"
-        },
-        "date": "06082026",
-        "closed": false,
-        "note": "Zavřeno - neordinuje se . Zástup MUDr. Mgr. Špitálníková Ph.D., M-Centrum Chotěboř 6-8 h.",
-        "_id": "6a6896b6d29fbe3379b4f58e"
-      },
-      {
-        "day": {
-          "m_o": "0800",
-          "a_c": "1000"
-        },
-        "date": "05082026",
-        "closed": false,
-        "note": "5.8.2026 bude posunutá ordinační doba - MUDr. Zvolánková bude ordinovat od 08:00 do 10:00 hod.",
-        "_id": "6a689cefd29fbe3379b502eb"
       },
       {
         "day": {
