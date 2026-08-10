@@ -484,6 +484,16 @@
         "closed": false,
         "note": "MUDr. Mgr. Špitálníková neordinuje., v ord. bude sestra. Zástup MUDr. Nejedlý, Poliklinika Chotěboř 06:30-12:00 hod.",
         "_id": "6a6877a6d29fbe3379b4b794"
+      },
+      {
+        "day": {
+          "m_o": "0600",
+          "a_c": "1200"
+        },
+        "date": "12082026",
+        "closed": false,
+        "note": "MUDr. Špitálníková neordinuje - zástup 8:00-10:00 MUDr. Zvolánková (ve stejné ordinaci)",
+        "_id": "6a796ca3337b249d28184abe"
       }
     ],
     "nurse": "Jaroslava Černíková",
