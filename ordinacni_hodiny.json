@@ -1597,6 +1597,16 @@
         "closed": false,
         "note": "MUDr. Špitálníková - neordinuje. Zástup MUDr. Pavlišová 08:00-12:00. Sestra v ordinaci 07:00-15:00.",
         "_id": "6a7b31f59012de399fb447b5"
+      },
+      {
+        "day": {
+          "m_o": "1300",
+          "a_c": "1900"
+        },
+        "date": "19082026",
+        "closed": false,
+        "note": "MUDr. Špitálníková - neordinuje. Zástup MUDr. Pavlišová 08:00-12:00. Sestra v ordinaci 07:00-15:00.",
+        "_id": "6a7b32cb9012de399fb44be0"
       }
     ],
     "nurse": "Martina Piskačová",
@@ -1672,6 +1682,16 @@
         "closed": false,
         "note": "MUDr. Špitálníková - neordinuje. Zástup MUDr. Pavlišová 08:00-12:00. Sestra v ordinaci 07:00-15:00.",
         "_id": "6a7b31f59012de399fb447d7"
+      },
+      {
+        "day": {
+          "m_o": "1300",
+          "a_c": "1900"
+        },
+        "date": "19082026",
+        "closed": false,
+        "note": "MUDr. Špitálníková - neordinuje. Zástup MUDr. Pavlišová 08:00-12:00. Sestra v ordinaci 07:00-15:00.",
+        "_id": "6a7b32cb9012de399fb44c04"
       }
     ],
     "nurse": "Martina Piskačová",
