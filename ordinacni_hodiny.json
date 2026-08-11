@@ -271,16 +271,6 @@
           "m_o": "0600",
           "a_c": "1400"
         },
-        "date": "10082026",
-        "closed": false,
-        "note": "Neordinuje se - Zástup Poliklinika Chotěboř",
-        "_id": "6a6cae92e9bc7a616f05b22e"
-      },
-      {
-        "day": {
-          "m_o": "0600",
-          "a_c": "1400"
-        },
         "date": "14082026",
         "closed": false,
         "note": "Neordinuje se - Zástup Poliklinika Chotěboř",
@@ -492,8 +482,8 @@
         },
         "date": "12082026",
         "closed": false,
-        "note": "MUDr. Špitálníková neordinuje - zástup 8:00-10:00 MUDr. Zvolánková (ve stejné ordinaci)",
-        "_id": "6a796ca3337b249d28184abe"
+        "note": "MUDr. Špitálníková neordinuje - zástup 12:00-14:00 MUDr. Zvolánková (ve stejné ordinaci))",
+        "_id": "6a7b30049012de399fb44409"
       }
     ],
     "nurse": "Jaroslava Černíková",
@@ -2695,18 +2685,7 @@
         "note": ""
       }
     },
-    "irregular_changes": [
-      {
-        "day": {
-          "m_o": "0615",
-          "a_c": "1330"
-        },
-        "date": "10082026",
-        "closed": false,
-        "note": "Neordinuje se - dovolená.",
-        "_id": "6a79614b337b249d28183797"
-      }
-    ],
+    "irregular_changes": [],
     "nurse": "Martina Topinková DiS.",
     "phone": "608 454 336",
     "email": "fyziochotebor@sdamp.cz",
