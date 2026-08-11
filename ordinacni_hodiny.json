@@ -2289,7 +2289,18 @@
         "note": ""
       }
     },
-    "irregular_changes": [],
+    "irregular_changes": [
+      {
+        "day": {
+          "m_o": "0730",
+          "a_c": "1300"
+        },
+        "date": "14082026",
+        "closed": false,
+        "note": "Neordinuje se - dovolená.",
+        "_id": "6a7b33a29012de399fb45333"
+      }
+    ],
     "nurse": null,
     "phone": "733 645 602",
     "email": null,
