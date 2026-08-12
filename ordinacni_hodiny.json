@@ -221,16 +221,6 @@
           "m_o": "0600",
           "a_c": "1200"
         },
-        "date": "11082026",
-        "closed": false,
-        "note": "MUDr. Mgr. Špitálníková neordinuje., v ord. bude sestra. Zástup: MUDr. Doležalová, Poliklinika Chotěboř 15-17 h.",
-        "_id": "6a688109d29fbe3379b4ce4e"
-      },
-      {
-        "day": {
-          "m_o": "0600",
-          "a_c": "1200"
-        },
         "date": "18082026",
         "closed": false,
         "note": "MUDr. Mgr. Špitálníková neordinuje., v ord. bude sestra. Zástup: MUDr. Dufek Vilémov 7-12 h.,  MUDr. Nejedlý, Poliklinika Chotěboř 6:30-12 h.",
@@ -405,16 +395,6 @@
       }
     },
     "irregular_changes": [
-      {
-        "day": {
-          "m_o": "1230",
-          "a_c": "1900"
-        },
-        "date": "11082026",
-        "closed": false,
-        "note": "MUDr. Mgr. Špitálníková neordinuje. Zástup (ve stejné ordinaci) MUDr. Doležalová 15:00-17:00 hod.",
-        "_id": "6a686932d29fbe3379b482eb"
-      },
       {
         "day": {
           "m_o": "0600",
@@ -806,13 +786,13 @@
       },
       {
         "day": {
-          "m_o": "0700",
-          "a_c": "1430"
+          "m_o": "0600",
+          "a_c": "1500"
         },
         "date": "13082026",
         "closed": false,
-        "note": " MUDr. Mgr. Špitálníková neordinuje., v ord. bude přítomna sestra.",
-        "_id": "6a75c287e5e67372dafcb123"
+        "note": "MUDr. Mgr. Špitálníková neordinuje., v ord. bude zdravotní sestra.",
+        "_id": "6a7c86c4a1ea6ff3914b5493"
       }
     ],
     "nurse": "Markéta Špitálníková",
@@ -985,13 +965,13 @@
       },
       {
         "day": {
-          "m_o": "0800",
-          "a_c": "1430"
+          "m_o": "0600",
+          "a_c": "1500"
         },
         "date": "13082026",
         "closed": false,
-        "note": " MUDr. Mgr. Špitálníková neordinuje., v ord. bude přítomna sestra.",
-        "_id": "6a75c2a0e5e67372dafcb425"
+        "note": "MUDr. Mgr. Špitálníková neordinuje., v ord. bude zdravotní sestra.",
+        "_id": "6a7c86c5a1ea6ff3914b54b8"
       }
     ],
     "nurse": "Markéta Špitálníková",
@@ -2365,16 +2345,6 @@
       }
     },
     "irregular_changes": [
-      {
-        "day": {
-          "m_o": "0730",
-          "a_c": "1200"
-        },
-        "date": "11082026",
-        "closed": false,
-        "note": "11.8.2026 bude posunutá ordinační doba - MUDr. Kotyzová bude ordinovat od 9:30 do 13:00 hod.",
-        "_id": "6a689e18d29fbe3379b50d28"
-      },
       {
         "day": {
           "m_o": "0730",
