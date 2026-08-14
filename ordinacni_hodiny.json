@@ -454,16 +454,6 @@
         "closed": false,
         "note": "MUDr. Mgr. Špitálníková neordinuje., v ord. bude sestra. Zástup MUDr. Nejedlý, Poliklinika Chotěboř 06:30-12:00 hod.",
         "_id": "6a6877a6d29fbe3379b4b794"
-      },
-      {
-        "day": {
-          "m_o": "0600",
-          "a_c": "1200"
-        },
-        "date": "12082026",
-        "closed": false,
-        "note": "MUDr. Špitálníková neordinuje - zástup 12:00-14:00 MUDr. Zvolánková (ve stejné ordinaci))",
-        "_id": "6a7b30049012de399fb44409"
       }
     ],
     "nurse": "Jaroslava Černíková",
@@ -783,16 +773,6 @@
         "closed": false,
         "note": "(MUDr. Mgr. Špitálníková neordinuje., v ord. bude přítomna sestra.",
         "_id": "6a6a05c1d29fbe3379b55bb9"
-      },
-      {
-        "day": {
-          "m_o": "0600",
-          "a_c": "1500"
-        },
-        "date": "13082026",
-        "closed": false,
-        "note": "MUDr. Mgr. Špitálníková neordinuje., v ord. bude zdravotní sestra.",
-        "_id": "6a7c86c4a1ea6ff3914b5493"
       }
     ],
     "nurse": "Markéta Špitálníková",
@@ -858,7 +838,18 @@
         "note": ""
       }
     },
-    "irregular_changes": [],
+    "irregular_changes": [
+      {
+        "day": {
+          "m_o": "0700",
+          "a_c": "1300"
+        },
+        "date": "19082026",
+        "closed": false,
+        "note": "Neordinuje se - dovolená.",
+        "_id": "6a7ee475cf9b1a688804b92e"
+      }
+    ],
     "nurse": "Eva Dvořáková, Dis",
     "phone": "+420 910 444 689",
     "email": "osteochotebor@sdamp.cz",
@@ -962,16 +953,6 @@
         "closed": false,
         "note": "(MUDr. Mgr. Špitálníková neordinuje., v ord. bude přítomna sestra.",
         "_id": "6a6a05c1d29fbe3379b55bdb"
-      },
-      {
-        "day": {
-          "m_o": "0600",
-          "a_c": "1500"
-        },
-        "date": "13082026",
-        "closed": false,
-        "note": "MUDr. Mgr. Špitálníková neordinuje., v ord. bude zdravotní sestra.",
-        "_id": "6a7c86c5a1ea6ff3914b54b8"
       }
     ],
     "nurse": "Markéta Špitálníková",
@@ -1166,16 +1147,6 @@
       }
     },
     "irregular_changes": [
-      {
-        "day": {
-          "m_o": "0700",
-          "a_c": "1500"
-        },
-        "date": "12082026",
-        "closed": false,
-        "note": "Neurologie Chotěboř - zavřeno. Zdr. sestra ordinuje v ambulanci v Hlinsku.",
-        "_id": "6a67105e219801af6104d60d"
-      },
       {
         "day": {
           "m_o": "0700",
@@ -1573,16 +1544,6 @@
           "m_o": "1300",
           "a_c": "1900"
         },
-        "date": "12082026",
-        "closed": false,
-        "note": "MUDr. Špitálníková - neordinuje. Zástup MUDr. Pavlišová 08:00-12:00. Sestra v ordinaci 07:00-15:00.",
-        "_id": "6a7b31f59012de399fb447b5"
-      },
-      {
-        "day": {
-          "m_o": "1300",
-          "a_c": "1900"
-        },
         "date": "19082026",
         "closed": false,
         "note": "MUDr. Špitálníková - neordinuje. Zástup MUDr. Pavlišová 08:00-12:00. Sestra v ordinaci 07:00-15:00.",
@@ -1663,16 +1624,6 @@
       }
     },
     "irregular_changes": [
-      {
-        "day": {
-          "m_o": "1300",
-          "a_c": "1900"
-        },
-        "date": "12082026",
-        "closed": false,
-        "note": "MUDr. Špitálníková - neordinuje. Zástup MUDr. Pavlišová 08:00-12:00. Sestra v ordinaci 07:00-15:00.",
-        "_id": "6a7b31f59012de399fb447d7"
-      },
       {
         "day": {
           "m_o": "1300",
@@ -2344,28 +2295,7 @@
         "note": ""
       }
     },
-    "irregular_changes": [
-      {
-        "day": {
-          "m_o": "0730",
-          "a_c": "1030"
-        },
-        "date": "13082026",
-        "closed": false,
-        "note": "13.8.2026 bude posunutá ordinační doba - MUDr. Kotyzová bude ordinovat od 9:30 do 13:00 hod.",
-        "_id": "6a689e3dd29fbe3379b51150"
-      },
-      {
-        "day": {
-          "m_o": "0800",
-          "a_c": "1000"
-        },
-        "date": "12082026",
-        "closed": false,
-        "note": "12.8.2026 bude posunutá ordinační doba - MUDr. Zvolánková bude ordinovat od 08:00 do 10:00 hod.",
-        "_id": "6a689eacd29fbe3379b5145c"
-      }
-    ],
+    "irregular_changes": [],
     "nurse": "Eva Zelená",
     "phone": "+420 569 697 123",
     "email": "vplkrucemburk@sdamp.cz",
