@@ -1311,6 +1311,16 @@
         "closed": false,
         "note": "Zavřeno - dovolená.",
         "_id": "6a6a0340d29fbe3379b54aa1"
+      },
+      {
+        "day": {
+          "m_o": "0800",
+          "a_c": "1600"
+        },
+        "date": "14082026",
+        "closed": false,
+        "note": "Mgr. Klímová - neordinuje se - nemoc",
+        "_id": "6a7ef6f0cf9b1a688804ef2a"
       }
     ],
     "nurse": "Bc. Kateřina Bílková",
