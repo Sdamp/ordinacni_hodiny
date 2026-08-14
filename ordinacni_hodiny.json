@@ -1410,7 +1410,18 @@
         "note": ""
       }
     },
-    "irregular_changes": [],
+    "irregular_changes": [
+      {
+        "day": {
+          "m_o": "0700",
+          "a_c": "1300"
+        },
+        "date": "20082026",
+        "closed": false,
+        "note": "Neordinuje se - dovolená.",
+        "_id": "6a7ee48ecf9b1a688804bc50"
+      }
+    ],
     "nurse": "Eva Dvořáková, Dis",
     "phone": "",
     "email": "podiachotebor@sdamp.cz",
