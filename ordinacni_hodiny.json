@@ -2769,6 +2769,16 @@
         "closed": false,
         "note": "Fyzioterapie M.Topinková - neordinuje se - dovolená.",
         "_id": "6a7ef4e4cf9b1a688804e630"
+      },
+      {
+        "day": {
+          "m_o": "0615",
+          "a_c": "1130"
+        },
+        "date": "21082026",
+        "closed": false,
+        "note": "Fyzioterapie M.Topinková - neordinuje se - dovolená.",
+        "_id": "6a7ef4f0cf9b1a688804e95b"
       }
     ],
     "nurse": "Martina Topinková DiS.",
