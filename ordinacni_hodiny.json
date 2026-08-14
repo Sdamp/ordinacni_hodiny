@@ -868,6 +868,16 @@
         "closed": false,
         "note": "Neordinuje se - dovolená.",
         "_id": "6a7ee71acf9b1a688804c5e4"
+      },
+      {
+        "day": {
+          "m_o": "0700",
+          "a_c": "1300"
+        },
+        "date": "31082026",
+        "closed": false,
+        "note": "Neordinuje se - dovolená.",
+        "_id": "6a7ee783cf9b1a688804cf6b"
       }
     ],
     "nurse": "Eva Dvořáková, Dis",
