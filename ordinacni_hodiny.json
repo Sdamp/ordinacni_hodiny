@@ -1122,7 +1122,18 @@
         "note": ""
       }
     },
-    "irregular_changes": [],
+    "irregular_changes": [
+      {
+        "day": {
+          "m_o": "1300",
+          "a_c": "1800"
+        },
+        "date": "18082026",
+        "closed": false,
+        "note": "Mimořádná ordinace - prof. MUDr. Pudil - ECHO.",
+        "_id": "6a7f0458cf9b1a6888052150"
+      }
+    ],
     "nurse": "Eva Dvořáková, Dis",
     "phone": "+420 910 444 689",
     "email": "kardiochotebor@sdamp.cz",
