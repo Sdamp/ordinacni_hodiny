@@ -2739,6 +2739,16 @@
         "closed": false,
         "note": "Neordinuje se - dovolená.",
         "_id": "6a7ef441cf9b1a688804d340"
+      },
+      {
+        "day": {
+          "m_o": "0615",
+          "a_c": "1715"
+        },
+        "date": "18082026",
+        "closed": false,
+        "note": "Neordinuje se - dovolená.",
+        "_id": "6a7ef453cf9b1a688804d665"
       }
     ],
     "nurse": "Martina Topinková DiS.",
