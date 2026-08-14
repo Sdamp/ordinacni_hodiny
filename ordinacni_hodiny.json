@@ -1132,6 +1132,16 @@
         "closed": false,
         "note": "Mimořádná ordinace - prof. MUDr. Pudil - ECHO.",
         "_id": "6a7f0458cf9b1a6888052150"
+      },
+      {
+        "day": {
+          "m_o": "0800",
+          "a_c": "1700"
+        },
+        "date": "22082026",
+        "closed": false,
+        "note": "Mimořádná ordinace - prof. MUDr. Pudil - ECHO.",
+        "_id": "6a7f0549cf9b1a6888052562"
       }
     ],
     "nurse": "Eva Dvořáková, Dis",
