@@ -428,12 +428,12 @@
       {
         "day": {
           "m_o": "0600",
-          "a_c": "1200"
+          "a_c": "1430"
         },
         "date": "24082026",
         "closed": false,
-        "note": "MUDr. Mgr. Špitálníková neordinuje., v ord. bude sestra. Zástup MUDr. Nejedlý, Poliklinika Chotěboř 06:30-12:00 hod.",
-        "_id": "6a687773d29fbe3379b4b046"
+        "note": "MUDr. Mgr. Špitálníková neordinuje. Zástup MUDr. Nejedlý, Poliklinika Chotěboř 06:30-12:00 hod.",
+        "_id": "6a7f060bcf9b1a68880528fb"
       },
       {
         "day": {
