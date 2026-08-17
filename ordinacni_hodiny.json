@@ -255,16 +255,6 @@
         "closed": false,
         "note": "MUDr. Mgr. Špitálníková neordinuje., v ord. bude sestra. Zástup: MUDr. Dufek Vilémov 7-12 h.,  MUDr. Nejedlý, Poliklinika Chotěboř 6:30-12 h.",
         "_id": "6a6883e1d29fbe3379b4dbd9"
-      },
-      {
-        "day": {
-          "m_o": "0600",
-          "a_c": "1400"
-        },
-        "date": "14082026",
-        "closed": false,
-        "note": "Neordinuje se - Zástup Poliklinika Chotěboř",
-        "_id": "6a6caefee9bc7a616f05b631"
       }
     ],
     "nurse": "",
@@ -1352,16 +1342,6 @@
         "closed": false,
         "note": "Zavřeno - dovolená.",
         "_id": "6a6a0340d29fbe3379b54aa1"
-      },
-      {
-        "day": {
-          "m_o": "0800",
-          "a_c": "1600"
-        },
-        "date": "14082026",
-        "closed": false,
-        "note": "Mgr. Klímová - neordinuje se - nemoc",
-        "_id": "6a7ef6f0cf9b1a688804ef2a"
       }
     ],
     "nurse": "Bc. Kateřina Bílková",
@@ -2026,12 +2006,12 @@
       {
         "day": {
           "m_o": "0700",
-          "a_c": "1200"
+          "a_c": "1530"
         },
-        "date": "14082026",
+        "date": "17082026",
         "closed": false,
-        "note": "Neordinuje se - dovolená.",
-        "_id": "6a7ef742cf9b1a688804f28b"
+        "note": "Neordinuje se - nemoc.",
+        "_id": "6a83090ccf9b1a688805601b"
       }
     ],
     "nurse": "Jana Bílá",
@@ -2353,18 +2333,7 @@
         "note": ""
       }
     },
-    "irregular_changes": [
-      {
-        "day": {
-          "m_o": "0730",
-          "a_c": "1300"
-        },
-        "date": "14082026",
-        "closed": false,
-        "note": "Neordinuje se - dovolená.",
-        "_id": "6a7b33a29012de399fb45333"
-      }
-    ],
+    "irregular_changes": [],
     "nurse": null,
     "phone": "733 645 602",
     "email": null,
