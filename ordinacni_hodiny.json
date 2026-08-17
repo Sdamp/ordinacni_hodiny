@@ -2012,6 +2012,16 @@
         "closed": false,
         "note": "Neordinuje se - nemoc.",
         "_id": "6a83090ccf9b1a688805601b"
+      },
+      {
+        "day": {
+          "m_o": "1100",
+          "a_c": "1700"
+        },
+        "date": "18082026",
+        "closed": false,
+        "note": "Neordinuje se - nemoc.",
+        "_id": "6a830919cf9b1a6888056359"
       }
     ],
     "nurse": "Jana Bílá",
