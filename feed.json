@@ -1,5 +1,5 @@
 {
-  "exportDate": "2026-08-17T13:16:55.756Z",
+  "exportDate": "2026-08-17T13:17:42.091Z",
   "premises": [
     {
       "id": "13770302",
@@ -31,7 +31,7 @@
         "houseNumber": "1851",
         "zip": "58301"
       },
-      "openingHours": "Mo 12:00-16:00; Aug 17 off; Aug 24 off"
+      "openingHours": "Mo 12:00-16:00; Aug 17 off; Aug 24 12:00-16:00"
     },
     {
       "id": "13770044",

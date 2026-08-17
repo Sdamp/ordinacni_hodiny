@@ -146,10 +146,14 @@
         "_id": "6a63c6787311f23d44e4c7d2"
       },
       {
+        "day": {
+          "m_o": "1200",
+          "a_c": "1600"
+        },
         "date": "24082026",
-        "closed": true,
-        "note": "",
-        "_id": "6a63c67d7311f23d44e4ca7e"
+        "closed": false,
+        "note": "Neordinuje se - dovolená.",
+        "_id": "6a8309f5cf9b1a6888056dbe"
       }
     ],
     "nurse": "",
