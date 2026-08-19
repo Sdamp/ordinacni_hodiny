@@ -559,6 +559,16 @@
         "closed": false,
         "note": "Neordinuje se - dovolená.",
         "_id": "6a854c2872c41770c3e55103"
+      },
+      {
+        "day": {
+          "m_o": "0700",
+          "a_c": "1530"
+        },
+        "date": "21082026",
+        "closed": false,
+        "note": "Neordinuje se - dovolená.",
+        "_id": "6a854cc772c41770c3e554dd"
       }
     ],
     "nurse": "Vendulka Beranová",
@@ -634,6 +644,16 @@
         "closed": false,
         "note": "Neordinuje se - dovolená.",
         "_id": "6a854c2872c41770c3e55133"
+      },
+      {
+        "day": {
+          "m_o": "0700",
+          "a_c": "1530"
+        },
+        "date": "21082026",
+        "closed": false,
+        "note": "Neordinuje se - dovolená.",
+        "_id": "6a854cc772c41770c3e5550e"
       }
     ],
     "nurse": "Vendulka Beranová",
