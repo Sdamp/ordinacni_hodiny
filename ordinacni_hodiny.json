@@ -59,16 +59,6 @@
           "m_o": "0800",
           "a_c": "1300"
         },
-        "date": "18082026",
-        "closed": false,
-        "note": "MUDr. Medňanská neordinuje - dovolená.",
-        "_id": "6a7efb6acf9b1a688804fb6e"
-      },
-      {
-        "day": {
-          "m_o": "0800",
-          "a_c": "1300"
-        },
         "date": "25082026",
         "closed": false,
         "note": "MUDr. Medňanská neordinuje - dovolená.",
@@ -139,12 +129,6 @@
       }
     },
     "irregular_changes": [
-      {
-        "date": "17082026",
-        "closed": true,
-        "note": "",
-        "_id": "6a63c6787311f23d44e4c7d2"
-      },
       {
         "day": {
           "m_o": "1200",
@@ -220,16 +204,6 @@
       }
     },
     "irregular_changes": [
-      {
-        "day": {
-          "m_o": "0600",
-          "a_c": "1200"
-        },
-        "date": "18082026",
-        "closed": false,
-        "note": "MUDr. Mgr. Špitálníková neordinuje., v ord. bude sestra. Zástup: MUDr. Dufek Vilémov 7-12 h.,  MUDr. Nejedlý, Poliklinika Chotěboř 6:30-12 h.",
-        "_id": "6a688290d29fbe3379b4d1ac"
-      },
       {
         "day": {
           "m_o": "1500",
@@ -392,32 +366,12 @@
       {
         "day": {
           "m_o": "0600",
-          "a_c": "1430"
-        },
-        "date": "17082026",
-        "closed": false,
-        "note": "MUDr. Mgr. Špitálníková neordinuje. Zástup MUDr. Nejedlý, Poliklinika Chotěboř 06:30-12:00 hod.",
-        "_id": "6a7f00d5cf9b1a6888051234"
-      },
-      {
-        "day": {
-          "m_o": "0600",
           "a_c": "1200"
         },
         "date": "19082026",
         "closed": false,
         "note": "MUDr. Mgr. Špitálníková neordinuje. Zástup MUDr. Nejedlý, Poliklinika Chotěboř 06:30-12:00 hod.",
         "_id": "6a7f00eccf9b1a68880518fe"
-      },
-      {
-        "day": {
-          "m_o": "1000",
-          "a_c": "1430"
-        },
-        "date": "18082026",
-        "closed": false,
-        "note": "MUDr. Mgr. Špitálníková neordinuje. Zástup MUDr. Nejedlý, Poliklinika Chotěboř 06:30-12:00 hod.",
-        "_id": "6a7f00e1cf9b1a6888051599"
       },
       {
         "day": {
@@ -773,16 +727,6 @@
           "m_o": "1100",
           "a_c": "1800"
         },
-        "date": "17082026",
-        "closed": false,
-        "note": "MUDr. Mgr. Špitálníková neordinuje - dovolená.",
-        "_id": "6a7efbd3cf9b1a688804ff43"
-      },
-      {
-        "day": {
-          "m_o": "1100",
-          "a_c": "1800"
-        },
         "date": "24082026",
         "closed": false,
         "note": "MUDr. Mgr. Špitálníková neordinuje - dovolená.",
@@ -896,16 +840,6 @@
       {
         "day": {
           "m_o": "0700",
-          "a_c": "1200"
-        },
-        "date": "17082026",
-        "closed": false,
-        "note": "Neordinuje se - dovolená.",
-        "_id": "6a830958cf9b1a68880566ea"
-      },
-      {
-        "day": {
-          "m_o": "0700",
           "a_c": "1300"
         },
         "date": "21082026",
@@ -997,16 +931,6 @@
         "closed": false,
         "note": "MUDr. Mgr. Špitálníková neordinuje., v ord. bude přítomna sestra.",
         "_id": "6a687a1bd29fbe3379b4c1cb"
-      },
-      {
-        "day": {
-          "m_o": "1100",
-          "a_c": "1800"
-        },
-        "date": "17082026",
-        "closed": false,
-        "note": "MUDr. Mgr. Špitálníková neordinuje - dovolená.",
-        "_id": "6a7efbd3cf9b1a688804ff68"
       },
       {
         "day": {
@@ -1149,16 +1073,6 @@
     "irregular_changes": [
       {
         "day": {
-          "m_o": "1300",
-          "a_c": "1800"
-        },
-        "date": "18082026",
-        "closed": false,
-        "note": "Mimořádná ordinace - prof. MUDr. Pudil - ECHO.",
-        "_id": "6a7f0458cf9b1a6888052150"
-      },
-      {
-        "day": {
           "m_o": "0800",
           "a_c": "1700"
         },
@@ -1255,26 +1169,6 @@
       {
         "day": {
           "m_o": "0630",
-          "a_c": "1630"
-        },
-        "date": "17082026",
-        "closed": false,
-        "note": "MUDr. Králová neordinuje - dovolená. V ordinaci bude přítomna sestra.",
-        "_id": "6a6a014ad29fbe3379b537c5"
-      },
-      {
-        "day": {
-          "m_o": "0630",
-          "a_c": "1430"
-        },
-        "date": "18082026",
-        "closed": false,
-        "note": "MUDr. Králová neordinuje - dovolená. V ordinaci bude přítomna sestra.",
-        "_id": "6a6a0155d29fbe3379b53afb"
-      },
-      {
-        "day": {
-          "m_o": "0630",
           "a_c": "1430"
         },
         "date": "21082026",
@@ -1347,16 +1241,6 @@
       }
     },
     "irregular_changes": [
-      {
-        "day": {
-          "m_o": "0800",
-          "a_c": "1200"
-        },
-        "date": "17082026",
-        "closed": false,
-        "note": "Zavřeno - dovolená.",
-        "_id": "6a6a032cd29fbe3379b547ae"
-      },
       {
         "day": {
           "m_o": "0800",
@@ -1834,7 +1718,18 @@
         "note": ""
       }
     },
-    "irregular_changes": [],
+    "irregular_changes": [
+      {
+        "day": {
+          "m_o": "0700",
+          "a_c": "1300"
+        },
+        "date": "24082026",
+        "closed": false,
+        "note": "Neordinuje se - dovolená.",
+        "_id": "6a85449272c41770c3e53392"
+      }
+    ],
     "nurse": null,
     "phone": "+420 910 444 694",
     "email": "endohlinsko@sdamp.cz",
@@ -2026,28 +1921,7 @@
         "note": ""
       }
     },
-    "irregular_changes": [
-      {
-        "day": {
-          "m_o": "0700",
-          "a_c": "1530"
-        },
-        "date": "17082026",
-        "closed": false,
-        "note": "Neordinuje se - nemoc.",
-        "_id": "6a83090ccf9b1a688805601b"
-      },
-      {
-        "day": {
-          "m_o": "1100",
-          "a_c": "1700"
-        },
-        "date": "18082026",
-        "closed": false,
-        "note": "Neordinuje se - nemoc.",
-        "_id": "6a830919cf9b1a6888056359"
-      }
-    ],
+    "irregular_changes": [],
     "nurse": "Jana Bílá",
     "phone": "+420 910 444 695",
     "email": "osteohlinsko@sdamp.cz",
@@ -2795,26 +2669,6 @@
       }
     },
     "irregular_changes": [
-      {
-        "day": {
-          "m_o": "0615",
-          "a_c": "1330"
-        },
-        "date": "17082026",
-        "closed": false,
-        "note": "Fyzioterapie M.Topinková - neordinuje se - dovolená.",
-        "_id": "6a7ef4bacf9b1a688804dcb6"
-      },
-      {
-        "day": {
-          "m_o": "0615",
-          "a_c": "1715"
-        },
-        "date": "18082026",
-        "closed": false,
-        "note": "Fyzioterapie M.Topinková - neordinuje se - dovolená.",
-        "_id": "6a7ef4c8cf9b1a688804dfdf"
-      },
       {
         "day": {
           "m_o": "0615",
