@@ -206,16 +206,6 @@
     "irregular_changes": [
       {
         "day": {
-          "m_o": "1500",
-          "a_c": "1900"
-        },
-        "date": "20082026",
-        "closed": false,
-        "note": "MUDr. Mgr. Špitálníková neordinuje., v ord. bude sestra. Zástup: MUDr. Dufek Vilémov 7-12 h.,  MUDr. Nejedlý, Poliklinika Chotěboř 6:30-12 h.",
-        "_id": "6a688357d29fbe3379b4d547"
-      },
-      {
-        "day": {
           "m_o": "0600",
           "a_c": "1430"
         },
@@ -406,16 +396,6 @@
       {
         "day": {
           "m_o": "0600",
-          "a_c": "1200"
-        },
-        "date": "19082026",
-        "closed": false,
-        "note": "MUDr. Mgr. Špitálníková neordinuje. Zástup MUDr. Nejedlý, Poliklinika Chotěboř 06:30-12:00 hod.",
-        "_id": "6a7f00eccf9b1a68880518fe"
-      },
-      {
-        "day": {
-          "m_o": "0600",
           "a_c": "1430"
         },
         "date": "24082026",
@@ -442,16 +422,6 @@
         "closed": false,
         "note": "MUDr. Mgr. Špitálníková neordinuje. Zástup MUDr. Nejedlý, Poliklinika Chotěboř 06:30-12:00 hod.",
         "_id": "6a7f0622cf9b1a6888052fc6"
-      },
-      {
-        "day": {
-          "m_o": "0600",
-          "a_c": "1430"
-        },
-        "date": "20082026",
-        "closed": false,
-        "note": "MUDr. Mgr. Špitálníková neordinuje. Zástup MUDr. Nejedlý, Poliklinika Chotěboř 06:30-12:00 hod.",
-        "_id": "6a7f0250cf9b1a6888051d31"
       },
       {
         "day": {
@@ -553,16 +523,6 @@
       {
         "day": {
           "m_o": "0700",
-          "a_c": "1300"
-        },
-        "date": "20082026",
-        "closed": false,
-        "note": "Neordinuje se - dovolená.",
-        "_id": "6a854c2872c41770c3e55103"
-      },
-      {
-        "day": {
-          "m_o": "0700",
           "a_c": "1530"
         },
         "date": "21082026",
@@ -635,16 +595,6 @@
       }
     },
     "irregular_changes": [
-      {
-        "day": {
-          "m_o": "0700",
-          "a_c": "1300"
-        },
-        "date": "20082026",
-        "closed": false,
-        "note": "Neordinuje se - dovolená.",
-        "_id": "6a854c2872c41770c3e55133"
-      },
       {
         "day": {
           "m_o": "0700",
@@ -789,16 +739,6 @@
           "m_o": "0600",
           "a_c": "1500"
         },
-        "date": "20082026",
-        "closed": false,
-        "note": "MUDr. Mgr. Špitálníková neordinuje - dovolená.",
-        "_id": "6a7efddbcf9b1a6888050a89"
-      },
-      {
-        "day": {
-          "m_o": "0600",
-          "a_c": "1500"
-        },
         "date": "27082026",
         "closed": false,
         "note": "MUDr. Mgr. Špitálníková neordinuje., v ord. bude přítomna sestra.",
@@ -879,16 +819,6 @@
       }
     },
     "irregular_changes": [
-      {
-        "day": {
-          "m_o": "0700",
-          "a_c": "1300"
-        },
-        "date": "19082026",
-        "closed": false,
-        "note": "Neordinuje se - dovolená.",
-        "_id": "6a7ee475cf9b1a688804b92e"
-      },
       {
         "day": {
           "m_o": "0700",
@@ -994,16 +924,6 @@
       }
     },
     "irregular_changes": [
-      {
-        "day": {
-          "m_o": "0600",
-          "a_c": "1500"
-        },
-        "date": "20082026",
-        "closed": false,
-        "note": "MUDr. Mgr. Špitálníková neordinuje - dovolená.",
-        "_id": "6a7efddbcf9b1a6888050aae"
-      },
       {
         "day": {
           "m_o": "0600",
@@ -1233,16 +1153,6 @@
           "m_o": "0700",
           "a_c": "1500"
         },
-        "date": "19082026",
-        "closed": false,
-        "note": "Neurologie Chotěboř - zavřeno. Zdr. sestra ordinuje v ambulanci v Hlinsku.",
-        "_id": "6a671076219801af6104d91e"
-      },
-      {
-        "day": {
-          "m_o": "0700",
-          "a_c": "1500"
-        },
         "date": "26082026",
         "closed": false,
         "note": "Neurologie Chotěboř - zavřeno. Zdr. sestra ordinuje v ambulanci v Hlinsku.",
@@ -1467,16 +1377,6 @@
           "m_o": "0700",
           "a_c": "1300"
         },
-        "date": "20082026",
-        "closed": false,
-        "note": "Neordinuje se - dovolená.",
-        "_id": "6a7ee48ecf9b1a688804bc50"
-      },
-      {
-        "day": {
-          "m_o": "0700",
-          "a_c": "1300"
-        },
         "date": "21082026",
         "closed": false,
         "note": "Neordinuje se - dovolená.",
@@ -1636,16 +1536,6 @@
           "m_o": "1300",
           "a_c": "1900"
         },
-        "date": "19082026",
-        "closed": false,
-        "note": "MUDr. Špitálníková - neordinuje. Zástup MUDr. Pavlišová 08:00-12:00. Sestra v ordinaci 07:00-15:00.",
-        "_id": "6a7b32cb9012de399fb44be0"
-      },
-      {
-        "day": {
-          "m_o": "1300",
-          "a_c": "1900"
-        },
         "date": "26082026",
         "closed": false,
         "note": "MUDr. Špitálníková - neordinuje. Zástup MUDr. Pavlišová 08:00-12:00. Sestra v ordinaci 07:00-15:00.",
@@ -1716,16 +1606,6 @@
       }
     },
     "irregular_changes": [
-      {
-        "day": {
-          "m_o": "1300",
-          "a_c": "1900"
-        },
-        "date": "19082026",
-        "closed": false,
-        "note": "MUDr. Špitálníková - neordinuje. Zástup MUDr. Pavlišová 08:00-12:00. Sestra v ordinaci 07:00-15:00.",
-        "_id": "6a7b32cb9012de399fb44c04"
-      },
       {
         "day": {
           "m_o": "1300",
@@ -2455,16 +2335,6 @@
       {
         "day": {
           "m_o": "0600",
-          "a_c": "1200"
-        },
-        "date": "20082026",
-        "closed": false,
-        "note": "MUDr. Mgr. Špitálníková neordinuje., v ord. bude sestra. Zástup MUDr. Nejedlý, Poliklinika Chotěboř 06:30-12:00",
-        "_id": "6a6879c0d29fbe3379b4be60"
-      },
-      {
-        "day": {
-          "m_o": "0600",
           "a_c": "1500"
         },
         "date": "27082026",
@@ -2751,26 +2621,6 @@
       }
     },
     "irregular_changes": [
-      {
-        "day": {
-          "m_o": "0615",
-          "a_c": "1530"
-        },
-        "date": "19082026",
-        "closed": false,
-        "note": "Fyzioterapie M.Topinková - neordinuje se - dovolená.",
-        "_id": "6a7ef4d9cf9b1a688804e307"
-      },
-      {
-        "day": {
-          "m_o": "0615",
-          "a_c": "1330"
-        },
-        "date": "20082026",
-        "closed": false,
-        "note": "Fyzioterapie M.Topinková - neordinuje se - dovolená.",
-        "_id": "6a7ef4e4cf9b1a688804e630"
-      },
       {
         "day": {
           "m_o": "0615",
