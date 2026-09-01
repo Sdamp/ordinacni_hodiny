@@ -323,13 +323,13 @@
     "irregular_changes": [
       {
         "day": {
-          "m_o": "1000",
-          "a_c": "1230"
+          "m_o": "0600",
+          "a_c": "1700"
         },
         "date": "01092026",
         "closed": false,
-        "note": "Dnes ordinuje MUDr. Doležalová 10:00-12:00 (pouze pro akutní případy).",
-        "_id": "6a9686cac427341b5105364f"
+        "note": "Dnes ordinuje MUDr. Doležalová 10:00-12:00 (pouze pro akutní případy). MUDr. Mgr. Špitálníková ordinuje 12:30-17:00.",
+        "_id": "6a968776c427341b51053d07"
       }
     ],
     "nurse": "Jaroslava Černíková",
