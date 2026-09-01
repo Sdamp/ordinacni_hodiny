@@ -324,12 +324,12 @@
       {
         "day": {
           "m_o": "1000",
-          "a_c": "1630"
+          "a_c": "1230"
         },
         "date": "01092026",
         "closed": false,
-        "note": "10 - 12 akutní případy, 14 -16:30 objednaní pacienti",
-        "_id": "6a8d743ef92e912d7dc6c0b7"
+        "note": "Dnes ordinuje MUDr. Doležalová 10:00-12:00 (pouze pro akutní případy).",
+        "_id": "6a9686cac427341b5105364f"
       }
     ],
     "nurse": "Jaroslava Černíková",
