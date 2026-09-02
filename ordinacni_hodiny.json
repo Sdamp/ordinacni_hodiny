@@ -320,18 +320,7 @@
         "note": ""
       }
     },
-    "irregular_changes": [
-      {
-        "day": {
-          "m_o": "0600",
-          "a_c": "1700"
-        },
-        "date": "01092026",
-        "closed": false,
-        "note": "Dnes ordinuje MUDr. Doležalová 10:00-12:00 (pouze pro akutní případy). MUDr. Mgr. Špitálníková ordinuje 12:30-17:00.",
-        "_id": "6a968776c427341b51053d07"
-      }
-    ],
+    "irregular_changes": [],
     "nurse": "Jaroslava Černíková",
     "phone": "+420 910444688, +420 910 444 698, +420 569 333 548",
     "email": "endochotebor@sdamp.cz",
@@ -673,18 +662,7 @@
         "note": ""
       }
     },
-    "irregular_changes": [
-      {
-        "day": {
-          "m_o": "0800",
-          "a_c": "1200"
-        },
-        "date": "01092026",
-        "closed": false,
-        "note": "Neordinuje se - dovolená.",
-        "_id": "6a9598928c27a1eac2245277"
-      }
-    ],
+    "irregular_changes": [],
     "nurse": "Eva Dvořáková, Dis",
     "phone": "+420 910 444 689",
     "email": "osteochotebor@sdamp.cz",
@@ -1622,18 +1600,7 @@
         "note": ""
       }
     },
-    "irregular_changes": [
-      {
-        "day": {
-          "m_o": "1100",
-          "a_c": "1700"
-        },
-        "date": "01092026",
-        "closed": false,
-        "note": "Neordinuje se - dovolená.",
-        "_id": "6a9599358c27a1eac224574f"
-      }
-    ],
+    "irregular_changes": [],
     "nurse": "Jana Bílá",
     "phone": "+420 910 444 695",
     "email": "osteohlinsko@sdamp.cz",
@@ -2299,12 +2266,12 @@
       {
         "day": {
           "m_o": "0615",
-          "a_c": "1700"
+          "a_c": "1215"
         },
-        "date": "01092026",
+        "date": "02092026",
         "closed": false,
-        "note": "1.9.2026 se z provozních důvodů neordinuje.",
-        "_id": "6a951d5f08f9286685ccc9a2"
+        "note": "Neordinuje se - dovolená.",
+        "_id": "6a97b172c940ee64121c7da3"
       }
     ],
     "nurse": "Mgr. Dana Šamořilová",
