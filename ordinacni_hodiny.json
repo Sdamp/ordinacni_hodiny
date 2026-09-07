@@ -330,6 +330,16 @@
         "closed": false,
         "note": "MUDr. Zvolánková",
         "_id": "6a9ac0e324595f80b96a7d9e"
+      },
+      {
+        "day": {
+          "m_o": "1500",
+          "a_c": "1700"
+        },
+        "date": "08092026",
+        "closed": false,
+        "note": "Ordinuje MUDr. Doležalová",
+        "_id": "6a9ed07d5094af0390f6ec30"
       }
     ],
     "nurse": "Jaroslava Černíková",
