@@ -1259,6 +1259,16 @@
         "closed": false,
         "note": "MUDr. Málková neordinuje. V ordinaci bude přítomna zdravotní sestra.",
         "_id": "6a9685fec427341b51053169"
+      },
+      {
+        "day": {
+          "m_o": "0700",
+          "a_c": "1130"
+        },
+        "date": "07092026",
+        "closed": false,
+        "note": "Ordinuje MUDr. Mgr. Špitálníková, Ph.D.",
+        "_id": "6a9ecd46facb2e2cbe9093fe"
       }
     ],
     "nurse": "Martina Piskačová",
@@ -1334,6 +1344,16 @@
         "closed": false,
         "note": "MUDr. Málková neordinuje. V ordinaci bude přítomna zdravotní sestra.",
         "_id": "6a9685fec427341b51053190"
+      },
+      {
+        "day": {
+          "m_o": "0700",
+          "a_c": "1130"
+        },
+        "date": "07092026",
+        "closed": false,
+        "note": "Ordinuje MUDr. Mgr. Špitálníková, Ph.D.",
+        "_id": "6a9ecd46facb2e2cbe909427"
       }
     ],
     "nurse": "Martina Piskačová",
