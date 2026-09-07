@@ -2371,13 +2371,13 @@
       }
     },
     "irregular_changes": [],
-    "nurse": null,
-    "phone": null,
-    "email": null,
+    "nurse": "",
+    "phone": "",
+    "email": "",
     "note": "",
     "color": [
-      "#000000",
-      "#FFFFFF"
+      "#d75d9e",
+      "#000000"
     ]
   }
 ]
