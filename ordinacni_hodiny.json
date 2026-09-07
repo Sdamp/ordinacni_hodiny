@@ -1244,16 +1244,6 @@
           "m_o": "0700",
           "a_c": "1200"
         },
-        "date": "04092026",
-        "closed": false,
-        "note": "MUDr. Málková neordinuje. Zástup MUDr. Zvolánková 08:00-12:00 (ve stejné ordinaci).",
-        "_id": "6a97bbefc940ee64121c8cf8"
-      },
-      {
-        "day": {
-          "m_o": "0700",
-          "a_c": "1200"
-        },
         "date": "11092026",
         "closed": false,
         "note": "MUDr. Málková neordinuje. V ordinaci bude přítomna zdravotní sestra.",
@@ -1324,16 +1314,6 @@
       }
     },
     "irregular_changes": [
-      {
-        "day": {
-          "m_o": "0700",
-          "a_c": "1200"
-        },
-        "date": "04092026",
-        "closed": false,
-        "note": "MUDr. Málková neordinuje.  Zástup MUDr. Zvolánková 08:00-12:00 (ve stejné ordinaci). ",
-        "_id": "6a97bb85c940ee64121c89ba"
-      },
       {
         "day": {
           "m_o": "0700",
@@ -2334,6 +2314,28 @@
     "color": [
       "#009d7b",
       "#ffffff"
+    ]
+  },
+  {
+    "town": "Chotěboř",
+    "office": "Mcentrum",
+    "regular_hours": {
+      "mon": {},
+      "tue": {},
+      "wed": {},
+      "thu": {},
+      "fri": {},
+      "sat": {},
+      "sun": {}
+    },
+    "irregular_changes": [],
+    "nurse": null,
+    "phone": null,
+    "email": null,
+    "note": "",
+    "color": [
+      "#000000",
+      "#FFFFFF"
     ]
   }
 ]
