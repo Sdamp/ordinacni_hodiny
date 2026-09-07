@@ -181,7 +181,18 @@
         "note": ""
       }
     },
-    "irregular_changes": [],
+    "irregular_changes": [
+      {
+        "day": {
+          "m_o": "1200",
+          "a_c": "1400"
+        },
+        "date": "07092026",
+        "closed": false,
+        "note": "Dnes - sestra v ordinaci 12:00-14:00",
+        "_id": "6a9ecf385094af0390f6e6ac"
+      }
+    ],
     "nurse": "",
     "phone": "",
     "email": "",
@@ -2348,7 +2359,18 @@
         "note": ""
       }
     },
-    "irregular_changes": [],
+    "irregular_changes": [
+      {
+        "day": {
+          "m_o": "0615",
+          "a_c": "1330"
+        },
+        "date": "07092026",
+        "closed": false,
+        "note": "Dnes se neordinuje - zavřeno.",
+        "_id": "6a9ece69facb2e2cbe909cbd"
+      }
+    ],
     "nurse": "Martina Topinková DiS.",
     "phone": "608 454 336",
     "email": "fyziochotebor@sdamp.cz",
