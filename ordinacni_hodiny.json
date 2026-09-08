@@ -928,6 +928,16 @@
         "closed": false,
         "note": "Dnes se z provozních důvodů neordinuje.",
         "_id": "6a9f9f8b1237d480479d0951"
+      },
+      {
+        "day": {
+          "m_o": "0800",
+          "a_c": "1300"
+        },
+        "date": "17092026",
+        "closed": false,
+        "note": "Dnes se z provozních důvodů neordinuje.",
+        "_id": "6a9f9f9d1237d480479d0cf2"
       }
     ],
     "nurse": "Pavla Málková",
