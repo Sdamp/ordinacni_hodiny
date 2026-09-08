@@ -191,6 +191,16 @@
         "closed": false,
         "note": "MUDr. Mgr. Špitálníková neordinuje., sestra v ordinaci 7:00-14:00. Zástup: MUDr. Dufek Vilémov 7:00-12:00",
         "_id": "6aa00e43e08891f19388f65f"
+      },
+      {
+        "day": {
+          "m_o": "0630",
+          "a_c": "1400"
+        },
+        "date": "11092026",
+        "closed": false,
+        "note": "Sestra v ordinaci 7:00-11:00",
+        "_id": "6aa00ebde08891f19388fb75"
       }
     ],
     "nurse": "",
