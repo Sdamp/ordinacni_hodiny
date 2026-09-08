@@ -181,18 +181,7 @@
         "note": ""
       }
     },
-    "irregular_changes": [
-      {
-        "day": {
-          "m_o": "1200",
-          "a_c": "1400"
-        },
-        "date": "07092026",
-        "closed": false,
-        "note": "Dnes - sestra v ordinaci 12:00-14:00",
-        "_id": "6a9ecf385094af0390f6e6ac"
-      }
-    ],
+    "irregular_changes": [],
     "nurse": "",
     "phone": "",
     "email": "",
@@ -321,16 +310,6 @@
       }
     },
     "irregular_changes": [
-      {
-        "day": {
-          "m_o": "0800",
-          "a_c": "1400"
-        },
-        "date": "07092026",
-        "closed": false,
-        "note": "MUDr. Zvolánková",
-        "_id": "6a9ac0e324595f80b96a7d9e"
-      },
       {
         "day": {
           "m_o": "1500",
@@ -942,13 +921,13 @@
     "irregular_changes": [
       {
         "day": {
-          "m_o": "0630",
-          "a_c": "1630"
+          "m_o": "0700",
+          "a_c": "1500"
         },
-        "date": "07092026",
+        "date": "16092026",
         "closed": false,
-        "note": "MUDr. Králová neordinuje. V ordinaci bude zdravotní sestra.",
-        "_id": "6a9ecbf9facb2e2cbe9087ff"
+        "note": "Dnes se z provozních důvodů neordinuje.",
+        "_id": "6a9f9f8b1237d480479d0951"
       }
     ],
     "nurse": "Pavla Málková",
@@ -1280,16 +1259,6 @@
         "closed": false,
         "note": "MUDr. Málková neordinuje. V ordinaci bude přítomna zdravotní sestra.",
         "_id": "6a9685fec427341b51053169"
-      },
-      {
-        "day": {
-          "m_o": "0700",
-          "a_c": "1130"
-        },
-        "date": "07092026",
-        "closed": false,
-        "note": "Ordinuje MUDr. Mgr. Špitálníková, Ph.D.",
-        "_id": "6a9ecd46facb2e2cbe9093fe"
       }
     ],
     "nurse": "Martina Piskačová",
@@ -1365,16 +1334,6 @@
         "closed": false,
         "note": "MUDr. Málková neordinuje. V ordinaci bude přítomna zdravotní sestra.",
         "_id": "6a9685fec427341b51053190"
-      },
-      {
-        "day": {
-          "m_o": "0700",
-          "a_c": "1130"
-        },
-        "date": "07092026",
-        "closed": false,
-        "note": "Ordinuje MUDr. Mgr. Špitálníková, Ph.D.",
-        "_id": "6a9ecd46facb2e2cbe909427"
       }
     ],
     "nurse": "Martina Piskačová",
@@ -2016,18 +1975,7 @@
         "note": ""
       }
     },
-    "irregular_changes": [
-      {
-        "day": {
-          "m_o": "0800",
-          "a_c": "1200"
-        },
-        "date": "07092026",
-        "closed": false,
-        "note": "Dnes se neordinuje.",
-        "_id": "6a9ece28facb2e2cbe9098a0"
-      }
-    ],
+    "irregular_changes": [],
     "nurse": "Eva Zelená",
     "phone": "+420 569 697 123",
     "email": "vplkrucemburk@sdamp.cz",
@@ -2369,18 +2317,7 @@
         "note": ""
       }
     },
-    "irregular_changes": [
-      {
-        "day": {
-          "m_o": "0615",
-          "a_c": "1330"
-        },
-        "date": "07092026",
-        "closed": false,
-        "note": "Dnes se neordinuje - zavřeno.",
-        "_id": "6a9ece69facb2e2cbe909cbd"
-      }
-    ],
+    "irregular_changes": [],
     "nurse": "Martina Topinková DiS.",
     "phone": "608 454 336",
     "email": "fyziochotebor@sdamp.cz",
