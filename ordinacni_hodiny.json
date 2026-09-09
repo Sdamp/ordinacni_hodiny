@@ -330,18 +330,7 @@
         "note": ""
       }
     },
-    "irregular_changes": [
-      {
-        "day": {
-          "m_o": "1500",
-          "a_c": "1700"
-        },
-        "date": "08092026",
-        "closed": false,
-        "note": "Ordinuje MUDr. Doležalová",
-        "_id": "6a9ed07d5094af0390f6ec30"
-      }
-    ],
+    "irregular_changes": [],
     "nurse": "Jaroslava Černíková",
     "phone": "+420 910444688, +420 910 444 698, +420 569 333 548",
     "email": "endochotebor@sdamp.cz",
@@ -619,7 +608,18 @@
         "note": ""
       }
     },
-    "irregular_changes": [],
+    "irregular_changes": [
+      {
+        "day": {
+          "m_o": "0600",
+          "a_c": "1500"
+        },
+        "date": "10092026",
+        "closed": false,
+        "note": "MUDr. Mgr. Špitálníková neordinuje. Zástup MUDr. Nejedlý, Poliklinika Chotěboř 06:30-12:00 hod. V ordinaci bude zdr. sestra.",
+        "_id": "6aa0f9a4e08891f193890e6f"
+      }
+    ],
     "nurse": "Markéta Špitálníková",
     "phone": "+420 910 444 688",
     "email": "endochotebor@sdamp.cz",
@@ -747,7 +747,18 @@
         "note": ""
       }
     },
-    "irregular_changes": [],
+    "irregular_changes": [
+      {
+        "day": {
+          "m_o": "0600",
+          "a_c": "1500"
+        },
+        "date": "10092026",
+        "closed": false,
+        "note": "MUDr. Mgr. Špitálníková neordinuje. Zástup MUDr. Nejedlý, Poliklinika Chotěboř 06:30-12:00 hod. V ordinaci bude zdr. sestra.",
+        "_id": "6aa0f9a4e08891f193890e94"
+      }
+    ],
     "nurse": "Markéta Špitálníková",
     "phone": "+420 910 444 688",
     "email": "endochotebor@sdamp.cz",
