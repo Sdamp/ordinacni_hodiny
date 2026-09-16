@@ -181,28 +181,7 @@
         "note": ""
       }
     },
-    "irregular_changes": [
-      {
-        "day": {
-          "m_o": "1500",
-          "a_c": "1900"
-        },
-        "date": "10092026",
-        "closed": false,
-        "note": "MUDr. Mgr. Špitálníková neordinuje., sestra v ordinaci 7:00-14:00. Zástup: MUDr. Dufek Vilémov 7:00-12:00",
-        "_id": "6aa00e43e08891f19388f65f"
-      },
-      {
-        "day": {
-          "m_o": "0630",
-          "a_c": "1400"
-        },
-        "date": "11092026",
-        "closed": false,
-        "note": "Sestra v ordinaci 7:00-11:00",
-        "_id": "6aa00ebde08891f19388fb75"
-      }
-    ],
+    "irregular_changes": [],
     "nurse": "",
     "phone": "",
     "email": "",
@@ -330,18 +309,7 @@
         "note": ""
       }
     },
-    "irregular_changes": [
-      {
-        "day": {
-          "m_o": "0600",
-          "a_c": "1430"
-        },
-        "date": "10092026",
-        "closed": false,
-        "note": "MUDr. Mgr. Špitálníková neordinuje. Zástup MUDr. Nejedlý, Poliklinika Chotěboř 06:30-12:00 hod. V ordinaci bude zdrav. sestra.",
-        "_id": "6aa0f9f7e08891f1938912b8"
-      }
-    ],
+    "irregular_changes": [],
     "nurse": "Jaroslava Černíková",
     "phone": "+420 910444688, +420 910 444 698, +420 569 333 548",
     "email": "endochotebor@sdamp.cz",
@@ -619,18 +587,7 @@
         "note": ""
       }
     },
-    "irregular_changes": [
-      {
-        "day": {
-          "m_o": "0600",
-          "a_c": "1500"
-        },
-        "date": "10092026",
-        "closed": false,
-        "note": "MUDr. Mgr. Špitálníková neordinuje. Zástup MUDr. Nejedlý, Poliklinika Chotěboř 06:30-12:00 hod. V ordinaci bude zdr. sestra.",
-        "_id": "6aa0f9a4e08891f193890e6f"
-      }
-    ],
+    "irregular_changes": [],
     "nurse": "Markéta Špitálníková",
     "phone": "+420 910 444 688",
     "email": "endochotebor@sdamp.cz",
@@ -758,18 +715,7 @@
         "note": ""
       }
     },
-    "irregular_changes": [
-      {
-        "day": {
-          "m_o": "0600",
-          "a_c": "1500"
-        },
-        "date": "10092026",
-        "closed": false,
-        "note": "MUDr. Mgr. Špitálníková neordinuje. Zástup MUDr. Nejedlý, Poliklinika Chotěboř 06:30-12:00 hod. V ordinaci bude zdr. sestra.",
-        "_id": "6aa0f9a4e08891f193890e94"
-      }
-    ],
+    "irregular_changes": [],
     "nurse": "Markéta Špitálníková",
     "phone": "+420 910 444 688",
     "email": "endochotebor@sdamp.cz",
@@ -1302,28 +1248,7 @@
         "note": ""
       }
     },
-    "irregular_changes": [
-      {
-        "day": {
-          "m_o": "0700",
-          "a_c": "1200"
-        },
-        "date": "11092026",
-        "closed": false,
-        "note": "MUDr. Málková neordinuje. V ordinaci bude přítomna zdravotní sestra.",
-        "_id": "6a9685fec427341b51053169"
-      },
-      {
-        "day": {
-          "m_o": "1300",
-          "a_c": "1900"
-        },
-        "date": "09092026",
-        "closed": false,
-        "note": "MUDr. Špitálníková - neordinuje. Sestra v ordinaci 07:00-15:00, zástup MUDr. Pavlišová  08:00-12:00",
-        "_id": "6aa00fe7e08891f19388ff2f"
-      }
-    ],
+    "irregular_changes": [],
     "nurse": "Martina Piskačová",
     "phone": "+420 910 444 694",
     "email": "endohlinsko@sdamp.cz",
@@ -1387,28 +1312,7 @@
         "note": ""
       }
     },
-    "irregular_changes": [
-      {
-        "day": {
-          "m_o": "0700",
-          "a_c": "1200"
-        },
-        "date": "11092026",
-        "closed": false,
-        "note": "MUDr. Málková neordinuje. V ordinaci bude přítomna zdravotní sestra.",
-        "_id": "6a9685fec427341b51053190"
-      },
-      {
-        "day": {
-          "m_o": "1300",
-          "a_c": "1900"
-        },
-        "date": "09092026",
-        "closed": false,
-        "note": "MUDr. Špitálníková - neordinuje. Sestra v ordinaci 07:00-15:00, zástup MUDr. Pavlišová  08:00-12:00",
-        "_id": "6aa00fe7e08891f19388ff58"
-      }
-    ],
+    "irregular_changes": [],
     "nurse": "Martina Piskačová",
     "phone": "+420 910 444 694",
     "email": "endohlinsko@sdamp.cz",
@@ -1856,18 +1760,7 @@
         "note": ""
       }
     },
-    "irregular_changes": [
-      {
-        "day": {
-          "m_o": "1300",
-          "a_c": "1900"
-        },
-        "date": "09092026",
-        "closed": false,
-        "note": "MUDr. Špitálníková - neordinuje. Sestra v ordinaci 07:00-15:00, zástup MUDr. Pavlišová  08:00-12:00",
-        "_id": "6aa00fe7e08891f19388ff6d"
-      }
-    ],
+    "irregular_changes": [],
     "nurse": null,
     "phone": "+420 910 444 694",
     "email": "endohlinsko@sdamp.cz",
