@@ -907,28 +907,7 @@
         "note": ""
       }
     },
-    "irregular_changes": [
-      {
-        "day": {
-          "m_o": "0700",
-          "a_c": "1500"
-        },
-        "date": "16092026",
-        "closed": false,
-        "note": "Dnes se z provozních důvodů neordinuje.",
-        "_id": "6a9f9f8b1237d480479d0951"
-      },
-      {
-        "day": {
-          "m_o": "0800",
-          "a_c": "1300"
-        },
-        "date": "17092026",
-        "closed": false,
-        "note": "Dnes se z provozních důvodů neordinuje.",
-        "_id": "6a9f9f9d1237d480479d0cf2"
-      }
-    ],
+    "irregular_changes": [],
     "nurse": "Pavla Málková",
     "phone": "+420 910 444 692",
     "email": "neurochotebor@sdamp.cz",
@@ -1952,7 +1931,18 @@
         "note": ""
       }
     },
-    "irregular_changes": [],
+    "irregular_changes": [
+      {
+        "day": {
+          "m_o": "1100",
+          "a_c": "1300"
+        },
+        "date": "18092026",
+        "closed": false,
+        "note": "MUDr. Turinský neordinuje - dovolená. Sestra v ordinaci 11:00-12:00.",
+        "_id": "6aad2a4b4ed83e652b44b432"
+      }
+    ],
     "nurse": "Eva Zelená",
     "phone": "+420 569 697 123",
     "email": "vplkrucemburk@sdamp.cz",
