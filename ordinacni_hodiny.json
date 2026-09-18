@@ -2006,7 +2006,18 @@
         "note": ""
       }
     },
-    "irregular_changes": [],
+    "irregular_changes": [
+      {
+        "day": {
+          "m_o": "0700",
+          "a_c": "1000"
+        },
+        "date": "18092026",
+        "closed": false,
+        "note": "MUDr. Turinský neordinuje - dovolená. Sestra v ordinaci 06:00-10:00.",
+        "_id": "6aad2adb4ed83e652b44b92f"
+      }
+    ],
     "nurse": null,
     "phone": null,
     "email": null,
