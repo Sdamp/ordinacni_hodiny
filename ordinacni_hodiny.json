@@ -2401,5 +2401,27 @@
       "#d75d9e",
       "#000000"
     ]
+  },
+  {
+    "town": "Chotěboř-Mcentrum",
+    "office": "EMS",
+    "regular_hours": {
+      "mon": {},
+      "tue": {},
+      "wed": {},
+      "thu": {},
+      "fri": {},
+      "sat": {},
+      "sun": {}
+    },
+    "irregular_changes": [],
+    "nurse": null,
+    "phone": null,
+    "email": null,
+    "note": "",
+    "color": [
+      "#000000",
+      "#FFFFFF"
+    ]
   }
 ]
