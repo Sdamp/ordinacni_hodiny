@@ -1227,7 +1227,18 @@
         "note": ""
       }
     },
-    "irregular_changes": [],
+    "irregular_changes": [
+      {
+        "day": {
+          "m_o": "1300",
+          "a_c": "1900"
+        },
+        "date": "30092026",
+        "closed": false,
+        "note": "MUDr. Mgr. Špitálníková neordinuje.  Dopoledne ordinuje MUDr. Málek Josef. ",
+        "_id": "6ab674fbb8ce0d6cac85e602"
+      }
+    ],
     "nurse": "Martina Piskačová",
     "phone": "+420 910 444 694",
     "email": "endohlinsko@sdamp.cz",
@@ -1291,7 +1302,18 @@
         "note": ""
       }
     },
-    "irregular_changes": [],
+    "irregular_changes": [
+      {
+        "day": {
+          "m_o": "1300",
+          "a_c": "1900"
+        },
+        "date": "30092026",
+        "closed": false,
+        "note": "MUDr. Mgr. Špitálníková neordinuje.  Dopoledne ordinuje MUDr. Málek Josef. ",
+        "_id": "6ab674fbb8ce0d6cac85e62d"
+      }
+    ],
     "nurse": "Martina Piskačová",
     "phone": "+420 910 444 694",
     "email": "endohlinsko@sdamp.cz",
