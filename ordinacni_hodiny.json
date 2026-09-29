@@ -201,6 +201,16 @@
         "closed": false,
         "note": "Dnes sestra v ordinaci. Lékař - zástup: MUDr. Zvolánková, Poliklinika Chotěboř, 8:00-11:30 hod.",
         "_id": "6abb5c21f3bbedb25d05a66d"
+      },
+      {
+        "day": {
+          "m_o": "1200",
+          "a_c": "1500"
+        },
+        "date": "01102026",
+        "closed": false,
+        "note": "MUDr. Mgr. Špitálníková neordinuje. V ord. bude do 13:00 sestra. Zástup MUDr. Nejedlý, Poliklinika Chotěboř 06:30-12:00 hod.",
+        "_id": "6abb5d19f3bbedb25d05aa80"
       }
     ],
     "nurse": "",
