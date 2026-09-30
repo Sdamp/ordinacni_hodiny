@@ -184,16 +184,6 @@
     "irregular_changes": [
       {
         "day": {
-          "m_o": "0600",
-          "a_c": "1200"
-        },
-        "date": "29092026",
-        "closed": false,
-        "note": "MUDr. Mgr. Špitálníková neordinuje., v ord. bude sestra. Zástup MUDr. Nejedlý, Poliklinika Chotěboř 06:30-12:00 hod.",
-        "_id": "6abb5b5cf3bbedb25d05a236"
-      },
-      {
-        "day": {
           "m_o": "0630",
           "a_c": "1400"
         },
@@ -343,16 +333,6 @@
     "irregular_changes": [
       {
         "day": {
-          "m_o": "1230",
-          "a_c": "1900"
-        },
-        "date": "29092026",
-        "closed": false,
-        "note": "MUDr. Mgr. Špitálníková neordinuje., v ord. bude sestra. Zástup MUDr. Nejedlý, Poliklinika Chotěboř 06:30-12:00 hod.",
-        "_id": "6ab67a6bb8ce0d6cac85fc9f"
-      },
-      {
-        "day": {
           "m_o": "0600",
           "a_c": "1200"
         },
@@ -360,6 +340,16 @@
         "closed": false,
         "note": "Dnes ordinuje MUDr. Anežka Zvolánková 08:00-11:30",
         "_id": "6ab68022b8ce0d6cac86130c"
+      },
+      {
+        "day": {
+          "m_o": "0600",
+          "a_c": "1430"
+        },
+        "date": "01102026",
+        "closed": false,
+        "note": "Dnes se z provozních důvodů neordinuje. Zástup: MUDr. Nejedlý, Poliklinika Chotěboř",
+        "_id": "6abd2a984f0bd7397427a5a9"
       }
     ],
     "nurse": "Jaroslava Černíková",
@@ -2390,18 +2380,7 @@
         "note": ""
       }
     },
-    "irregular_changes": [
-      {
-        "day": {
-          "m_o": "0615",
-          "a_c": "1715"
-        },
-        "date": "29092026",
-        "closed": false,
-        "note": "FYZIO  M. Topinková neordinuje.",
-        "_id": "6aaa2d111b4652f2c596a29b"
-      }
-    ],
+    "irregular_changes": [],
     "nurse": "Martina Topinková DiS.",
     "phone": "608 454 336",
     "email": "fyziochotebor@sdamp.cz",
