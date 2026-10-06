@@ -330,6 +330,16 @@
         "closed": false,
         "note": "MUDr. Mgr. Špitálníková dnes neordinuje - nemoc. Sestra v ordinaci 07:00-16:00 (akutní případy 12:30-14:30).",
         "_id": "6ac4b88552b9be89cfd5bbfb"
+      },
+      {
+        "day": {
+          "m_o": "0600",
+          "a_c": "1200"
+        },
+        "date": "07102026",
+        "closed": false,
+        "note": "MUDr. Mgr. Špitálníková - neordinuje, nemoc. Zástup: MUDr. Zvolánková (stejná ordinace) 08:00-10:00. Sestra v ordinaci 07:00-15:00.",
+        "_id": "6ac4b97152b9be89cfd5c044"
       }
     ],
     "nurse": "Jaroslava Černíková",
