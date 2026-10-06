@@ -1388,7 +1388,18 @@
         "note": ""
       }
     },
-    "irregular_changes": [],
+    "irregular_changes": [
+      {
+        "day": {
+          "m_o": "0700",
+          "a_c": "1300"
+        },
+        "date": "12102026",
+        "closed": false,
+        "note": "MUDr. Málek Josef - neordinuje, dovolená. Zástup: MUDr. Pavlišová, Adámkova tř., Hlinsko. V ordinaci bude přítomna sestra 07:00-15:30",
+        "_id": "6ac4b5c752b9be89cfd5b0e4"
+      }
+    ],
     "nurse": null,
     "phone": "+420 910 444 694",
     "email": "endohlinsko@sdamp.cz",
