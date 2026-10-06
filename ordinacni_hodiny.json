@@ -320,7 +320,18 @@
         "note": ""
       }
     },
-    "irregular_changes": [],
+    "irregular_changes": [
+      {
+        "day": {
+          "m_o": "1230",
+          "a_c": "1900"
+        },
+        "date": "06102026",
+        "closed": false,
+        "note": "MUDr. Mgr. Špitálníková dnes neordinuje - nemoc. Sestra v ordinaci 07:00-16:00 (akutní případy 12:30-14:30).",
+        "_id": "6ac4b88552b9be89cfd5bbfb"
+      }
+    ],
     "nurse": "Jaroslava Černíková",
     "phone": "+420 910444688, +420 910 444 698, +420 569 333 548",
     "email": "endochotebor@sdamp.cz",
