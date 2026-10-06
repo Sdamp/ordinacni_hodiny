@@ -982,18 +982,7 @@
         "note": ""
       }
     },
-    "irregular_changes": [
-      {
-        "day": {
-          "m_o": "0800",
-          "a_c": "1200"
-        },
-        "date": "05102026",
-        "closed": false,
-        "note": "Dnes se neordinuje - nemoc.",
-        "_id": "6ac3323f52b9be89cfd58fda"
-      }
-    ],
+    "irregular_changes": [],
     "nurse": "Bc. Kateřina Bílková",
     "phone": "+420 733 650 679",
     "email": "nutri@sdamp.cz",
@@ -1249,7 +1238,18 @@
         "note": ""
       }
     },
-    "irregular_changes": [],
+    "irregular_changes": [
+      {
+        "day": {
+          "m_o": "1300",
+          "a_c": "1900"
+        },
+        "date": "07102026",
+        "closed": false,
+        "note": "Sestra v ordinaci 07:00-15:30, Lékař: MUDr. Mgr. Špitálníková - neordinuje, nemoc. Zástup MUDr. Pavlišová, Adámkova tř. 149, Hlinsko",
+        "_id": "6ac4b29352b9be89cfd5aaae"
+      }
+    ],
     "nurse": "Martina Piskačová",
     "phone": "+420 910 444 694",
     "email": "endohlinsko@sdamp.cz",
@@ -1313,7 +1313,18 @@
         "note": ""
       }
     },
-    "irregular_changes": [],
+    "irregular_changes": [
+      {
+        "day": {
+          "m_o": "1300",
+          "a_c": "1900"
+        },
+        "date": "07102026",
+        "closed": false,
+        "note": "Sestra v ordinaci 07:00-15:30, Lékař: MUDr. Mgr. Špitálníková - neordinuje, nemoc. Zástup MUDr. Pavlišová, Adámkova tř. 149, Hlinsko",
+        "_id": "6ac4b29352b9be89cfd5aadc"
+      }
+    ],
     "nurse": "Martina Piskačová",
     "phone": "+420 910 444 694",
     "email": "endohlinsko@sdamp.cz",
