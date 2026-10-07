@@ -181,18 +181,7 @@
         "note": ""
       }
     },
-    "irregular_changes": [
-      {
-        "day": {
-          "m_o": "0600",
-          "a_c": "1400"
-        },
-        "date": "06102026",
-        "closed": false,
-        "note": "MUDr. Mgr. Špitálníková neordinuje - nemoc. Zástup: MUDr. Dufek, Vilémov 07:00-12:00. V ordinaci bude přítomna sestra 06:00-14:00.",
-        "_id": "6ac3905752b9be89cfd597b4"
-      }
-    ],
+    "irregular_changes": [],
     "nurse": "",
     "phone": "",
     "email": "",
@@ -321,16 +310,6 @@
       }
     },
     "irregular_changes": [
-      {
-        "day": {
-          "m_o": "1230",
-          "a_c": "1900"
-        },
-        "date": "06102026",
-        "closed": false,
-        "note": "MUDr. Mgr. Špitálníková dnes neordinuje - nemoc. Sestra v ordinaci 07:00-16:00 (akutní případy 12:30-14:30).",
-        "_id": "6ac4b88552b9be89cfd5bbfb"
-      },
       {
         "day": {
           "m_o": "0600",
@@ -2274,7 +2253,18 @@
         "note": ""
       }
     },
-    "irregular_changes": [],
+    "irregular_changes": [
+      {
+        "day": {
+          "m_o": "0615",
+          "a_c": "1215"
+        },
+        "date": "07102026",
+        "closed": false,
+        "note": "Dnes se neordinuje. Ordinace přesunuta na pátek 9.10.2026.",
+        "_id": "6ac5d5a82cd6687cf5780883"
+      }
+    ],
     "nurse": "Mgr. Dana Šamořilová",
     "phone": "+420 910 444 699",
     "email": "sportlekchotebor@sdamp.cz",
