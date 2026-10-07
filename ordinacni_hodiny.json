@@ -2263,6 +2263,16 @@
         "closed": false,
         "note": "Dnes se neordinuje. Ordinace přesunuta na pátek 9.10.2026.",
         "_id": "6ac5d5a82cd6687cf5780883"
+      },
+      {
+        "day": {
+          "m_o": "0615",
+          "a_c": "1215"
+        },
+        "date": "09102026",
+        "closed": false,
+        "note": "Mgr. Šamořilová - dnes ordinace od 6:15 do 12:15 hod.",
+        "_id": "6ac5db162cd6687cf5780cc5"
       }
     ],
     "nurse": "Mgr. Dana Šamořilová",
