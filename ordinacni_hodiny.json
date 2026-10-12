@@ -1705,21 +1705,21 @@
         "m_c": "",
         "a_o": "",
         "a_c": "1300",
-        "note": "interní pacienti"
+        "note": "interní pacienti, akutní případy 10:00 - 12:00"
       },
       "tue": {
         "m_o": "0700",
         "m_c": "",
         "a_o": "",
         "a_c": "1200",
-        "note": "pouze objednaní"
+        "note": "pouze objednaní, akutní případy 10:00 - 12:00"
       },
       "wed": {
         "m_o": "1230",
         "m_c": "",
         "a_o": "",
         "a_c": "1900",
-        "note": ""
+        "note": "Akutní případy 13:00 - 15:00"
       },
       "thu": {
         "m_o": "0700",
