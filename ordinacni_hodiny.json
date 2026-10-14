@@ -181,7 +181,18 @@
         "note": ""
       }
     },
-    "irregular_changes": [],
+    "irregular_changes": [
+      {
+        "day": {
+          "m_o": "0630",
+          "a_c": "1400"
+        },
+        "date": "14102026",
+        "closed": false,
+        "note": "Z provozních důvodů se neordinuje.",
+        "_id": "6acf335df5e766bd894581ff"
+      }
+    ],
     "nurse": "",
     "phone": "",
     "email": "",
