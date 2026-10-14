@@ -1567,6 +1567,16 @@
         "closed": false,
         "note": "Neordinuje se - dovolená.",
         "_id": "6acf1505f5e766bd89457453"
+      },
+      {
+        "day": {
+          "m_o": "0700",
+          "a_c": "1200"
+        },
+        "date": "16102026",
+        "closed": false,
+        "note": "Neordinuje se - dovolená.",
+        "_id": "6acf1514f5e766bd894577f0"
       }
     ],
     "nurse": "Jana Bílá",
