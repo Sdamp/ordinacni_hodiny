@@ -191,6 +191,16 @@
         "closed": false,
         "note": "Z provozních důvodů se neordinuje.",
         "_id": "6acf335df5e766bd894581ff"
+      },
+      {
+        "day": {
+          "m_o": "1500",
+          "a_c": "1900"
+        },
+        "date": "15102026",
+        "closed": false,
+        "note": "Ordinace od 15:00-19:00 hod.",
+        "_id": "6acf3420f5e766bd894585d6"
       }
     ],
     "nurse": "",
