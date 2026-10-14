@@ -201,6 +201,16 @@
         "closed": false,
         "note": "Ordinace od 15:00-19:00 hod.",
         "_id": "6acf3420f5e766bd894585d6"
+      },
+      {
+        "day": {
+          "m_o": "0630",
+          "a_c": "1400"
+        },
+        "date": "16102026",
+        "closed": false,
+        "note": "Z provozních důvodů se neordinuje.",
+        "_id": "6acf3434f5e766bd894589ab"
       }
     ],
     "nurse": "",
