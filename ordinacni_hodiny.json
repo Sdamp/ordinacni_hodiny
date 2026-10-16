@@ -1985,6 +1985,16 @@
         "closed": false,
         "note": "MUDr. Moravcová Kotyzová neordinuje - dovolená. V ordinaci bude přítomna sestra 06:00-12:00.",
         "_id": "6ad1e8d64db52214f445b465"
+      },
+      {
+        "day": {
+          "m_o": "0730",
+          "a_c": "1030"
+        },
+        "date": "22102026",
+        "closed": false,
+        "note": "MUDr. Moravcová Kotyzová neordinuje - dovolená. V ordinaci bude přítomna sestra 06:00-12:00.",
+        "_id": "6ad1ea614db52214f445bc26"
       }
     ],
     "nurse": "Eva Zelená",
