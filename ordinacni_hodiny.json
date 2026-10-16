@@ -1975,7 +1975,18 @@
         "note": ""
       }
     },
-    "irregular_changes": [],
+    "irregular_changes": [
+      {
+        "day": {
+          "m_o": "0730",
+          "a_c": "1200"
+        },
+        "date": "20102026",
+        "closed": false,
+        "note": "MUDr. Moravcová Kotyzová neordinuje - dovolená. V ordinaci bude přítomna sestra 06:00-12:00.",
+        "_id": "6ad1e8d64db52214f445b465"
+      }
+    ],
     "nurse": "Eva Zelená",
     "phone": "+420 569 697 123",
     "email": "vplkrucemburk@sdamp.cz",
