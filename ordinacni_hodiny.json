@@ -68,10 +68,10 @@
     "office": "Tělovýchovné lékařství",
     "regular_hours": {
       "mon": {
-        "m_o": "1200",
+        "m_o": "0800",
         "m_c": "",
         "a_o": "",
-        "a_c": "1600",
+        "a_c": "1200",
         "note": ""
       },
       "tue": {
