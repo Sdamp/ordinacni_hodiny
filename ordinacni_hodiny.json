@@ -629,7 +629,18 @@
         "note": ""
       }
     },
-    "irregular_changes": [],
+    "irregular_changes": [
+      {
+        "day": {
+          "m_o": "1100",
+          "a_c": "1800"
+        },
+        "date": "26102026",
+        "closed": false,
+        "note": "MUDr. Mgr. Špitálníková neordinuje. Zástup MUDr. Nejedlý, Poliklinika Chotěboř 06:30-12:00 hod. Sestra v ordinaci",
+        "_id": "6adb412b9c2acc8526cc6b9b"
+      }
+    ],
     "nurse": "Markéta Špitálníková",
     "phone": "+420 910 444 688",
     "email": "endochotebor@sdamp.cz",
@@ -757,7 +768,18 @@
         "note": ""
       }
     },
-    "irregular_changes": [],
+    "irregular_changes": [
+      {
+        "day": {
+          "m_o": "1100",
+          "a_c": "1800"
+        },
+        "date": "26102026",
+        "closed": false,
+        "note": "MUDr. Mgr. Špitálníková neordinuje. Zástup MUDr. Nejedlý, Poliklinika Chotěboř 06:30-12:00 hod. Sestra v ordinaci",
+        "_id": "6adb412b9c2acc8526cc6bc5"
+      }
+    ],
     "nurse": "Markéta Špitálníková",
     "phone": "+420 910 444 688",
     "email": "endochotebor@sdamp.cz",
