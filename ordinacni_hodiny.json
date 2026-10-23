@@ -651,18 +651,7 @@
         "note": ""
       }
     },
-    "irregular_changes": [
-      {
-        "day": {
-          "m_o": "0800",
-          "a_c": "1300"
-        },
-        "date": "22102026",
-        "closed": false,
-        "note": "Z provozních důvodů se neordinuje.",
-        "_id": "6ad1d94b4db52214f445a819"
-      }
-    ],
+    "irregular_changes": [],
     "nurse": "Eva Dvořáková, Dis",
     "phone": "+420 910 444 689",
     "email": "osteochotebor@sdamp.cz",
@@ -1110,18 +1099,7 @@
         "note": ""
       }
     },
-    "irregular_changes": [
-      {
-        "day": {
-          "m_o": "0700",
-          "a_c": "1300"
-        },
-        "date": "22102026",
-        "closed": false,
-        "note": "Z provozních důvodů se neordinuje.",
-        "_id": "6ad1d95a4db52214f445abbe"
-      }
-    ],
+    "irregular_changes": [],
     "nurse": "Eva Dvořáková, Dis",
     "phone": "",
     "email": "podiachotebor@sdamp.cz",
@@ -1954,26 +1932,6 @@
       }
     },
     "irregular_changes": [
-      {
-        "day": {
-          "m_o": "0730",
-          "a_c": "1200"
-        },
-        "date": "20102026",
-        "closed": false,
-        "note": "MUDr. Moravcová Kotyzová neordinuje - dovolená. V ordinaci bude přítomna sestra 06:00-12:00.",
-        "_id": "6ad1e8d64db52214f445b465"
-      },
-      {
-        "day": {
-          "m_o": "0730",
-          "a_c": "1030"
-        },
-        "date": "22102026",
-        "closed": false,
-        "note": "MUDr. Moravcová Kotyzová neordinuje - dovolená. V ordinaci bude přítomna sestra 06:00-12:00.",
-        "_id": "6ad1ea614db52214f445bc26"
-      },
       {
         "day": {
           "m_o": "0730",
