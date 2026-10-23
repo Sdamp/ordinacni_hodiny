@@ -191,6 +191,16 @@
         "closed": false,
         "note": "Lékař neordinuje - Zástup MUDr. Doležalová, Poliklinika Chotěboř, Sestra v ordinaci 6:30-14:00.",
         "_id": "6adb3a33f36e6619507588f1"
+      },
+      {
+        "day": {
+          "m_o": "1500",
+          "a_c": "1900"
+        },
+        "date": "29102026",
+        "closed": false,
+        "note": "Lékař neordinuje - Zástup MUDr. Nejedlý, Poliklinika Chotěboř, Sestra v ordinaci 6:30-14:00.",
+        "_id": "6adb3afef36e661950758cfb"
       }
     ],
     "nurse": "",
