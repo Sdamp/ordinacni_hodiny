@@ -340,6 +340,16 @@
         "closed": false,
         "note": "Lékař neordinuje - Zástup MUDr. Nejedlý, Poliklinika Chotěboř, Sestra v ordinaci 6:30-14:30.",
         "_id": "6adb3d6ff36e661950759c27"
+      },
+      {
+        "day": {
+          "m_o": "1230",
+          "a_c": "1900"
+        },
+        "date": "27102026",
+        "closed": false,
+        "note": "MUDr. Špitálníková neordinuje - Zástup MUDr. Doležalová (stejná ordinace) Poliklinika Chotěboř , 15:00-17:00. Sestra v ordinaci 6:30-17:00.",
+        "_id": "6adb3e7cf36e66195075a0a5"
       }
     ],
     "nurse": "Jaroslava Černíková",
