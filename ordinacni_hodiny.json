@@ -330,7 +330,18 @@
         "note": ""
       }
     },
-    "irregular_changes": [],
+    "irregular_changes": [
+      {
+        "day": {
+          "m_o": "0600",
+          "a_c": "1200"
+        },
+        "date": "26102026",
+        "closed": false,
+        "note": "Lékař neordinuje - Zástup MUDr. Nejedlý, Poliklinika Chotěboř, Sestra v ordinaci 6:30-14:30.",
+        "_id": "6adb3d6ff36e661950759c27"
+      }
+    ],
     "nurse": "Jaroslava Černíková",
     "phone": "+420 910444688, +420 910 444 698, +420 569 333 548",
     "email": "endochotebor@sdamp.cz",
