@@ -2070,6 +2070,16 @@
         "closed": false,
         "note": "MUDr. Turinský neordinuje - nemoc. Sestra v ordinaci 07:00-10:00.",
         "_id": "6aec4451ced4702e48a2340b"
+      },
+      {
+        "day": {
+          "m_o": "0700",
+          "a_c": "1000"
+        },
+        "date": "13112026",
+        "closed": false,
+        "note": "MUDr. Turinský neordinuje - nemoc. Sestra v ordinaci 07:00-10:00.",
+        "_id": "6aec44d9ced4702e48a23937"
       }
     ],
     "nurse": null,
