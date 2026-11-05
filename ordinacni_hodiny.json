@@ -649,6 +649,16 @@
         "closed": false,
         "note": "MUDr. Mgr. Špitálníková neordinuje., v ord. bude sestra. Zástup MUDr. Doležalová, Poliklinika Chotěboř 15:00-17:00 hod.",
         "_id": "6aec3a55ced4702e48a21206"
+      },
+      {
+        "day": {
+          "m_o": "1100",
+          "a_c": "1800"
+        },
+        "date": "09112026",
+        "closed": false,
+        "note": "MUDr. Mgr. Špitálníková neordinuje.  V ordinaci bude sestra. Zástup MUDr. Nejedlý, Poliklinika Chotěboř 06:30-12:00 hod. ",
+        "_id": "6aec4e3fced4702e48a291c5"
       }
     ],
     "nurse": "Markéta Špitálníková",
@@ -788,6 +798,16 @@
         "closed": false,
         "note": "MUDr. Mgr. Špitálníková neordinuje. V ord. bude sestra. Zástup Poliklinika Chotěboř,MUDr. Zvolánková 08:00-12:00, MUDr. Doležalová, 15:00-17:00 hod.",
         "_id": "6aec4d68ced4702e48a28dd2"
+      },
+      {
+        "day": {
+          "m_o": "1100",
+          "a_c": "1800"
+        },
+        "date": "09112026",
+        "closed": false,
+        "note": "MUDr. Mgr. Špitálníková neordinuje.  V ordinaci bude sestra. Zástup MUDr. Nejedlý, Poliklinika Chotěboř 06:30-12:00 hod. ",
+        "_id": "6aec4e3fced4702e48a291f3"
       }
     ],
     "nurse": "Markéta Špitálníková",
