@@ -547,6 +547,16 @@
         "closed": false,
         "note": "Omlouváme se, dnes se z provozních důvodů neordinuje. Děkujeme za pochopení",
         "_id": "6aec6a619cc0fcf22780f1c4"
+      },
+      {
+        "day": {
+          "m_o": "0700",
+          "a_c": "1530"
+        },
+        "date": "13112026",
+        "closed": false,
+        "note": "MUDr. Mgr. Špitálníková neordinuje., v ordinaci bude zdravotní sestra. ",
+        "_id": "6aec6aae9cc0fcf22780f63d"
       }
     ],
     "nurse": "Vendulka Beranová",
@@ -622,6 +632,16 @@
         "closed": false,
         "note": "Omlouváme se, dnes se z provozních důvodů neordinuje. Děkujeme za pochopení",
         "_id": "6aec6a619cc0fcf22780f1f8"
+      },
+      {
+        "day": {
+          "m_o": "0700",
+          "a_c": "1530"
+        },
+        "date": "13112026",
+        "closed": false,
+        "note": "MUDr. Mgr. Špitálníková neordinuje., v ordinaci bude zdravotní sestra. ",
+        "_id": "6aec6aae9cc0fcf22780f671"
       }
     ],
     "nurse": "Vendulka Beranová",
