@@ -463,18 +463,7 @@
       "sat": {},
       "sun": {}
     },
-    "irregular_changes": [
-      {
-        "day": {
-          "m_o": "0630",
-          "a_c": "1445"
-        },
-        "date": "06112026",
-        "closed": false,
-        "note": "Fyzioterapeutka Sára Brabcová 6.11. neordinuje - dovolená.",
-        "_id": "6aec5e9a9cc0fcf22780c1bb"
-      }
-    ],
+    "irregular_changes": [],
     "nurse": "Mgr. Dana Šamořilová",
     "phone": "+420 910 444 699",
     "email": "sportlekchotebor@sdamp.cz",
