@@ -430,6 +430,16 @@
         "closed": false,
         "note": "MUDr. Mgr. Špitálníková neordinuje., v ord. bude sestra. Zástup (ve stejné ordinaci) MUDr. Zvolánková 08:00-12:00 hod.",
         "_id": "6aec563cced4702e48a2d368"
+      },
+      {
+        "day": {
+          "m_o": "0600",
+          "a_c": "1430"
+        },
+        "date": "26112026",
+        "closed": false,
+        "note": "Dnes a každý další čtvrtek bude ordinovat MUDr. Zvolánková Anežka 08:00-12:00 hod.",
+        "_id": "6aec5b6cced4702e48a2e8b6"
       }
     ],
     "nurse": "Jaroslava Černíková",
