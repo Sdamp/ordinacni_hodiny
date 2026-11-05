@@ -201,6 +201,16 @@
         "closed": false,
         "note": "MUDr. Mgr. Špitálníková neordinuje., v ord. bude sestra. Zástup MUDr. Doležalová, Poliklinika Chotěboř 15:00-17:00 hod.",
         "_id": "6aec4568ced4702e48a23e63"
+      },
+      {
+        "day": {
+          "m_o": "1500",
+          "a_c": "1900"
+        },
+        "date": "12112026",
+        "closed": false,
+        "note": "MUDr. Mgr. Špitálníková neordinuje., v ord. bude sestra. Zástup MUDr. Doležalová, Poliklinika Chotěboř 15:00-17:00 hod.",
+        "_id": "6aec457bced4702e48a2426a"
       }
     ],
     "nurse": "",
