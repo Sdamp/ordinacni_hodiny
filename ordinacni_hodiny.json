@@ -221,6 +221,16 @@
         "closed": false,
         "note": "Dnes bude sestra v ordinaci pouze do 9:00 hod.",
         "_id": "6aec63179cc0fcf22780d778"
+      },
+      {
+        "day": {
+          "m_o": "0630",
+          "a_c": "1400"
+        },
+        "date": "11112026",
+        "closed": false,
+        "note": "Ordinace uzavřena - neordinuje se.  Zástup Poliklinika Chotěboř, MUDr. Nejedlý  06:30-12:00",
+        "_id": "6aedae773cb6b33950ebd0f6"
       }
     ],
     "nurse": "",
