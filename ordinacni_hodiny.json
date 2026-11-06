@@ -184,23 +184,13 @@
     "irregular_changes": [
       {
         "day": {
-          "m_o": "1500",
-          "a_c": "1900"
-        },
-        "date": "05112026",
-        "closed": false,
-        "note": "MUDr. Mgr. Špitálníková neordinuje. Zástup Poliklinika Chotěboř  MUDr. Zvolánková 08:00-12:00, MUDr. Doležalová, 15:00-17:00 hod.",
-        "_id": "6aec4b8bced4702e48a2770b"
-      },
-      {
-        "day": {
           "m_o": "0600",
           "a_c": "1200"
         },
         "date": "10112026",
         "closed": false,
-        "note": "MUDr. Mgr. Špitálníková neordinuje. Zástup Poliklinika Chotěboř,  MUDr. Doležalová, 15:00-17:00 hod.",
-        "_id": "6aec4bc7ced4702e48a27af6"
+        "note": "Ordinace bude uzavřena.  Zástup Poliklinika Chotěboř,  MUDr. Doležalová, 15:00-17:00 hod.",
+        "_id": "6aedada43cb6b33950ebcce5"
       },
       {
         "day": {
@@ -361,16 +351,6 @@
       }
     },
     "irregular_changes": [
-      {
-        "day": {
-          "m_o": "0600",
-          "a_c": "1700"
-        },
-        "date": "05112026",
-        "closed": false,
-        "note": "Dnes ordinuje MUDr. Zvolánková Anežka 08:00-12:00, MUDr. Doležalová Aneta15:00-17:00.",
-        "_id": "6aec51baced4702e48a2aedb"
-      },
       {
         "day": {
           "m_o": "0600",
@@ -794,16 +774,6 @@
     "irregular_changes": [
       {
         "day": {
-          "m_o": "0600",
-          "a_c": "1500"
-        },
-        "date": "05112026",
-        "closed": false,
-        "note": "MUDr. Mgr. Špitálníková neordinuje., v ord. bude sestra. Zástup MUDr. Doležalová, Poliklinika Chotěboř 15:00-17:00 hod.",
-        "_id": "6aec3a55ced4702e48a21206"
-      },
-      {
-        "day": {
           "m_o": "1100",
           "a_c": "1800"
         },
@@ -973,16 +943,6 @@
     "irregular_changes": [
       {
         "day": {
-          "m_o": "0600",
-          "a_c": "1500"
-        },
-        "date": "05112026",
-        "closed": false,
-        "note": "MUDr. Mgr. Špitálníková neordinuje. V ord. bude sestra. Zástup Poliklinika Chotěboř,MUDr. Zvolánková 08:00-12:00, MUDr. Doležalová, 15:00-17:00 hod.",
-        "_id": "6aec4d68ced4702e48a28dd2"
-      },
-      {
-        "day": {
           "m_o": "1100",
           "a_c": "1800"
         },
@@ -1085,18 +1045,7 @@
         "note": ""
       }
     },
-    "irregular_changes": [
-      {
-        "day": {
-          "m_o": "0830",
-          "a_c": "1430"
-        },
-        "date": "05112026",
-        "closed": false,
-        "note": "Fyzioterapeutka Sára Brabcová dnes neordinuje - dovolená.",
-        "_id": "6aec61389cc0fcf22780ceca"
-      }
-    ],
+    "irregular_changes": [],
     "nurse": "Mgr. Lucie Pradáčová",
     "phone": "+420 910 444 691, +420 910 444 699",
     "email": "sportlekchotebor@sdamp.cz",
@@ -2813,18 +2762,7 @@
         "note": ""
       }
     },
-    "irregular_changes": [
-      {
-        "day": {
-          "m_o": "0830",
-          "a_c": "1430"
-        },
-        "date": "05112026",
-        "closed": false,
-        "note": "Dnes se neordinuje - dovolená.",
-        "_id": "6aec5e1fced4702e48a2fc72"
-      }
-    ],
+    "irregular_changes": [],
     "nurse": "",
     "phone": "",
     "email": "",
