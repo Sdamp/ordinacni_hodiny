@@ -1095,6 +1095,16 @@
         "closed": false,
         "note": "MUDr. Králová neordinuje - nemoc. Sestra v ordinaci 06:30-14:30.",
         "_id": "6af6fa62d664c619dff9de5f"
+      },
+      {
+        "day": {
+          "m_o": "0630",
+          "a_c": "1430"
+        },
+        "date": "20112026",
+        "closed": false,
+        "note": "MUDr. Králová neordinuje - nemoc. Sestra v ordinaci 06:30-14:30.",
+        "_id": "6af6fa8cd664c619dff9e2d4"
       }
     ],
     "nurse": "Pavla Málková",
