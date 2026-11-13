@@ -776,7 +776,18 @@
         "note": ""
       }
     },
-    "irregular_changes": [],
+    "irregular_changes": [
+      {
+        "day": {
+          "m_o": "0700",
+          "a_c": "1300"
+        },
+        "date": "16112026",
+        "closed": false,
+        "note": "Dnes se z provozních důvodů neordinuje - dovolená.",
+        "_id": "6af6f0bfd664c619dff9a706"
+      }
+    ],
     "nurse": "Eva Dvořáková, Dis",
     "phone": "+420 910 444 689",
     "email": "osteochotebor@sdamp.cz",
