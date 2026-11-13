@@ -2131,6 +2131,16 @@
         "closed": false,
         "note": "MUDr. Turinský neordinuje - nemoc. Sestra v ordinaci 11:00-13:00.",
         "_id": "6aec437dced4702e48a22f93"
+      },
+      {
+        "day": {
+          "m_o": "1100",
+          "a_c": "1300"
+        },
+        "date": "20112026",
+        "closed": false,
+        "note": "MUDr. Turinský neordinuje - nemoc. Sestra v ordinaci 11:00-13:00",
+        "_id": "6af6f654d664c619dff9c3ba"
       }
     ],
     "nurse": "Eva Zelená",
