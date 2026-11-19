@@ -435,8 +435,8 @@
         },
         "date": "20112026",
         "closed": false,
-        "note": "MUDr. Mgr. Špitálníková neordinuje., v ordinaci bude zdravotní sestra. ",
-        "_id": "6aec6b2f9cc0fcf22780faa1"
+        "note": "Sestra v ordinaci až od 14:00 hod.",
+        "_id": "6aff02e1c357bf47e8fb03c5"
       }
     ],
     "nurse": "Vendulka Beranová",
@@ -510,8 +510,8 @@
         },
         "date": "20112026",
         "closed": false,
-        "note": "MUDr. Mgr. Špitálníková neordinuje., v ordinaci bude zdravotní sestra. ",
-        "_id": "6aec6b309cc0fcf22780fad7"
+        "note": "Sestra v ordinaci až od 14:00 hod.",
+        "_id": "6aff02e1c357bf47e8fb03fc"
       }
     ],
     "nurse": "Vendulka Beranová",
