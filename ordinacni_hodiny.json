@@ -1418,7 +1418,18 @@
         "note": ""
       }
     },
-    "irregular_changes": [],
+    "irregular_changes": [
+      {
+        "day": {
+          "m_o": "0700",
+          "a_c": "1500"
+        },
+        "date": "26112026",
+        "closed": false,
+        "note": "MUDr. Machač-Pullerová neordinuje. V ordinaci bude přítomna zdr. sestra.",
+        "_id": "6afeb0a7c357bf47e8faf224"
+      }
+    ],
     "nurse": "Martina Piskačová",
     "phone": "+420 910 444 694",
     "email": "endohlinsko@sdamp.cz",
@@ -1482,7 +1493,18 @@
         "note": ""
       }
     },
-    "irregular_changes": [],
+    "irregular_changes": [
+      {
+        "day": {
+          "m_o": "0700",
+          "a_c": "1500"
+        },
+        "date": "26112026",
+        "closed": false,
+        "note": "MUDr. Machač-Pullerová neordinuje. V ordinaci bude přítomna zdr. sestra.",
+        "_id": "6afeb0a7c357bf47e8faf246"
+      }
+    ],
     "nurse": null,
     "phone": "+420 910 444 694",
     "email": "endohlinsko@sdamp.cz",
