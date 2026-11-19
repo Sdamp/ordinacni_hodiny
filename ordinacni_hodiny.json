@@ -117,18 +117,7 @@
         "note": ""
       }
     },
-    "irregular_changes": [
-      {
-        "day": {
-          "m_o": "1100",
-          "a_c": "1500"
-        },
-        "date": "16112026",
-        "closed": false,
-        "note": "Dnes se z provozních důvodů neordinuje - dovolená.",
-        "_id": "6af6f1efd664c619dff9ab5a"
-      }
-    ],
+    "irregular_changes": [],
     "nurse": "",
     "phone": "",
     "email": "",
@@ -202,16 +191,6 @@
         "closed": false,
         "note": "MUDr. Mgr. Špitálníková neordinuje.  V ordinaci bude přítomna sestra. Zástup Poliklinika Chotěboř,  MUDr. Zvolánková 08:00-12:00.",
         "_id": "6aedb0383cb6b33950ebeda2"
-      },
-      {
-        "day": {
-          "m_o": "0630",
-          "a_c": "1300"
-        },
-        "date": "13112026",
-        "closed": false,
-        "note": "Bude ordinovat MUDr. Gajdošová.",
-        "_id": "6af1c9889b7d8f5178262dd1"
       }
     ],
     "nurse": "",
@@ -345,26 +324,6 @@
       {
         "day": {
           "m_o": "0600",
-          "a_c": "1200"
-        },
-        "date": "16112026",
-        "closed": false,
-        "note": "MUDr. Mgr. Špitálníková neordinuje., v ord. bude sestra. Zástup MUDr. Nejedlý, Poliklinika Chotěboř 06:30-12:00 hod.",
-        "_id": "6aec5573ced4702e48a2c891"
-      },
-      {
-        "day": {
-          "m_o": "0600",
-          "a_c": "1200"
-        },
-        "date": "18112026",
-        "closed": false,
-        "note": "MUDr. Mgr. Špitálníková neordinuje. V ordinaci bude sestra. Zástup MUDr. Nejedlý, Poliklinika Chotěboř 06:30-12:00 hod.",
-        "_id": "6aec55e3ced4702e48a2ce03"
-      },
-      {
-        "day": {
-          "m_o": "0600",
           "a_c": "1430"
         },
         "date": "19112026",
@@ -474,16 +433,6 @@
           "m_o": "0700",
           "a_c": "1530"
         },
-        "date": "13112026",
-        "closed": false,
-        "note": "MUDr. Mgr. Špitálníková neordinuje., v ordinaci bude zdravotní sestra. ",
-        "_id": "6aec6aae9cc0fcf22780f63d"
-      },
-      {
-        "day": {
-          "m_o": "0700",
-          "a_c": "1530"
-        },
         "date": "20112026",
         "closed": false,
         "note": "MUDr. Mgr. Špitálníková neordinuje., v ordinaci bude zdravotní sestra. ",
@@ -554,16 +503,6 @@
       }
     },
     "irregular_changes": [
-      {
-        "day": {
-          "m_o": "0700",
-          "a_c": "1530"
-        },
-        "date": "13112026",
-        "closed": false,
-        "note": "MUDr. Mgr. Špitálníková neordinuje., v ordinaci bude zdravotní sestra. ",
-        "_id": "6aec6aae9cc0fcf22780f671"
-      },
       {
         "day": {
           "m_o": "0700",
@@ -705,16 +644,6 @@
     "irregular_changes": [
       {
         "day": {
-          "m_o": "1100",
-          "a_c": "1800"
-        },
-        "date": "16112026",
-        "closed": false,
-        "note": "MUDr. Mgr. Špitálníková neordinuje. V ordinaci bude sestra. Zástup MUDr. Nejedlý, Poliklinika Chotěboř 06:30-12:00 hod.",
-        "_id": "6aec4f20ced4702e48a29c59"
-      },
-      {
-        "day": {
           "m_o": "0600",
           "a_c": "1500"
         },
@@ -787,18 +716,7 @@
         "note": ""
       }
     },
-    "irregular_changes": [
-      {
-        "day": {
-          "m_o": "0700",
-          "a_c": "1300"
-        },
-        "date": "16112026",
-        "closed": false,
-        "note": "Dnes se z provozních důvodů neordinuje - dovolená.",
-        "_id": "6af6f0bfd664c619dff9a706"
-      }
-    ],
+    "irregular_changes": [],
     "nurse": "Eva Dvořáková, Dis",
     "phone": "+420 910 444 689",
     "email": "osteochotebor@sdamp.cz",
@@ -863,16 +781,6 @@
       }
     },
     "irregular_changes": [
-      {
-        "day": {
-          "m_o": "1100",
-          "a_c": "1800"
-        },
-        "date": "16112026",
-        "closed": false,
-        "note": "MUDr. Mgr. Špitálníková neordinuje. V ordinaci bude sestra. Zástup MUDr. Nejedlý, Poliklinika Chotěboř 06:30-12:00 hod.",
-        "_id": "6aec4f20ced4702e48a29c88"
-      },
       {
         "day": {
           "m_o": "0600",
@@ -1076,26 +984,6 @@
       }
     },
     "irregular_changes": [
-      {
-        "day": {
-          "m_o": "0630",
-          "a_c": "1430"
-        },
-        "date": "13112026",
-        "closed": false,
-        "note": "MUDr. Králová neordinuje - nemoc. Sestra v ordinaci 06:30-14:30.",
-        "_id": "6af6fa3fd664c619dff9d9e2"
-      },
-      {
-        "day": {
-          "m_o": "0630",
-          "a_c": "1630"
-        },
-        "date": "16112026",
-        "closed": false,
-        "note": "MUDr. Králová neordinuje - nemoc. Sestra v ordinaci 06:30-14:30.",
-        "_id": "6af6fa62d664c619dff9de5f"
-      },
       {
         "day": {
           "m_o": "0630",
@@ -1466,18 +1354,7 @@
         "note": ""
       }
     },
-    "irregular_changes": [
-      {
-        "day": {
-          "m_o": "1300",
-          "a_c": "1900"
-        },
-        "date": "18112026",
-        "closed": false,
-        "note": "MUDr. Špitálníková - neordinuje. Zástup MUDr. Pavlišová 08:00-12:00. Sestra v ordinaci 07:00-15:00.",
-        "_id": "6aec4ab7ced4702e48a27147"
-      }
-    ],
+    "irregular_changes": [],
     "nurse": "Martina Piskačová",
     "phone": "+420 910 444 694",
     "email": "endohlinsko@sdamp.cz",
@@ -1541,18 +1418,7 @@
         "note": ""
       }
     },
-    "irregular_changes": [
-      {
-        "day": {
-          "m_o": "1300",
-          "a_c": "1900"
-        },
-        "date": "18112026",
-        "closed": false,
-        "note": "MUDr. Špitálníková - neordinuje. Zástup MUDr. Pavlišová 08:00-12:00. Sestra v ordinaci 07:00-15:00.",
-        "_id": "6aec4ab7ced4702e48a27177"
-      }
-    ],
+    "irregular_changes": [],
     "nurse": "Martina Piskačová",
     "phone": "+420 910 444 694",
     "email": "endohlinsko@sdamp.cz",
@@ -2198,16 +2064,6 @@
           "m_o": "1100",
           "a_c": "1300"
         },
-        "date": "13112026",
-        "closed": false,
-        "note": "MUDr. Turinský neordinuje - nemoc. Sestra v ordinaci 11:00-13:00.",
-        "_id": "6aec437dced4702e48a22f93"
-      },
-      {
-        "day": {
-          "m_o": "1100",
-          "a_c": "1300"
-        },
         "date": "20112026",
         "closed": false,
         "note": "MUDr. Turinský neordinuje - nemoc. Sestra v ordinaci 11:00-13:00",
@@ -2288,16 +2144,6 @@
       }
     },
     "irregular_changes": [
-      {
-        "day": {
-          "m_o": "0700",
-          "a_c": "1000"
-        },
-        "date": "13112026",
-        "closed": false,
-        "note": "MUDr. Turinský neordinuje - nemoc. Sestra v ordinaci 07:00-10:00.",
-        "_id": "6aec44d9ced4702e48a23937"
-      },
       {
         "day": {
           "m_o": "0700",
@@ -2532,18 +2378,7 @@
         "note": ""
       }
     },
-    "irregular_changes": [
-      {
-        "day": {
-          "m_o": "0830",
-          "a_c": "1430"
-        },
-        "date": "16112026",
-        "closed": false,
-        "note": "Neordinuje se - dovolená.",
-        "_id": "6af6ef25d664c619dff9a1f2"
-      }
-    ],
+    "irregular_changes": [],
     "nurse": "Mgr. Dana Šamořilová",
     "phone": "+420 910 444 699",
     "email": "sportlekchotebor@sdamp.cz",
