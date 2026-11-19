@@ -1568,7 +1568,18 @@
         "note": ""
       }
     },
-    "irregular_changes": [],
+    "irregular_changes": [
+      {
+        "day": {
+          "m_o": "0700",
+          "a_c": "1530"
+        },
+        "date": "19112026",
+        "closed": false,
+        "note": "Dnes bude nutriční poradna pouze do 14:45 hod.",
+        "_id": "6afeb21cc357bf47e8faf886"
+      }
+    ],
     "nurse": "Bc. Kateřina Bílková",
     "phone": "+420 793 943 934, +420 910 444 644",
     "email": "nutrihlinsko@sdamp.cu",
