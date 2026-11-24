@@ -672,6 +672,16 @@
         "closed": false,
         "note": "Z provozních důvodů se dnes neordinuje - poskytujeme ošetření v Senevida.",
         "_id": "6b055d1d3d13449efa60244a"
+      },
+      {
+        "day": {
+          "m_o": "0800",
+          "a_c": "1300"
+        },
+        "date": "24112026",
+        "closed": false,
+        "note": "Dnes se z provozních důvodů neordinuje.",
+        "_id": "6b055daa3d13449efa60288c"
       }
     ],
     "nurse": "Eva Dvořáková, Dis",
