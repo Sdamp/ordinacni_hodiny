@@ -1000,6 +1000,16 @@
         "closed": false,
         "note": "MUDr. Králová neordinuje - nemoc. Sestra v ordinaci 06:30-14:30.",
         "_id": "6af6fb65d664c619dff9f554"
+      },
+      {
+        "day": {
+          "m_o": "0700",
+          "a_c": "1400"
+        },
+        "date": "25112026",
+        "closed": false,
+        "note": "Dnes je zavřeno. Sestra ordinuje v ambulanci v Hlinsku.",
+        "_id": "6b0562b53d13449efa6042b3"
       }
     ],
     "nurse": "Pavla Málková",
