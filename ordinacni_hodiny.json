@@ -689,16 +689,6 @@
           "m_o": "0800",
           "a_c": "1300"
         },
-        "date": "24112026",
-        "closed": false,
-        "note": "Dnes se z provozních důvodů neordinuje.",
-        "_id": "6b055daa3d13449efa60288c"
-      },
-      {
-        "day": {
-          "m_o": "0800",
-          "a_c": "1300"
-        },
         "date": "26112026",
         "closed": false,
         "note": "Z provozních důvodů se neordinuje.",
@@ -971,16 +961,6 @@
       }
     },
     "irregular_changes": [
-      {
-        "day": {
-          "m_o": "0630",
-          "a_c": "1430"
-        },
-        "date": "24112026",
-        "closed": false,
-        "note": "Dnes je  zavřeno. Sestra ordinuje v ambulanci v Hlinsku.",
-        "_id": "6b0562243d13449efa603e00"
-      },
       {
         "day": {
           "m_o": "0630",
