@@ -2358,6 +2358,16 @@
         "closed": false,
         "note": "Z provozních důvodů se neordinuje.",
         "_id": "6b09704dfd4d112f0b288187"
+      },
+      {
+        "day": {
+          "m_o": "0615",
+          "a_c": "1345"
+        },
+        "date": "10122026",
+        "closed": false,
+        "note": "Z provozních důvodů se neordinuje.",
+        "_id": "6b097083fd4d112f0b2885a7"
       }
     ],
     "nurse": "Martina Topinková DiS.",
