@@ -2338,7 +2338,18 @@
         "note": ""
       }
     },
-    "irregular_changes": [],
+    "irregular_changes": [
+      {
+        "day": {
+          "m_o": "0615",
+          "a_c": "1545"
+        },
+        "date": "02122026",
+        "closed": false,
+        "note": "Z provozních důvodů se neordinuje.",
+        "_id": "6b097029fd4d112f0b287d68"
+      }
+    ],
     "nurse": "Martina Topinková DiS.",
     "phone": "608 454 336",
     "email": "fyziochotebor@sdamp.cz",
